@@ -9,7 +9,7 @@ Yet, they do put out a lot of content and the quality of the books between Bundl
 
 Ideally it will help potential HB customers make informed decisions about whether a Bundle is a good buy for them, and I hope this may help Humble Bundle make a few more sales by taking the hassle out of seeing what good value some of their Bundles really are!
 
-_**Important Note: This script does not work for ALL Humble Book Bundles - many RPG ones are not compatible. The script works well for Humble Tech Book Bundles and Fiction bundles. Please see [Limitations Section](#limitations) for more details. See examples of which Bundles do / do not work well by viewing past outputs in the [HumbleBookBundles folder.](HumbleBookBundles/)**_
+_**Important Note: This script does not work for ALL Humble Book Bundles - many RPG ones are not compatible. The script works well for Humble Tech Book Bundles and Fiction bundles. Please see [Limitations Section](#limitations) for more details. See examples of which Bundles do / do not work well by viewing past outputs in the [HumbleBookBundles folder.](/HumbleBundleBooks/)**_
 
 # Overview
 
