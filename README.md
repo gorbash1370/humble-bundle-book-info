@@ -9,7 +9,7 @@ Yet, they do put out a lot of content and the quality of the books between Bundl
 
 Ideally it will help potential HB customers make informed decisions about whether a Bundle is a good buy for them, and I hope this may help Humble Bundle make a few more sales by taking the hassle out of seeing what good value some of their Bundles really are!
 
-_**Important Note: This script does not work for ALL Humble Book Bundles - many RPG ones are not compatible. The script works well for Humble Tech Book Bundles and Fiction bundles. Please see [Limitations Section](#limitations) for more details. See examples of which Bundles do / do not work well by viewing past outputs in the [HumbleBookBundles folder.](/HumbleBundleBooks/)**_
+_**Important Note: This script does not work for ALL Humble Book Bundles - many RPG ones are not compatible. The script works well for Humble Tech Book Bundles and Fiction bundles. Please see [Limitations Section](#limitations-alt-text) for more details. See examples of which Bundles do / do not work well by viewing past outputs in the [HumbleBookBundles folder.](/HumbleBundleBooks/)**_
 
 # Overview
 
@@ -23,35 +23,36 @@ _**Important Note: This script does not work for ALL Humble Book Bundles - many 
 
 [![Preview Both Text Files](./misc/screenshot_output_both_small_lysc.png)](./misc/screenshot_output_both_large_lysc.png)
 
-_For anyone who wants the Book Bundle info output but is put off by needing to set up the Bing Search API Key or Selenium, text outputs for Humble Bundles I have processed are stored in the repo's [HumbleBookBundles](/HumbleBundleBooks) folder. Skip there if you just want the goodies._
+_For anyone who wants the Book Bundle info but is put off by needing to set up the Bing Search API Key or Selenium, text outputs for Humble Bundles I have processed are stored in the repo's [HumbleBookBundles](/HumbleBundleBooks/) folder. Skip there if you just want the goodies._
 
 
 # Program Structure ![alt text](misc/map.png)
 
 * [`hb_book_info_utils.py`](/hb_book_info_utils.py) - all the utility functions.
 * [`hb_book_info_main.py`](/hb_book_info_main.py) - main run-point for the script. 
-  * Here user should complete the 3 variable values (`url_hb`, `selenium_browser` and `output_directory`). _Usually these would have been migrated to a user_variables file but with so few this approach is neater._
+  * Here user should complete the 3 variable values (`url_hb`, `selenium_browser` and `output_directory`).  
+  _Usually these would have been migrated to a user_variables file but with so few this approach is neater._
 * [`config.py`](/config.py) - Bing Search API key should be entered here. This is also where developers can turn debugging outputs on/off.
 
 
 ## Other files 
 [`README.md`](/README.md) - voila!  
-[`LICENSE.md`](/LICENSE) - lgpl-3.0 licence  
+[`LICENSE`](/LICENSE) - lgpl-3.0 licence  
 [`requirements.txt`](/requirements.txt) - list of all the non-standard Python libraries required for the code to run.  
-[/HumbleBookBundles folder](/HumbleBookBundles) - text outputs for Humble Bundles that I have processed already.  
+[/HumbleBookBundles folder](/HumbleBundleBooks/) - text outputs for Humble Bundles that I have processed already.  
 
 
 # Start / User Setup ![alt text](misc/start.gif)
-Please read the [Limitations Section](#limitations) before attempting to implement the code. To run the script for yourself:
+Please read the [Limitations Section](#limitations-alt-text) before attempting to implement the code. To run the script for yourself:
 * Install [dependencies](#requirements--dependencies)
-* Set-up [Selenium](#selenium) and a [Bing Search API](#obtain-a-bing-search-api-key ) - enter your `bing_api_key` into `config.py`. Please, for your sanity, leave the `debug_flag` as `False`!!
+* Set-up [Selenium](#selenium-setup) and a [Bing Search API](#obtain-a-bing-search-api-key-🗝) - enter your `bing_api_key` into `config.py`. Please, for your sanity, leave the `debug_flag` as `False`!!
 * In `hb_book_info_main.py`, complete the three user variables at the top:
     - `url_hb` (web address of Humble Book Bundle to target)   
     - `selenium_browser` choice  
     - and `output_directory`.  
 
 * Run the code in `hb_book_info_main.py`
-* Uncomment the `open_browser_tabs` function and run it (delete the ' #'), if you want to open the book pages in your browser.
+* Uncomment the `open_browser_tabs` function and run it (delete the ' #') to open all the book product pages in your browser.
 
 # Requirements & Dependencies
 ## Install Non-Standard Python Libraries
@@ -79,7 +80,7 @@ After running `pip install selenium`, you will need to download the appropriate 
 NB: browser updates are likely to require updating the WebDriver also.
 
 ## Obtain a Bing Search API Key 🗝
-[Here's the official guide](https://learn.microsoft.com/en-us/bing/search-apis/bing-web-search/create-bing-search-service-resource)
+[Here's the official Microsoft guide.](https://learn.microsoft.com/en-us/bing/search-apis/bing-web-search/create-bing-search-service-resource)
 
 The Bing Search API key is free for limited use ([F1 is 3 calls per second, 1k calls per month](https://www.microsoft.com/en-us/bing/apis/pricing)). However, you do need to jump through the hoops of having a Microsoft account (email) and also an 'Azure Subscription', which itself is free but it's other services are / can be chargable. 
 
@@ -98,19 +99,19 @@ The Bing Search API key is free for limited use ([F1 is 3 calls per second, 1k c
 8. Copy your Bing Search API "Key1" or "Key2" and enter it into `config.py` as the value for `bing_api_key`. Obviously, keep this key secure and never share it.
 
 
-# Limitations ![alt text](misc/noted.gif)
-1) **Bing**: As mentioned, Bing Search API was the only above-board way to retrieve review ratings from search results. Bing Search API doesn't return exactly the same data as you would see if running the same search term direct from your browser, and, obviously, Bing isn't Google. The data isn't perfect: recency will depend on the API's last scrape date (the script *does* explicitly prioritise newer data), and sometimes the API returns obvious anomalies like "48 reviews with a rating of 0 stars". This is why I've included both Amazon.com and Amazon.co.uk ratings in the verbose version of the output (doubles chance of an accurate review score). It's also why I've included the Amazon and Google Books URLs in the text output, so that you can check the book product pages for yourself. Bing Search API also rarely returns book price data unfortunately.
+# Limitations  ![alt text](misc/noted.gif)
+1) **Bing**: As mentioned, Bing Search API was the only above-board way to retrieve review ratings from search results. Bing Search API doesn't return exactly the same data as you would see if running the same search term direct from your browser, and - obviously😜 - Bing isn't Google. The data isn't perfect: recency will depend on the API's last scrape date (the script *does* explicitly prioritise newer data), and sometimes the API returns obvious anomalies like "48 reviews with a rating of 0 stars". This is why I've included both Amazon.com and Amazon.co.uk ratings in the verbose version of the output (doubles chance of an accurate review score). It's also why I've included the Amazon and Google Books URLs in the text output, so that you can check the book product pages for yourself. Bing Search API also rarely returns book price data unfortunately.
    
 2) **Web-Scraping General**: Web-scraping is always a bit of a gamble: if the Humble Bundle website changes its structure, the script will break: likewise if the Google Books API or Bing Search API change their data structures. Additionally, the scrape is only as good as the data is complete and consistent - there will be errors like the "0 out of 5 stars (48 reviews)" example. I've tried to make the code as robust as possible, but it won't work forever and there will be anomalies. If you're depending on the data for anything important, you should check it manually - use the URLs from the text file (there's a URLs Section with them all together at the end) or use the `open_browser_tabs` function.
 
 3) **Book Bundles**: This only works for Humble *Book* Bundles, not software / video / game bundles.
     
-4) **Not all Book Bundles**: This script does not work for ALL Humble Book Bundles - many RPG Bundles are not compatible. For those RPG Bundles the script _can_ process, Google Books doesn't tend to recognise so there's a lot of missing data. The script generally works well for Humble *Tech* Book Bundles and general Fiction bundles. I have not tested robustly on other types of book Bundle, i.e. Manga, Comics, Gaming etc. If the script is targeted at an incompatible HB webpage, it will return the following message:  
+4) **Not all Book Bundles**: This script does not work for ALL Humble Book Bundles - many RPG Bundles are not compatible. For those RPG Bundles the script _can_ process, Google Books doesn't tend to recognise the titles so there can be a lot of missing data. The script generally works well for Humble *Tech* Book Bundles and general Fiction bundles. I have not tested robustly on other types of book Bundle, i.e. Manga, Comics, Gaming etc. If the script is targeted at an incompatible HB webpage, it will return the following message:  
      `Error whilst attempting to write to file: books_data is empty which indicates that no data has been retrieved from even the first interaction with the Humble Bundle Webpage. It is therefore likely that targeted Humble Book Bundle webpage is not in a compatible format for this script, or that the URL is incorrect.` 
 
 # Testing Notes
 * Code developed with Python 3.12 on a Windows (10) machine. It should work on other OSs but _I have not tested this_.
-* Code has mainly been run on Humble **Tech** Book Bundles (because that is my main interest) - I can't guarantee that this code will work for other types of book Bundle, i.e. Comics, Manga, Gaming etc. I know it really doesn't like some RPG bundles, though they can be worth a try.
+* Code has mainly been run on Humble **Tech** Book Bundles (because that is my main interest) - I can't guarantee that this code will work for other types of book Bundle, i.e. Comics, Manga, Gaming etc. The script doesn't like some RPG bundles, though they can be worth a try.
 * I haved only tested this code with Firefox directly: I made the code as browser-agnostic as I could, but _I have not tested this_.
 * I built the code as robustly as I could, but **I have not had chance to do extensive testing**. Please do let me know what errors you find and I'll do my best to fix them.
 * Apologies that the Exception handling is not as extensive as usual, nor are the docstrings complete. There's also a horribly gargantuan function which I'd love to refactor... for now, it works! 😜
@@ -124,7 +125,7 @@ The Bing Search API key is free for limited use ([F1 is 3 calls per second, 1k c
 
 
 # Main Functions ![alt text](/misc/matrix.gif)
-In `hb_book_info_utils.py`:
+In [`hb_book_info_utils.py`](/hb_book_info_utils.py):
 * `make_output_directory`: Creates a directory at the user specified path (`output_directory`), if it doesn't already exist. Same operation for debugging folder, if `debug_flag` is set to `True` in `config.py`.
 
 * `hb_webpage_requests`: Fetches HTML content of the user-specified (`url_hb`) Humble Book Bundle webpage without executing JavaScript, using the `requests` library. Returns a BeautifulSoup object for further parsing.
@@ -161,9 +162,9 @@ This functionality is left commented out to prevent accidental execution. Delete
 * `open_browser_tabs`: A coordinator function that calls either `open_amazon_uk_urls` or `open_amazon_com_urls` based on user selection (`uk_or_com_urls`), facilitating quick access to book pages on Amazon for review or purchase considerations.
 
 ## Optional: Debugging Facility
-In `config.py`, `debug_flag` can be set to `True` to enable COPIOUS text file debugging outputs to be generated during program operation. I'd strongly advise leaving this as `False` unless you've got a sadistic penchant for reading JSON.   
+In [`config.py`](/config.py), `debug_flag` can be set to `True` to enable COPIOUS text file debugging outputs to be generated during program operation. I'd strongly advise leaving this as `False` unless you've got a sadistic penchant for reading JSON.   
 **Important Notes:**
-1. Change the `output_directory` to a different folder to avoid overwriting your main output files with development versions.
+1. Change the `output_directory` to a different folder to avoid overwriting your main Bundle output text files with development versions.
 2. If you want to compare debug outputs _between different Bundles_, specify a different subfolder i.e. `.debug/BundleName` for each Bundle you run the script against. Some debug output files have generic names and will overwrite eachother for different Bundles if you leave it pointing at the same folder.
 
 # gorbash1370 Disclaimer ![alt text](/misc/disclaimer.gif)
