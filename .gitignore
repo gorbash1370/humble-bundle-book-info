@@ -1,0 +1,8 @@
+__pycache__/
+venv_hb_book_info/
+scraps/
+venv_hb_book_reviews/
+debug/
+
+config1.py
+temp_*

@@ -1,0 +1,320 @@
+Humble Tech Book Bundle- Learn You Some Code by No Starch - No Starch Press
+Processing date: 2024-03-19
+Data retrieved from: https://www.humblebundle.com/books/learn-you-some-code-no-starch-books
+
+Book 01 - Dead Simple Python - Jason C. McDonald - 4.4 out of 5 (36 reviews)
+Book 02 - Learn Physics with Functional Programming - Scott N. Walck - 4.9 out of 5 (12 reviews)
+Book 03 - Strange Code - Ronald T. Kneusel - 4.4 out of 5 (6 reviews)
+Book 04 - The C# Type System - Steve Love - None found out of 5 (None found reviews)
+Book 05 - The Rust Programming Language, 2nd Edition - Steve Klabnik and Carol Nichols - 4.7 out of 5 (179 reviews)
+Book 06 - Python Playground, 2nd Edition - Mahesh Venkitachalam - 5 out of 5 (1 reviews)
+Book 07 - Rust for Rustaceans - Jon Gjengset - 4.8 out of 5 (271 reviews)
+Book 08 - Bare Metal C - Stephen Oualline - 3.9 out of 5 (12 reviews)
+Book 09 - The Art of Webassembly - Rick Battagline - 4.2 out of 5 (27 reviews)
+Book 10 - The Art of Clean Code - Christian Mayer - 4.5 out of 5 (16 reviews)
+Book 11 - The Secret Life of Programs - Jonathan E. Steinhart - 4.7 out of 5 (135 reviews)
+Book 12 - The GNU Make Book - John Graham-Cumming - 3.5 out of 5 (11 reviews)
+Book 13 - Autotools, 2nd Edition - John Calcote - 4.5 out of 5 (22 reviews)
+Book 14 - The Missing README - Chris Riccomini and Dmitriy Ryaboy - 4.7 out of 5 (110 reviews)
+Book 15 - Ruby Under a Microscope - Pat Shaughnessy - 4.5 out of 5 (55 reviews)
+Book 16 - Wicked Cool Ruby Scripts - Steve Pugh - 4.2 out of 5 (12 reviews)
+Book 17 - Perl One-Liners - Peteris Krumins - 4.4 out of 5 (40 reviews)
+Book 18 - Wicked Cool Shell Scripts, 2nd Edition - Dave Taylor and Brandon Perry - 4.6 out of 5 (205 reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: Dead Simple Python
+Author(s): Jason C. McDonald
+---
+ISBN-10: 1718500920 - ISBN-13: 9781718500921 - ASIN: B085BV31TK
+Published Date: 2022-11-22
+---
+HB Blurb: Dead Simple Python is a thorough introduction to every feature of the Python language for programmers who are impatient to write production code. Instead of revisiting elementary computer science topics, you’ll dive deep into idiomatic Python patterns so you can write professional Python programs in no time.After speeding through Python’s basic syntax and setting up a complete programming environment, you’ll learn to work with Python’s dynamic data typing, its support for both functional and object-oriented programming techniques, special features like generator expressions, and advanced topics like concurrency. You’ll also learn how to package, distribute, debug, and test your Python project.Master how to:Make Python's dynamic typing work for you to produce cleaner, more adaptive code.Harness advanced iteration techniques to structure and process your data.Design classes and functions that work without unwanted surprises or arbitrary constraints.Use multiple inheritance and introspection to write classes that work intuitively.Improve your code's responsiveness and performance with asynchrony, concurrency, and parallelism.Structure your Python project for production-grade testing and distributionThe most pedantically pythonic primer ever printed, Dead Simple Python will take you from working with the absolute basics to coding applications worthy of publication.
+--------------------------------------------------
+
+Book 02:
+Title: Learn Physics with Functional Programming
+Author(s): Scott N. Walck
+---
+ISBN-10: 1718501668 - ISBN-13: 9781718501669 - ASIN: B09WJWSFW8
+Published Date: 2023-01-31
+---
+HB Blurb: Learn Physics with Functional Programming is your key to unlocking the mysteries of theoretical physics by coding the underlying math in Haskell.You’ll use Haskell’s type system to check that your code makes sense as you deepen your understanding of Newtonian mechanics and electromagnetic theory, including how to describe and calculate electric and magnetic fields.As you work your way through the book’s numerous examples and exercises, you’ll learn how to:Encode vectors, derivatives, integrals, scalar fields, vector fields, and differential equationsExpress fundamental physical principles using the logic of Haskell’s type system to clarify Newton’s second law, Coulomb’s law, the Biot-Savart law, and the Maxwell equationsUse higher-order functions to express numerical integration and approximation methods, such as the Euler method and the finite-difference time-domain (FDTD) methodCreate graphs, models, and animations of physical scenarios like colliding billiard balls, waves in a guitar string, and a proton in a magnetic fieldWhether you’re using this book as a core textbook for a computational physics course or for self-study, Learn Physics with Functional Programming will teach you how to use the power of functional programming to explore the beautiful ideas of theoretical physics.
+--------------------------------------------------
+
+Book 03:
+Title: Strange Code
+Author(s): Ronald T. Kneusel
+---
+ISBN-10: 1718502400 - ISBN-13: 9781718502406 - ASIN: B09WK69BN6
+Published Date: 2022-09-27
+---
+HB Blurb: Strengthen your overall coding skills by exploring the wonderful, wild, and often weird world of esoteric languages (esolangs).Strange Code starts with a dive into the underlying history of programming, covering the early computer-science concepts, like Turing machines and Turing completeness, that led to the languages we use today. It then explores the realm of “atypical” programming languages, introducing you to the out-of-the-box thinking that comes from these unusual approaches to coding.Later chapters address the even more unusual esolangs, nearly all of which are like nothing you’ve ever seen. Finally, author Ron Kneusel helps you develop and use two entirely new programming languages. You may not apply these languages in your day job, but this one-of-a-kind book will motivate you to think differently about what it means to express thought through code, while discovering the far-flung boundaries of programming.You'll learn:How to program with pictures using PietHow to write two-dimensional programs in BefungeHow to implement machine-learning algorithms using the text pattern matching language SNOBOLHow to decipher Brainfuck code like [->-[>+>>]>[[-]+>+>>]How to design and create two original programming languagesLearning to think in these languages will make you a better, more confident programmer.
+--------------------------------------------------
+
+Book 04:
+Title: The C# Type System
+Author(s): Steve Love
+---
+ISBN-10: 1718501587 - ISBN-13: 9781718501584 - ASIN: B0BZGZSX8Z
+Published Date: 2023-10-31
+---
+HB Blurb: The type system is the foundation upon which all C# programs are built.The C# Type System will show you how to define and implement value types effectively, and write more performant and robust code. Real-world code examples and test cases throughout will elevate your programming with C# and show you how best to implement the principles you’re learning.Among the core aspects of working with the type system, you’ll learn:How user-defined value types, and even simple types, can enhance your code’s readabilityHow reference and value types differ within C#How method parameters and arguments relate to reference and value typesHow differences in copy semantics between value and reference types affect a program’s behaviorHow the different methods of value comparisons for equality work behind the scenesThe unique characteristics and roles of various types in an application, especially how value types go beyond mere data storageWhy inheritance isn’t optimal for value typesHow to measure and evaluate the performance of an app’s use of different data typesWhether you’re a novice or seasoned programmer, you’ll find The C# Type System indispensable in your efforts to turn good code into great.
+--------------------------------------------------
+
+Book 05:
+Title: The Rust Programming Language, 2nd Edition
+Author(s): Steve Klabnik and Carol Nichols
+---
+ISBN-10: 1718503113 - ISBN-13: 9781718503113 - ASIN: 1593278284
+Published Date: 2023-02-28
+---
+HB Blurb: The Rust Programming Language, 2nd Edition is the official guide to Rust 2021: an open source systems programming language that will help you write faster, more reliable software. Rust provides control of low-level details along with high-level ergonomics, allowing you to improve productivity and eliminate the hassle traditionally associated with low-level languages.Klabnik and Nichols, alumni of the Rust Core Team, share their knowledge to help you get the most out of Rust’s features so that you can create robust and scalable programs. You’ll begin with basics like creating functions, choosing data types, and binding variables, then move on to more advanced concepts, such as:Ownership and borrowing, lifetimes, generics, traits, and trait objects to communicate your program’s constraints to the compilerSmart pointers and multithreading, and how ownership interacts with them to enable fearless concurrencyHow to use Cargo, Rust’s built-in package manager, to build, document your code, and manage dependenciesThe best ways to test, handle errors, refactor, and take advantage of expressive pattern matchingIn addition to the countless code examples, you’ll find three chapters dedicated to building complete projects: a number-guessing game, a Rust implementation of a command line tool, and a multithreaded server.
+--------------------------------------------------
+
+Book 06:
+Title: Python Playground, 2nd Edition
+Author(s): Mahesh Venkitachalam
+---
+ISBN-10: 1718503059 - ISBN-13: 9781718503052 - ASIN: 1718503040
+Published Date: 2023-11-28
+---
+HB Blurb: Harness the power of Python as you turn code into tangible creations withPython Playground, a collection of 15 inventive projects that will expand your programming horizons, spark your curiosity, and elevate your coding skills.Go beyond the basics as you write programs to generate art and music, simulate real-world phenomena, and interact with hardware, all through the use of Python and common libraries such as numpy, matplotlib, and Pillow.As you work through the book’s projects, you will:Craft intricate Spirograph-like designs with parametric equations and the turtle moduleGenerate music by synthesizing plucked string soundsTransform everyday images into ASCII art, photomosaics, and eye-popping autostereogramsDesign engaging cellular automata and flocking simulationsExplore the realm of 3D graphics, from basic shape rendering to visualizing MRI scan dataBuild a Raspberry Pi–powered laser show that dances along with musicNew to this edition: We’ve expanded your playground with five new projects: you’ll draw fractals, bring Conway’s Game of Life into 3D space, and use a Raspberry Pi and Python to create a musical instrument, an IoT garden monitor, and even a machine learning–driven speech recognition system.Whether you’re a seasoned professional or just getting started, you’ll find Python Playground to be a great way to learn, experiment with, and master this versatile programming language.
+--------------------------------------------------
+
+Book 07:
+Title: Rust for Rustaceans
+Author(s): Jon Gjengset
+---
+ISBN-10: 1718501854 - ISBN-13: 9781718501850 - ASIN: B0957SWKBS
+Published Date: 2021-12-21
+---
+HB Blurb: For developers who’ve mastered the basics, this book is the next step on your way to professional-level programming in Rust. It covers everything you need to build and maintain larger code bases, write powerful and flexible applications and libraries, and confidently expand the scope and complexity of your projects.Author Jon Gjengset takes you deep into the Rust programming language, dissecting core topics like ownership, traits, concurrency, and unsafe code. You’ll explore key concepts like type layout and trait coherence, delve into the inner workings of concurrent programming and asynchrony with async/await, and take a tour of the world of no_std programming. Gjengset also provides expert guidance on API design, testing strategies, and error handling, and will help develop your understanding of foreign function interfaces, object safety, procedural macros, and much more.You'll learn:How to design reliable, idiomatic, and ergonomic Rust programs based on best principlesEffective use of declarative and procedural macros, and the difference between themHow asynchrony works in Rust – all the way from the Pin and Waker types used in manual implementations of Futures, to how async/await saves you from thinking about most of those wordsWhat it means for code to be unsafe, and best practices for writing and interacting with unsafe functions and traitsHow to organize and configure more complex Rust projects so that they integrate nicely with the rest of the ecosystemHow to write Rust code that can interoperate with non-Rust libraries and systems, or run in constrained and embedded environmentsBrimming with practical, pragmatic insights that you can immediately apply, Rust for Rustaceans helps you do more with Rust, while also teaching you its underlying mechanisms.
+--------------------------------------------------
+
+Book 08:
+Title: Bare Metal C
+Author(s): Stephen Oualline
+---
+ISBN-10: 1718501625 - ISBN-13: 9781718501621 - ASIN: B08YJB9BCF
+Published Date: 2022-08-02
+---
+HB Blurb: Bare Metal C will teach you how to program embedded devices with the C programming language. For embedded system programmers who want precise and complete control over the system they are using, this book pulls back the curtain on what the compiler is doing for you so that you can see all the details of what's happening with your program.The first part of the book teaches C basics with the aid of a low-cost, widely available bare metal system (the Nucleo Arm evaluation system), which gives you all the tools needed to perform basic embedded programming. As you progress through the book you’ll learn how to integrate serial input/output (I/O) and interrupts into your programs. You’ll also learn what the C compiler and linker do behind the scenes, so that you’ll be better able to write more efficient programs that maximize limited memory. Finally, you’ll learn how to use more complex, memory hungry C features like dynamic memory, file I/O, and floating-point numbers.
+--------------------------------------------------
+
+Book 09:
+Title: The Art of Webassembly
+Author(s): Rick Battagline
+---
+ISBN-10: 1718501455 - ISBN-13: 9781718501454 - ASIN: B08TSYXJTS
+Published Date: 2021-06-01
+---
+HB Blurb: WebAssembly is the fast, compact, portable technology that optimizes the performance of resource-intensive web applications and programs.The Art of WebAssembly is designed to give web developers a solid understanding of how it works, when to use it (and when not to), and how to develop and deploy WebAssembly apps.First you’ll learn how to optimize and compile low-level code, debug and evaluate WebAssembly, and represent WebAssembly in the human-readable WebAssembly Text (WAT) format. Once you have the basics down, you’ll build a browser-based collision detection program, work with browser rendering technologies to create graphics and animations, and see how WebAssembly interacts with other web languages.You’ll also learn how to:Embed WebAssembly applications in web browsers and Node.jsUse browser debuggers to evaluate your WebAssembly codeFormat variables, loops, functions, strings, data structures, and conditional logic in WATManipulate memoryBuild a program that generates graphical objects and detects when they collideEvaluate the output of a WebAssembly compilerThe Art of WebAssembly will help you make sense of this powerful technology to boost the performance of your web applications.
+--------------------------------------------------
+
+Book 10:
+Title: The Art of Clean Code
+Author(s): Christian Mayer
+---
+ISBN-10: 1718502184 - ISBN-13: 9781718502185 - ASIN: B09BKL3V69
+Published Date: 2022-08-02
+---
+HB Blurb: Most software developers waste thousands of hours working with overly complex code. The eight core principles inThe Art of Clean Code will teach you how to write clear, maintainable code without compromising functionality. The book’s guiding principle is simplicity: reduce and simplify, then reinvest energy in the important parts to save you countless hours and ease the often onerous task of code maintenance.Bestselling author Christian Mayer leverages his experience helping thousands perfect their coding skills in this new book. With expert advice and real-world examples, he’ll show you how to:Concentrate on the important stuff with the 80/20 principle — focus on the 20% of your code that matters mostAvoid coding in isolation: create a minimum viable product to get early feedbackWrite code cleanly and simply to eliminate clutterAvoid premature optimization that risks over-complicating codeBalance your goals, capacity, and feedback to achieve the productive state of FlowApply the Do One Thing Well philosophy to vastly improve functionalityDesign efficient user interfaces with the Less is More principleTie your new skills together into one unifying principle: FocusThis Python-based guide is suitable for programmers at any level, with ideas presented in a language-agnostic manner.
+--------------------------------------------------
+
+Book 11:
+Title: The Secret Life of Programs
+Author(s): Jonathan E. Steinhart
+---
+ISBN-10: 1593279701 - ISBN-13: 9781593279707 - ASIN: B07PCKLDW1
+Published Date: 2019-08-06
+---
+HB Blurb: The thing works like this.Many coders are unfamiliar with the underlying technologies that make their programs run. But why should you care when your code appears to work? Because you want it to run well and not be riddled with hard-to-find bugs. You don’t want to be in the news because your code had a security problem.Lots of technical detail is available online but it’s not organized or collected into a convenient place. In The Secret Life of Programs, veteran engineer Jonathan E. Steinhart explores—in depth—the foundational concepts that underlie the machine. Subjects like computer hardware, how software behaves on hardware, as well as how people have solved problems using technology over time.You’ll learn:How the real world is converted into a form that computers understand, like bits, logic, numbers, text, and colorsThe fundamental building blocks that make up a computer including logic gates, adders, decoders, registers, and memoryWhy designing programs to match computer hardware, especially memory, improves performanceHow programs are converted into machine language that computers understandHow software building blocks are combined to create programs like web browsersClever tricks for making programs more efficient, like loop invariance, strength reduction, and recursive subdivisionThe fundamentals of computer security and machine intelligenceProject design, documentation, scheduling, portability, maintenance, and other practical programming realities.Learn what really happens when your code runs on the machine and you’ll learn to craft better, more efficient code.
+--------------------------------------------------
+
+Book 12:
+Title: The GNU Make Book
+Author(s): John Graham-Cumming
+---
+ISBN-10: 1593276494 - ISBN-13: 9781593276492 - ASIN: B00W4E0I1G
+Published Date: 2015
+---
+HB Blurb: GNU make is the most widely used build automation tool, but it can be challenging to master and its terse language can be tough to parse for even experienced programmers. Those who run into difficulties face a long, involved struggle, often leaving unsolved problems behind and GNU make's vast potential untapped.The GNU Make Book demystifies GNU make and shows you how to use its best features. You'll find a fast, thorough rundown of the basics of variables, rules, targets, and makefiles. Learn how to fix wastefully long build times and other common problems, and gain insight into more advanced capabilities, such as complex pattern rules. With this utterly pragmatic manual and cookbook, you'll make rapid progress toward becoming a more effective user.You'll also learn how to:Master user-defined functions, variables, and path handlingWeigh the pitfalls and advantages of GNU make parallelizationHandle automatic dependency generation, rebuilding, and non-recursive makeModify the GNU make source and take advantage of the GNU Make Standard LibraryCreate makefile assertions and debug makefilesGNU make is known for being tricky to use, but it doesn't have to be. If you’re looking for a deeper understanding of this indispensable tool, you'll find The GNU Make Book to be an indispensable guide.
+--------------------------------------------------
+
+Book 13:
+Title: Autotools, 2nd Edition
+Author(s): John Calcote
+---
+ISBN-10: 1593279736 - ISBN-13: 9781593279738 - ASIN: B07J4CYXF5
+Published Date: 2019-11-05
+---
+HB Blurb: The GNU Autotools make it easy for developers to create software that is portable across many Unix-like operating systems, and even Windows. Although the Autotools are used by thousands of open source software packages, they have a notoriously steep learning curve.Autotools is the first book to offer programmers a tutorial-based guide to the GNU build system. Author John Calcote begins with an overview of high-level concepts and a hands-on tour of the philosophy and design of the Autotools. He then tackles more advanced details, like using the M4 macro processor with Autoconf, extending the framework provided by Automake, and building Java and C# sources. He concludes with solutions to frequent problems encountered by Autotools users.This thoroughly revised second edition has been updated to cover the latest versions of the Autotools. It includes five new chapters on topics like pkg-config, unit and integration testing with Autotest, internationalizing with GNU tools, the portability of gnulib, and using the Autotools with Windows. As with the first edition, you'll focus on two projects: Jupiter, a simple “Hello, world!” program, and FLAIM, an existing, complex open source effort containing four separate but interdependent projects. Follow along as the author takes Jupiter’s build system from a basic makefile to a full-fledged Autotools project, and then as he converts the FLAIM projects from complex, hand-coded makefiles to the powerful and flexible GNU build system.Learn how to:Master the Autotools build system to maximize your software’s portabilityGenerate Autoconf configuration scripts to simplify the compilation processProduce portable makefiles with AutomakeBuild cross-platform software libraries with LibtoolWrite your own Autoconf macrosThis detailed introduction to the GNU Autotools is indispensable for developers and programmers looking to gain a deeper understanding of this complex suite of tools. Stop fighting against the system and make sense of it all with the second edition of Autotools!
+--------------------------------------------------
+
+Book 14:
+Title: The Missing README
+Author(s): Chris Riccomini and Dmitriy Ryaboy
+---
+ISBN-10: 1718501846 - ISBN-13: 9781718501843 - ASIN: B08XM2CDZM
+Published Date: 2021-08-10
+---
+HB Blurb: For new software engineers, knowing how to program is only half the battle. You’ll quickly find that many of the skills and processes key to your success are not taught in any school or bootcamp.The Missing README fills in that gap—a distillation of workplace lessons, best practices, and engineering fundamentals that the authors have taught rookie developers at top companies for more than a decade.Early chapters explain what to expect when you begin your career at a company. The book’s middle section expands your technical education, teaching you how to work with existing codebases, address and prevent technical debt, write production-grade software, manage dependencies, test effectively, do code reviews, safely deploy software, design evolvable architectures, and handle incidents when you’re on-call. Additional chapters cover planning and interpersonal skills such as Agile planning, working effectively with your manager, and growing to senior levels and beyond.You’ll learn:How to use the legacy code change algorithm, and leave code cleaner than you found itHow to write operable code with logging, metrics, configuration, and defensive programmingHow to write deterministic tests, submit code reviews, and give feedback on other people’s codeThe technical design process, including experiments, problem definition, documentation, and collaborationWhat to do when you are on-call, and how to navigate production incidentsArchitectural techniques that make code change easierAgile development practices like sprint planning, stand-ups, and retrospectivesThis is the book your tech lead wishes every new engineer would read before they start. By the end, you’ll know what it takes to transition into the workplace–from CS classes or bootcamps to professional software engineering.
+--------------------------------------------------
+
+Book 15:
+Title: Ruby Under a Microscope
+Author(s): Pat Shaughnessy
+---
+ISBN-10: 1593275277 - ISBN-13: 9781593275273 - ASIN: B00GK5P6L2
+Published Date: 2013
+---
+HB Blurb: Ruby is a powerful programming language with a focus on simplicity, but beneath its elegant syntax it performs countless unseen tasks.
+Ruby Under a Microscope gives you a hands-on look at Ruby’s core, using extensive diagrams and thorough explanations to show you how Ruby is implemented (no C skills required). Author Pat Shaughnessy takes a scientific approach, laying out a series of experiments with Ruby code to take you behind the scenes of how programming languages work. You’ll even find information on JRuby and Rubinius (two alternative implementations of Ruby), as well as in-depth explorations of Ruby’s garbage collection algorithm.
+Ruby Under a Microscope will teach you:
+
+How a few computer science concepts underpin Ruby’s complex implementation
+How Ruby executes your code using a virtual machine
+How classes and modules are the same inside Ruby
+How Ruby employs algorithms originally developed for Lisp
+How Ruby uses grammar rules to parse and understand your code
+How your Ruby code is translated into a different language by a compiler
+
+No programming language needs to be a black box. Whether you’re already intrigued by language implementation or just want to dig deeper into Ruby, you’ll find Ruby Under a Microscope a fascinating way to become a better programmer.Covers Ruby 2.x, 1.9 and 1.8
+--------------------------------------------------
+
+Book 16:
+Title: Wicked Cool Ruby Scripts
+Author(s): Steve Pugh
+---
+ISBN-10: 1593271824 - ISBN-13: 9781593271824 - ASIN: B002N3M6SG
+Published Date: 2009
+---
+HB Blurb: Are you spending valuable time on work a well-trained monkey could do? If so,Wicked Cool Ruby Scripts will teach you how to automate repetitive tasks using Ruby, one of the most powerful and easy-to-use programming languages around.Wicked Cool Ruby Scripts provides 58 scripts that offer quick solutions to problems like system administration, manipulating images, and managing a website. After getting your feet wet creating simple scripts to automate tasks like file compression and decompression, you’ll learn how to create powerful web crawlers, security scripts, and full-fledged libraries and applications, as well as how to:Rename files, disable processes, change permissions, and modify usersManipulate strings, encrypt files, and sort efficientlyValidate web links, check for orphan files, and generate formsMass edit photos, extract image information, and create thumbnailsParse CSV files and scrape links, images, and pages from the WebAnd as a nod to our security friends, you’ll even learn how to use Ruby to write Metasploit exploits.For each script you get the code, a discussion of how it works, and tips on how to customize it to solve real-world problems. By the time you’re finished, we think you’ll agree that Ruby is a wicked cool way to get things done.
+--------------------------------------------------
+
+Book 17:
+Title: Perl One-Liners
+Author(s): Peteris Krumins
+---
+ISBN-10: 159327520X - ISBN-13: 9781593275204 - ASIN: B00GS9BZLU
+Published Date: 2013-11-13
+---
+HB Blurb: Part of the fun of programming in Perl lies in tackling tedious tasks with short, efficient, and reusable code. Often, the perfect tool is the one-liner, a small but powerful program that fits in one line of code and does one thing really well.In Perl One-Liners, author and impatient hacker Peteris Krumins takes you through more than 100 compelling one-liners that do all sorts of handy things, such as manipulate line spacing, tally column values in a table, and get a list of users on a system. This cookbook of useful, customizable, and fun scripts will even help hone your Perl coding skills, as Krumins dissects the code to give you a deeper understanding of the language.You'll find one-liners that:Encode, decode, and convert stringsGenerate random passwordsCalculate sums, factorials, and the mathematical constants π and eAdd or remove spacesNumber lines in a filePrint lines that match a specific patternCheck to see if a number is prime with a regular expressionConvert IP address to decimal formReplace one string with anotherAnd many more! Save time and sharpen your coding skills as you learn to conquer those pesky tasks in a few precisely placed keystrokes with Perl One-Liners.
+--------------------------------------------------
+
+Book 18:
+Title: Wicked Cool Shell Scripts, 2nd Edition
+Author(s): Dave Taylor and Brandon Perry
+---
+ISBN-10: 1593276028 - ISBN-13: 9781593276027 - ASIN: 
+Published Date: 2016-10-15
+---
+HB Blurb: Shell scripts are an efficient way to interact with your machine and manage your files and system operations. With just a few lines of code, your computer will do exactly what you want it to do. But you can also use shell scripts for many other essential (and not-so-essential) tasks.
+This second edition of Wicked Cool Shell Scripts offers a collection of useful, customizable, and fun shell scripts for solving common problems and personalizing your computing environment. Each chapter contains ready-to-use scripts and explanations of how they work, why you’d want to use them, and suggestions for changing and expanding them. You’ll find a mix of classic favorites, like a disk backup utility that keeps your files safe when your system crashes, a password manager, a weather tracker, and several games, as well as 23 brand-new scripts, including:
+
+A ZIP code lookup tool that reports the city and state
+A Bitcoin address information retriever
+A suite of tools for working with cloud services like Dropbox and iCloud
+Tools for renaming and applying commands to files in bulk
+Image processing and editing tools
+
+Whether you want to save time managing your system or just find new ways to goof off, these scripts are wicked cool!Readers are free to re-use code from Wicked Cool Shell Scripts, 2nd Edition under the MIT license: https://opensource.org/licenses/MIT
+--------------------------------------------------
+
+URLs Collection:
+-------------------------
+
+Book 01 - Dead Simple Python
+Amazon.com: https://www.amazon.com/dead-simple-python-idiomatic-programmers-ebook/dp/b085bv31tk
+Amazon.co.uk: https://www.amazon.co.uk/Dead-Simple-Python-Idiomatic-Programmers-ebook/dp/B085BV31TK
+Google Books: http://books.google.co.uk/books?id=MPBmEAAAQBAJ&printsec=frontcover&dq=intitle:Dead+Simple+Python%2Binauthor:Jason+C.+McDonald&hl=&cd=1&source=gbs_api
+
+Book 02 - Learn Physics with Functional Programming
+Amazon.com: https://www.amazon.com/Learn-Physics-Functional-Programming-Hands/dp/1718501668
+Amazon.co.uk: https://www.amazon.co.uk/Learn-Physics-Functional-Programming-Hands-ebook/dp/B09WJWSFW8
+Google Books: http://books.google.co.uk/books?id=qS1mEAAAQBAJ&printsec=frontcover&dq=intitle:Learn+Physics+with+Functional+Programming%2Binauthor:Scott+N.+Walck&hl=&cd=1&source=gbs_api
+
+Book 03 - Strange Code
+Amazon.com: https://www.amazon.com/Strange-Code-Esoteric-Languages-Programming-ebook/dp/B09WK69BN6
+Amazon.co.uk: https://www.amazon.co.uk/Strange-Code-Esoteric-Languages-Programming/dp/1718502400
+Google Books: http://books.google.co.uk/books?id=qy1mEAAAQBAJ&printsec=frontcover&dq=intitle:Strange+Code%2Binauthor:Ronald+T.+Kneusel&hl=&cd=1&source=gbs_api
+
+Book 04 - The C# Type System
+Amazon.com: https://www.amazon.com/C-Type-System-Steve-Love-ebook/dp/B0BZGZSX8Z
+Amazon.co.uk: https://www.amazon.co.uk/C-Type-System-Steve-Love-ebook/dp/B0BZGZSX8Z
+Google Books: http://books.google.co.uk/books?id=WnO1EAAAQBAJ&dq=intitle:The+C%23+Type+System%2Binauthor:Steve+Love&hl=&cd=1&source=gbs_api
+
+Book 05 - The Rust Programming Language, 2nd Edition
+Amazon.com: https://www.amazon.com/Rust-Programming-Language-Steve-Klabnik/dp/1593278284
+Amazon.co.uk: https://www.amazon.co.uk/Rust-Programming-Language-2nd-ebook/dp/B0B7QTX8LL
+Google Books: http://books.google.co.uk/books?id=a8l9EAAAQBAJ&printsec=frontcover&dq=intitle:The+Rust+Programming+Language,+2nd+Edition%2Binauthor:Steve+Klabnik+and+Carol+Nichols&hl=&cd=1&source=gbs_api
+
+Book 06 - Python Playground, 2nd Edition
+Amazon.com: https://www.amazon.com/Python-Playground-2nd-Mahesh-Venkitachalam/dp/1718503040
+Amazon.co.uk: https://www.amazon.co.uk/Python-Playground-2nd-Mahesh-Venkitachalam-ebook/dp/B0BN57V435
+Google Books: http://books.google.co.uk/books?id=9HSdEAAAQBAJ&printsec=frontcover&dq=intitle:Python+Playground,+2nd+Edition%2Binauthor:Mahesh+Venkitachalam&hl=&cd=1&source=gbs_api
+
+Book 07 - Rust for Rustaceans
+Amazon.com: https://www.amazon.com/Rust-Rustaceans-Programming-Experienced-Developers-ebook/dp/B0957SWKBS
+Amazon.co.uk: https://www.amazon.co.uk/Rust-Rustaceans-Programming-Experienced-Developers-ebook/dp/B0957SWKBS
+Google Books: http://books.google.co.uk/books?id=-xVOEAAAQBAJ&printsec=frontcover&dq=intitle:Rust+for+Rustaceans%2Binauthor:Jon+Gjengset&hl=&cd=1&source=gbs_api
+
+Book 08 - Bare Metal C
+Amazon.com: https://www.amazon.com/Bare-Metal-C-Stephen-Oualline/dp/1718501625
+Amazon.co.uk: https://www.amazon.co.uk/Bare-Metal-C-Stephen-Oualline-ebook/dp/B08YJB9BCF
+Google Books: http://books.google.co.uk/books?id=8xVOEAAAQBAJ&printsec=frontcover&dq=intitle:Bare+Metal+C%2Binauthor:Stephen+Oualline&hl=&cd=1&source=gbs_api
+
+Book 09 - The Art of Webassembly
+Amazon.com: https://www.amazon.com/Art-WebAssembly-Portable-High-Performance-Applications-ebook/dp/B08TSYXJTS
+Amazon.co.uk: https://www.amazon.co.uk/Art-WebAssembly-Portable-High-Performance-Applications/dp/1718501447
+Google Books: http://books.google.co.uk/books?id=_7MWEAAAQBAJ&printsec=frontcover&dq=intitle:The+Art+of+Webassembly%2Binauthor:Rick+Battagline&hl=&cd=1&source=gbs_api
+
+Book 10 - The Art of Clean Code
+Amazon.com: https://www.amazon.com/Art-Clean-Code-Practices-Complexity-ebook/dp/B09BKL3V69
+Amazon.co.uk: https://www.amazon.co.uk/Art-Clean-Code-Practices-Complexity-ebook/dp/B09BKL3V69
+Google Books: http://books.google.co.uk/books?id=9UpTEAAAQBAJ&printsec=frontcover&dq=intitle:The+Art+of+Clean+Code%2Binauthor:Christian+Mayer&hl=&cd=1&source=gbs_api
+
+Book 11 - The Secret Life of Programs
+Amazon.com: https://www.amazon.com/Secret-Life-Programs-Understand-Computers-ebook/dp/B07PCKLDW1
+Amazon.co.uk: https://www.amazon.co.uk/Secret-Life-Programs-Understand-Computers-ebook/dp/B07PCKLDW1
+Google Books: http://books.google.co.uk/books?id=61v6DwAAQBAJ&printsec=frontcover&dq=intitle:The+Secret+Life+of+Programs%2Binauthor:Jonathan+E.+Steinhart&hl=&cd=1&source=gbs_api
+
+Book 12 - The GNU Make Book
+Amazon.com: https://www.amazon.com/GNU-Make-Book-John-Graham-Cumming-ebook/dp/B00W4E0I1G
+Amazon.co.uk: https://www.amazon.co.uk/GNU-Make-Book-John-Graham-Cumming-ebook/dp/B00W4E0I1G
+Google Books: http://books.google.co.uk/books?id=YMJvCAAAQBAJ&printsec=frontcover&dq=intitle:The+GNU+Make+Book%2Binauthor:John+Graham-Cumming&hl=&cd=1&source=gbs_api
+
+Book 13 - Autotools, 2nd Edition
+Amazon.com: https://www.amazon.com/Autotools-2nd-John-Calcote-ebook/dp/B07J4CYXF5
+Amazon.co.uk: https://www.amazon.co.uk/Autotools-2nd-John-Calcote/dp/1593279728
+Google Books: http://books.google.co.uk/books?id=CuZ8DwAAQBAJ&printsec=frontcover&dq=intitle:Autotools,+2nd+Edition%2Binauthor:John+Calcote&hl=&cd=1&source=gbs_api
+
+Book 14 - The Missing README
+Amazon.com: https://www.amazon.com/Missing-README-Guide-Software-Engineer-ebook/dp/B08XM2CDZM
+Amazon.co.uk: https://www.amazon.co.uk/Missing-README-Guide-Software-Engineer-ebook/dp/B08XM2CDZM
+Google Books: http://books.google.co.uk/books?id=M7UjEAAAQBAJ&printsec=frontcover&dq=intitle:The+Missing+README%2Binauthor:Chris+Riccomini+and+Dmitriy+Ryaboy&hl=&cd=1&source=gbs_api
+
+Book 15 - Ruby Under a Microscope
+Amazon.com: https://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals-ebook/dp/B00GK5P6L2
+Amazon.co.uk: https://www.amazon.co.uk/Ruby-Under-Microscope-Illustrated-Internals-ebook/dp/B00GK5P6L2
+Google Books: http://books.google.co.uk/books?id=P7AdAgAAQBAJ&printsec=frontcover&dq=intitle:Ruby+Under+a+Microscope%2Binauthor:Pat+Shaughnessy&hl=&cd=1&source=gbs_api
+
+Book 16 - Wicked Cool Ruby Scripts
+Amazon.com: https://www.amazon.com/Wicked-Cool-Ruby-Scripts-Difficult-ebook/dp/B002N3M6SG
+Amazon.co.uk: https://www.amazon.co.uk/Wicked-Cool-Ruby-Scripts-Difficult-ebook/dp/B002N3M6SG
+Google Books: http://books.google.co.uk/books?id=DopXkPKzOUAC&printsec=frontcover&dq=intitle:Wicked+Cool+Ruby+Scripts%2Binauthor:Steve+Pugh&hl=&cd=1&source=gbs_api
+
+Book 17 - Perl One-Liners
+Amazon.com: https://www.amazon.com/Perl-One-Liners-Programs-That-Things/dp/159327520X
+Amazon.co.uk: https://www.amazon.co.uk/Perl-One-Liners-Programs-That-Things-ebook/dp/B00GS9BZLU
+Google Books: http://books.google.co.uk/books?id=oZ1eAgAAQBAJ&printsec=frontcover&dq=intitle:Perl+One-Liners%2Binauthor:Peteris+Krumins&hl=&cd=1&source=gbs_api
+
+Book 18 - Wicked Cool Shell Scripts, 2nd Edition
+Amazon.com: https://www.amazon.com/Wicked-Cool-Shell-Scripts-2nd/dp/1593276028
+Amazon.co.uk: https://www.amazon.co.uk/Wicked-Cool-Shell-Scripts-Taylor/dp/1593276028
+Google Books: http://books.google.co.uk/books?id=Mpi7DQAAQBAJ&printsec=frontcover&dq=intitle:Wicked+Cool+Shell+Scripts,+2nd+Edition%2Binauthor:Dave+Taylor+and+Brandon+Perry&hl=&cd=1&source=gbs_api
+

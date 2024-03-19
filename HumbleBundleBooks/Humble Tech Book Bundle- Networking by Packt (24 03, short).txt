@@ -1,0 +1,332 @@
+Humble Tech Book Bundle- Networking by Packt - Packt
+Processing date: 2024-03-19
+Data retrieved from: https://www.humblebundle.com/books/networking-packt-books
+
+Book 01 - Zabbix 6 IT Infrastructure Monitoring Cookbook - Second Edition - Nathan Liefting, Brian van Baekel, Dmitry Lambert - 4.5 out of 5 (24 reviews)
+Book 02 - Google Cloud Certified Professional Cloud Network Engineer Guide - Maurizio Ipsale, Mirko Gilioli - 4.7 out of 5 (16 reviews)
+Book 03 - Mastering Python Networking - Fourth Edition - Eric Chou - 4.7 out of 5 (60 reviews)
+Book 04 - Red Hat Certified Specialist in Services Management and Automation EX358 Exam Guide - Eric McLeroy, Peter Sprygada - None found out of 5 (None found reviews)
+Book 05 - Network Automation with Go - Nicolas Leiva, Michael Kashin - 4.7 out of 5 (9 reviews)
+Book 06 - Designing and Implementing Microsoft Azure Networking Solutions - David Okeyode - None found out of 5 (None found reviews)
+Book 07 - Advanced Network Simulations Simplified - Dr Anil Kumar Rangisetti - 3.5 out of 5 (2 reviews)
+Book 08 - Mastering Palo Alto Networks - Second Edition - Tom Piens aka Piens aka 'reaper', Kim Wens aka 'kiwi' - 4.8 out of 5 (56 reviews)
+Book 09 - Microsoft 365 Administrator MS-102 Exam Guide - Aaron Guilmette - 0 out of 5 (6 reviews)
+Book 10 - Mastering Windows Server 2022 - Fourth Edition - Jordan Krause - 4.9 out of 5 (18 reviews)
+Book 11 - Python for Security and Networking - Third Edition - José Manuel Ortega - 4.6 out of 5 (28 reviews)
+Book 12 - CompTIA A+ Practice Tests Core 1 (220-1101) and Core 2 (220-1102) - Ian Neil, Mark Birch - 5 out of 5 (7 reviews)
+Book 13 - CompTIA A+ Practice Test Core 1 (220-1101) - Ian Neil, Mark Birch - 4.7 out of 5 (8 reviews)
+Book 14 - CompTIA A+ Practice Test Core 2 (220-1102) - Mark Birch, Ian Neil - None found out of 5 (None found reviews)
+Book 15 - Hands-On Network Programming with C - Lewis Van Winkle - 4.4 out of 5 (140 reviews)
+Book 16 - Network Automation Cookbook - Karim Okasha - 4.6 out of 5 (43 reviews)
+Book 17 - Learn Wireshark - Second Edition - Lisa Bock - 4.5 out of 5 (15 reviews)
+Book 18 - Linux for Networking Professionals - Rob VandenBrink - 4.7 out of 5 (15 reviews)
+Book 19 - Mastering Palo Alto Networks - Tom Piens aka 'reaper' - 4.8 out of 5 (56 reviews)
+Book 20 - Mastering pfSense - Second Edition - David Zientara - 4.1 out of 5 (15 reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: Zabbix 6 IT Infrastructure Monitoring Cookbook - Second Edition
+Author(s): Nathan Liefting, Brian van Baekel, Dmitry Lambert
+---
+ISBN-10: 1803242841 - ISBN-13: 9781803242842 - ASIN: B09M6VYG1P
+Published Date: 2022-03-17
+---
+HB Blurb: Key FeaturesFind out how you can leverage some of the most exciting features of Zabbix 6Perform professional IT infrastructure and application monitoring on multiple platformsDiscover easy-to-follow, practical solutions to problems in network monitoring with ZabbixWho this book is forThis book is for IT engineers who want to get started with Zabbix and anyone with an intermediate-level understanding of Zabbix looking to extend their knowledge. Although not necessary, prior experience with Zabbix will help you to make the most of this book.
+--------------------------------------------------
+
+Book 02:
+Title: Google Cloud Certified Professional Cloud Network Engineer Guide
+Author(s): Maurizio Ipsale, Mirko Gilioli
+---
+ISBN-10: 180107206X - ISBN-13: 9781801072069 - ASIN: 1801072698
+Published Date: 2022-01-13
+---
+HB Blurb: Key FeaturesGain hands-on experience in implementing VPCs, hybrid connectivity, network services, and securityEstablish a secure network architecture by learning security best practicesLeverage this comprehensive guide to gain Professional Cloud Network Engineer certificationWho this book is forThis Google Cloud certification book is for cloud network engineers, cloud architects, cloud engineers, administrators, and anyone who is looking to design, implement, and manage network architectures in Google Cloud Platform. You can use this book as a guide for passing the Professional Cloud Network Engineer certification exam. You need to have at least a year of experience in Google Cloud, basic enterprise-level network design experience, and a fundamental understanding of Cloud Shell to get started with this book.
+--------------------------------------------------
+
+Book 03:
+Title: Mastering Python Networking - Fourth Edition
+Author(s): Eric Chou
+---
+ISBN-10: 1803242329 - ISBN-13: 9781803242323 - ASIN: B0BLHJFK9G
+Published Date: 2023-01-20
+---
+HB Blurb: Key FeaturesExplore the power of the latest Python libraries and frameworks to tackle common and complex network problems efficiently and effectivelyUse Python and other open source tools for Network DevOps, automation, management, and monitoringUse Python 3 to implement advanced network-related featuresWho this book is forMastering Python Networking, Fourth edition is for network engineers, developers, and SREs who want to learn Python for network automation, programmability, monitoring, cloud, and data analysis. Network engineers who want to transition from manual to automation-based networks using the latest DevOps tools will also get a lot of useful information from this book. Basic familiarity with Python programming and networking-related concepts such as Transmission Control Protocol/Internet Protocol (TCP/IP) will be helpful in getting the most out of this book.
+--------------------------------------------------
+
+Book 04:
+Title: Red Hat Certified Specialist in Services Management and Automation EX358 Exam Guide
+Author(s): Eric McLeroy, Peter Sprygada
+---
+ISBN-10: 1803243694 - ISBN-13: 9781803243696 - ASIN: 1803235497
+Published Date: 2023-02-28
+---
+HB Blurb: Key FeaturesGet the EX358 certification with this easy-to-follow guide while preparing for real-life challengesLearn everything you need to know about Linux system administration and automation using Ansible 2.9Use practical use cases and exam-focused questions to prepare for the certification examWho this book is forThis book is for you if you want to advance your career by adding the essential Red Hat certificate to your resume. It will be particularly useful for system administrators responsible for managing large enterprise environments, network services and Red Hat Certified Engineers interested in becoming a Red Hat Certified Architect (RHCA). Before reading this book, you must have a working knowledge of Red Hat Enterprise Linux and Ansible Automation and command line usage of Red Hat Enterprise Linux systems administration.
+--------------------------------------------------
+
+Book 05:
+Title: Network Automation with Go
+Author(s): Nicolas Leiva, Michael Kashin
+---
+ISBN-10: 1800561016 - ISBN-13: 9781800561014 - ASIN: B0B3DV24ZS
+Published Date: 2023-01-05
+---
+HB Blurb: Key FeaturesA comprehensive guide to the world of modern network automationUse Go to build anything from repetitive task automation to complex distributed systemsOver 30 practical, ready-to-use sample programsWho this book is forThis book is for all network engineers, administrators, and other network practitioners looking to understand what network automation is and how the Go programming language can help develop network automation solutions. As the first part of the book offers a comprehensive overview of Go’s main features, this book is suitable for beginners with a solid grasp on programming basics.
+--------------------------------------------------
+
+Book 06:
+Title: Designing and Implementing Microsoft Azure Networking Solutions
+Author(s): David Okeyode
+---
+ISBN-10: 1803244178 - ISBN-13: 9781803244174 - ASIN: B0C3HHCS12
+Published Date: 2023-08-25
+---
+HB Blurb: Key FeaturesCreate and deploy a secure Azure network and implement dynamic routing and hybrid connectivityMaster Azure network design for performance, resilience, scalability, and securityEnhance your practical skills with hands-on labs aligned to the AZ-700 Network Engineer certificationWho this book is forWhether you're an Azure network engineer or a professional looking to enhance your expertise in designing and implementing scalable and secure network solutions, this book is an invaluable resource. A basic understanding of cloud solutions will help you to get the most out of this book.
+--------------------------------------------------
+
+Book 07:
+Title: Advanced Network Simulations Simplified
+Author(s): Dr Anil Kumar Rangisetti
+---
+ISBN-10: 1804610054 - ISBN-13: 9781804610053 - ASIN: 1804614459
+Published Date: 2023-04-07
+---
+HB Blurb: Key FeaturesExplore network simulation for development, testing, and evaluation activitiesUnderstand the key building blocks of simulation and evaluate network topologiesLearn how to set up and evaluate wired, Wi-Fi (802.11a/b/g/n/ac/ax), and 4G LTE networksWho this book is forThis book is primarily for network engineers, networking researchers, and undergraduates. Postgraduate students, researchers, and professors interested in network simulations will also find this book useful. A basic understanding of network simulation technology will be helpful in grasping the topics present in this book.
+--------------------------------------------------
+
+Book 08:
+Title: Mastering Palo Alto Networks - Second Edition
+Author(s): Tom Piens aka Piens aka 'reaper', Kim Wens aka 'kiwi'
+---
+ISBN-10: 1803233249 - ISBN-13: 9781803233246 - ASIN: 1803241411
+Published Date: 2022-06-08
+---
+HB Blurb: Key FeaturesUnderstand how to optimally use PAN-OS featuresBuild firewall solutions to safeguard local, cloud, and mobile networksProtect your infrastructure and users by implementing robust threat prevention solutionsWho this book is forThe book is for network and security professionals, and administrators who want to bring in the power of Palo Alto Networks and firewalls to secure their networks. Engineers should have a good grasp of networking and routing protocols, basic knowledge of stateful or next-generation firewalls is helpful but not required.
+--------------------------------------------------
+
+Book 09:
+Title: Microsoft 365 Administrator MS-102 Exam Guide
+Author(s): Aaron Guilmette
+---
+ISBN-10: 9781835083963 - ISBN-13: 183508396X - ASIN: 
+Published Date: 2023-12-20
+---
+HB Blurb: Key FeaturesNavigate exam topics easily with well-structured and informative contentAccess online practice tools to enhance exam readinessBoost exam confidence through expert tips and real-world insightsPurchase of the book unlocks access to web-based exam prep resources like mock exams, flashcards, exam tips, and a free eBook PDF.Who this book is forIf you’re looking to validate your skills in planning, deploying, and managing Microsoft 365 identity and security workloads, this book is for you. Ideal for IT professionals seeking the MS-102 certification, this book ensures success with clear guidance, practical insights, and hands-on exercises. Although not a pre-requisite, prior knowledge of configuring DNS records, experience of administering a Microsoft 365 tenant, and a high-level understanding of information protection concepts will be beneficial.
+--------------------------------------------------
+
+Book 10:
+Title: Mastering Windows Server 2022 - Fourth Edition
+Author(s): Jordan Krause
+---
+ISBN-10: 1837633428 - ISBN-13: 9781837633425 - ASIN: B0BW11M1DJ
+Published Date: 2023-05-26
+---
+HB Blurb: Key FeaturesDesign and implement Microsoft Server 2022 in an enterprise environment and use Windows Server to create secure and efficient networksConcentrated learning on Windows core infrastructure technologiesDiscover how to harden and secure your Windows Server infrastructureWho this book is forAnyone interested in Windows Server administration will benefit from this book. If you are proficient in Microsoft infrastructure technologies and have worked with prior versions of Windows Server, then there are some focused topics on the aspects that are brand new and only available in Server 2022. On the other hand, if you are currently in a desktop support role looking to advance, or fresh into the IT workforce, care was taken in the pages of this book to ensure that you will receive a rounded understanding of Windows Server core capabilities that translate into any environment
+--------------------------------------------------
+
+Book 11:
+Title: Python for Security and Networking - Third Edition
+Author(s): José Manuel Ortega
+---
+ISBN-10: 9781837637553 - ISBN-13: 1837637555 - ASIN: 
+Published Date: 2023-06-07
+---
+HB Blurb: Key FeaturesDiscover security techniques to protect your network and systems using PythonCreate scripts in Python to automate security and pentesting tasksAnalyze traffic in a network and extract information using PythonWho this book is forThis Python book is for network engineers, system administrators, and other security professionals looking to overcome common networking and security issues using Python. You will also find this book useful if you're an experienced programmer looking to explore Python’s full range of capabilities. A basic understanding of general programming structures as well as familiarity with the Python programming language is a prerequisite.
+--------------------------------------------------
+
+Book 12:
+Title: CompTIA A+ Practice Tests Core 1 (220-1101) and Core 2 (220-1102)
+Author(s): Ian Neil, Mark Birch
+---
+ISBN-10: 1837638691 - ISBN-13: 9781837638697 - ASIN: 1837633185
+Published Date: 2023-11-17
+---
+HB Blurb: Key FeaturesEnsure a comprehensive understanding of each exam domain with in-depth practiceEnhance your problem-solving skills by working with real-world scenariosAssess your exam readiness with mock exams for both Core 1 and Core 2Purchase of this book unlocks access to web-based exam prep resources including practice questions, flashcards, and exam tipsWho this book is forWhether you’re a student or a professional, if you’re on a mission to ace the CompTIA A+ exam, this book is for you. This book isn’t meant for teaching theory; instead, it will evaluate your retention of studied information and your exam readiness.
+--------------------------------------------------
+
+Book 13:
+Title: CompTIA A+ Practice Test Core 1 (220-1101)
+Author(s): Ian Neil, Mark Birch
+---
+ISBN-10: 1837637326 - ISBN-13: 9781837637324 - ASIN: 1837634726
+Published Date: 2023-09-28
+---
+HB Blurb: Key FeaturesConsolidate your knowledge of all the essential CompTIA A+ Core 1 exam topics and key definitionsGet a realistic feel for the test by taking a mock examGain a solid understanding of computer hardware to effectively solve a scenarioWho this book is forThis practice test book is for students and working professionals looking to pass the CompTIA A+ Core 1 (220-1101) exam who have already completed studying for this exam. The purpose of this book is not to teach you theory, but to check if you’ve retained the information that you’ve studied and if you’re ready to pass the exam.
+--------------------------------------------------
+
+Book 14:
+Title: CompTIA A+ Practice Test Core 2 (220-1102)
+Author(s): Mark Birch, Ian Neil
+---
+ISBN-10: 1837638691 - ISBN-13: 9781837638697 - ASIN: 1837638896
+Published Date: 2023-11-17
+---
+HB Blurb: Key FeaturesEnsure that you have a clear understanding of the certification syllabus and exam objectivesConsolidate your knowledge of all the essential CompTIA A+ Core 2 exam topics and key definitionsPrepare for the exam structure by answering questions that are frequently part of itWho this book is forCompTIA A+ Practice Test Core 2 (220-1102) is for students and working professionals looking to pass the CompTIA A+ Core 2 (220-1102) exam who have already completed studying for this exam. This book's purpose is not to teach theory, but to verify that you have retained the information that you’ve studied and ensure your current level of preparedness is sufficient to pass the exam.
+--------------------------------------------------
+
+Book 15:
+Title: Hands-On Network Programming with C
+Author(s): Lewis Van Winkle
+---
+ISBN-10: 1789344085 - ISBN-13: 9781789344080 - ASIN: 1789349869
+Published Date: 2019-05-13
+---
+HB Blurb: Key FeaturesApply your C and C++ programming skills to build powerful network applicationsGet to grips with a variety of network protocols that allow you to load web pages, send emails, and do much moreWrite portable network code for Windows, Linux, and macOSWho this book is forIf you're a developer or a system administrator who wants to get started with network programming, this book is for you. Basic knowledge of C programming is assumed.
+--------------------------------------------------
+
+Book 16:
+Title: Network Automation Cookbook
+Author(s): Karim Okasha
+---
+ISBN-10: 1789951879 - ISBN-13: 9781789951875 - ASIN: B07YSTPGRC
+Published Date: 2020-04-17
+---
+HB Blurb: Key FeaturesUse Ansible to automate network infrastructure with the help of step-by-step instructionsImplement network automation best practices to save cost, avoid critical errors, and reduce downtimeDeliver a robust automation framework by integrating Ansible with NAPALM, NetBox, and BatfishWho this book is forThis Ansible network automation book is for network and DevOps engineers interested in automating complex network tasks. Prior understanding of networking and basic Linux knowledge is required.
+--------------------------------------------------
+
+Book 17:
+Title: Learn Wireshark - Second Edition
+Author(s): Lisa Bock
+---
+ISBN-10: 1803234911 - ISBN-13: 9781803234915 - ASIN: B09W5VP2WK
+Published Date: 2022-08-05
+---
+HB Blurb: Key FeaturesGain a deeper understanding of common protocols so you can easily troubleshoot network issuesExplore ways to examine captures to recognize unusual traffic and possible network attacksLearn advanced techniques, create display and capture filters, and generate IO and stream graphsWho this book is forIf you are a network administrator, security analyst, student, or teacher and want to learn about effective packet analysis using Wireshark, then this book is for you. In order to get the most from this book, you should have basic knowledge of network fundamentals, devices, and protocols along with an understanding of different topologies.
+--------------------------------------------------
+
+Book 18:
+Title: Linux for Networking Professionals
+Author(s): Rob VandenBrink
+---
+ISBN-10: 1800204655 - ISBN-13: 9781800204652 - ASIN: B09BZTLRKY
+Published Date: 2021-11-11
+---
+HB Blurb: Key FeaturesLearn how to solve critical networking problems using real-world examplesConfigure common networking services step by step in an enterprise environmentDiscover how to build infrastructure with an eye toward defense against common attacksWho this book is forThis book is for IT and Windows professionals and admins looking for guidance in managing Linux-based networks. Basic knowledge of networking is necessary to get started with this book.
+--------------------------------------------------
+
+Book 19:
+Title: Mastering Palo Alto Networks
+Author(s): Tom Piens aka 'reaper'
+---
+ISBN-10: 9781803241418 - ISBN-13: 1803241411 - ASIN: B09WR2Q1BF
+Published Date: 2022-06-08
+---
+HB Blurb: Key FeaturesUnderstand how to optimally use PAN-OS featuresBuild firewall solutions to safeguard local, cloud, and mobile networksProtect your infrastructure and users by implementing robust threat prevention solutionsWho this book is forThis book is for network engineers, network security analysts, and security professionals who want to understand and deploy Palo Alto Networks in their infrastructure. Anyone looking for in-depth knowledge of Palo Alto Network technologies, including those who currently use Palo Alto Network products, will find this book useful. Intermediate-level network administration knowledge is necessary to get started with this cybersecurity book.
+--------------------------------------------------
+
+Book 20:
+Title: Mastering pfSense - Second Edition
+Author(s): David Zientara
+---
+ISBN-10: 1788993470 - ISBN-13: 9781788993470 - ASIN: B07BJKHS1W
+Published Date: 2018-05-09
+---
+HB Blurb: Key FeaturesYou can always do more to secure your software – so extend and customize your pfSense firewallBuild a high availability security system that’s fault-tolerant – and capable of blocking potential threatsPut the principles of better security into practice by implementing examples provided in the textWho this book is forThis book is for those with at least an intermediate understanding of networking. Prior knowledge of pfSense would be helpful but is not required. Those who have the resources to set up a pfSense firewall, either in a real or virtual environment, will especially benefit, as they will be able to follow along with the examples in the book.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Zabbix 6 IT Infrastructure Monitoring Cookbook - Second Edition
+Amazon.com: https://www.amazon.com/Zabbix-Infrastructure-Monitoring-Cookbook-maintaining-ebook/dp/B09M6VYG1P
+Amazon.co.uk: https://www.amazon.co.uk/Zabbix-Infrastructure-Monitoring-Cookbook-maintaining-ebook/dp/B09M6VYG1P
+Google Books: http://books.google.co.uk/books?id=gzllEAAAQBAJ&printsec=frontcover&dq=intitle:Zabbix+6+IT+Infrastructure+Monitoring+Cookbook+-+Second+Edition%2Binauthor:Nathan+Liefting,+Brian+van+Baekel,+Dmitry+Lambert&hl=&cd=1&source=gbs_api
+
+Book 02 - Google Cloud Certified Professional Cloud Network Engineer Guide
+Amazon.com: https://www.amazon.com/Google-Certified-Professional-Network-Engineer/dp/1801072698
+Amazon.co.uk: https://www.amazon.co.uk/Google-Certified-Professional-Network-Engineer/dp/1801072698
+Google Books: http://books.google.co.uk/books?id=HfNPEAAAQBAJ&printsec=frontcover&dq=intitle:Google+Cloud+Certified+Professional+Cloud+Network+Engineer+Guide%2Binauthor:Maurizio+Ipsale,+Mirko+Gilioli&hl=&cd=1&source=gbs_api
+
+Book 03 - Mastering Python Networking - Fourth Edition
+Amazon.com: https://www.amazon.com/Mastering-Python-Networking-frameworks-automation-ebook/dp/B0BLHJFK9G
+Amazon.co.uk: https://www.amazon.co.uk/Mastering-Python-Networking-frameworks-automation-ebook/dp/B0BLHJFK9G
+Google Books: http://books.google.co.uk/books?id=GPKnEAAAQBAJ&printsec=frontcover&dq=intitle:Mastering+Python+Networking+-+Fourth+Edition%2Binauthor:Eric+Chou&hl=&cd=1&source=gbs_api
+
+Book 04 - Red Hat Certified Specialist in Services Management and Automation EX358 Exam Guide
+Amazon.com: No Amazon.com URL found
+Amazon.co.uk: https://www.amazon.co.uk/Certified-Specialist-Services-Management-Automation/dp/1803235497
+Google Books: http://books.google.co.uk/books?id=3P2uEAAAQBAJ&printsec=frontcover&dq=intitle:Red+Hat+Certified+Specialist+in+Services+Management+and+Automation+EX358+Exam+Guide%2Binauthor:Eric+McLeroy,+Peter+Sprygada&hl=&cd=1&source=gbs_api
+
+Book 05 - Network Automation with Go
+Amazon.com: https://www.amazon.com/Network-Automation-operations-applications-programming-ebook/dp/B0B3DV24ZS
+Amazon.co.uk: https://www.amazon.co.uk/Network-Automation-operations-applications-programming-ebook/dp/B0B3DV24ZS
+Google Books: http://books.google.co.uk/books?id=SdOgEAAAQBAJ&printsec=frontcover&dq=intitle:Network+Automation+with+Go%2Binauthor:Nicolas+Leiva,+Michael+Kashin&hl=&cd=1&source=gbs_api
+
+Book 06 - Designing and Implementing Microsoft Azure Networking Solutions
+Amazon.com: No Amazon.com URL found
+Amazon.co.uk: https://www.amazon.co.uk/Designing-Implementing-Microsoft-Networking-Solutions-ebook/dp/B0C3HHCS12
+Google Books: http://books.google.co.uk/books?id=_4XPEAAAQBAJ&printsec=frontcover&dq=intitle:Designing+and+Implementing+Microsoft+Azure+Networking+Solutions%2Binauthor:David+Okeyode&hl=&cd=1&source=gbs_api
+
+Book 07 - Advanced Network Simulations Simplified
+Amazon.com: https://www.amazon.com/Advanced-Network-Simulations-Simplified-Practical/dp/1804614459
+Amazon.co.uk: https://www.amazon.co.uk/Advanced-Network-Simulations-Simplified-Practical/dp/1804614459
+Google Books: http://books.google.co.uk/books?id=CKqzEAAAQBAJ&pg=PP1&dq=intitle:Advanced+Network+Simulations+Simplified%2Binauthor:Dr+Anil+Kumar+Rangisetti&hl=&cd=1&source=gbs_api
+
+Book 08 - Mastering Palo Alto Networks - Second Edition
+Amazon.com: https://www.amazon.com/Mastering-Palo-Alto-Networks-infrastructure/dp/1803241411
+Amazon.co.uk: https://www.amazon.co.uk/Mastering-Palo-Alto-Networks-infrastructure-ebook/dp/B09WR2Q1BF
+Google Books: http://books.google.co.uk/books?id=FBZzEAAAQBAJ&pg=PP1&dq=intitle:Mastering+Palo+Alto+Networks+-+Second+Edition%2Binauthor:Tom+Piens+aka+Piens+aka+%27reaper%27,+Kim+Wens+aka+%27kiwi%27&hl=&cd=1&source=gbs_api
+
+Book 09 - Microsoft 365 Administrator MS-102 Exam Guide
+Amazon.com: https://www.amazon.com/Microsoft-Administrator-MS-102-Exam-Guide/dp/183508396X
+Amazon.co.uk: https://www.amazon.co.uk/Microsoft-Administrator-MS-102-Exam-Guide/dp/183508396X
+Google Books: http://books.google.co.uk/books?id=7cxi0AEACAAJ&dq=intitle:Microsoft+365+Administrator+MS-102+Exam+Guide%2Binauthor:Aaron+Guilmette&hl=&cd=1&source=gbs_api
+
+Book 10 - Mastering Windows Server 2022 - Fourth Edition
+Amazon.com: https://www.amazon.com/Mastering-Windows-Server-2022-administration-ebook/dp/B0BW11M1DJ
+Amazon.co.uk: https://www.amazon.co.uk/Mastering-Windows-Server-2022-administration-ebook/dp/B0BW11M1DJ
+Google Books: http://books.google.co.uk/books?id=w8nAEAAAQBAJ&printsec=frontcover&dq=intitle:Mastering+Windows+Server+2022+-+Fourth+Edition%2Binauthor:Jordan+Krause&hl=&cd=1&source=gbs_api
+
+Book 11 - Python for Security and Networking - Third Edition
+Amazon.com: https://www.amazon.com/Python-Security-Networking-Leverage-applications/dp/1837637555
+Amazon.co.uk: https://www.amazon.co.uk/Python-Security-Networking-Leverage-applications/dp/1837637555
+Google Books: http://books.google.co.uk/books?id=RXSjzwEACAAJ&dq=intitle:Python+for+Security+and+Networking+-+Third+Edition%2Binauthor:Jos%C3%A9+Manuel+Ortega&hl=&cd=1&source=gbs_api
+
+Book 12 - CompTIA A+ Practice Tests Core 1 (220-1101) and Core 2 (220-1102)
+Amazon.com: https://www.amazon.com/CompTIA-Practice-Tests-220-1101-220-1102/dp/1837633185
+Amazon.co.uk: No Amazon.co.uk URL found
+Google Books: http://books.google.co.uk/books?id=7nTkEAAAQBAJ&printsec=frontcover&dq=intitle:CompTIA+A%2B+Practice+Tests+Core+1+(220-1101)+and+Core+2+(220-1102)%2Binauthor:Ian+Neil,+Mark+Birch&hl=&cd=1&source=gbs_api
+
+Book 13 - CompTIA A+ Practice Test Core 1 (220-1101)
+Amazon.com: https://www.amazon.com/CompTIA-Practice-Test-Core-220-1101/dp/1837634726
+Amazon.co.uk: https://www.amazon.co.uk/CompTIA-Practice-Test-Core-220-1101/dp/1837634726
+Google Books: http://books.google.co.uk/books?id=bDPaEAAAQBAJ&printsec=frontcover&dq=intitle:CompTIA+A%2B+Practice+Test+Core+1+(220-1101)%2Binauthor:Ian+Neil,+Mark+Birch&hl=&cd=1&source=gbs_api
+
+Book 14 - CompTIA A+ Practice Test Core 2 (220-1102)
+Amazon.com: https://www.amazon.com/CompTIA-Practice-Test-Core-220-1102/dp/1837638896
+Amazon.co.uk: https://www.amazon.co.uk/CompTIA-Practice-Test-Core-220-1102/dp/1837638896
+Google Books: http://books.google.co.uk/books?id=7nTkEAAAQBAJ&printsec=frontcover&dq=intitle:CompTIA+A%2B+Practice+Test+Core+2+(220-1102)%2Binauthor:Mark+Birch,+Ian+Neil&hl=&cd=1&source=gbs_api
+
+Book 15 - Hands-On Network Programming with C
+Amazon.com: https://www.amazon.com/Hands-Network-Programming-programming-optimized/dp/1789349869
+Amazon.co.uk: https://www.amazon.co.uk/Hands-Network-Programming-programming-optimized-ebook/dp/B07PSJKHKJ
+Google Books: http://books.google.co.uk/books?id=gc6XDwAAQBAJ&printsec=frontcover&dq=intitle:Hands-On+Network+Programming+with+C%2Binauthor:Lewis+Van+Winkle&hl=&cd=1&source=gbs_api
+
+Book 16 - Network Automation Cookbook
+Amazon.com: https://www.amazon.com/Network-Automation-Cookbook-actionable-automate-ebook/dp/B07YSTPGRC
+Amazon.co.uk: https://www.amazon.co.uk/Network-Automation-Cookbook-actionable-automate-ebook/dp/B07YSTPGRC
+Google Books: http://books.google.co.uk/books?id=-d_dDwAAQBAJ&printsec=frontcover&dq=intitle:Network+Automation+Cookbook%2Binauthor:Karim+Okasha&hl=&cd=1&source=gbs_api
+
+Book 17 - Learn Wireshark - Second Edition
+Amazon.com: https://www.amazon.com/Learn-Wireshark-definitive-analyzing-troubleshooting-ebook/dp/B09W5VP2WK
+Amazon.co.uk: https://www.amazon.co.uk/Learn-Wireshark-definitive-analyzing-troubleshooting-ebook/dp/B09W5VP2WK
+Google Books: http://books.google.co.uk/books?id=4HF5EAAAQBAJ&printsec=frontcover&dq=intitle:Learn+Wireshark+-+Second+Edition%2Binauthor:Lisa+Bock&hl=&cd=1&source=gbs_api
+
+Book 18 - Linux for Networking Professionals
+Amazon.com: https://www.amazon.com/Linux-Networking-Professionals-configure-enterprise-ebook/dp/B09BZTLRKY
+Amazon.co.uk: https://www.amazon.co.uk/Linux-Networking-Professionals-configure-enterprise/dp/1800202393
+Google Books: http://books.google.co.uk/books?id=eJBDEAAAQBAJ&printsec=frontcover&dq=intitle:Linux+for+Networking+Professionals%2Binauthor:Rob+VandenBrink&hl=&cd=1&source=gbs_api
+
+Book 19 - Mastering Palo Alto Networks
+Amazon.com: https://www.amazon.com/Mastering-Palo-Alto-Networks-infrastructure/dp/1803241411
+Amazon.co.uk: https://www.amazon.co.uk/Mastering-Palo-Alto-Networks-infrastructure-ebook/dp/B09WR2Q1BF
+Google Books: http://books.google.co.uk/books?id=zR4gzwEACAAJ&dq=intitle:Mastering+Palo+Alto+Networks%2Binauthor:Tom+Piens+aka+%27reaper%27&hl=&cd=1&source=gbs_api
+
+Book 20 - Mastering pfSense - Second Edition
+Amazon.com: https://www.amazon.com/Mastering-pfSense-monitor-premise-network-ebook/dp/B07BJKHS1W
+Amazon.co.uk: https://www.amazon.co.uk/Mastering-pfSense-monitor-premise-network-ebook/dp/B07BJKHS1W
+Google Books: http://books.google.co.uk/books?id=T39aDwAAQBAJ&printsec=frontcover&dq=intitle:Mastering+pfSense+-+Second+Edition%2Binauthor:David+Zientara&hl=&cd=1&source=gbs_api
+

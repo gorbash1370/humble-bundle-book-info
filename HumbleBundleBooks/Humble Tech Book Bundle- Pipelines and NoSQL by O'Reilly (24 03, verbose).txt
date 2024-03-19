@@ -1,0 +1,497 @@
+Humble Tech Book Bundle- Pipelines and NoSQL by O'Reilly - O'Reilly
+Processing date: 2024-03-19
+Data retrieved from: https://www.humblebundle.com/books/pipelines-and-nosql-oreilly-books
+
+Book 01 - Deciphering Data Architectures - James Serra - None found out of 5 (None found reviews)
+Book 02 - Designing Machine Learning Systems - Chip Huyen - 4.6 out of 5 (504 reviews)
+Book 03 - Data Pipelines Pocket Reference - James Densmore - 4.5 out of 5 (338 reviews)
+Book 04 - Data Quality Engineering in Financial Services - Brian Buzzelli - 4.3 out of 5 (5 reviews)
+Book 05 - Data Science: The Hard Parts - Daniel Vaughan - 5 out of 5 (1 reviews)
+Book 06 - MongoDB: The Definitive Guide - 3rd Edition - Shannon Bradshaw, Eoin Brazil, Kristina Chodorow - 4.6 out of 5 (210 reviews)
+Book 07 - Practical Data Privacy - Katharine Jarmul - 4.3 out of 5 (9 reviews)
+Book 08 - Data Algorithms with Spark - Mahmoud Parsian - 4.1 out of 5 (14 reviews)
+Book 09 - Foundations of Scalable Systems - Ian Gorton - 4.5 out of 5 (20 reviews)
+Book 10 - Football Analytics with Python & R - Eric A. Eager, Richard A. Erickson - 4.2 out of 5 (21 reviews)
+Book 11 - Cost-Effective Data Pipelines - Sev Leonard - None found out of 5 (None found reviews)
+Book 12 - Building an Anonymization Pipeline - Luk Arbuckle, Khaled El Emam - 3.8 out of 5 (12 reviews)
+Book 13 - Communicating with Data - Carl Allchin - 4.3 out of 5 (7 reviews)
+Book 14 - Scaling Python with Ray - Holden Karau, Boris Lublinsky - 5 out of 5 (2 reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Deciphering Data Architectures
+Author(s): James Serra
+---
+ISBN-10: 1098150732 - ISBN-13: 9781098150730 - ASIN: B0CV4PGRMF
+Published Date: 2024-02-06
+Page Count: 278
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=K0_zEAAAQBAJ&printsec=frontcover&dq=intitle:Deciphering+Data+Architectures%2Binauthor:James+Serra&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Deciphering-Data-Architectures-James-Serra-ebook/dp/B0CV4PGRMF
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Deciphering-Data-Architectures-James-Serra-ebook/dp/B0CV4PGRMF
+---
+HB Blurb: Data fabric, data lakehouse, and data mesh have recently appeared as viable alternatives to the modern data warehouse. These new architectures have solid benefits, but they're also surrounded by a lot of hyperbole and confusion. This practical book provides a guided tour of these architectures to help data professionals understand the pros and cons of each. James Serra, big data and data warehousing solution architect at Microsoft, examines common data architecture concepts, including how data warehouses have had to evolve to work with data lake features. You'll learn what data lakehouses can help you achieve, as well as how to distinguish data mesh hype from reality. Best of all, you'll be able to determine the most appropriate data architecture for your needs. With this book, you'll:
+
+Gain a working understanding of several data architectures
+Learn the strengths and weaknesses of each approach
+Distinguish data architecture theory from reality
+Pick the best architecture for your use case
+Understand the differences between data warehouses and data lakes
+Learn common data architecture concepts to help you build better solutions
+Explore the historical evolution and characteristics of data architectures
+Learn essentials of running an architecture design session, team organization, and project success factors
+
+Free from product discussions, this book will serve as a timeless resource for years to come.
+--------------------------------------------------
+
+Book 02:
+Title: Designing Machine Learning Systems
+Author(s): Chip Huyen
+---
+ISBN-10: 1098107934 - ISBN-13: 9781098107932 - ASIN: B0B1LGL2SR
+Published Date: 2022-05-17
+Page Count: 389
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=EzhwEAAAQBAJ&printsec=frontcover&dq=intitle:Designing+Machine+Learning+Systems%2Binauthor:Chip+Huyen&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $34.67Save $22.32 (39%)
+Amazon.com Reviews: 4.6 of 5 (504 reviews)
+Amazon.com URL: https://www.amazon.com/Designing-Machine-Learning-Systems-Huyen-ebook/dp/B0B1LGL2SR
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (272 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Designing-Machine-Learning-Systems-Huyen-ebook/dp/B0B1LGL2SR
+---
+HB Blurb: Machine learning systems are both complex and unique. Complex because they consist of many different components and involve many different stakeholders. Unique because they're data dependent, with data varying wildly from one use case to the next. In this book, you'll learn a holistic approach to designing ML systems that are reliable, scalable, maintainable, and adaptive to changing environments and business requirements.
+Author Chip Huyen, co-founder of Claypot AI, considers each design decision--such as how to process and create training data, which features to use, how often to retrain models, and what to monitor--in the context of how it can help your system as a whole achieve its objectives. The iterative framework in this book uses actual case studies backed by ample references.
+This book will help you tackle scenarios such as:
+
+Engineering data and choosing the right metrics to solve a business problem
+Automating the process for continually developing, evaluating, deploying, and updating models
+Developing a monitoring system to quickly detect and address issues your models might encounter in production
+Architecting an ML platform that serves across use cases
+Developing responsible ML systems
+--------------------------------------------------
+
+Book 03:
+Title: Data Pipelines Pocket Reference
+Author(s): James Densmore
+---
+ISBN-10: 1492087807 - ISBN-13: 9781492087809 - ASIN: B08WGSM9CJ
+Published Date: 2021-02-10
+Page Count: 277
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=SxgcEAAAQBAJ&printsec=frontcover&dq=intitle:Data+Pipelines+Pocket+Reference%2Binauthor:James+Densmore&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $11.99Save $14.00 (54%)
+Amazon.com Reviews: 4.5 of 5 (338 reviews)
+Amazon.com URL: https://www.amazon.com/Data-Pipelines-Pocket-Reference-Processing-ebook/dp/B08WGSM9CJ
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (286 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Data-Pipelines-Pocket-Reference-Processing/dp/1492087831
+---
+HB Blurb: Data pipelines are the foundation for success in data analytics. Moving data from numerous diverse sources and transforming it to provide context is the difference between having data and actually gaining value from it. This pocket reference defines data pipelines and explains how they work in today's modern data stack.
+You'll learn common considerations and key decision points when implementing pipelines, such as batch versus streaming data ingestion and build versus buy. This book addresses the most common decisions made by data professionals and discusses foundational concepts that apply to open source frameworks, commercial products, and homegrown solutions.
+You'll learn:
+
+What a data pipeline is and how it works
+How data is moved and processed on modern data infrastructure, including cloud platforms
+Common tools and products used by data engineers to build pipelines
+How pipelines support analytics and reporting needs
+Considerations for pipeline maintenance, testing, and alerting
+--------------------------------------------------
+
+Book 04:
+Title: Data Quality Engineering in Financial Services
+Author(s): Brian Buzzelli
+---
+ISBN-10: 109813690X - ISBN-13: 9781098136901 - ASIN: B0BJTVVT3S
+Published Date: 2022-10-19
+Page Count: 177
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=k_-VEAAAQBAJ&printsec=frontcover&dq=intitle:Data+Quality+Engineering+in+Financial+Services%2Binauthor:Brian+Buzzelli&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $25.70Save $31.29 (55%)
+Amazon.com Reviews: 4.3 of 5 (5 reviews)
+Amazon.com URL: https://www.amazon.com/Data-Quality-Engineering-Financial-Services-ebook/dp/B0BJTVVT3S
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4 of 5 (3 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Data-Quality-Engineering-Financial-Services-ebook/dp/B0BJTVVT3S
+---
+HB Blurb: Data quality will either make you or break you in the financial services industry. Missing prices, wrong market values, trading violations, client performance restatements, and incorrect regulatory filings can all lead to harsh penalties, lost clients, and financial disaster. This practical guide provides data analysts, data scientists, and data practitioners in financial services firms with the framework to apply manufacturing principles to financial data management, understand data dimensions, and engineer precise data quality tolerances at the datum level and integrate them into your data processing pipelines.You'll get invaluable advice on how to:Evaluate data dimensions and how they apply to different data types and use casesDetermine data quality tolerances for your data quality specificationChoose the points along the data processing pipeline where data quality should be assessed and measuredApply tailored data governance frameworks within a business or technical function or across an organizationPrecisely align data with applications and data processing pipelinesAnd more
+--------------------------------------------------
+
+Book 05:
+Title: Data Science: The Hard Parts
+Author(s): Daniel Vaughan
+---
+ISBN-10: 1098146441 - ISBN-13: 9781098146443 - ASIN: B0CMBTYCRF
+Published Date: 2023-11
+Page Count: 257
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=FpDgEAAAQBAJ&printsec=frontcover&dq=intitle:Data+Science:+The+Hard+Parts%2Binauthor:Daniel+Vaughan&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $41.99Save $15.00 (26%)
+Amazon.com Reviews: 5 of 5 (1 reviews)
+Amazon.com URL: https://www.amazon.com/Data-Science-Parts-Daniel-Vaughan-ebook/dp/B0CMBTYCRF
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 0 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Data-Science-Parts-Daniel-Vaughan-ebook/dp/B0CMBTYCRF
+---
+HB Blurb: This practical guide provides a collection of techniques and best practices that are generally overlooked in most data engineering and data science pedagogy. A common misconception is that great data scientists are experts in the ""big themes"" of the discipline—machine learning and programming. But most of the time" these tools can only take us so far. In practice the smaller tools and skills really separate a great data scientist from a not-so-great one.Taken as a whole the lessons in this book make the difference between an average data scientist candidate and a qualified data scientist working in the field. Author Daniel Vaughan has collected extended and used these skills to create value and train data scientists from different companies and industries.With this book you will:Understand how data science creates valueDeliver compelling narratives to sell your data science projectBuild a business case using unit economics principlesCreate new features for a ML model using storytellingLearn how to decompose KPIsPerform growth decompositions to find root causes for changes in a metricDaniel Vaughan is head of data at Clip "the leading paytech company in Mexico. He's the author of Analytical Skills for AI and Data Science (O'Reilly).
+--------------------------------------------------
+
+Book 06:
+Title: MongoDB: The Definitive Guide - 3rd Edition
+Author(s): Shannon Bradshaw, Eoin Brazil, Kristina Chodorow
+---
+ISBN-10: 1491954418 - ISBN-13: 9781491954416 - ASIN: 1491954469
+Published Date: 2019-12-09
+Page Count: 544
+---
+Google Books Price: GBP 40.99
+Google Books URL: http://books.google.co.uk/books?id=vq_CDwAAQBAJ&printsec=frontcover&dq=intitle:MongoDB:+The+Definitive+Guide+-+3rd+Edition%2Binauthor:Shannon+Bradshaw,+Eoin+Brazil,+Kristina+Chodorow&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (210 reviews)
+Amazon.com URL: https://www.amazon.com/MongoDB-Definitive-Powerful-Scalable-Storage/dp/1491954469
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (169 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/MongoDB-Definitive-Guide-Shannon-Bradshaw/dp/1491954469
+---
+HB Blurb: Manage your data with a system designed to support modern application development. Updated for MongoDB 4.2, the third edition of this authoritative and accessible guide shows you the advantages of using document-oriented databases. You'll learn how this secure, high-performance system enables flexible data models, high availability, and horizontal scalability.
+Authors Shannon Bradshaw, Eoin Brazil, and Kristina Chodorow provide guidance for database developers, advanced configuration for system administrators, and use cases for a variety of projects. NoSQL newcomers and experienced MongoDB users will find updates on querying, indexing, aggregation, transactions, replica sets, ops management, sharding and data administration, durability, monitoring, and security.
+In six parts, this book shows you how to:
+
+Work with MongoDB, perform write operations, find documents, and create complex queries
+Index collections, aggregate data, and use transactions for your application
+Configure a local replica set and learn how replication interacts with your application
+Set up cluster components and choose a shard key for a variety of applications
+Explore aspects of application administration and configure authentication and authorization
+Use stats when monitoring, back up and restore deployments, and use system settings when deploying MongoDB
+--------------------------------------------------
+
+Book 07:
+Title: Practical Data Privacy
+Author(s): Katharine Jarmul
+---
+ISBN-10: 1098129431 - ISBN-13: 9781098129439 - ASIN: B0C31N51RY
+Published Date: 2023-04-19
+Page Count: 345
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=8YC6EAAAQBAJ&printsec=frontcover&dq=intitle:Practical+Data+Privacy%2Binauthor:Katharine+Jarmul&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $24.38Save $32.61 (57%)
+Amazon.com Reviews: 4.3 of 5 (9 reviews)
+Amazon.com URL: https://www.amazon.com/Practical-Data-Privacy-Katharine-Jarmul-ebook/dp/B0C31N51RY
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (6 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Practical-Data-Privacy-Enhancing-Security/dp/1098129466
+---
+HB Blurb: Between major privacy regulations like the GDPR and CCPA and expensive and notorious data breaches, there has never been so much pressure to ensure data privacy. Unfortunately, integrating privacy into data systems is still complicated. This essential guide will give you a fundamental understanding of modern privacy building blocks, like differential privacy, federated learning, and encrypted computation. Based on hard-won lessons, this book provides solid advice and best practices for integrating breakthrough privacy-enhancing technologies into production systems.
+Practical Data Privacy answers important questions such as:
+
+What do privacy regulations like GDPR and CCPA mean for my data workflows and data science use cases?
+What does "anonymized data" really mean? How do I actually anonymize data?
+How does federated learning and analysis work?
+Homomorphic encryption sounds great, but is it ready for use?
+How do I compare and choose the best privacy-preserving technologies and methods? Are there open-source libraries that can help?
+How do I ensure that my data science projects are secure by default and private by design?
+How do I work with governance and infosec teams to implement internal policies appropriately?
+--------------------------------------------------
+
+Book 08:
+Title: Data Algorithms with Spark
+Author(s): Mahmoud Parsian
+---
+ISBN-10: 149208235X - ISBN-13: 9781492082354 - ASIN: 1492082384
+Published Date: 2022-04-08
+Page Count: 438
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=V0dpEAAAQBAJ&printsec=frontcover&dq=intitle:Data+Algorithms+with+Spark%2Binauthor:Mahmoud+Parsian&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.1 of 5 (14 reviews)
+Amazon.com URL: https://www.amazon.com/Data-Algorithms-Spark-Recipes-Patterns/dp/1492082384
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (7 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Data-Algorithms-Spark-Mahmoud-Parsian-ebook/dp/B09XJMKBSC
+---
+HB Blurb: Apache Spark's speed, ease of use, sophisticated analytics, and multilanguage support makes practical knowledge of this cluster-computing framework a required skill for data engineers and data scientists. With this hands-on guide, anyone looking for an introduction to Spark will learn practical algorithms and examples using PySpark.
+In each chapter, author Mahmoud Parsian shows you how to solve a data problem with a set of Spark transformations and algorithms. You'll learn how to tackle problems involving ETL, design patterns, machine learning algorithms, data partitioning, and genomics analysis. Each detailed recipe includes PySpark algorithms using the PySpark driver and shell script.
+With this book, you will:
+
+
+Learn how to select Spark transformations for optimized solutions
+Explore powerful transformations and reductions including reduceByKey(), combineByKey(), and mapPartitions()
+Understand data partitioning for optimized queries
+Build and apply a model using PySpark design patterns
+Apply motif-finding algorithms to graph data
+Analyze graph data by using the GraphFrames API
+Apply PySpark algorithms to clinical and genomics data
+Learn how to use and apply feature engineering in ML algorithms
+Understand and use practical and pragmatic data design patterns
+--------------------------------------------------
+
+Book 09:
+Title: Foundations of Scalable Systems
+Author(s): Ian Gorton
+---
+ISBN-10: 1098106016 - ISBN-13: 9781098106010 - ASIN: B0B5JZVFSB
+Published Date: 2022-06-30
+Page Count: 339
+---
+Google Books Price: GBP 47.99
+Google Books URL: http://books.google.co.uk/books?id=aCt4EAAAQBAJ&printsec=frontcover&dq=intitle:Foundations+of+Scalable+Systems%2Binauthor:Ian+Gorton&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $41.99Save $15.00 (26%)
+Amazon.com Reviews: 4.5 of 5 (20 reviews)
+Amazon.com URL: https://www.amazon.com/Foundations-Scalable-Systems-Ian-Gorton-ebook/dp/B0B5JZVFSB
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.1 of 5 (10 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Foundations-Scalable-Systems-Ian-Gorton-ebook/dp/B0B5JZVFSB
+---
+HB Blurb: As the digital economy changes the rules of the game for enterprises, the role of software and IT architects is also transforming. Rather than focus on technical decisions alone, architects and senior technologists need to combine organizational and technical knowledge to effect change in their company's structure and processes. To accomplish that, they need to connect the IT engine room to the penthouse, where the business strategy is defined.In this guide, author Gregor Hohpe shares real-world advice and hard-learned lessons from actual IT transformations. His anecdotes help architects, senior developers, and other IT professionals prepare for a more complex but rewarding role in the enterprise.This book is ideal for:
+
+Software architects and senior developers looking to shape the company's technology direction or assist in an organizational transformation
+Enterprise architects and senior technologists searching for practical advice on how to navigate technical and organizational topics
+CTOs and senior technical architects who are devising an IT strategy that impacts the way the organization works
+IT managers who want to learn what's worked and what hasn't in large-scale transformation
+--------------------------------------------------
+
+Book 10:
+Title: Football Analytics with Python & R
+Author(s): Eric A. Eager, Richard A. Erickson
+---
+ISBN-10: 1492099589 - ISBN-13: 9781492099581 - ASIN: 1492099627
+Published Date: 2023-08-15
+Page Count: 361
+---
+Google Books Price: GBP 40.99
+Google Books URL: http://books.google.co.uk/books?id=gRzREAAAQBAJ&printsec=frontcover&dq=intitle:Football+Analytics+with+Python+%26+R%2Binauthor:Eric+A.+Eager,+Richard+A.+Erickson&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $41.99Save $15.00 (26%)
+Amazon.com Reviews: 4.2 of 5 (21 reviews)
+Amazon.com URL: https://www.amazon.com/Football-Analytics-Python-Learning-Science/dp/1492099627
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.2 of 5 (19 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Football-Analytics-Python-Learning-Science/dp/1492099627
+---
+HB Blurb: Baseball is not the only sport to use "moneyball." American football teams, fantasy football players, fans, and gamblers are increasingly using data to gain an edge on the competition. Professional and college teams use data to help identify team needs and select players to fill those needs. Fantasy football players and fans use data to try to defeat their friends, while sports bettors use data in an attempt to defeat the sportsbooks.
+In this concise book, Eric Eager and Richard Erickson provide a clear introduction to using statistical models to analyze football data using both Python and R. Whether your goal is to qualify for an entry-level football analyst position, dominate your fantasy football league, or simply learn R and Python with fun example cases, this book is your starting place.
+Through case studies in both Python and R, you'll learn to:
+
+
+Obtain NFL data from Python and R packages and web scraping
+Visualize and explore data
+Apply regression models to play-by-play data
+Extend regression models to classification problems in football
+Apply data science to sports betting with individual player props
+Understand player athletic attributes using multivariate statistics
+--------------------------------------------------
+
+Book 11:
+Title: Cost-Effective Data Pipelines
+Author(s): Sev Leonard
+---
+ISBN-10: 1492098604 - ISBN-13: 9781492098607 - ASIN: B0CBT3BH5Q
+Published Date: 2023-07-13
+Page Count: 283
+---
+Google Books Price: GBP 40.99
+Google Books URL: http://books.google.co.uk/books?id=mEHLEAAAQBAJ&printsec=frontcover&dq=intitle:Cost-Effective+Data+Pipelines%2Binauthor:Sev+Leonard&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $42.99Save $14.00 (25%)
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Cost-Effective-Data-Pipelines-Sev-Leonard-ebook/dp/B0CBT3BH5Q
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Cost-Effective-Data-Pipelines-Sev-Leonard-ebook/dp/B0CBT3BH5Q
+---
+HB Blurb: The low cost of getting started with cloud services can easily evolve into a significant expense down the road. That's challenging for teams developing data pipelines, particularly when rapid changes in technology and workload require a constant cycle of redesign. How do you deliver scalable, highly available products while keeping costs in check?
+With this practical guide, author Sev Leonard provides a holistic approach to designing scalable data pipelines in the cloud. Intermediate data engineers, software developers, and architects will learn how to navigate cost/performance trade-offs and how to choose and configure compute and storage. You'll also pick up best practices for code development, testing, and monitoring.
+By focusing on the entire design process, you'll be able to deliver cost-effective, high-quality products. This book helps you:
+Reduce cloud spend with lower cost cloud service offerings and smart design strategies Minimize waste without sacrificing performance by rightsizing compute resources Drive pipeline evolution, head off performance issues, and quickly debug with effective monitoring Set up development and test environments that minimize cloud service dependencies Create data pipeline code bases that are testable and extensible, fostering rapid development and evolution Improve data quality and pipeline operation through validation and testing
+--------------------------------------------------
+
+Book 12:
+Title: Building an Anonymization Pipeline
+Author(s): Luk Arbuckle, Khaled El Emam
+---
+ISBN-10: 1492053384 - ISBN-13: 9781492053385 - ASIN: B0872KMPNF
+Published Date: 2020-04-13
+Page Count: 186
+---
+Google Books Price: GBP 34.5
+Google Books URL: http://books.google.co.uk/books?id=fZbcDwAAQBAJ&printsec=frontcover&dq=intitle:Building+an+Anonymization+Pipeline%2Binauthor:Luk+Arbuckle,+Khaled+El+Emam&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $30.87Save $25.12 (45%)
+Amazon.com Reviews: 3.8 of 5 (12 reviews)
+Amazon.com URL: https://www.amazon.com/Building-Anonymization-Pipeline-Creating-Safe-ebook/dp/B0872KMPNF
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.9 of 5 (13 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Building-Anonymization-Pipeline-Creating-Safe/dp/1492053430
+---
+HB Blurb: How can you use data in a way that protects individual privacy but still provides useful and meaningful analytics? With this practical book, data architects and engineers will learn how to establish and integrate secure, repeatable anonymization processes into their data flows and analytics in a sustainable manner.Luk Arbuckle and Khaled El Emam from Privacy Analytics explore end-to-end solutions for anonymizing device and IoT data, based on collection models and use cases that address real business needs. These examples come from some of the most demanding data environments, such as healthcare, using approaches that have withstood the test of time.Create anonymization solutions diverse enough to cover a spectrum of use casesMatch your solutions to the data you use, the people you share it with, and your analysis goalsBuild anonymization pipelines around various data collection models to cover different business needsGenerate an anonymized version of original data or use an analytics platform to generate anonymized outputsExamine the ethical issues around the use of anonymized data
+--------------------------------------------------
+
+Book 13:
+Title: Communicating with Data
+Author(s): Carl Allchin
+---
+ISBN-10: 1098101820 - ISBN-13: 9781098101824 - ASIN: B09HNFL31Q
+Published Date: 2021-10
+Page Count: 341
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=-eZFEAAAQBAJ&printsec=frontcover&dq=intitle:Communicating+with+Data%2Binauthor:Carl+Allchin&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $41.79Save $26.20 (39%)
+Amazon.com Reviews: 4.3 of 5 (7 reviews)
+Amazon.com URL: https://www.amazon.com/Communicating-Data-Carl-Allchin-ebook/dp/B09HNFL31Q
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (8 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Communicating-Data-Making-Your-Case/dp/1098101855
+---
+HB Blurb: Data is a fantastic raw resource for powering change in an organization, but all too often the people working in those organizations don't have the necessary skills to communicate with data effectively. With this practical book, subject matter experts will learn ways to develop strong, persuasive points when presenting data to different groups in their organizations.
+Author Carl Allchin shows anyone how to find data sources and develop data analytics, and teaches those with more data expertise how to visualize data to convey findings to key business leaders more effectively. Once both your business and data experts possess the skills to work with data and interpret its significance, you can deal with questions and challenges in departments across your organization.
+
+Learn the fundamental data skills required to work with data
+Use data visualization to influence change in your organization
+Learn how to apply data techniques to effectively work with data end to end
+Understand how to communicate data points clearly and persuasively
+Appreciate why different stakeholders often have divergent needs and views
+Create a playbook for using data with different departments
+--------------------------------------------------
+
+Book 14:
+Title: Scaling Python with Ray
+Author(s): Holden Karau, Boris Lublinsky
+---
+ISBN-10: 1098118774 - ISBN-13: 9781098118778 - ASIN: 1098118804
+Published Date: 2022-11-29
+Page Count: 269
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=I4meEAAAQBAJ&pg=PP2&dq=intitle:Scaling+Python+with+Ray%2Binauthor:Holden+Karau,+Boris+Lublinsky&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (2 reviews)
+Amazon.com URL: https://www.amazon.com/Scaling-Python-Ray-Adventures-Serverless/dp/1098118804
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Scaling-Python-Ray-Adventures-Serverless/dp/1098118804
+---
+HB Blurb: Serverless computing enables developers to concentrate solely on their applications rather than worry about where they've been deployed. With the Ray general-purpose serverless implementation in Python, programmers and data scientists can hide servers, implement stateful applications, support direct communication between tasks, and access hardware accelerators.
+In this book, experienced software architecture practitioners Holden Karau and Boris Lublinsky show you how to scale existing Python applications and pipelines, allowing you to stay in the Python ecosystem while reducing single points of failure and manual scheduling. Scaling Python with Ray is ideal for software architects and developers eager to explore successful case studies and learn more about decision and measurement effectiveness.
+If your data processing or server application has grown beyond what a single computer can handle, this book is for you. You'll explore distributed processing (the pure Python implementation of serverless) and learn how to:
+
+Implement stateful applications with Ray actors
+Build workflow management in Ray
+Use Ray as a unified system for batch and stream processing
+Apply advanced data processing with Ray
+Build microservices with Ray
+Implement reliable Ray applications
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Deciphering Data Architectures
+Amazon.com: https://www.amazon.com/Deciphering-Data-Architectures-James-Serra-ebook/dp/B0CV4PGRMF
+Amazon.co.uk: https://www.amazon.co.uk/Deciphering-Data-Architectures-James-Serra-ebook/dp/B0CV4PGRMF
+Google Books: http://books.google.co.uk/books?id=K0_zEAAAQBAJ&printsec=frontcover&dq=intitle:Deciphering+Data+Architectures%2Binauthor:James+Serra&hl=&cd=1&source=gbs_api
+
+Book 02 - Designing Machine Learning Systems
+Amazon.com: https://www.amazon.com/Designing-Machine-Learning-Systems-Huyen-ebook/dp/B0B1LGL2SR
+Amazon.co.uk: https://www.amazon.co.uk/Designing-Machine-Learning-Systems-Huyen-ebook/dp/B0B1LGL2SR
+Google Books: http://books.google.co.uk/books?id=EzhwEAAAQBAJ&printsec=frontcover&dq=intitle:Designing+Machine+Learning+Systems%2Binauthor:Chip+Huyen&hl=&cd=1&source=gbs_api
+
+Book 03 - Data Pipelines Pocket Reference
+Amazon.com: https://www.amazon.com/Data-Pipelines-Pocket-Reference-Processing-ebook/dp/B08WGSM9CJ
+Amazon.co.uk: https://www.amazon.co.uk/Data-Pipelines-Pocket-Reference-Processing/dp/1492087831
+Google Books: http://books.google.co.uk/books?id=SxgcEAAAQBAJ&printsec=frontcover&dq=intitle:Data+Pipelines+Pocket+Reference%2Binauthor:James+Densmore&hl=&cd=1&source=gbs_api
+
+Book 04 - Data Quality Engineering in Financial Services
+Amazon.com: https://www.amazon.com/Data-Quality-Engineering-Financial-Services-ebook/dp/B0BJTVVT3S
+Amazon.co.uk: https://www.amazon.co.uk/Data-Quality-Engineering-Financial-Services-ebook/dp/B0BJTVVT3S
+Google Books: http://books.google.co.uk/books?id=k_-VEAAAQBAJ&printsec=frontcover&dq=intitle:Data+Quality+Engineering+in+Financial+Services%2Binauthor:Brian+Buzzelli&hl=&cd=1&source=gbs_api
+
+Book 05 - Data Science: The Hard Parts
+Amazon.com: https://www.amazon.com/Data-Science-Parts-Daniel-Vaughan-ebook/dp/B0CMBTYCRF
+Amazon.co.uk: https://www.amazon.co.uk/Data-Science-Parts-Daniel-Vaughan-ebook/dp/B0CMBTYCRF
+Google Books: http://books.google.co.uk/books?id=FpDgEAAAQBAJ&printsec=frontcover&dq=intitle:Data+Science:+The+Hard+Parts%2Binauthor:Daniel+Vaughan&hl=&cd=1&source=gbs_api
+
+Book 06 - MongoDB: The Definitive Guide - 3rd Edition
+Amazon.com: https://www.amazon.com/MongoDB-Definitive-Powerful-Scalable-Storage/dp/1491954469
+Amazon.co.uk: https://www.amazon.co.uk/MongoDB-Definitive-Guide-Shannon-Bradshaw/dp/1491954469
+Google Books: http://books.google.co.uk/books?id=vq_CDwAAQBAJ&printsec=frontcover&dq=intitle:MongoDB:+The+Definitive+Guide+-+3rd+Edition%2Binauthor:Shannon+Bradshaw,+Eoin+Brazil,+Kristina+Chodorow&hl=&cd=1&source=gbs_api
+
+Book 07 - Practical Data Privacy
+Amazon.com: https://www.amazon.com/Practical-Data-Privacy-Katharine-Jarmul-ebook/dp/B0C31N51RY
+Amazon.co.uk: https://www.amazon.co.uk/Practical-Data-Privacy-Enhancing-Security/dp/1098129466
+Google Books: http://books.google.co.uk/books?id=8YC6EAAAQBAJ&printsec=frontcover&dq=intitle:Practical+Data+Privacy%2Binauthor:Katharine+Jarmul&hl=&cd=1&source=gbs_api
+
+Book 08 - Data Algorithms with Spark
+Amazon.com: https://www.amazon.com/Data-Algorithms-Spark-Recipes-Patterns/dp/1492082384
+Amazon.co.uk: https://www.amazon.co.uk/Data-Algorithms-Spark-Mahmoud-Parsian-ebook/dp/B09XJMKBSC
+Google Books: http://books.google.co.uk/books?id=V0dpEAAAQBAJ&printsec=frontcover&dq=intitle:Data+Algorithms+with+Spark%2Binauthor:Mahmoud+Parsian&hl=&cd=1&source=gbs_api
+
+Book 09 - Foundations of Scalable Systems
+Amazon.com: https://www.amazon.com/Foundations-Scalable-Systems-Ian-Gorton-ebook/dp/B0B5JZVFSB
+Amazon.co.uk: https://www.amazon.co.uk/Foundations-Scalable-Systems-Ian-Gorton-ebook/dp/B0B5JZVFSB
+Google Books: http://books.google.co.uk/books?id=aCt4EAAAQBAJ&printsec=frontcover&dq=intitle:Foundations+of+Scalable+Systems%2Binauthor:Ian+Gorton&hl=&cd=1&source=gbs_api
+
+Book 10 - Football Analytics with Python & R
+Amazon.com: https://www.amazon.com/Football-Analytics-Python-Learning-Science/dp/1492099627
+Amazon.co.uk: https://www.amazon.co.uk/Football-Analytics-Python-Learning-Science/dp/1492099627
+Google Books: http://books.google.co.uk/books?id=gRzREAAAQBAJ&printsec=frontcover&dq=intitle:Football+Analytics+with+Python+%26+R%2Binauthor:Eric+A.+Eager,+Richard+A.+Erickson&hl=&cd=1&source=gbs_api
+
+Book 11 - Cost-Effective Data Pipelines
+Amazon.com: https://www.amazon.com/Cost-Effective-Data-Pipelines-Sev-Leonard-ebook/dp/B0CBT3BH5Q
+Amazon.co.uk: https://www.amazon.co.uk/Cost-Effective-Data-Pipelines-Sev-Leonard-ebook/dp/B0CBT3BH5Q
+Google Books: http://books.google.co.uk/books?id=mEHLEAAAQBAJ&printsec=frontcover&dq=intitle:Cost-Effective+Data+Pipelines%2Binauthor:Sev+Leonard&hl=&cd=1&source=gbs_api
+
+Book 12 - Building an Anonymization Pipeline
+Amazon.com: https://www.amazon.com/Building-Anonymization-Pipeline-Creating-Safe-ebook/dp/B0872KMPNF
+Amazon.co.uk: https://www.amazon.co.uk/Building-Anonymization-Pipeline-Creating-Safe/dp/1492053430
+Google Books: http://books.google.co.uk/books?id=fZbcDwAAQBAJ&printsec=frontcover&dq=intitle:Building+an+Anonymization+Pipeline%2Binauthor:Luk+Arbuckle,+Khaled+El+Emam&hl=&cd=1&source=gbs_api
+
+Book 13 - Communicating with Data
+Amazon.com: https://www.amazon.com/Communicating-Data-Carl-Allchin-ebook/dp/B09HNFL31Q
+Amazon.co.uk: https://www.amazon.co.uk/Communicating-Data-Making-Your-Case/dp/1098101855
+Google Books: http://books.google.co.uk/books?id=-eZFEAAAQBAJ&printsec=frontcover&dq=intitle:Communicating+with+Data%2Binauthor:Carl+Allchin&hl=&cd=1&source=gbs_api
+
+Book 14 - Scaling Python with Ray
+Amazon.com: https://www.amazon.com/Scaling-Python-Ray-Adventures-Serverless/dp/1098118804
+Amazon.co.uk: https://www.amazon.co.uk/Scaling-Python-Ray-Adventures-Serverless/dp/1098118804
+Google Books: http://books.google.co.uk/books?id=I4meEAAAQBAJ&pg=PP2&dq=intitle:Scaling+Python+with+Ray%2Binauthor:Holden+Karau,+Boris+Lublinsky&hl=&cd=1&source=gbs_api
+
