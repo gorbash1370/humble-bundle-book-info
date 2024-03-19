@@ -9,7 +9,7 @@ Yet, they do put out a lot of content and the quality of the books between Bundl
 
 Ideally it will help potential HB customers make informed decisions about whether a Bundle is a good buy for them, and I hope this may help Humble Bundle make a few more sales by taking the hassle out of seeing what good value some of their Bundles really are!
 
-_**Important Note: This script does not work for ALL Humble Book Bundles - many RPG ones are not compatible. The script works well for Humble Tech Book Bundles and Fiction bundles. Please see [Limitations Section](#limitations-alt-text) for more details. See examples of which Bundles do / do not work well by viewing past outputs in the [HumbleBookBundles folder.](/HumbleBundleBooks/)**_
+_**Important Note: This script does not work for ALL Humble Book Bundles - many RPG ones are not compatible. The script works well for Humble Tech Book Bundles and Fiction bundles. Please see [Limitations Section](#limitationsalt-text) for more details. See examples of which Bundles do / do not work well by viewing past outputs in the [HumbleBookBundles folder.](/HumbleBundleBooks/)**_
 
 # Overview
 
@@ -43,9 +43,9 @@ _For anyone who wants the Book Bundle info but is put off by needing to set up t
 
 
 # Start / User Setup ![alt text](misc/start.gif)
-Please read the [Limitations Section](#limitations-alt-text) before attempting to implement the code. To run the script for yourself:
+Please read the [Limitations Section](#limitationsalt-text) before attempting to implement the code. To run the script for yourself:
 * Install [dependencies](#requirements--dependencies)
-* Set-up [Selenium](#selenium-setup) and a [Bing Search API](#obtain-a-bing-search-api-key-🗝) - enter your `bing_api_key` into `config.py`. Please, for your sanity, leave the `debug_flag` as `False`!!
+* Set-up [Selenium](#selenium-setup) and a [Bing Search API key](#obtain-a-bing-search-api-key🗝) - enter your `bing_api_key` into `config.py`. Please, for your sanity, leave the `debug_flag` as `False`!!
 * In `hb_book_info_main.py`, complete the three user variables at the top:
     - `url_hb` (web address of Humble Book Bundle to target)   
     - `selenium_browser` choice  
@@ -79,7 +79,7 @@ After running `pip install selenium`, you will need to download the appropriate 
 
 NB: browser updates are likely to require updating the WebDriver also.
 
-## Obtain a Bing Search API Key 🗝
+## Obtain a Bing Search API Key🗝
 [Here's the official Microsoft guide.](https://learn.microsoft.com/en-us/bing/search-apis/bing-web-search/create-bing-search-service-resource)
 
 The Bing Search API key is free for limited use ([F1 is 3 calls per second, 1k calls per month](https://www.microsoft.com/en-us/bing/apis/pricing)). However, you do need to jump through the hoops of having a Microsoft account (email) and also an 'Azure Subscription', which itself is free but it's other services are / can be chargable. 
@@ -99,7 +99,7 @@ The Bing Search API key is free for limited use ([F1 is 3 calls per second, 1k c
 8. Copy your Bing Search API "Key1" or "Key2" and enter it into `config.py` as the value for `bing_api_key`. Obviously, keep this key secure and never share it.
 
 
-# Limitations  ![alt text](misc/noted.gif)
+# Limitations![alt text](misc/noted.gif)
 1) **Bing**: As mentioned, Bing Search API was the only above-board way to retrieve review ratings from search results. Bing Search API doesn't return exactly the same data as you would see if running the same search term direct from your browser, and - obviously😜 - Bing isn't Google. The data isn't perfect: recency will depend on the API's last scrape date (the script *does* explicitly prioritise newer data), and sometimes the API returns obvious anomalies like "48 reviews with a rating of 0 stars". This is why I've included both Amazon.com and Amazon.co.uk ratings in the verbose version of the output (doubles chance of an accurate review score). It's also why I've included the Amazon and Google Books URLs in the text output, so that you can check the book product pages for yourself. Bing Search API also rarely returns book price data unfortunately.
    
 2) **Web-Scraping General**: Web-scraping is always a bit of a gamble: if the Humble Bundle website changes its structure, the script will break: likewise if the Google Books API or Bing Search API change their data structures. Additionally, the scrape is only as good as the data is complete and consistent - there will be errors like the "0 out of 5 stars (48 reviews)" example. I've tried to make the code as robust as possible, but it won't work forever and there will be anomalies. If you're depending on the data for anything important, you should check it manually - use the URLs from the text file (there's a URLs Section with them all together at the end) or use the `open_browser_tabs` function.
