@@ -23,7 +23,7 @@ _**Important Note: This script does not work for ALL Humble Book Bundles - many 
 
 [![Preview Both Text Files](./misc/screenshot_output_both_small_lysc.png)](./misc/screenshot_output_both_large_lysc.png)
 
-_For anyone who wants the Book Bundle info output but is put off by needing to set up the Bing Search API Key or Selenium, text outputs for Humble Bundles I have processed are stored in the repo's [HumbleBookBundles](HumbleBookBundles/) folder. Skip there if you just want the goodies._
+_For anyone who wants the Book Bundle info output but is put off by needing to set up the Bing Search API Key or Selenium, text outputs for Humble Bundles I have processed are stored in the repo's [HumbleBookBundles](/HumbleBundleBooks) folder. Skip there if you just want the goodies._
 
 
 # Program Structure ![alt text](misc/map.png)
