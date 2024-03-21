@@ -58,7 +58,7 @@ def hb_webpage_selenium(url_hb, selenium_browser, debug_flag, debug_directory):
 
     This function can be substituted by providing a path to txt file containing the body outer html (i.e. manual copy-paste from browser).
 
-    Accepts: Chrome or Firefox as browser selection
+    Accepts: Chrome or Firefox as browser selection (tested). Should also accept Safari, Opera, Edge, and Internet Explorer (untested).
 
     Dependencies: Requires a browser and its WebDriver to be installed, e.g. Chrome and chromedriver, Firefox and geckodriver, etc. See README.md.
     """
