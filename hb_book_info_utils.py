@@ -645,9 +645,9 @@ def book_data_formatted_txt_verbose(books_data, output_directory):
             file.write('-' * 25 + '\n\n')
             for book in books_data:
                 file.write(f"Book {book['Index']} - {book['Title']}\n")
-                file.write(f"Amazon.com: {book['Amazon']['Amazon.com URL']}\n")
-                file.write(f"Amazon.co.uk: {book['Amazon']['Amazon UK URL']}\n")
-                file.write(f"Google Books: {book['Google Books']['Google Books URL']}\n\n")
+                file.write(f"{book['Amazon']['Amazon.com URL']}\n")
+                file.write(f"{book['Amazon']['Amazon UK URL']}\n")
+                file.write(f"{book['Google Books']['Google Books URL']}\n\n")
         
         print(f"\nVerbose version of book data written to {output_filename}.\n")
     
@@ -698,9 +698,9 @@ def book_data_formatted_txt_short(books_data, output_directory):
             file.write('-' * 25 + '\n\n')
             for book in books_data:
                 file.write(f"Book {book['Index']} - {book['Title']}\n")
-                file.write(f"Amazon.com: {book['Amazon']['Amazon.com URL']}\n")
-                file.write(f"Amazon.co.uk: {book['Amazon']['Amazon UK URL']}\n")
-                file.write(f"Google Books: {book['Google Books']['Google Books URL']}\n\n")
+                file.write(f"{book['Amazon']['Amazon.com URL']}\n")
+                file.write(f"{book['Amazon']['Amazon UK URL']}\n")
+                file.write(f"{book['Google Books']['Google Books URL']}\n\n")
 
             print(f"Short version of book data written to {output_filename}.\n")
 
