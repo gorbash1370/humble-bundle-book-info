@@ -1,0 +1,572 @@
+Humble Tech Book Bundle- Code Like a Pro 2024 by Manning - Manning Publications
+Processing date: 2024-03-26
+Data retrieved from: https://www.humblebundle.com/books/code-like-pro-2024-manning-books
+
+Book 01 - Python How-To: 63 techniques to improve your Python code - Yong Cui - None found out of 5 (None found reviews)
+Book 02 - Rust Servers, Services, and Apps - Prabhu Eshwarla - 5 out of 5 (4 reviews)
+Book 03 - Advanced Algorithms and Data Structures - Marcello La Rocca - 4.2 out of 5 (22 reviews)
+Book 04 - Grokking Continuous Delivery - Christie Wilson - 5 out of 5 (3 reviews)
+Book 05 - 100 Go Mistakes and How to Avoid Them - Teiva Harsanyi - 4.7 out of 5 (66 reviews)
+Book 06 - Data-Oriented Programming: Reduce software complexity - Yehonathan Sharvit - 4.6 out of 5 (13 reviews)
+Book 07 - Skills of a Successful Software Engineer - Fernando Doglio - 4.6 out of 5 (3 reviews)
+Book 08 - Software Mistakes and Tradeoffs: How to make good programming decisions - Tomasz Lelek, Jon Skeet - 4.3 out of 5 (7 reviews)
+Book 09 - Rust in Action - Tim McNamara - 4.8 out of 5 (92 reviews)
+Book 10 - Learn AI-Assisted Python Programming - Leo Porter, Daniel Zingaro - 4.6 out of 5 (14 reviews)
+Book 11 - Unity in Action, 3E - Joseph Hocking - 4.7 out of 5 (46 reviews)
+Book 12 - Effective Software Testing: A developer's guide - Mauricio Aniche - 4.6 out of 5 (24 reviews)
+Book 13 - Python Concurrency with asyncio - Matthew Fowler - 3.6 out of 5 (13 reviews)
+Book 14 - Street Coder: The rules to break and how to break them - Sedat Kapanoglu - 4.5 out of 5 (27 reviews)
+Book 15 - Five Lines of Code: How and when to refactor - Christian Clausen - 4.9 out of 5 (15 reviews)
+Book 16 - Regular Expression Puzzles and AI Coding Assistants - David Mertz - 4.9 out of 5 (10 reviews)
+Book 17 - Code like a Pro in C# - Jort Rodenburg - 4.2 out of 5 (7 reviews)
+Book 18 - Practices of the Python Pro - Dane Hillard - 4 out of 5 (49 reviews)
+Book 19 - Full Stack Python Security - Dennis Byrne - 4.7 out of 5 (13 reviews)
+Book 20 - Good Code, Bad Code - Tom Long - 4.7 out of 5 (16 reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Python How-To: 63 techniques to improve your Python code
+Author(s): Yong Cui
+---
+ISBN-10: 161729974X - ISBN-13: 9781617299742 - ASIN: 
+Published Date: 2023-07-11
+Page Count: 502
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=EPrEEAAAQBAJ&printsec=frontcover&dq=intitle:Python+How-To:+63+techniques+to+improve+your+Python+code%2Binauthor:Yong+Cui&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Python-How-Yong-Cui/dp/161729974X
+---
+HB Blurb: This practical guide covers all the language features you’ll need to get up and running with Python. As you go, you’ll explore best practices for writing great Python code. Practical suggestions and engaging graphics make each important technique come to life. Author Yong Cui’s careful cross-referencing reveals how you can reuse features and concepts in different contexts.
+--------------------------------------------------
+
+Book 02:
+Title: Rust Servers, Services, and Apps
+Author(s): Prabhu Eshwarla
+---
+ISBN-10: 163835121X - ISBN-13: 9781638351214 - ASIN: B0CBQM3NPG
+Published Date: 2023-10-31
+Page Count: 570
+---
+Google Books Price: GBP 31.99
+Google Books URL: http://books.google.co.uk/books?id=cADLEAAAQBAJ&printsec=frontcover&dq=intitle:Rust+Servers,+Services,+and+Apps%2Binauthor:Prabhu+Eshwarla&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (4 reviews)
+Amazon.com URL: https://www.amazon.com/Rust-Servers-Services-Prabhu-Eshwarla-ebook/dp/B0CBQM3NPG
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Rust-Servers-Services-Prabhu-Eshwarla/dp/1617298603
+---
+HB Blurb: Rust Servers, Services, and Apps shows you how to create modern distributed web apps using the Rust language. You’ll start with the basics: building a simple HTTP server and a RESTful web service. Then, you’ll make them production ready by adding security, database interactivity, and error handling. Finally, you’ll tackle a digital storefront service, create a single page app, and dig into asynchronous programming. All examples are fully illustrated and include annotated code you can easily adapt to your own projects.
+--------------------------------------------------
+
+Book 03:
+Title: Advanced Algorithms and Data Structures
+Author(s): Marcello La Rocca
+---
+ISBN-10: 1617295485 - ISBN-13: 9781617295485 - ASIN: B098C4MKF5
+Published Date: 2021-06-29
+Page Count: 766
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=sYUxEAAAQBAJ&printsec=frontcover&dq=intitle:Advanced+Algorithms+and+Data+Structures%2Binauthor:Marcello+La+Rocca&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.2 of 5 (22 reviews)
+Amazon.com URL: https://www.amazon.com/Advanced-Algorithms-Structures-Marcello-Rocca-ebook/dp/B098C4MKF5
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.1 of 5 (22 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Advanced-Algorithms-Structures-Marcello-Rocca-ebook/dp/B098PHVRKG
+---
+HB Blurb: Advanced Algorithms and Data Structures introduces a collection of algorithms for complex programming challenges in data analysis, machine learning, and graph computing. You’ll discover cutting-edge approaches to a variety of tricky scenarios. You’ll even learn to design your own data structures for projects that require a custom solution.
+--------------------------------------------------
+
+Book 04:
+Title: Grokking Continuous Delivery
+Author(s): Christie Wilson
+---
+ISBN-10: 1617298255 - ISBN-13: 9781617298257 - ASIN: B0BHF66L9T
+Published Date: 2022-11-08
+Page Count: 422
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=r4aUEAAAQBAJ&printsec=frontcover&dq=intitle:Grokking+Continuous+Delivery%2Binauthor:Christie+Wilson&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (3 reviews)
+Amazon.com URL: https://www.amazon.com/Grokking-Continuous-Delivery-Christie-Wilson-ebook/dp/B0BHF66L9T
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (3 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Grokking-Continuous-Delivery-Christie-Wilson-ebook/dp/B0BHTPZM6F
+---
+HB Blurb: Grokking Continuous Delivery is a friendly guide to setting up and working with a continuous delivery pipeline. Each chapter takes on a different scenario you’ll face when setting up a CD system, with real-world examples like automated scaling and testing legacy applications. Taking a tool-agnostic approach, author Christie Wilson guides you each step of the way with illustrations, crystal-clear explanations, and practical exercises to lock in what you’re learning.
+--------------------------------------------------
+
+Book 05:
+Title: 100 Go Mistakes and How to Avoid Them
+Author(s): Teiva Harsanyi
+---
+ISBN-10: 1638351295 - ISBN-13: 9781638351290 - ASIN: 1617299596
+Published Date: 2022-10-18
+Page Count: 382
+---
+Google Books Price: GBP 37.49
+Google Books URL: http://books.google.co.uk/books?id=wQGEEAAAQBAJ&printsec=frontcover&dq=intitle:100+Go+Mistakes+and+How+to+Avoid+Them%2Binauthor:Teiva+Harsanyi&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (66 reviews)
+Amazon.com URL: https://www.amazon.com/100-Mistakes-How-Avoid-Them/dp/1617299596
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (52 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/100-Go-Mistakes-Avoid-Them/dp/1617299596
+---
+HB Blurb: 100 Go Mistakes and How to Avoid Them shows you how to replace common programming problems in Go with idiomatic, expressive code. In it, you’ll explore dozens of interesting examples and case studies as you learn to spot mistakes that might appear in your own applications. Expert author Teiva Harsanyi organizes the error avoidance techniques into convenient categories, ranging from types and strings to concurrency and testing.
+--------------------------------------------------
+
+Book 06:
+Title: Data-Oriented Programming: Reduce software complexity
+Author(s): Yehonathan Sharvit
+---
+ISBN-10: 1617298573 - ISBN-13: 9781617298578 - ASIN: B0B7TGQTSS
+Published Date: 2022-08-16
+Page Count: 422
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=wJB8EAAAQBAJ&printsec=frontcover&dq=intitle:Data-Oriented+Programming:+Reduce+software+complexity%2Binauthor:Yehonathan+Sharvit&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (13 reviews)
+Amazon.com URL: https://www.amazon.com/Data-Oriented-Programming-Unlearning-Yehonathan-Sharvit/dp/1617298573
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (12 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Data-Oriented-Programming-Reduce-software-complexity-ebook/dp/B0B7TGQTSS
+---
+HB Blurb: Data-Oriented Programming teaches you to design software using the groundbreaking data-oriented paradigm. You’ll put DOP into action to design data models for business entities and implement a library management system that manages state without data mutation. The numerous diagrams, intuitive mind maps, and a unique conversational approach all help you get your head around these exciting new ideas. Every chapter has a lightbulb moment that will change the way you think about programming.
+--------------------------------------------------
+
+Book 07:
+Title: Skills of a Successful Software Engineer
+Author(s): Fernando Doglio
+---
+ISBN-10: 1617299707 - ISBN-13: 9781617299704 - ASIN: B0B3KBLG9K
+Published Date: 2022-07-12
+Page Count: 190
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=mBx1EAAAQBAJ&printsec=frontcover&dq=intitle:Skills+of+a+Successful+Software+Engineer%2Binauthor:Fernando+Doglio&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (3 reviews)
+Amazon.com URL: https://www.amazon.com/Skills-Successful-Software-Engineer-Fernando-ebook/dp/B0B3KBLG9K
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Skills-Successful-Software-Engineer-Fernando-ebook/dp/B0B3Y7TQG7
+---
+HB Blurb: Skills of a Successful Software Engineer presents techniques for working on software projects collaboratively. In it, you’ll build technical skills, such as writing simple code, effective testing, and refactoring, that are essential to creating software on a team. You’ll also explore soft skills like how to keep your knowledge up to date, interacting with your team leader, and even how to get a job you’ll love.
+--------------------------------------------------
+
+Book 08:
+Title: Software Mistakes and Tradeoffs: How to make good programming decisions
+Author(s): Tomasz Lelek, Jon Skeet
+---
+ISBN-10: 1617299200 - ISBN-13: 9781617299209 - ASIN: 
+Published Date: 2022-06-07
+Page Count: 414
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=S8JrEAAAQBAJ&printsec=frontcover&dq=intitle:Software+Mistakes+and+Tradeoffs:+How+to+make+good+programming+decisions%2Binauthor:Tomasz+Lelek,+Jon+Skeet&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.3 of 5 (7 reviews)
+Amazon.com URL: https://www.amazon.com/Software-Mistakes-Tradeoffs-programming-decisions/dp/1617299200
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.5 of 5 (3 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Software-Mistakes-Tradeoffs-Programming-Decisions/dp/1617299200
+---
+HB Blurb: Software Mistakes and Tradeoffs explores real-world scenarios where the wrong tradeoff decisions were made and illuminates what could have been done differently. In it, authors Tomasz Lelek and Jon Skeet share wisdom based on decades of software engineering experience, including some delightfully instructive mistakes. You’ll appreciate the specific tips and practical techniques that accompany each example, along with evergreen patterns that will change the way you approach your next projects.
+--------------------------------------------------
+
+Book 09:
+Title: Rust in Action
+Author(s): Tim McNamara
+---
+ISBN-10: 1617294551 - ISBN-13: 9781617294556 - ASIN: B098BNGMWH
+Published Date: 2021-08-10
+Page Count: 454
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=x1w4EAAAQBAJ&printsec=frontcover&dq=intitle:Rust+in+Action%2Binauthor:Tim+McNamara&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.8 of 5 (92 reviews)
+Amazon.com URL: https://www.amazon.com/Rust-Action-Tim-McNamara-ebook/dp/B098BNGMWH
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (75 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Rust-Action-Tim-McNamara-ebook/dp/B098PJL7QW
+---
+HB Blurb: Rust in Action is a hands-on guide to systems programming with Rust. Written for inquisitive programmers, it presents real-world use cases that go far beyond syntax and structure. You’ll explore Rust implementations for file manipulation, networking, and kernel-level programming and discover awesome techniques for parallelism and concurrency. Along the way, you’ll master Rust’s unique borrow checker model for memory management without a garbage collector.
+--------------------------------------------------
+
+Book 10:
+Title: Learn AI-Assisted Python Programming
+Author(s): Leo Porter, Daniel Zingaro
+---
+ISBN-10: 1633437787 - ISBN-13: 9781633437784 - ASIN: 
+Published Date: 2023-11-21
+Page Count: 294
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=oRLfEAAAQBAJ&printsec=frontcover&dq=intitle:Learn+AI-Assisted+Python+Programming%2Binauthor:Leo+Porter,+Daniel+Zingaro&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (14 reviews)
+Amazon.com URL: https://www.amazon.com/Learn-AI-assisted-Python-Programming-Copilot/dp/1633437787
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/AI-Assisted-Python-Programming-GitHub-Copilot/dp/1633437787
+---
+HB Blurb: This book shows you how to create and improve Python programs using AI—even if you’ve never written a line of computer code before. Spend less time on the slow, low-level programming details and instead learn how an AI assistant can bring your ideas to life immediately. As you go, you’ll even learn enough of the Python language to understand and improve what your AI assistant creates.
+--------------------------------------------------
+
+Book 11:
+Title: Unity in Action, 3E
+Author(s): Joseph Hocking
+---
+ISBN-10: 1617299332 - ISBN-13: 9781617299339 - ASIN: 
+Published Date: 2022-02-08
+Page Count: 414
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=haN0zgEACAAJ&dq=intitle:Unity+in+Action,+3E%2Binauthor:Joseph+Hocking&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (46 reviews)
+Amazon.com URL: https://www.amazon.com/Unity-Action-Third-Joseph-Hocking/dp/1617299332
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (32 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Unity-Action-Third-Joseph-Hocking/dp/1617299332
+---
+HB Blurb: Unity in Action, Third Edition teaches you to create games with the Unity game platform. It’s many 2D, 3D, and AR/VR game examples give you hands-on experience with Unity’s workflow tools and state-of-the-art rendering engine. This fully updated third edition presents new coverage of Unity’s XR toolkit and shows you how you can start building with virtual and augmented reality.
+--------------------------------------------------
+
+Book 12:
+Title: Effective Software Testing: A developer's guide
+Author(s): Mauricio Aniche
+---
+ISBN-10: 1633439933 - ISBN-13: 9781633439931 - ASIN: B09WBNJYLX
+Published Date: 2022-04-26
+Page Count: 326
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=hCtnEAAAQBAJ&printsec=frontcover&dq=intitle:Effective+Software+Testing:+A+developer%27s+guide%2Binauthor:Mauricio+Aniche&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (24 reviews)
+Amazon.com URL: https://www.amazon.com/Effective-Software-Testing-developers-guide-ebook/dp/B09WBNJYLX
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (24 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Effective-Software-Testing-developers-guide-ebook/dp/B09WNGLJQ7
+---
+HB Blurb: Effective Software Testing is a hands-on guide to creating bug-free software. Written for developers, it guides you through all the different types of testing, from single units up to entire components. You’ll also learn how to engineer code that facilitates testing and how to write easy-to-maintain test code. Offering a thorough, systematic approach, this book includes annotated source code samples, realistic scenarios, and reasoned explanations.
+--------------------------------------------------
+
+Book 13:
+Title: Python Concurrency with asyncio
+Author(s): Matthew Fowler
+---
+ISBN-10: 1617298662 - ISBN-13: 9781617298660 - ASIN: B09S4NBW2X
+Published Date: 2022-03
+Page Count: 374
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=On9dEAAAQBAJ&printsec=frontcover&dq=intitle:Python+Concurrency+with+asyncio%2Binauthor:Matthew+Fowler&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 3.6 of 5 (13 reviews)
+Amazon.com URL: https://www.amazon.com/Python-Concurrency-asyncio-Matthew-Fowler-ebook/dp/B09S4NBW2X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 2.9 of 5 (5 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Python-Concurrency-asyncio-Matthew-Fowler-ebook/dp/B09SGND1T2
+---
+HB Blurb: Python Concurrency with asyncio introduces asynchronous, parallel, and concurrent programming through hands-on Python examples. Hard-to-grok concurrency topics are broken down into simple flowcharts that make it easy to see how your tasks are running. You’ll learn how to overcome the limitations of Python using asyncio to speed up slow web servers and microservices. You’ll even combine asyncio with traditional multiprocessing techniques for huge improvements to performance.
+--------------------------------------------------
+
+Book 14:
+Title: Street Coder: The rules to break and how to break them
+Author(s): Sedat Kapanoglu
+---
+ISBN-10: 1638357145 - ISBN-13: 9781638357148 - ASIN: 1617298379
+Published Date: 2022-03-01
+Page Count: 270
+---
+Google Books Price: GBP 25.99
+Google Books URL: http://books.google.co.uk/books?id=ZeNXEAAAQBAJ&printsec=frontcover&dq=intitle:Street+Coder:+The+rules+to+break+and+how+to+break+them%2Binauthor:Sedat+Kapanoglu&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.5 of 5 (27 reviews)
+Amazon.com URL: https://www.amazon.com/Street-Coder-rules-break-them/dp/1617298379
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (15 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Street-Coder-Rules-Break-Them/dp/1617298379
+---
+HB Blurb: Street Coder teaches you how to handle the realities of day-to-day coding as a software developer. Self-taught guru Sedat Kapanoğlu shares down-and-dirty advice that’s rooted in his personal hands-on experience, not abstract theory or ivory-tower ideology. You’ll learn how to adapt what you’ve learned from books and classes to the challenges you’ll face on the job. As you go, you’ll get tips on everything from technical implementations to handling a paranoid manager.
+--------------------------------------------------
+
+Book 15:
+Title: Five Lines of Code: How and when to refactor
+Author(s): Christian Clausen
+---
+ISBN-10: 161729831X - ISBN-13: 9781617298318 - ASIN: B09H7RKPR4
+Published Date: 2021-10-26
+Page Count: 334
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=TKhGEAAAQBAJ&printsec=frontcover&dq=intitle:Five+Lines+of+Code:+How+and+when+to+refactor%2Binauthor:Christian+Clausen&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.9 of 5 (15 reviews)
+Amazon.com URL: https://www.amazon.com/Five-Lines-Code-when-refactor-ebook/dp/B09H7RKPR4
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (10 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Five-Lines-Code-when-refactor/dp/161729831X
+---
+HB Blurb: Five Lines of Code is a fresh look at refactoring for developers of all skill levels. In it, you’ll master author Christian Clausen’s innovative approach, learning concrete rules to get any method down to five lines—or less! You’ll learn when to refactor, specific refactoring patterns that apply to most common problems, and characteristics of code that should be deleted altogether.
+--------------------------------------------------
+
+Book 16:
+Title: Regular Expression Puzzles and AI Coding Assistants
+Author(s): David Mertz
+---
+ISBN-10: 1638351880 - ISBN-13: 9781638351887 - ASIN: B0C4CNKJTK
+Published Date: 2023-04-11
+Page Count: 150
+---
+Google Books Price: GBP 21.49
+Google Books URL: http://books.google.co.uk/books?id=FDaxEAAAQBAJ&printsec=frontcover&dq=intitle:Regular+Expression+Puzzles+and+AI+Coding+Assistants%2Binauthor:David+Mertz&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.9 of 5 (10 reviews)
+Amazon.com URL: https://www.amazon.com/Regular-Expression-Puzzles-Coding-Assistants/dp/B0C4CNKJTK
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 0 of 5 (7 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Regular-Expression-Puzzles-Coding-Assistants-ebook/dp/B0BXM42SV6
+---
+HB Blurb: Regular Expression Puzzles and AI Coding Assistants is the perfect starting point for programmers of any experience level who want to understand the capabilities—and the limitations—of these exciting new tools. Author David Mertz presents 24 challenging regex puzzles, their traditional human-made solutions, and the fascinating answers given by popular AI assistants. Alongside these eye-opening puzzles you’ll learn how to write prompts, integrate AI-generated coding suggestions, and interact with the assistant to get the results you want. By the end of the book, you'll have a clear understanding of where AI assistants can reliably write code for you and where you’ll still need a human touch. Plus, you’ll learn a lot about regular expressions!
+--------------------------------------------------
+
+Book 17:
+Title: Code like a Pro in C#
+Author(s): Jort Rodenburg
+---
+ISBN-10: 1617298026 - ISBN-13: 9781617298028 - ASIN: B099SDYWLG
+Published Date: 2021-07-27
+Page Count: 414
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=XVc2EAAAQBAJ&printsec=frontcover&dq=intitle:Code+like+a+Pro+in+C%23%2Binauthor:Jort+Rodenburg&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.2 of 5 (7 reviews)
+Amazon.com URL: https://www.amazon.com/Code-like-Pro-Jort-Rodenburg-ebook/dp/B099SDYWLG
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.1 of 5 (5 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Code-like-Pro-Jort-Rodenburg-ebook/dp/B09B8GBLQH
+---
+HB Blurb: Code Like a Pro in C# teaches you to how write clean C# code that’s suitable for enterprise applications. In this book, you’ll refactor a legacy codebase by applying modern C# techniques. You’ll explore tools like Entity Framework Core, design techniques like dependency injection, and key practices like testing and clean coding. It’s a perfect path to upgrade your existing C# skills or shift from another OO language into C# and the .NET ecosystem.
+--------------------------------------------------
+
+Book 18:
+Title: Practices of the Python Pro
+Author(s): Dane Hillard
+---
+ISBN-10: 1638350132 - ISBN-13: 9781638350132 - ASIN: 1617296082
+Published Date: 2019-12-22
+Page Count: 363
+---
+Google Books Price: GBP 28.65
+Google Books URL: http://books.google.co.uk/books?id=0jszEAAAQBAJ&printsec=frontcover&dq=intitle:Practices+of+the+Python+Pro%2Binauthor:Dane+Hillard&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4 of 5 (49 reviews)
+Amazon.com URL: https://www.amazon.com/Practices-Python-Pro-Dane-Hillard/dp/1617296082
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.1 of 5 (39 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Practices-Python-Pro-Dane-Hillard-ebook/dp/B09782RKWV
+---
+HB Blurb: Practices of the Python Pro teaches you to design and write professional-quality software that’s understandable, maintainable, and extensible. Dane Hillard is a Python pro who has helped many dozens of developers make this step, and he knows what it takes. With helpful examples and exercises, he teaches you when, why, and how to modularize your code, how to improve quality by reducing complexity, and much more. Embrace these core principles, and your code will become easier for you and others to read, maintain, and reuse.
+--------------------------------------------------
+
+Book 19:
+Title: Full Stack Python Security
+Author(s): Dennis Byrne
+---
+ISBN-10: None - ISBN-13: OCLC:1268278677 - ASIN: 1617298824
+Published Date: 2021
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=nlGAzwEACAAJ&dq=intitle:Full+Stack+Python+Security%2Binauthor:Dennis+Byrne&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (13 reviews)
+Amazon.com URL: https://www.amazon.com/Full-Stack-Python-Security-Cryptography/dp/1617298824
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Full-Stack-Python-Security-Cryptography-ebook/dp/B0996BRPKN
+---
+HB Blurb: Full Stack Python Security: Cryptography, TLS, and attack resistance teaches you everything you need to secure Python and Django-based web apps. In it, seasoned security pro Dennis Byrne demystifies complex security terms and algorithms. Starting with a clear review of cryptographic foundations, you’ll learn how to implement layers of defense, secure user authentication and third-party access, and protect your applications against common hacks.
+--------------------------------------------------
+
+Book 20:
+Title: Good Code, Bad Code
+Author(s): Tom Long
+---
+ISBN-10: 161729893X - ISBN-13: 9781617298936 - ASIN: B09BXBNM7B
+Published Date: 2021-09-07
+Page Count: 374
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=gb88EAAAQBAJ&printsec=frontcover&dq=intitle:Good+Code,+Bad+Code%2Binauthor:Tom+Long&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (16 reviews)
+Amazon.com URL: https://www.amazon.com/Good-Code-Bad-software-engineer-ebook/dp/B09BXBNM7B
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: Good Code, Bad Code is a clear, practical introduction to writing code that’s a snap to read, apply, and remember. With dozens of instantly-useful techniques, you’ll find coding insights that normally take years of experience to master. In this fast-paced guide, Google software engineer Tom Long teaches you a host of rules to apply, along with advice on when to break them!
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Python How-To: 63 techniques to improve your Python code
+No Amazon.com URL found
+https://www.amazon.co.uk/Python-How-Yong-Cui/dp/161729974X
+http://books.google.co.uk/books?id=EPrEEAAAQBAJ&printsec=frontcover&dq=intitle:Python+How-To:+63+techniques+to+improve+your+Python+code%2Binauthor:Yong+Cui&hl=&cd=1&source=gbs_api
+
+Book 02 - Rust Servers, Services, and Apps
+https://www.amazon.com/Rust-Servers-Services-Prabhu-Eshwarla-ebook/dp/B0CBQM3NPG
+https://www.amazon.co.uk/Rust-Servers-Services-Prabhu-Eshwarla/dp/1617298603
+http://books.google.co.uk/books?id=cADLEAAAQBAJ&printsec=frontcover&dq=intitle:Rust+Servers,+Services,+and+Apps%2Binauthor:Prabhu+Eshwarla&hl=&cd=1&source=gbs_api
+
+Book 03 - Advanced Algorithms and Data Structures
+https://www.amazon.com/Advanced-Algorithms-Structures-Marcello-Rocca-ebook/dp/B098C4MKF5
+https://www.amazon.co.uk/Advanced-Algorithms-Structures-Marcello-Rocca-ebook/dp/B098PHVRKG
+http://books.google.co.uk/books?id=sYUxEAAAQBAJ&printsec=frontcover&dq=intitle:Advanced+Algorithms+and+Data+Structures%2Binauthor:Marcello+La+Rocca&hl=&cd=1&source=gbs_api
+
+Book 04 - Grokking Continuous Delivery
+https://www.amazon.com/Grokking-Continuous-Delivery-Christie-Wilson-ebook/dp/B0BHF66L9T
+https://www.amazon.co.uk/Grokking-Continuous-Delivery-Christie-Wilson-ebook/dp/B0BHTPZM6F
+http://books.google.co.uk/books?id=r4aUEAAAQBAJ&printsec=frontcover&dq=intitle:Grokking+Continuous+Delivery%2Binauthor:Christie+Wilson&hl=&cd=1&source=gbs_api
+
+Book 05 - 100 Go Mistakes and How to Avoid Them
+https://www.amazon.com/100-Mistakes-How-Avoid-Them/dp/1617299596
+https://www.amazon.co.uk/100-Go-Mistakes-Avoid-Them/dp/1617299596
+http://books.google.co.uk/books?id=wQGEEAAAQBAJ&printsec=frontcover&dq=intitle:100+Go+Mistakes+and+How+to+Avoid+Them%2Binauthor:Teiva+Harsanyi&hl=&cd=1&source=gbs_api
+
+Book 06 - Data-Oriented Programming: Reduce software complexity
+https://www.amazon.com/Data-Oriented-Programming-Unlearning-Yehonathan-Sharvit/dp/1617298573
+https://www.amazon.co.uk/Data-Oriented-Programming-Reduce-software-complexity-ebook/dp/B0B7TGQTSS
+http://books.google.co.uk/books?id=wJB8EAAAQBAJ&printsec=frontcover&dq=intitle:Data-Oriented+Programming:+Reduce+software+complexity%2Binauthor:Yehonathan+Sharvit&hl=&cd=1&source=gbs_api
+
+Book 07 - Skills of a Successful Software Engineer
+https://www.amazon.com/Skills-Successful-Software-Engineer-Fernando-ebook/dp/B0B3KBLG9K
+https://www.amazon.co.uk/Skills-Successful-Software-Engineer-Fernando-ebook/dp/B0B3Y7TQG7
+http://books.google.co.uk/books?id=mBx1EAAAQBAJ&printsec=frontcover&dq=intitle:Skills+of+a+Successful+Software+Engineer%2Binauthor:Fernando+Doglio&hl=&cd=1&source=gbs_api
+
+Book 08 - Software Mistakes and Tradeoffs: How to make good programming decisions
+https://www.amazon.com/Software-Mistakes-Tradeoffs-programming-decisions/dp/1617299200
+https://www.amazon.co.uk/Software-Mistakes-Tradeoffs-Programming-Decisions/dp/1617299200
+http://books.google.co.uk/books?id=S8JrEAAAQBAJ&printsec=frontcover&dq=intitle:Software+Mistakes+and+Tradeoffs:+How+to+make+good+programming+decisions%2Binauthor:Tomasz+Lelek,+Jon+Skeet&hl=&cd=1&source=gbs_api
+
+Book 09 - Rust in Action
+https://www.amazon.com/Rust-Action-Tim-McNamara-ebook/dp/B098BNGMWH
+https://www.amazon.co.uk/Rust-Action-Tim-McNamara-ebook/dp/B098PJL7QW
+http://books.google.co.uk/books?id=x1w4EAAAQBAJ&printsec=frontcover&dq=intitle:Rust+in+Action%2Binauthor:Tim+McNamara&hl=&cd=1&source=gbs_api
+
+Book 10 - Learn AI-Assisted Python Programming
+https://www.amazon.com/Learn-AI-assisted-Python-Programming-Copilot/dp/1633437787
+https://www.amazon.co.uk/AI-Assisted-Python-Programming-GitHub-Copilot/dp/1633437787
+http://books.google.co.uk/books?id=oRLfEAAAQBAJ&printsec=frontcover&dq=intitle:Learn+AI-Assisted+Python+Programming%2Binauthor:Leo+Porter,+Daniel+Zingaro&hl=&cd=1&source=gbs_api
+
+Book 11 - Unity in Action, 3E
+https://www.amazon.com/Unity-Action-Third-Joseph-Hocking/dp/1617299332
+https://www.amazon.co.uk/Unity-Action-Third-Joseph-Hocking/dp/1617299332
+http://books.google.co.uk/books?id=haN0zgEACAAJ&dq=intitle:Unity+in+Action,+3E%2Binauthor:Joseph+Hocking&hl=&cd=1&source=gbs_api
+
+Book 12 - Effective Software Testing: A developer's guide
+https://www.amazon.com/Effective-Software-Testing-developers-guide-ebook/dp/B09WBNJYLX
+https://www.amazon.co.uk/Effective-Software-Testing-developers-guide-ebook/dp/B09WNGLJQ7
+http://books.google.co.uk/books?id=hCtnEAAAQBAJ&printsec=frontcover&dq=intitle:Effective+Software+Testing:+A+developer%27s+guide%2Binauthor:Mauricio+Aniche&hl=&cd=1&source=gbs_api
+
+Book 13 - Python Concurrency with asyncio
+https://www.amazon.com/Python-Concurrency-asyncio-Matthew-Fowler-ebook/dp/B09S4NBW2X
+https://www.amazon.co.uk/Python-Concurrency-asyncio-Matthew-Fowler-ebook/dp/B09SGND1T2
+http://books.google.co.uk/books?id=On9dEAAAQBAJ&printsec=frontcover&dq=intitle:Python+Concurrency+with+asyncio%2Binauthor:Matthew+Fowler&hl=&cd=1&source=gbs_api
+
+Book 14 - Street Coder: The rules to break and how to break them
+https://www.amazon.com/Street-Coder-rules-break-them/dp/1617298379
+https://www.amazon.co.uk/Street-Coder-Rules-Break-Them/dp/1617298379
+http://books.google.co.uk/books?id=ZeNXEAAAQBAJ&printsec=frontcover&dq=intitle:Street+Coder:+The+rules+to+break+and+how+to+break+them%2Binauthor:Sedat+Kapanoglu&hl=&cd=1&source=gbs_api
+
+Book 15 - Five Lines of Code: How and when to refactor
+https://www.amazon.com/Five-Lines-Code-when-refactor-ebook/dp/B09H7RKPR4
+https://www.amazon.co.uk/Five-Lines-Code-when-refactor/dp/161729831X
+http://books.google.co.uk/books?id=TKhGEAAAQBAJ&printsec=frontcover&dq=intitle:Five+Lines+of+Code:+How+and+when+to+refactor%2Binauthor:Christian+Clausen&hl=&cd=1&source=gbs_api
+
+Book 16 - Regular Expression Puzzles and AI Coding Assistants
+https://www.amazon.com/Regular-Expression-Puzzles-Coding-Assistants/dp/B0C4CNKJTK
+https://www.amazon.co.uk/Regular-Expression-Puzzles-Coding-Assistants-ebook/dp/B0BXM42SV6
+http://books.google.co.uk/books?id=FDaxEAAAQBAJ&printsec=frontcover&dq=intitle:Regular+Expression+Puzzles+and+AI+Coding+Assistants%2Binauthor:David+Mertz&hl=&cd=1&source=gbs_api
+
+Book 17 - Code like a Pro in C#
+https://www.amazon.com/Code-like-Pro-Jort-Rodenburg-ebook/dp/B099SDYWLG
+https://www.amazon.co.uk/Code-like-Pro-Jort-Rodenburg-ebook/dp/B09B8GBLQH
+http://books.google.co.uk/books?id=XVc2EAAAQBAJ&printsec=frontcover&dq=intitle:Code+like+a+Pro+in+C%23%2Binauthor:Jort+Rodenburg&hl=&cd=1&source=gbs_api
+
+Book 18 - Practices of the Python Pro
+https://www.amazon.com/Practices-Python-Pro-Dane-Hillard/dp/1617296082
+https://www.amazon.co.uk/Practices-Python-Pro-Dane-Hillard-ebook/dp/B09782RKWV
+http://books.google.co.uk/books?id=0jszEAAAQBAJ&printsec=frontcover&dq=intitle:Practices+of+the+Python+Pro%2Binauthor:Dane+Hillard&hl=&cd=1&source=gbs_api
+
+Book 19 - Full Stack Python Security
+https://www.amazon.com/Full-Stack-Python-Security-Cryptography/dp/1617298824
+https://www.amazon.co.uk/Full-Stack-Python-Security-Cryptography-ebook/dp/B0996BRPKN
+http://books.google.co.uk/books?id=nlGAzwEACAAJ&dq=intitle:Full+Stack+Python+Security%2Binauthor:Dennis+Byrne&hl=&cd=1&source=gbs_api
+
+Book 20 - Good Code, Bad Code
+https://www.amazon.com/Good-Code-Bad-software-engineer-ebook/dp/B09BXBNM7B
+No Amazon.co.uk URL found
+http://books.google.co.uk/books?id=gb88EAAAQBAJ&printsec=frontcover&dq=intitle:Good+Code,+Bad+Code%2Binauthor:Tom+Long&hl=&cd=1&source=gbs_api
+
