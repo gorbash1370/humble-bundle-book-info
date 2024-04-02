@@ -1,0 +1,188 @@
+Humble Tech Book Bundle- Mastery of C# and .NET awaits - Packt
+Processing date: 2024-04-02
+Data retrieved from: https://www.humblebundle.com/books/mastery-c-sharp-and-dot-net-awaits-packt-books
+
+Book 01 - C# Data Structures and Algorithms - Second Edition - Donovan Brown, Joshua Garverick, Omar Dean Mciver - None found out of 5 (None found reviews)
+Book 02 - C# Interview Guide - Trevoir Williams - None found out of 5 (None found reviews)
+Book 03 - .NET MAUI Cross-Platform Application Development - Adam Tibi - 4 out of 5 (22 reviews)
+Book 04 - .NET MAUI for C# Developers - Gabriel Baptista, Francesco Abbruzzese - 4 out of 5 (32 reviews)
+Book 05 - A Developer's Guide to .NET in Azure - Jason Hales, Almantas Karpavicius and Mateus Viegas - 3.8 out of 5 (5 reviews)
+Book 06 - C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals - Mark J. Price - 4.7 out of 5 (55 reviews)
+Book 07 - Clean Code With C# - Ravindra Akella, Arun Kumar Tamirisa, Suneel Kumar Kunani and Bhupesh Guptha Muthiyalu - None found out of 5 (None found reviews)
+Book 08 - Implementing Event-Driven Microservices Architecture in .NET 7 - Jason Alls - 3.9 out of 5 (14 reviews)
+Book 09 - Microservices Design Patterns in .NET - Fiodar Sazanavets - 4.5 out of 5 (22 reviews)
+Book 10 - Refactoring with C# - Sean Burns - 5 out of 5 (4 reviews)
+Book 11 - The MVVM Pattern in .NET MAUI - Raihan Taher - 5 out of 5 (2 reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: C# Data Structures and Algorithms - Second Edition
+Author(s): Donovan Brown, Joshua Garverick, Omar Dean Mciver
+---
+ISBN-10:  - ISBN-13:  - ASIN: B079P4TP2X
+Published Date: 
+---
+HB Blurb: Key FeaturesMaster lists, stacks, queues, dictionaries, sets, and trees, among other data structuresDelve into effective design and implementation techniques to meet your software requirementsVisualize data structures and algorithms through illustrations for a clearer understanding of their analysisPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for developers looking to learn data structures and algorithms in C#. While basic programming skills and C# knowledge is useful, beginners will find value in the provided code snippets, illustrations, and detailed explanations, enhancing their programming skills. Advanced developers can use this book as a valuable resource for reusable code snippets, instead of writing algorithms from scratch each time.
+--------------------------------------------------
+
+Book 02:
+Title: C# Interview Guide
+Author(s): Trevoir Williams
+---
+ISBN-10: 1804613118 - ISBN-13: 9781804613115 - ASIN: B0CTH5DH95
+Published Date: 2023-01-13
+---
+HB Blurb: Key FeaturesAcquire a strong foundation in syntax, data types, and object-oriented programming to code confidentlyDevelop strategies for addressing behavioral questions, tackle technical challenges, and showcase your coding skillsAugment your C# programming skills with valuable insights from industry expertsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for individuals aspiring to pursue a career in C# programming or software development. Whether you are a beginner or experienced professional, this guide will enhance your technical interview skills and C# programming knowledge.
+--------------------------------------------------
+
+Book 03:
+Title: .NET MAUI Cross-Platform Application Development
+Author(s): Adam Tibi
+---
+ISBN-10: 9781800569225 - ISBN-13: 180056922X - ASIN: B0BJ7F4VD4
+Published Date: 2023-01-27
+---
+HB Blurb: Key FeaturesGet familiar with Microsoft's UI toolkit to build amazing interfaces for iOS, Android, Windows, and macOSBuild a cross-platform password manager based on the famous Windows app, KeePassExplore .NET MAUI development and Hybrid app development using BlazorWho this book is forThis book is an entry-level .NET MAUI book for mobile developers interested in cross-platform application development with working experience of the .NET Core framework, as well as fresh or junior engineers who’ve just begun their career in mobile app development. Native application developers (desktop) or Xamarin developers who want to migrate to .NET MAUI will also benefit from this book. Basic knowledge of modern object-oriented programming language, such as C#, Java or Kotlin, is assumed.
+--------------------------------------------------
+
+Book 04:
+Title: .NET MAUI for C# Developers
+Author(s): Gabriel Baptista, Francesco Abbruzzese
+---
+ISBN-10: 1803245956 - ISBN-13: 9781803245959 - ASIN: B0BX3R3W9V
+Published Date: 2022-03-15
+---
+HB Blurb: Key FeaturesExtend your skills to build cross-platform native apps for iOS, Android, Windows, and MacLearn by working on a real-world projectGo beyond MAUI and integrate with the .NET ecosystemWho this book is forLearning .NET MAUI is targeted squarely at C# programmers, whether or not they have experience with cross-platform or mobile applications, who wish to learn Microsoft's premier platform for building iOS, Android, Windows and Mac apps using a single C#-based solution.
+--------------------------------------------------
+
+Book 05:
+Title: A Developer's Guide to .NET in Azure
+Author(s): Jason Hales, Almantas Karpavicius and Mateus Viegas
+---
+ISBN-10: 1800568509 - ISBN-13: 9781800568501 - ASIN: 1837633010
+Published Date: 2022-09-27
+---
+HB Blurb: Key FeaturesCreate cloud-native .NET applications using cutting-edge technologiesDesign, develop, and deploy scalable, manageable, and resilient apps with various Azure servicesExplore serverless architecture and optimize application scalability through efficient designPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for .NET developers and architects who are eager to master the art of creating and deploying robust applications using .NET and Azure. A foundational understanding of .NET and Azure will enable you to enhance your skills with this resourceful guide. Developers aspiring to explore the realms of microservices and serverless applications within the .NET and Azure landscapes will find this book invaluable.
+--------------------------------------------------
+
+Book 06:
+Title: C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals
+Author(s): Mark J. Price
+---
+ISBN-10: 1837631980 - ISBN-13: 9781837631988 - ASIN: 1837635870
+Published Date: 2023-11-14
+---
+HB Blurb: Key FeaturesExplore the latest additions to C# 12, the .NET 8 class libraries, and Entity Framework Core 8Create professional websites and services with ASP.NET Core 8 and BlazorBuild your confidence with step-by-step code examples and tips for best practicesWho this book is forThis book is for beginners as well as intermediate-level C# and .NET programmers who have worked with C# in the past and want to catch up with the changes made in the last few years.Prior exposure to C# or .NET is not a prerequisite. A general understanding of programming will help you to work through the book more comfortably, though the content is suitable for those completely new to programming.If you already have some C# and .NET skills and want to focus on developing practical apps, you can pick up Mark’s other .NET book, Apps and Services with .NET 8, instead.
+--------------------------------------------------
+
+Book 07:
+Title: Clean Code With C#
+Author(s): Ravindra Akella, Arun Kumar Tamirisa, Suneel Kumar Kunani and Bhupesh Guptha Muthiyalu
+---
+ISBN-10: 9781800209442 - ISBN-13: 1800209444 - ASIN: 1803232978
+Published Date: 2021-03-19
+---
+HB Blurb: Key FeaturesWrite code that seamlessly integrates with other systems while maintaining well-defined software boundariesUnderstand how coding principles and standards elevate software qualityLearn how to avoid common errors while implementing concurrency or threadingPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis coding book is for proficient C# developers, team leads, senior software engineers, and software architects who want to improve the efficiency of their legacy systems. A strong understanding of C# programming is assumed.
+--------------------------------------------------
+
+Book 08:
+Title: Implementing Event-Driven Microservices Architecture in .NET 7
+Author(s): Jason Alls
+---
+ISBN-10: 1800569955 - ISBN-13: 9781800569959 - ASIN: 1803232781
+Published Date: 2022-07-29
+---
+HB Blurb: Key FeaturesLearn the tenets of event-driven architecture, coupled with reliable design patterns to enhance your knowledge of distributed systems and build a foundation for professional growthUnderstand how to translate business goals and drivers into a domain model that can be used to develop an app that enables those goals and driversIdentify areas to enhance development and ensure operational support through the architectural design processWho this book is forThis book will help .NET developers and architects looking to leverage or pivot to microservices while using a domain-driven event model.
+--------------------------------------------------
+
+Book 09:
+Title: Microservices Design Patterns in .NET
+Author(s): Fiodar Sazanavets
+---
+ISBN-10: None - ISBN-13: 9798224121502 - ASIN: 1804610305
+Published Date: 2024-01-17
+---
+HB Blurb: Key FeaturesTackle common design problems when developing a microservices application using .NET CoreExplore applying S.O.L.I.D development principles in developing a stable microservice applicationUse your knowledge to solve common microservice application design challengesWho this book is forIf you are a .NET developer, senior developer, software architect, or DevOps engineer who wants to explore the pros and cons, intricacies, and overall implementation of microservice architecture, then this book is for you. You’ll also get plenty of useful insights if you’re seeking to expand your knowledge of different design patterns and supporting technologies.Basic experience with application and API development with .NET Core (2+) and C# will help you get the most out of this book.
+--------------------------------------------------
+
+Book 10:
+Title: Refactoring with C#
+Author(s): Sean Burns
+---
+ISBN-10:  - ISBN-13:  - ASIN: B0CL4W4G9K
+Published Date: 
+---
+HB Blurb: Key FeaturesApply a wide range of refactoring techniques using the latest tools and features of C#Discover ways to safely improve your code using tests, Roslyn analyzers, and AI assistanceFind ways of communicating technical debt and improving your code in agile and enterprise settingsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for any developer familiar with C# who wants to improve the code they work with on a day-to-day basis. While this book will be most beneficial to new developers with only a year or two of experience, even senior engineers and engineering managers can make the most of this book by exploring not just the process of refactoring, but advanced techniques with libraries like Moq, Snapper, Scientist .NET, and writing custom Roslyn analyzers.
+--------------------------------------------------
+
+Book 11:
+Title: The MVVM Pattern in .NET MAUI
+Author(s): Raihan Taher
+---
+ISBN-10: 1788292952 - ISBN-13: 9781788292955 - ASIN: 1805125001
+Published Date: 2019-02-28
+---
+HB Blurb: Key FeaturesGet to grips with the principles and benefits of the Model-View-ViewModel design patternGain insights into .NET MAUI's MVVM-enabling components and effectively apply them with hands-on examplesLearn data binding, navigation, and testable code techniques to create dynamic, accessible, and localized appsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for developers with experience in C# and basic knowledge of .NET MAUI or Xamarin.Forms who are looking to create cross-platform applications with .NET MAUI and leverage the MVVM pattern. Through practical examples and clear explanations, this book helps both newcomers and experienced developers master the application of MVVM principles within .NET MAUI projects.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - C# Data Structures and Algorithms - Second Edition
+No Amazon.com URL found
+https://www.amazon.co.uk/Data-Structures-Algorithms-possibilities-applications-ebook/dp/B079P4TP2X
+
+
+Book 02 - C# Interview Guide
+https://www.amazon.com/Interview-Guide-confidence-interview-questions-ebook/dp/B0CTH5DH95
+https://www.amazon.co.uk/Interview-Guide-confidence-interview-questions/dp/1805120468
+http://books.google.co.uk/books?id=MVKjEAAAQBAJ&printsec=frontcover&dq=intitle:C%23+Interview+Guide%2Binauthor:Trevoir+Williams&hl=&cd=1&source=gbs_api
+
+Book 03 - .NET MAUI Cross-Platform Application Development
+https://www.amazon.com/NET-MAUI-Cross-Platform-Application-Development-ebook/dp/B0BJ7F4VD4
+https://www.amazon.co.uk/NET-MAUI-Developers-cross-platform-applications-ebook/dp/B0BX3R3W9V
+http://books.google.co.uk/books?id=enB_zwEACAAJ&dq=intitle:.NET+MAUI+Cross-Platform+Application+Development%2Binauthor:Adam+Tibi&hl=&cd=1&source=gbs_api
+
+Book 04 - .NET MAUI for C# Developers
+https://www.amazon.com/NET-MAUI-Developers-cross-platform-applications-ebook/dp/B0BX3R3W9V
+https://www.amazon.co.uk/Software-Architecture-NET-solutions-microservices-ebook/dp/B09QKXPCWN
+http://books.google.co.uk/books?id=6tlhEAAAQBAJ&printsec=frontcover&dq=intitle:.NET+MAUI+for+C%23+Developers%2Binauthor:Gabriel+Baptista,+Francesco+Abbruzzese&hl=&cd=1&source=gbs_api
+
+Book 05 - A Developer's Guide to .NET in Azure
+https://www.amazon.com/Developers-Guide-NET-Azure-microservices/dp/1837633010
+https://www.amazon.co.uk/Developers-Guide-NET-Azure-microservices-ebook/dp/B0CC28Y2L9
+http://books.google.co.uk/books?id=o8-PEAAAQBAJ&printsec=frontcover&dq=intitle:A+Developer%27s+Guide+to+.NET+in+Azure%2Binauthor:Jason+Hales,+Almantas+Karpavicius+and+Mateus+Viegas&hl=&cd=1&source=gbs_api
+
+Book 06 - C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals
+https://www.amazon.com/12-NET-Cross-Platform-Development-Fundamentals/dp/1837635870
+https://www.amazon.co.uk/12-NET-Cross-Platform-Development-Fundamentals/dp/1837635870
+http://books.google.co.uk/books?id=-wziEAAAQBAJ&printsec=frontcover&dq=intitle:C%23+12+and+.NET+8+-+Modern+Cross-Platform+Development+Fundamentals%2Binauthor:Mark+J.+Price&hl=&cd=1&source=gbs_api
+
+Book 07 - Clean Code With C#
+No Amazon.com URL found
+https://www.amazon.co.uk/Enterprise-Application-Development-NET-professional/dp/1803232978
+http://books.google.co.uk/books?id=ZvwlzgEACAAJ&dq=intitle:Clean+Code+With+C%23%2Binauthor:Ravindra+Akella,+Arun+Kumar+Tamirisa,+Suneel+Kumar+Kunani+and+Bhupesh+Guptha+Muthiyalu&hl=&cd=1&source=gbs_api
+
+Book 08 - Implementing Event-Driven Microservices Architecture in .NET 7
+https://www.amazon.com/Implementing-Event-Driven-Microservices-Architecture-NET/dp/1803232781
+No Amazon.co.uk URL found
+http://books.google.co.uk/books?id=EKF-EAAAQBAJ&printsec=frontcover&dq=intitle:Implementing+Event-Driven+Microservices+Architecture+in+.NET+7%2Binauthor:Jason+Alls&hl=&cd=1&source=gbs_api
+
+Book 09 - Microservices Design Patterns in .NET
+https://www.amazon.com/Microservices-Design-Patterns-NET-microservices/dp/1804610305
+https://www.amazon.co.uk/easiest-way-learn-design-patterns-ebook/dp/B0B36JVW4F
+http://books.google.co.uk/books?id=t_Bw0AEACAAJ&dq=intitle:Microservices+Design+Patterns+in+.NET%2Binauthor:Fiodar+Sazanavets&hl=&cd=1&source=gbs_api
+
+Book 10 - Refactoring with C#
+https://www.amazon.com/Refactoring-Safely-improve-applications-technical-ebook/dp/B0CL4W4G9K
+https://www.amazon.co.uk/Clean-Code-application-performance-practices/dp/1838982973
+
+
+Book 11 - The MVVM Pattern in .NET MAUI
+https://www.amazon.com/MVVM-Pattern-NET-MAUI-cross-platform/dp/1805125001
+No Amazon.co.uk URL found
+http://books.google.co.uk/books?id=3AuLDwAAQBAJ&printsec=frontcover&dq=intitle:The+MVVM+Pattern+in+.NET+MAUI%2Binauthor:Raihan+Taher&hl=&cd=1&source=gbs_api
+
