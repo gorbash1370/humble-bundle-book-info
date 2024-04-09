@@ -1,0 +1,286 @@
+Humble Tech Book Bundle- Machine Learning, AI, Deep Learning, and LLM by Pearson - Pearson
+Processing date: 2024-04-09
+Data retrieved from: https://www.humblebundle.com/books/machine-learning-ai-deep-learning-and-llm-pearson-books
+
+Book 01 - Learning Deep Learning - Ekman - 4.7 out of 5 (110 reviews)
+Book 02 - The AI Revolution in Medicine - Lee et al - 4.4 out of 5 (305 reviews)
+Book 03 - Quick Start Guide to Large Language Models - Ozdemir - 4.5 out of 5 (50 reviews)
+Book 04 - The AI Revolution in Project Management - Kanabar / Wong - None found out of 5 (None found reviews)
+Book 05 - Responsible AI - CSIRO - None found out of 5 (None found reviews)
+Book 06 - The AI Revolution in Networking, Security, and Emerging Technologies - Santos et al - None found out of 5 (None found reviews)
+Book 07 - Beyond the Algorithm: AI, Security, Privacy, and Ethics - Santos / Radanliev - None found out of 5 (None found reviews)
+Book 08 - Pragmatic AI - Gift - 3.4 out of 5 (33 reviews)
+Book 09 - Machine Learning with Python for Everyone - Fenner - 4.6 out of 5 (37 reviews)
+Book 10 - Introducing Machine Learning - Esposito - 4.2 out of 5 (28 reviews)
+Book 11 - Programming ML.NET - Esposito - 4.2 out of 5 (4 reviews)
+Book 12 - Deep Learning Illustrated - Krohn et al - 4.5 out of 5 (209 reviews)
+Book 13 - Foundations of Deep Reinforcement Learning - Graesser / Loon Keng - None found out of 5 (None found reviews)
+Book 14 - Artificial Intelligence for Business, 2/e - Rose - 4 out of 5 (27 reviews)
+Book 15 - Foundational Python for Data Science - Behrman - 4.4 out of 5 (8 reviews)
+Book 16 - Predictive Analytics: Data Mining, Machine Learning and Data Science for Practitioners, 2/e - Delen - None found out of 5 (None found reviews)
+Book 17 - Machine Learning in Production - Kelleher - 2.8 out of 5 (7 reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: Learning Deep Learning
+Author(s): Ekman
+---
+ISBN-10: 9780137470259 - ISBN-13: 0137470258 - ASIN: 0137470355
+Published Date: 2021
+---
+HB Blurb: Deep learning (DL) is a key component of today's exciting advances in machine learning and artificial intelligence. Learning Deep Learning is a complete guide to DL. Illuminating both the core concepts and the hands-on programming techniques needed to succeed, this book is ideal for developers, data scientists, analysts, and others--including those with no prior machine learning or statistics experience. Throughout, Ekman provides concise, well-annotated code examples using TensorFlow with Keras. He concludes with an introduction to neural architecture search (NAS), exploring important ethical issues and providing resources for further learning.
+--------------------------------------------------
+
+Book 02:
+Title: The AI Revolution in Medicine
+Author(s): Lee et al
+---
+ISBN-10: 9780138200121 - ISBN-13: 0138200122 - ASIN: 0138200130
+Published Date: 2023
+---
+HB Blurb: Brace yourself for "The AI Revolution in Medicine: GPT-4 and Beyond" - a visionary exploration of artificial intelligence's transformative impact on healthcare. Through gripping narratives and insights from Sam Altman, the authors detail how GPT-4 drives breakthroughs in medical diagnosis, treatment, and patient care. This book highlights AI's power to enhance efficiency, accessibility, and combat challenges like physician burnout. Throughout the text, the authors thoughtfully examine ethical concerns, risks, and the pressing need for responsible testing and equitable access.
+--------------------------------------------------
+
+Book 03:
+Title: Quick Start Guide to Large Language Models
+Author(s): Ozdemir
+---
+ISBN-10: 0138199337 - ISBN-13: 9780138199333 - ASIN: B0CCTZMFWF
+Published Date: 2023-09-20
+---
+HB Blurb: In Quick Start Guide to Large Language Models, pioneering data scientist and AI entrepreneur Sinan Ozdemir clears away those obstacles and provides a guide to working with, integrating, and deploying LLMs to solve practical problems. Ozdemir brings together all you need to get started, even if you have no direct experience with LLMs: step-by-step instructions, best practices, real-world case studies, hands-on exercises, and more. Along the way, he shares insights into LLMs' inner workings to help you optimize model choice, data formats, parameters, and performance. You'll find even more resources on the companion website, including sample datasets and code for working with open- and closed-source LLMs such as those from OpenAI, Google, EleutherAI, Cohere, and Meta.
+--------------------------------------------------
+
+Book 04:
+Title: The AI Revolution in Project Management
+Author(s): Kanabar / Wong
+---
+ISBN-10: 0138297320 - ISBN-13: 9780138297329 - ASIN: 0138297339
+Published Date: 2023-12-22
+---
+HB Blurb: The AI Revolution in Project Management is thoughtfully structured to guide readers through the intersection of AI capabilities and project management needs. It emphasizes the generative aspects of AI, particularly in text generation, providing a focused lens on how AI tools can transform project documentation, communication, and decision-making processes. Through fictional case studies, the book illustrates the practical application of AI tools like ChatGPT, Google Bard, and Claude in real-world project scenarios, enhancing planning, risk management, and resource optimization.
+--------------------------------------------------
+
+Book 05:
+Title: Responsible AI
+Author(s): CSIRO
+---
+ISBN-10: 0138073880 - ISBN-13: 9780138073886 - ASIN: B0CLKYVLPY
+Published Date: 2023-12-08
+---
+HB Blurb: "Responsible AI" charts the ethical frontier of artificial intelligence, tracing its evolution from the inception of computing to today's ethical AI frameworks. Highlighting the dual potential of AI to benefit or harm society, this text underscores the importance of responsible development and application. It provides a nuanced guide to integrating ethical considerations into AI system engineering, governance, and organizational practices. By advocating for a comprehensive approach, the book stresses shared responsibility across all AI ecosystem participants. Through practical patterns, illustrative case studies, and anticipatory insights, it offers a blueprint for developing AI systems that align with core ethical principles, ensuring technology serves humanity's best interests.
+--------------------------------------------------
+
+Book 06:
+Title: The AI Revolution in Networking, Security, and Emerging Technologies
+Author(s): Santos et al
+---
+ISBN-10: 0138293635 - ISBN-13: 9780138293635 - ASIN: 0138293694
+Published Date: 2024-03-04
+---
+HB Blurb: AI is having a profound impact on nearly every sector of the workforce. Huge professional and financial opportunities await in the key domains of computer networking, cybersecurity, IoT, and cloud computing. The AI Revolution in Networking, Cybersecurity, and Emerging Technologies will give you the edge you need to harness AI for your benefit. Learn how AI can efficiently identify shadow data, fortify security measures, generate predictive analytics in real time, and so much more.In this comprehensive guide, Cisco professionals Omar Santos, Samer Salam, and Hazim Dahir engage you in both AI application and theory through practical case studies and predictions of future trends, which makes this book not just a valuable guide for today, but an indispensable resource for tomorrow.
+--------------------------------------------------
+
+Book 07:
+Title: Beyond the Algorithm: AI, Security, Privacy, and Ethics
+Author(s): Santos / Radanliev
+---
+ISBN-10: 0138268398 - ISBN-13: 9780138268398 - ASIN: B0CRPDNPJ4
+Published Date: 2024-01-23
+---
+HB Blurb: As artificial intelligence (AI) becomes more and more woven into our everyday lives—and underpins so much of the infrastructure we rely on—the ethical, security, and privacy implications require a critical approach that draws not simply on the programming and algorithmic foundations of the technology.Bringing together legal studies, philosophy, cybersecurity, and academic literature, Beyond the Algorithm examines these complex issues with a comprehensive, easy-to-understand analysis and overview. The book explores the ethical challenges that professionals—and, increasingly, users—are encountering as AI becomes not just a promise of the future, but a powerful tool of the present.
+--------------------------------------------------
+
+Book 08:
+Title: Pragmatic AI
+Author(s): Gift
+---
+ISBN-10: 0134863917 - ISBN-13: 9780134863917 - ASIN: B07FB8F8QP
+Published Date: 2018-07-12
+---
+HB Blurb: Pragmatic AI will help you solve real-world problems with contemporary machine learning, artificial intelligence, and cloud computing tools. Noah Gift demystifies all the concepts and tools you need to get results—even if you don't have a strong background in math or data science.Gift illuminates powerful off-the-shelf cloud offerings from Amazon, Google, and Microsoft, and demonstrates proven techniques using the Python data science ecosystem. His workflows and examples help you streamline and simplify every step, from deployment to production, and build exceptionally scalable solutions. As you learn how machine language (ML) solutions work, you'll gain a more intuitive understanding of what you can achieve with them and how to maximize their value.
+--------------------------------------------------
+
+Book 09:
+Title: Machine Learning with Python for Everyone
+Author(s): Fenner
+---
+ISBN-10: 0134845641 - ISBN-13: 9780134845647 - ASIN: B07VRSJ1GB
+Published Date: 2019-07-30
+---
+HB Blurb: Master machine learning with Python, regardless of your skill level. Mark E. Fenner has designed this for people new to Machine Learning who can write Python code. Through plain-English explanations, visual aids, and practical examples, you'll learn the processes, patterns, and strategies for building effective learning systems. Explore key mathematical and computational topics in an accessible way and follow step-by-step instructions to build, train, and evaluate learning systems. This guides insights will be applicable to every learning system you ever build or use. -Understand machine learning algorithms, models, and core concepts.  -Develop proficiency in classification, regression, feature engineering, and system optimization. -Apply machine learning techniques to analyze images and text.
+--------------------------------------------------
+
+Book 10:
+Title: Introducing Machine Learning
+Author(s): Esposito
+---
+ISBN-10: 0135588383 - ISBN-13: 9780135588383 - ASIN: B084B189CB
+Published Date: 2020-01-31
+---
+HB Blurb: Machine learning offers immense opportunities, and Introducing Machine Learning delivers practical knowledge to make the most of them. Dino and Francesco Esposito start with a quick overview of the foundations of artificial intelligence and the basic steps of any machine learning project. Next, they introduce Microsoft’s powerful ML.NET library, including capabilities for data processing, training, and evaluation. They present families of algorithms that can be trained to solve real-life problems, as well as deep learning techniques utilizing neural networks. The authors conclude by introducing valuable runtime services available through the Azure cloud platform and consider the long-term business vision for machine learning.
+--------------------------------------------------
+
+Book 11:
+Title: Programming ML.NET
+Author(s): Esposito
+---
+ISBN-10: 0137383622 - ISBN-13: 9780137383627 - ASIN: B09MH4F9Z4
+Published Date: 2022-02-03
+---
+HB Blurb: Modeled on his popular Programming ASP.NET books, this guide takes the same scenario-based approach Microsofts team used to build the ML.NET framework itself. Esposito presents and illuminates ML.NETs dedicated mini-frameworks (ML Tasks) for specific classes of problems, and draws on personal experience to help developers apply these in the real world, where a problems complexity can vary widely based on data availability or the specific results you need. In a full section on ML.NET neural networks, Esposito introduces key concepts and presents realistic examples you can reuse in your own applications. Along the way, Esposito also shows how to leverage powerful Python-based machine learning tools in the .NET environment.
+--------------------------------------------------
+
+Book 12:
+Title: Deep Learning Illustrated
+Author(s): Krohn et al
+---
+ISBN-10: 0135121728 - ISBN-13: 9780135121726 - ASIN: 0135116694
+Published Date: 2019-08-05
+---
+HB Blurb: World-class instructor and practitioner Jon Krohn—with visionary content from Grant Beyleveld and beautiful illustrations by Aglaé Bassens—presents straightforward analogies to explain what deep learning is, why it has become so popular, and how it relates to other machine learning approaches. Krohn has created a practical reference and tutorial for developers, data scientists, researchers, analysts, and students who want to start applying it. He illuminates theory with hands-on Python code in accompanying Jupyter notebooks. To help you progress quickly, he focuses on the versatile deep learning library Keras to nimbly construct efficient TensorFlow models; PyTorch, the leading alternative library, is also covered.
+--------------------------------------------------
+
+Book 13:
+Title: Foundations of Deep Reinforcement Learning
+Author(s): Graesser / Loon Keng
+---
+ISBN-10: 0135172489 - ISBN-13: 9780135172483 - ASIN: B07ZVYZC6F
+Published Date: 2019-11-20
+---
+HB Blurb: Foundations of Deep Reinforcement Learning is an introduction to deep RL that uniquely combines both theory and implementation. It starts with intuition, then carefully explains the theory of deep RL algorithms, discusses implementations in its companion software library SLM Lab, and finishes with the practical details of getting deep RL to work.
+This guide is ideal for both computer science students and software engineers who are familiar with basic machine learning concepts and have a working understanding of Python.
+--------------------------------------------------
+
+Book 14:
+Title: Artificial Intelligence for Business, 2/e
+Author(s): Rose
+---
+ISBN-10: 0136556663 - ISBN-13: 9780136556664 - ASIN: B08F5HYRQL
+Published Date: 2020-12-09
+---
+HB Blurb: "Artificial Intelligence for Business" demystifies AI and ML, offering a clear bridge for non-experts to leverage these technologies for business innovation. With insights drawn from the intersection of big data, enhanced processing power, and sophisticated algorithms, this book showcases how AI can solve real-world problems across various domains. Avoiding the complexity of heavy mathematical explanations, it serves as an accessible guide for business leaders eager to understand and apply AI and ML to tackle their challenges.
+--------------------------------------------------
+
+Book 15:
+Title: Foundational Python for Data Science
+Author(s): Behrman
+---
+ISBN-10: 0136624316 - ISBN-13: 9780136624318 - ASIN: 0136624359
+Published Date: 2021-10-12
+---
+HB Blurb: Data science instructor and practitioner Kennedy Behrman first walks through the process of learning to code for the first time with Python and Jupyter notebooks, then introduces key libraries every Python data science programmer needs to master. Once you've learned these foundations, Behrman introduces intermediate and applied Python techniques for real-world problem-solving. Throughout, Foundational Python for Data Science presents hands-on exercises, learning assessments, case studies, and more—all created with Colab (Jupyter compatible) notebooks, so you can execute all coding examples interactively without installing or configuring any software.
+--------------------------------------------------
+
+Book 16:
+Title: Predictive Analytics: Data Mining, Machine Learning and Data Science for Practitioners, 2/e
+Author(s): Delen
+---
+ISBN-10: 0135946433 - ISBN-13: 9780135946435 - ASIN: 0136738516
+Published Date: 2020-12-15
+---
+HB Blurb: "Predictive Analytics" clarifies the critical role of predictive analytics in informed business decision-making within today's dynamic market. Positioned between descriptive and prescriptive analytics, it focuses on anticipating future trends to enable proactive business strategies. The book thoroughly presents the integration of computer science, statistics, and machine learning techniques, aiming to equip practitioners with the capability to apply predictive analytics effectively. It stands as an essential resource for those looking to leverage data-driven insights for a competitive advantage.
+--------------------------------------------------
+
+Book 17:
+Title: Machine Learning in Production
+Author(s): Kelleher
+---
+ISBN-10: 9780134116549 - ISBN-13: 0134116542 - ASIN: B07NS7BW7J
+Published Date: 2019-03
+---
+HB Blurb: "Machine Learning in Production" is a crash course in data science and machine learning for people who need to solve real-world problems in production environments. Written for technically competent “accidental data scientists” with more curiosity and ambition than formal training, this complete and rigorous introduction stresses practice, not theory.
+Building on agile principles, Andrew and Adam Kelleher show how to quickly deliver significant value in production, resisting overhyped tools and unnecessary complexity. Drawing on their extensive experience, they help you ask useful questions and then execute production projects from start to finish.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Learning Deep Learning
+https://www.amazon.com/Learning-Deep-Processing-Transformers-TensorFlow/dp/0137470355
+https://www.amazon.co.uk/Learning-Deep-Processing-Transformers-TensorFlow-ebook/dp/B095C1HDDT
+http://books.google.co.uk/books?id=4qaUzgEACAAJ&dq=intitle:Learning+Deep+Learning%2Binauthor:Ekman&hl=&cd=1&source=gbs_api
+
+Book 02 - The AI Revolution in Medicine
+https://www.amazon.com/AI-Revolution-Medicine-GPT-4-Beyond/dp/0138200130
+https://www.amazon.co.uk/AI-Revolution-Medicine-GPT-4-Beyond/dp/0138200130
+http://books.google.co.uk/books?id=Ti7izwEACAAJ&dq=intitle:The+AI+Revolution+in+Medicine%2Binauthor:Lee+et+al&hl=&cd=1&source=gbs_api
+
+Book 03 - Quick Start Guide to Large Language Models
+https://www.amazon.com/Quick-Start-Guide-Language-Models-ebook/dp/B0CCTZMFWF
+https://www.amazon.co.uk/Quick-Start-Guide-Language-Models/dp/0138199191
+http://books.google.co.uk/books?id=aDvVEAAAQBAJ&printsec=frontcover&dq=intitle:Quick+Start+Guide+to+Large+Language+Models%2Binauthor:Ozdemir&hl=&cd=1&source=gbs_api
+
+Book 04 - The AI Revolution in Project Management
+https://www.amazon.com/Revolution-Project-Management-Productivity-Generative/dp/0138297339
+https://www.amazon.co.uk/Revolution-Project-Management-Productivity-Generative/dp/0138297339
+http://books.google.co.uk/books?id=sXriEAAAQBAJ&printsec=frontcover&dq=intitle:The+AI+Revolution+in+Project+Management%2Binauthor:Kanabar+/+Wong&hl=&cd=1&source=gbs_api
+
+Book 05 - Responsible AI
+https://www.amazon.com/Responsible-AI-Practices-Creating-Trustworthy-ebook/dp/B0CLKYVLPY
+https://www.amazon.co.uk/Responsible-AI-Practices-Creating-Trustworthy-ebook/dp/B0CLKYVLPY
+http://books.google.co.uk/books?id=gXniEAAAQBAJ&printsec=frontcover&dq=intitle:Responsible+AI%2Binauthor:CSIRO&hl=&cd=1&source=gbs_api
+
+Book 06 - The AI Revolution in Networking, Security, and Emerging Technologies
+No Amazon.com URL found
+https://www.amazon.co.uk/Revolution-Networking-Cybersecurity-Emerging-Technologies/dp/0138293694
+http://books.google.co.uk/books?id=jHriEAAAQBAJ&printsec=frontcover&dq=intitle:The+AI+Revolution+in+Networking,+Security,+and+Emerging+Technologies%2Binauthor:Santos+et+al&hl=&cd=1&source=gbs_api
+
+Book 07 - Beyond the Algorithm: AI, Security, Privacy, and Ethics
+https://www.amazon.com/Beyond-Algorithm-Security-Privacy-Ethics-ebook/dp/B0CRPDNPJ4
+No Amazon.co.uk URL found
+http://books.google.co.uk/books?id=QHriEAAAQBAJ&printsec=frontcover&dq=intitle:Beyond+the+Algorithm:+AI,+Security,+Privacy,+and+Ethics%2Binauthor:Santos+/+Radanliev&hl=&cd=1&source=gbs_api
+
+Book 08 - Pragmatic AI
+https://www.amazon.com/Pragmatic-AI-Introduction-Cloud-Based-Analytics-ebook/dp/B07FB8F8QP
+https://www.amazon.co.uk/Pragmatic-AI-Introduction-Cloud-Based-Analytics/dp/0134863860
+http://books.google.co.uk/books?id=BjljDwAAQBAJ&printsec=frontcover&dq=intitle:Pragmatic+AI%2Binauthor:Gift&hl=&cd=1&source=gbs_api
+
+Book 09 - Machine Learning with Python for Everyone
+https://www.amazon.com/Machine-Learning-Everyone-Addison-Wesley-Analytics-ebook/dp/B07VRSJ1GB
+https://www.amazon.co.uk/Machine-Learning-Everyone-Addison-Wesley-Analytics-ebook/dp/B07VRSJ1GB
+http://books.google.co.uk/books?id=KhOlDwAAQBAJ&printsec=frontcover&dq=intitle:Machine+Learning+with+Python+for+Everyone%2Binauthor:Fenner&hl=&cd=1&source=gbs_api
+
+Book 10 - Introducing Machine Learning
+https://www.amazon.com/Introducing-Machine-Learning-Developer-Reference-ebook/dp/B084B189CB
+https://www.amazon.co.uk/Introducing-Machine-Learning-Developer-Reference-ebook/dp/B084B189CB
+http://books.google.co.uk/books?id=VjDNDwAAQBAJ&printsec=frontcover&dq=intitle:Introducing+Machine+Learning%2Binauthor:Esposito&hl=&cd=1&source=gbs_api
+
+Book 11 - Programming ML.NET
+https://www.amazon.com/Programming-ML-NET-Developer-Reference-Esposito-ebook/dp/B09MH4F9Z4
+https://www.amazon.co.uk/Programming-ML-NET-Developer-Reference-Esposito-ebook/dp/B09MH4F9Z4
+http://books.google.co.uk/books?id=HtfPEAAAQBAJ&printsec=frontcover&dq=intitle:Programming+ML.NET%2Binauthor:Esposito&hl=&cd=1&source=gbs_api
+
+Book 12 - Deep Learning Illustrated
+https://www.amazon.com/Deep-Learning-Illustrated-Intelligence-Addison-Wesley/dp/0135116694
+https://www.amazon.co.uk/Deep-Learning-Illustrated-Intelligence-Addison-Wesley/dp/0135116694
+http://books.google.co.uk/books?id=J1enDwAAQBAJ&printsec=frontcover&dq=intitle:Deep+Learning+Illustrated%2Binauthor:Krohn+et+al&hl=&cd=1&source=gbs_api
+
+Book 13 - Foundations of Deep Reinforcement Learning
+https://www.amazon.com/Foundations-Deep-Reinforcement-Learning-Addison-Wesley-ebook/dp/B07ZVYZC6F
+https://www.amazon.co.uk/Foundations-Deep-Reinforcement-Learning-Addison-Wesley-ebook/dp/B07ZVYZC6F
+http://books.google.co.uk/books?id=0HW7DwAAQBAJ&printsec=frontcover&dq=intitle:Foundations+of+Deep+Reinforcement+Learning%2Binauthor:Graesser+/+Loon+Keng&hl=&cd=1&source=gbs_api
+
+Book 14 - Artificial Intelligence for Business, 2/e
+https://www.amazon.com/Artificial-Intelligence-Business-Doug-Rose-ebook/dp/B08F5HYRQL
+https://www.amazon.co.uk/Artificial-Intelligence-Business-Doug-Rose/dp/0136556612
+http://books.google.co.uk/books?id=DNrPEAAAQBAJ&printsec=frontcover&dq=intitle:Artificial+Intelligence+for+Business,+2/e%2Binauthor:Rose&hl=&cd=1&source=gbs_api
+
+Book 15 - Foundational Python for Data Science
+https://www.amazon.com/Foundational-Python-Science-Addison-Wesley-Analytics/dp/0136624359
+https://www.amazon.co.uk/Foundational-Python-Science-Addison-Wesley-Analytics/dp/0136624359
+http://books.google.co.uk/books?id=TtnPEAAAQBAJ&printsec=frontcover&dq=intitle:Foundational+Python+for+Data+Science%2Binauthor:Behrman&hl=&cd=1&source=gbs_api
+
+Book 16 - Predictive Analytics: Data Mining, Machine Learning and Data Science for Practitioners, 2/e
+No Amazon.com URL found
+https://www.amazon.co.uk/Predictive-Analytics-Machine-Learning-Practitioners/dp/0136738516
+http://books.google.co.uk/books?id=AtrPEAAAQBAJ&printsec=frontcover&dq=intitle:Predictive+Analytics:+Data+Mining,+Machine+Learning+and+Data+Science+for+Practitioners,+2/e%2Binauthor:Delen&hl=&cd=1&source=gbs_api
+
+Book 17 - Machine Learning in Production
+https://www.amazon.com/Machine-Learning-Production-Applications-Addison-Wesley-ebook/dp/B07NS7BW7J
+https://www.amazon.co.uk/Machine-Learning-Production-Applications-Addison-Wesley/dp/0134116542
+http://books.google.co.uk/books?id=Jk8fvgAACAAJ&dq=intitle:Machine+Learning+in+Production%2Binauthor:Kelleher&hl=&cd=1&source=gbs_api
+
