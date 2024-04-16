@@ -1,0 +1,523 @@
+Humble Tech Book Bundle- Rust Mastery by Packt - Packt
+Processing date: 2024-04-16
+Data retrieved from: https://www.humblebundle.com/books/rust-mastery-packt-books
+
+Book 01 - Speed Up Your Python with Rust - Maxwell Flitton - 4.5 out of 5 (15 reviews)
+Book 02 - Hands-On Data Structures and Algorithms with Rust - Claus Matzinger - 3.8 out of 5 (22 reviews)
+Book 03 - Practical System Programming for Rust Developers - Prabhu Eshwarla - None found out of 5 (None found reviews)
+Book 04 - Creative Projects for Rust Programmers - Carlo Milanesi - 4.3 out of 5 (29 reviews)
+Book 05 - Rust Web Development with Rocket - Karuna Murti - 4.2 out of 5 (6 reviews)
+Book 06 - Rust Web Programming - Maxwell Flitton - 4.2 out of 5 (32 reviews)
+Book 07 - Asynchronous Programming in Rust - Carl Fredrik Samson - 5 out of 5 (4 reviews)
+Book 08 - Creative DIY Microcontroller Projects with TinyGo and WebAssembly - Tobias Theel - 4.5 out of 5 (13 reviews)
+Book 09 - Practical WebAssembly - Sendil Kumar Nellaiyapen - 5 out of 5 (4 reviews)
+Book 10 - Game Development with Rust and WebAssembly - Eric Smith - 3.7 out of 5 (12 reviews)
+Book 11 - Blazor WebAssembly by Example, 2e - Toi B. Wright - 4.4 out of 5 (27 reviews)
+Book 12 - Mastering Blazor WebAssembly - Ahmad Mozaffar - 5 out of 5 (14 reviews)
+Book 13 - Hands-On Concurrency with Rust - Brian L. Troutwine - 4.4 out of 5 (26 reviews)
+Book 14 - Hands-On Game Development with WebAssembly - Rick Battagline - 4.1 out of 5 (20 reviews)
+Book 15 - Hands-On Microservices with Rust - Denis Kolodin - 4.2 out of 5 (36 reviews)
+Book 16 - Rust Programming By Example - Guillaume Gomez, Antoni Boucher - 4 out of 5 (7 reviews)
+Book 17 - Rust Quick Start Guide - Daniel Arbuckle - 3.6 out of 5 (9 reviews)
+Book 18 - Learn WebAssembly - Mike Rourke - 3.5 out of 5 (10 reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Speed Up Your Python with Rust
+Author(s): Maxwell Flitton
+---
+ISBN-10: 1801812322 - ISBN-13: 9781801812320 - ASIN: B09LVL1T1Y
+Published Date: 2022-01-21
+Page Count: 384
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=sVhVEAAAQBAJ&printsec=frontcover&dq=intitle:Speed+Up+Your+Python+with+Rust%2Binauthor:Maxwell+Flitton&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.5 of 5 (15 reviews)
+Amazon.com URL: https://www.amazon.com/Speed-Your-Python-Rust-performance-ebook/dp/B09LVL1T1Y
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (11 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Speed-Your-Python-Rust-performance-ebook/dp/B09LVL1T1Y
+---
+HB Blurb: Key FeaturesLearn to implement Rust in a Python system without altering the entire systemWrite safe and efficient Rust code as a Python developer by understanding the essential features of RustBuild Python extensions in Rust by using Python NumPy modules in your Rust codeWho this book is forThis book is for Python developers who want to speed up their Python code with Rust and implement Rust in a Python system without altering the entire system. You'll be able to learn about all topics relating to Rust programming. Basic knowledge of Python is required to get the most out of this book.
+--------------------------------------------------
+
+Book 02:
+Title: Hands-On Data Structures and Algorithms with Rust
+Author(s): Claus Matzinger
+---
+ISBN-10: 1788991494 - ISBN-13: 9781788991490 - ASIN: 178899552X
+Published Date: 2019-01-25
+Page Count: 306
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=gYKFDwAAQBAJ&printsec=frontcover&dq=intitle:Hands-On+Data+Structures+and+Algorithms+with+Rust%2Binauthor:Claus+Matzinger&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 3.8 of 5 (22 reviews)
+Amazon.com URL: https://www.amazon.com/Hands-Data-Structures-Algorithms-Rust/dp/178899552X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.8 of 5 (22 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Hands-Data-Structures-Algorithms-Rust/dp/178899552X
+---
+HB Blurb: Key FeaturesUse data structures such as arrays, stacks, trees, lists and graphs with real-world examplesLearn the functional and reactive implementations of the traditional data structuresExplore illustrations to present data structures and algorithms, as well as their analysis, in a clear, visual mannerWho this book is forThis book is for developers seeking to use Rust solutions in a practical/professional setting; who wants to learn essential Data Structures and Algorithms in Rust. It is for developers with basic Rust language knowledge, some experience in other programming languages is required.
+--------------------------------------------------
+
+Book 03:
+Title: Practical System Programming for Rust Developers
+Author(s): Prabhu Eshwarla
+---
+ISBN-10: 1800562012 - ISBN-13: 9781800562011 - ASIN: 1800560966
+Published Date: 2020-12-24
+Page Count: 388
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=eEUREAAAQBAJ&printsec=frontcover&dq=intitle:Practical+System+Programming+for+Rust+Developers%2Binauthor:Prabhu+Eshwarla&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Practical-System-Programming-Rust-Developers/dp/1800560966
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Practical-System-Programming-Rust-Developers/dp/1800560966
+---
+HB Blurb: Key FeaturesLearn techniques to design and build system tools and utilities in RustExplore the different features of the Rust standard library for interacting with operating systemsGain an in-depth understanding of the Rust programming language by writing low-level softwareWho this book is forThis book is for developers with basic knowledge of Rust but little to no knowledge or experience of systems programming. System programmers who want to consider Rust as an alternative to C or C++ will also find this book useful.
+--------------------------------------------------
+
+Book 04:
+Title: Creative Projects for Rust Programmers
+Author(s): Carlo Milanesi
+---
+ISBN-10: 1789343879 - ISBN-13: 9781789343878 - ASIN: 1789346223
+Published Date: 2020-06-19
+Page Count: 396
+---
+Google Books Price: GBP 18.84
+Google Books URL: http://books.google.co.uk/books?id=uqTsDwAAQBAJ&printsec=frontcover&dq=intitle:Creative+Projects+for+Rust+Programmers%2Binauthor:Carlo+Milanesi&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.3 of 5 (29 reviews)
+Amazon.com URL: https://www.amazon.com/Creative-Projects-Rust-Programmers-WebAssembly/dp/1789346223
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 0 of 5 (27 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Creative-Projects-Rust-Programmers-WebAssembly-ebook/dp/B085P1MCXJ
+---
+HB Blurb: Key FeaturesWork through projects that will help you build high-performance applications with RustDelve into concepts such as error handling, memory management, concurrency, generics, and macros with RustImprove business productivity by choosing the right libraries and frameworks for your applicationsWho this book is forThis Rust programming book is for developers who want to get hands-on experience with implementing their knowledge of Rust programming, and are looking for expert advice on which libraries and frameworks they can adopt to develop software that typically uses the Rust language.
+--------------------------------------------------
+
+Book 05:
+Title: Rust Web Development with Rocket
+Author(s): Karuna Murti
+---
+ISBN-10: 1800560826 - ISBN-13: 9781800560826 - ASIN: 180056130X
+Published Date: 2022-06-30
+Page Count: 420
+---
+Google Books Price: GBP 12.34
+Google Books URL: http://books.google.co.uk/books?id=-2l4EAAAQBAJ&printsec=frontcover&dq=intitle:Rust+Web+Development+with+Rocket%2Binauthor:Karuna+Murti&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $15.24Save $9.75 (39%)
+Amazon.com Reviews: 4.2 of 5 (6 reviews)
+Amazon.com URL: https://www.amazon.com/Rust-Web-Development-Rocket-development/dp/180056130X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.9 of 5 (4 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Rust-Web-Development-Rocket-development/dp/180056130X
+---
+HB Blurb: Key FeaturesDiscover solutions to the common problems faced while creating web applications with RocketLearn everything about Rust, from structs and crates to generics and debuggingCombine Rust and Rocket to create, test, and deploy a full-featured web appWho this book is forThis web development book is for software engineers who want to learn how to use the Rocket framework to build web applications. Although not mandatory, basic knowledge of the Rust programming language will help you understand the topics covered easily.
+--------------------------------------------------
+
+Book 06:
+Title: Rust Web Programming
+Author(s): Maxwell Flitton
+---
+ISBN-10: 1800566093 - ISBN-13: 9781800566095 - ASIN: B08PDFR2M9
+Published Date: 2021-02-26
+Page Count: 395
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=brYgEAAAQBAJ&printsec=frontcover&dq=intitle:Rust+Web+Programming%2Binauthor:Maxwell+Flitton&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $18.49Save $11.50 (38%)
+Amazon.com Reviews: 4.2 of 5 (32 reviews)
+Amazon.com URL: https://www.amazon.com/Rust-Web-Programming-hands-programming-ebook/dp/B08PDFR2M9
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (32 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Rust-Web-Programming-hands-programming-ebook/dp/B08PDFR2M9
+---
+HB Blurb: Key FeaturesWork with cutting-edge web techniques such as distroless Rust servers, Terraform, and AWS deploymentGet acquainted with async concepts such as actors and queuing tasks using lower-level frameworks like TokioBuild a full web application in Rust with a database, authentication, and frontendWho this book is forThis Rust programming book is for web developers who want to learn and implement Rust to build web applications. Developers familiar with languages such as Python, Ruby, and JS will be able to use this book to build high performant web apps with Rust.Although no prior experience in Rust is necessary, a solid understanding of web development principles, along with basic knowledge of HTML, CSS, and JavaScript, is necessary to get the most out of this book.
+--------------------------------------------------
+
+Book 07:
+Title: Asynchronous Programming in Rust
+Author(s): Carl Fredrik Samson
+---
+ISBN-10: 1805126628 - ISBN-13: 9781805126621 - ASIN: B0CSNJSPST
+Published Date: 2024-02-09
+Page Count: 306
+---
+Google Books Price: GBP 15.59
+Google Books URL: http://books.google.co.uk/books?id=TLfuEAAAQBAJ&printsec=frontcover&dq=intitle:Asynchronous+Programming+in+Rust%2Binauthor:Carl+Fredrik+Samson&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $19.79Save $12.20 (38%)
+Amazon.com Reviews: 5 of 5 (4 reviews)
+Amazon.com URL: https://www.amazon.com/Asynchronous-Programming-Rust-asynchronous-programming-ebook/dp/B0CSNJSPST
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Asynchronous-Programming-Rust-asynchronous-programming/dp/1805128132
+---
+HB Blurb: Key FeaturesMaster asynchronous Rust through examples focusing on key conceptsBuild a solid understanding of concepts such as coroutines, fibers, futures, and callbacksExplore Rust's futures, craft your own runtime, and excel in handling stacks, ABIs, syscalls, and inline assemblyPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for programmers who want to enhance their understanding of asynchronous programming, especially those experienced in VM’ed or interpreted languages like C#, Java, Python, JavaScript, and Go. If you work with C or C++ but have had limited exposure to asynchronous programming, this book serves as a resource to broaden your knowledge in this area.Although the examples are predominantly in Rust, the intricacies of Rust’s futures are covered in detail. So, anyone with a keen interest in learning Rust or with working knowledge of Rust will be able to get the most out of this book.
+--------------------------------------------------
+
+Book 08:
+Title: Creative DIY Microcontroller Projects with TinyGo and WebAssembly
+Author(s): Tobias Theel
+---
+ISBN-10: 1800563590 - ISBN-13: 9781800563599 - ASIN: 1800560206
+Published Date: 2021-05-14
+Page Count: 322
+---
+Google Books Price: GBP 14.94
+Google Books URL: http://books.google.co.uk/books?id=83QqEAAAQBAJ&printsec=frontcover&dq=intitle:Creative+DIY+Microcontroller+Projects+with+TinyGo+and+WebAssembly%2Binauthor:Tobias+Theel&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.5 of 5 (13 reviews)
+Amazon.com URL: https://www.amazon.com/Creative-Microcontroller-Projects-TinyGo-WebAssembly/dp/1800560206
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Creative-Microcontroller-Projects-TinyGo-WebAssembly-ebook/dp/B08X4FN3K6
+---
+HB Blurb: Key FeaturesBuild creative embedded apps with TinyGo using low-powered devices and microcontrollersUnderstand the practicality involved in integrating hardware and sensors while programming them using TinyGoUse TinyGo in modern browsers to display embedded applications' statistics on WebAssembly dashboardsWho this book is forIf you are a Go developer who wants to program low-powered devices and hardware such as Arduino UNO and Arduino Nano IoT 33, or if you are a Go developer who wants to extend your knowledge of using Go with WebAssembly while programming Go in the browser, then this book is for you. Go hobbyist programmers who are interested in learning more about TinyGo by working through the DIY projects covered in the book will also find this hands-on guide useful.
+--------------------------------------------------
+
+Book 09:
+Title: Practical WebAssembly
+Author(s): Sendil Kumar Nellaiyapen
+---
+ISBN-10: 1838827463 - ISBN-13: 9781838827465 - ASIN: B09QKY45ZG
+Published Date: 2022-05-02
+Page Count: 232
+---
+Google Books Price: GBP 20.14
+Google Books URL: http://books.google.co.uk/books?id=eCJuEAAAQBAJ&printsec=frontcover&dq=intitle:Practical+WebAssembly%2Binauthor:Sendil+Kumar+Nellaiyapen&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (4 reviews)
+Amazon.com URL: https://www.amazon.com/Practical-WebAssembly-Explore-fundamentals-programming-ebook/dp/B09QKY45ZG
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Practical-WebAssembly-Explore-fundamentals-programming-ebook/dp/B09QKY45ZG
+---
+HB Blurb: Key FeaturesUnderstand the Rust programming language and WebAssembly concepts for web developmentBuild web, mobile, and embedded apps using WebAssemblyEnhance the scalability and resilience of your web appsWho this book is forThis book is for JavaScript developers who want to deliver better performance and ship type-safe code. Rust developers or backend engineers looking to build full-stack applications without worrying too much about JavaScript programming will also find the book useful.
+--------------------------------------------------
+
+Book 10:
+Title: Game Development with Rust and WebAssembly
+Author(s): Eric Smith
+---
+ISBN-10: 1801074992 - ISBN-13: 9781801074995 - ASIN: B09DDJ5JXF
+Published Date: 2022-04-29
+Page Count: 476
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=wKRnEAAAQBAJ&printsec=frontcover&dq=intitle:Game+Development+with+Rust+and+WebAssembly%2Binauthor:Eric+Smith&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $22.39Save $13.60 (38%)
+Amazon.com Reviews: 3.7 of 5 (12 reviews)
+Amazon.com URL: https://www.amazon.com/Game-Development-Rust-WebAssembly-building-ebook/dp/B09DDJ5JXF
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.9 of 5 (6 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Game-Development-Rust-WebAssembly-building/dp/1801070970
+---
+HB Blurb: Key FeaturesBuild and deploy an endless runner game for the web from scratch through this helpful guide with key images printed in colorLearn how to use Rust for web development with WebAssemblyExplore modern game development and programming techniques to build 2D games using RustWho this book is forThis game development book is for developers interested in Rust who want to create and deploy 2D games to the web. Game developers looking to build a game on the web platform using WebAssembly without C++ programming or web developers who want to explore WebAssembly along with JavaScript web will also find this book useful. The book will also help Rust developers who want to move from the server side to the client side by familiarizing them with the WebAssembly toolchain. Basic knowledge of Rust programming is assumed.
+--------------------------------------------------
+
+Book 11:
+Title: Blazor WebAssembly by Example, 2e
+Author(s): Toi B. Wright
+---
+ISBN-10: 1800563930 - ISBN-13: 9781800563933 - ASIN: B0BH8QT9HM
+Published Date: 2021-07-09
+Page Count: 267
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=Ly0zEAAAQBAJ&printsec=frontcover&dq=intitle:Blazor+WebAssembly+by+Example,+2e%2Binauthor:Toi+B.+Wright&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.4 of 5 (27 reviews)
+Amazon.com URL: https://www.amazon.com/Blazor-WebAssembly-Example-practical-projects-ebook/dp/B0BH8QT9HM
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 0 of 5 (19 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Blazor-WebAssembly-Example-practical-projects-ebook/dp/B0BH8QT9HM
+---
+HB Blurb: Key FeaturesExplore and build complete, easy-to-follow web projects using Blazor. Each project includes a video example too.Test your skills in building a weather app, an expense tracker, and a Kanban board with real-world applications.Develop a deeper understanding on how to work with Blazor WebAssembly without spending too much time focusing on the theory.Who this book is forThis book is for .NET web developers who want to leverage the power of .NET and C# to write single-page web applications using Blazor WebAssembly without using JavaScript frameworks. To get started with this book, you’ll need at least beginner-level knowledge of the C# language, .NET framework, Microsoft Visual Studio, and web development concepts.
+--------------------------------------------------
+
+Book 12:
+Title: Mastering Blazor WebAssembly
+Author(s): Ahmad Mozaffar
+---
+ISBN-10: 1803233168 - ISBN-13: 9781803233161 - ASIN: B0B2PWQBNM
+Published Date: 2023-08-18
+Page Count: 370
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=jhjNEAAAQBAJ&printsec=frontcover&dq=intitle:Mastering+Blazor+WebAssembly%2Binauthor:Ahmad+Mozaffar&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $35.99
+Amazon.com Reviews: 5 of 5 (14 reviews)
+Amazon.com URL: https://www.amazon.com/Mastering-Blazor-WebAssembly-developing-Application-ebook/dp/B0B2PWQBNM
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (4 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Mastering-Blazor-WebAssembly-developing-Application-ebook/dp/B0B2PWQBNM
+---
+HB Blurb: Key FeaturesExplore Blazor WebAssembly through a systematic, step-by-step approachDiscover the concepts essential to develop and deploy real-world SPAsCreate robust components and develop efficient unit tests by using the bUnit frameworkWho this book is forThis book is for existing .NET developers eager to leverage their C# skills to build single page applications without relying on JavaScript frameworks, as well as for JavaScript developers curious about Blazor's capabilities and its user-friendly approach to web development. Tech enthusiasts seeking an in-depth understanding of Blazor's inner workings will also find this guide useful for discovering and mastering Blazor's powerful and intuitive web development capabilities.
+--------------------------------------------------
+
+Book 13:
+Title: Hands-On Concurrency with Rust
+Author(s): Brian L. Troutwine
+---
+ISBN-10: 1788478355 - ISBN-13: 9781788478359 - ASIN: B07C5WXSXX
+Published Date: 2018-05-31
+Page Count: 453
+---
+Google Books Price: GBP 18.84
+Google Books URL: http://books.google.co.uk/books?id=FHxeDwAAQBAJ&printsec=frontcover&dq=intitle:Hands-On+Concurrency+with+Rust%2Binauthor:Brian+L.+Troutwine&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $29.99Save $6.00 (17%)
+Amazon.com Reviews: 4.4 of 5 (26 reviews)
+Amazon.com URL: https://www.amazon.com/Hands-Concurrency-Rust-Confidently-memory-safe-ebook/dp/B07C5WXSXX
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (22 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Hands-Concurrency-Rust-Confidently-memory-safe/dp/1788399978
+---
+HB Blurb: Key FeaturesLearn and improve the sequential performance characteristics of your softwareUnderstand the use of operating system processes in a high-scale concurrent systemLearn of the various coordination methods available in the Standard libraryWho this book is forThis book is aimed at software engineers with a basic understanding of Rust who want to exploit the parallel and concurrent nature of modern computing environments, safely.
+--------------------------------------------------
+
+Book 14:
+Title: Hands-On Game Development with WebAssembly
+Author(s): Rick Battagline
+---
+ISBN-10: 1838646833 - ISBN-13: 9781838646837 - ASIN: B07SGHTWZ7
+Published Date: 2019-05-31
+Page Count: 588
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=sfeaDwAAQBAJ&printsec=frontcover&dq=intitle:Hands-On+Game+Development+with+WebAssembly%2Binauthor:Rick+Battagline&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $18.49Save $11.50 (38%)
+Amazon.com Reviews: 4.1 of 5 (20 reviews)
+Amazon.com URL: https://www.amazon.com/Hands-Game-Development-WebAssembly-programming-ebook/dp/B07SGHTWZ7
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.1 of 5 (15 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Hands-Game-Development-WebAssembly-programming/dp/1838644652
+---
+HB Blurb: Key FeaturesCreate a WebAssembly game that implements sprites, animations, physics, particle systems, and other game development fundamentalsGet to grips with advanced game mechanics in WebAssemblyLearn to use WebAssembly and WebGL to render to the HTML5 canvas elementWho this book is forWeb developers and game developers interested in creating applications for the web using WebAssembly.Game developers interested in deploying their games to the webWeb developers interested in creating applications that are potentially orders of magnitude faster than their existing JavaScript web appsC/C++ developers interested in using their existing skills to deploy applications to the web
+--------------------------------------------------
+
+Book 15:
+Title: Hands-On Microservices with Rust
+Author(s): Denis Kolodin
+---
+ISBN-10: 1789341981 - ISBN-13: 9781789341980 - ASIN: B07GVNZL4G
+Published Date: 2019-01-31
+Page Count: 511
+---
+Google Books Price: GBP 18.84
+Google Books URL: http://books.google.co.uk/books?id=cGSGDwAAQBAJ&printsec=frontcover&dq=intitle:Hands-On+Microservices+with+Rust%2Binauthor:Denis+Kolodin&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $22.39Save $13.60 (38%)
+Amazon.com Reviews: 4.2 of 5 (36 reviews)
+Amazon.com URL: https://www.amazon.com/Hands-Microservices-Rust-scalable-microservices-ebook/dp/B07GVNZL4G
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.2 of 5 (39 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Hands-Microservices-Rust-scalable-microservices/dp/1789342759
+---
+HB Blurb: Key FeaturesStart your microservices journey and get a broader perspective on microservices development using RUST 2018,Build, deploy, and test microservices using AWSExplore advanced techniques for developing microservices such as actor model, Requests Routing, and threadsWho this book is forThis book is for developers who have basic knowledge of RUST, and want to learn how to build, test, scale, and manage RUST microservices. No prior experience of writing microservices in RUST is assumed.
+--------------------------------------------------
+
+Book 16:
+Title: Rust Programming By Example
+Author(s): Guillaume Gomez, Antoni Boucher
+---
+ISBN-10: 1788470303 - ISBN-13: 9781788470308 - ASIN: 1788390636
+Published Date: 2018-01-11
+Page Count: 443
+---
+Google Books Price: GBP 18.84
+Google Books URL: http://books.google.co.uk/books?id=qNRJDwAAQBAJ&printsec=frontcover&dq=intitle:Rust+Programming+By+Example%2Binauthor:Guillaume+Gomez,+Antoni+Boucher&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4 of 5 (7 reviews)
+Amazon.com URL: https://www.amazon.com/Rust-Programming-Example-concurrent-applications/dp/1788390636
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4 of 5 (6 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Rust-Programming-Example-concurrent-applications/dp/1788390636
+---
+HB Blurb: Key Features
+
+Implement various features of Rust to build blazingly fast applications
+Learn to build GUI applications using Gtk-rs
+Explore the multi-threading aspect of Rust to tackle problems in concurrency and in distributed environments
+
+Who this book is for
+This book is for software developers interested in system level and application programming who are looking for a quick entry into using Rust and understanding the core features of the Rust Programming. It’s assumed that you have a basic understanding of Java, C#, Ruby, Python, or JavaScript.
+--------------------------------------------------
+
+Book 17:
+Title: Rust Quick Start Guide
+Author(s): Daniel Arbuckle
+---
+ISBN-10: 1789610613 - ISBN-13: 9781789610611 - ASIN: B07KBH7722
+Published Date: 2018-10-30
+Page Count: 171
+---
+Google Books Price: GBP 12.99
+Google Books URL: http://books.google.co.uk/books?id=0ct1DwAAQBAJ&printsec=frontcover&dq=intitle:Rust+Quick+Start+Guide%2Binauthor:Daniel+Arbuckle&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $25.99
+Amazon.com Reviews: 3.6 of 5 (9 reviews)
+Amazon.com URL: https://www.amazon.com/Rust-Quick-Start-Guide-programming-ebook/dp/B07KBH7722
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.6 of 5 (8 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Rust-Quick-Start-Guide-programming/dp/1789616700
+---
+HB Blurb: Key FeaturesLearn the semantics of Rust, which can be significantly different from other programming languagesUnderstand clearly how to work with the Rust compiler which strictly enforces rules that may not be obviousExamples and insights beyond the Rust documentationWho this book is forThis book is for people who are new to Rust, either as their first programming language or coming to it from somewhere else. Familiarity with computer programming in any other language will be helpful in getting the best out of this book.
+--------------------------------------------------
+
+Book 18:
+Title: Learn WebAssembly
+Author(s): Mike Rourke
+---
+ISBN-10: 9781788997379 - ISBN-13: 1788997379 - ASIN: B07HQKD16Q
+Published Date: 2018-09-25
+Page Count: 328
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=-BuhvAEACAAJ&dq=intitle:Learn+WebAssembly%2Binauthor:Mike+Rourke&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 3.5 of 5 (10 reviews)
+Amazon.com URL: https://www.amazon.com/Learn-WebAssembly-applications-native-performance/dp/1788997379
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learn-WebAssembly-applications-native-performance-ebook/dp/B07HQKD16Q
+---
+HB Blurb: Key FeaturesGenerate WebAssembly modules from C and C++ using Emscripten and interact with these modules in the browserLearn how to use WebAssembly outside of the browser and load modules using Node.jsBuild a high-performance application using C and WebAssembly and port an existing C++ game to WebAssembly using EmscriptenWho this book is forIf you are a web developer or C/C++ programmer keen to leverage the powerful technology of WebAssembly to build high-performance web applications, then this book is for you.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Speed Up Your Python with Rust
+https://www.amazon.com/Speed-Your-Python-Rust-performance-ebook/dp/B09LVL1T1Y
+https://www.amazon.co.uk/Speed-Your-Python-Rust-performance-ebook/dp/B09LVL1T1Y
+http://books.google.co.uk/books?id=sVhVEAAAQBAJ&printsec=frontcover&dq=intitle:Speed+Up+Your+Python+with+Rust%2Binauthor:Maxwell+Flitton&hl=&cd=1&source=gbs_api
+
+Book 02 - Hands-On Data Structures and Algorithms with Rust
+https://www.amazon.com/Hands-Data-Structures-Algorithms-Rust/dp/178899552X
+https://www.amazon.co.uk/Hands-Data-Structures-Algorithms-Rust/dp/178899552X
+http://books.google.co.uk/books?id=gYKFDwAAQBAJ&printsec=frontcover&dq=intitle:Hands-On+Data+Structures+and+Algorithms+with+Rust%2Binauthor:Claus+Matzinger&hl=&cd=1&source=gbs_api
+
+Book 03 - Practical System Programming for Rust Developers
+https://www.amazon.com/Practical-System-Programming-Rust-Developers/dp/1800560966
+https://www.amazon.co.uk/Practical-System-Programming-Rust-Developers/dp/1800560966
+http://books.google.co.uk/books?id=eEUREAAAQBAJ&printsec=frontcover&dq=intitle:Practical+System+Programming+for+Rust+Developers%2Binauthor:Prabhu+Eshwarla&hl=&cd=1&source=gbs_api
+
+Book 04 - Creative Projects for Rust Programmers
+https://www.amazon.com/Creative-Projects-Rust-Programmers-WebAssembly/dp/1789346223
+https://www.amazon.co.uk/Creative-Projects-Rust-Programmers-WebAssembly-ebook/dp/B085P1MCXJ
+http://books.google.co.uk/books?id=uqTsDwAAQBAJ&printsec=frontcover&dq=intitle:Creative+Projects+for+Rust+Programmers%2Binauthor:Carlo+Milanesi&hl=&cd=1&source=gbs_api
+
+Book 05 - Rust Web Development with Rocket
+https://www.amazon.com/Rust-Web-Development-Rocket-development/dp/180056130X
+https://www.amazon.co.uk/Rust-Web-Development-Rocket-development/dp/180056130X
+http://books.google.co.uk/books?id=-2l4EAAAQBAJ&printsec=frontcover&dq=intitle:Rust+Web+Development+with+Rocket%2Binauthor:Karuna+Murti&hl=&cd=1&source=gbs_api
+
+Book 06 - Rust Web Programming
+https://www.amazon.com/Rust-Web-Programming-hands-programming-ebook/dp/B08PDFR2M9
+https://www.amazon.co.uk/Rust-Web-Programming-hands-programming-ebook/dp/B08PDFR2M9
+http://books.google.co.uk/books?id=brYgEAAAQBAJ&printsec=frontcover&dq=intitle:Rust+Web+Programming%2Binauthor:Maxwell+Flitton&hl=&cd=1&source=gbs_api
+
+Book 07 - Asynchronous Programming in Rust
+https://www.amazon.com/Asynchronous-Programming-Rust-asynchronous-programming-ebook/dp/B0CSNJSPST
+https://www.amazon.co.uk/Asynchronous-Programming-Rust-asynchronous-programming/dp/1805128132
+http://books.google.co.uk/books?id=TLfuEAAAQBAJ&printsec=frontcover&dq=intitle:Asynchronous+Programming+in+Rust%2Binauthor:Carl+Fredrik+Samson&hl=&cd=1&source=gbs_api
+
+Book 08 - Creative DIY Microcontroller Projects with TinyGo and WebAssembly
+https://www.amazon.com/Creative-Microcontroller-Projects-TinyGo-WebAssembly/dp/1800560206
+https://www.amazon.co.uk/Creative-Microcontroller-Projects-TinyGo-WebAssembly-ebook/dp/B08X4FN3K6
+http://books.google.co.uk/books?id=83QqEAAAQBAJ&printsec=frontcover&dq=intitle:Creative+DIY+Microcontroller+Projects+with+TinyGo+and+WebAssembly%2Binauthor:Tobias+Theel&hl=&cd=1&source=gbs_api
+
+Book 09 - Practical WebAssembly
+https://www.amazon.com/Practical-WebAssembly-Explore-fundamentals-programming-ebook/dp/B09QKY45ZG
+https://www.amazon.co.uk/Practical-WebAssembly-Explore-fundamentals-programming-ebook/dp/B09QKY45ZG
+http://books.google.co.uk/books?id=eCJuEAAAQBAJ&printsec=frontcover&dq=intitle:Practical+WebAssembly%2Binauthor:Sendil+Kumar+Nellaiyapen&hl=&cd=1&source=gbs_api
+
+Book 10 - Game Development with Rust and WebAssembly
+https://www.amazon.com/Game-Development-Rust-WebAssembly-building-ebook/dp/B09DDJ5JXF
+https://www.amazon.co.uk/Game-Development-Rust-WebAssembly-building/dp/1801070970
+http://books.google.co.uk/books?id=wKRnEAAAQBAJ&printsec=frontcover&dq=intitle:Game+Development+with+Rust+and+WebAssembly%2Binauthor:Eric+Smith&hl=&cd=1&source=gbs_api
+
+Book 11 - Blazor WebAssembly by Example, 2e
+https://www.amazon.com/Blazor-WebAssembly-Example-practical-projects-ebook/dp/B0BH8QT9HM
+https://www.amazon.co.uk/Blazor-WebAssembly-Example-practical-projects-ebook/dp/B0BH8QT9HM
+http://books.google.co.uk/books?id=Ly0zEAAAQBAJ&printsec=frontcover&dq=intitle:Blazor+WebAssembly+by+Example,+2e%2Binauthor:Toi+B.+Wright&hl=&cd=1&source=gbs_api
+
+Book 12 - Mastering Blazor WebAssembly
+https://www.amazon.com/Mastering-Blazor-WebAssembly-developing-Application-ebook/dp/B0B2PWQBNM
+https://www.amazon.co.uk/Mastering-Blazor-WebAssembly-developing-Application-ebook/dp/B0B2PWQBNM
+http://books.google.co.uk/books?id=jhjNEAAAQBAJ&printsec=frontcover&dq=intitle:Mastering+Blazor+WebAssembly%2Binauthor:Ahmad+Mozaffar&hl=&cd=1&source=gbs_api
+
+Book 13 - Hands-On Concurrency with Rust
+https://www.amazon.com/Hands-Concurrency-Rust-Confidently-memory-safe-ebook/dp/B07C5WXSXX
+https://www.amazon.co.uk/Hands-Concurrency-Rust-Confidently-memory-safe/dp/1788399978
+http://books.google.co.uk/books?id=FHxeDwAAQBAJ&printsec=frontcover&dq=intitle:Hands-On+Concurrency+with+Rust%2Binauthor:Brian+L.+Troutwine&hl=&cd=1&source=gbs_api
+
+Book 14 - Hands-On Game Development with WebAssembly
+https://www.amazon.com/Hands-Game-Development-WebAssembly-programming-ebook/dp/B07SGHTWZ7
+https://www.amazon.co.uk/Hands-Game-Development-WebAssembly-programming/dp/1838644652
+http://books.google.co.uk/books?id=sfeaDwAAQBAJ&printsec=frontcover&dq=intitle:Hands-On+Game+Development+with+WebAssembly%2Binauthor:Rick+Battagline&hl=&cd=1&source=gbs_api
+
+Book 15 - Hands-On Microservices with Rust
+https://www.amazon.com/Hands-Microservices-Rust-scalable-microservices-ebook/dp/B07GVNZL4G
+https://www.amazon.co.uk/Hands-Microservices-Rust-scalable-microservices/dp/1789342759
+http://books.google.co.uk/books?id=cGSGDwAAQBAJ&printsec=frontcover&dq=intitle:Hands-On+Microservices+with+Rust%2Binauthor:Denis+Kolodin&hl=&cd=1&source=gbs_api
+
+Book 16 - Rust Programming By Example
+https://www.amazon.com/Rust-Programming-Example-concurrent-applications/dp/1788390636
+https://www.amazon.co.uk/Rust-Programming-Example-concurrent-applications/dp/1788390636
+http://books.google.co.uk/books?id=qNRJDwAAQBAJ&printsec=frontcover&dq=intitle:Rust+Programming+By+Example%2Binauthor:Guillaume+Gomez,+Antoni+Boucher&hl=&cd=1&source=gbs_api
+
+Book 17 - Rust Quick Start Guide
+https://www.amazon.com/Rust-Quick-Start-Guide-programming-ebook/dp/B07KBH7722
+https://www.amazon.co.uk/Rust-Quick-Start-Guide-programming/dp/1789616700
+http://books.google.co.uk/books?id=0ct1DwAAQBAJ&printsec=frontcover&dq=intitle:Rust+Quick+Start+Guide%2Binauthor:Daniel+Arbuckle&hl=&cd=1&source=gbs_api
+
+Book 18 - Learn WebAssembly
+https://www.amazon.com/Learn-WebAssembly-applications-native-performance/dp/1788997379
+https://www.amazon.co.uk/Learn-WebAssembly-applications-native-performance-ebook/dp/B07HQKD16Q
+http://books.google.co.uk/books?id=-BuhvAEACAAJ&dq=intitle:Learn+WebAssembly%2Binauthor:Mike+Rourke&hl=&cd=1&source=gbs_api
+
