@@ -29,6 +29,17 @@ def make_output_directory(output_directory, debug_flag, debug_directory):
         os.makedirs(output_directory, exist_ok=True)
 
 
+############### HELPER FUNCTION #################
+def sanitize_filename(title):
+    # List of characters to replace with '-'
+    chars_to_replace = [':', '/', '?', '!', '"', "'", "|", '\\', '*', '<', '>']
+    for char in chars_to_replace:
+        title = title.replace(char, '-')
+    # Replace spaces with underscores
+    title = title.replace(' ', '_')
+    return title
+
+
 ############### HUMBLE BUNDLE WEBPAGE RETRIEVAL FUNCTIONALITY #################
 
 def hb_webpage_requests(url_hb, debug_flag, debug_directory):
@@ -251,10 +262,13 @@ def google_books_api_call(books_data, debug_flag, debug_directory):
 
             # Debug Section
             if debug_flag == True:
-                safe_title = book['Title'].replace(':', '-').replace('/', '-').replace('?', '').replace('!', '').replace(' ', '_').replace('"', '').replace("'", '')
-                output_filename = f'{book['Index']}_{safe_title}_google_books_data.txt'
-                with open(os.path.join(debug_directory, output_filename), 'w', encoding='utf-8') as file:
-                    json.dump(data, file, ensure_ascii=False, indent=4)
+                safe_title = sanitize_filename(book['Title'])
+                try:
+                    output_filename = f'{book['Index']}_{safe_title}_google_books_data.txt'
+                    with open(os.path.join(debug_directory, output_filename), 'w', encoding='utf-8') as file:
+                        json.dump(data, file, ensure_ascii=False, indent=4)
+                except Exception as e:
+                    print(f"Error during writing of Google Books data to file.\n Sanitized file name was: {safe_title}.\nError: {e} for {book['Index']}.\n")
 
             # Update books_data with Google Books data. This could be improved by not chaining the get() methods, which would allow for a default value (i.e. "None found") to be set for the books_data dictionary entry instead of '{}/None. However, the get method avoids KeyErrors if a key is not found in the searched data.
             if data.get('items'):
@@ -331,9 +345,12 @@ def bing_search_for_reviews(books_data, bing_api_key, debug_flag, debug_director
 
             # Debug Section
             if debug_flag == True:
-                safe_title = book['Title'].replace(':', '-').replace('/', '-').replace('?', '').replace('!', '').replace(' ', '_').replace('"', '').replace("'", '')
-                with open(os.path.join(debug_directory, f'{book['Index']}_{safe_title}_bing_search_json.txt'), 'w', encoding='utf-8') as file:
-                    json.dump(book_response_data, file, ensure_ascii=False, indent=4)
+                safe_title = sanitize_filename(book['Title'])
+                try:
+                    with open(os.path.join(debug_directory, f'{book['Index']}_{safe_title}_bing_search_json.txt'), 'w', encoding='utf-8') as file:
+                        json.dump(book_response_data, file, ensure_ascii=False, indent=4)
+                except Exception as e:
+                    print(f"Error during writing of Bing Search data to file.\n Sanitized file name was: {safe_title}.\n Error: {e} for {book['Index']}.\n")
 
             time.sleep(0.5)
     
@@ -439,8 +456,7 @@ def bing_search_for_reviews_parse(books_data, response_data, debug_flag, debug_d
                                 if items_text:
                                     price_amazon_com = items_text
                                     found_com_price = True
-                                    break
-                                                
+                                    break                                      
                 
             # Update books_data with Bing API retrieved Amazon URLs for UK and com, including attempt to extract ASIN. Amazon.com is processed first so that the ASIN is usually for .com, to match the headline review ratings in text file coming from .com (vs co.uk)
             if url_amazon_com is None:
@@ -571,10 +587,13 @@ def bing_search_for_reviews_parse(books_data, response_data, debug_flag, debug_d
 
             # Debug Section
             if debug_flag == True:
-                safe_title = book['Title'].replace(':', '-').replace('/', '-').replace('?', '').replace('!', '').replace(' ', '_').replace('"', '').replace("'", '')
-                with open(os.path.join(debug_directory, f'bing_search_data_{book['Index']}_{safe_title}.txt'), 'w', encoding='utf-8') as file:
-                    json.dump(data, file, ensure_ascii=False, indent=4)    
-
+                safe_title = sanitize_filename(book['Title'])
+                try:
+                    with open(os.path.join(debug_directory, f'bing_search_data_{book['Index']}_{safe_title}.txt'), 'w', encoding='utf-8') as file:
+                        json.dump(data, file, ensure_ascii=False, indent=4)
+                except Exception as e:
+                    print(f"Error during writing of parsed Bing Search data to file.\n Sanitized file name was: {safe_title}.\n Error: {e} for {book['Index']}.\n")
+                    
     except Exception as e:
         print(f"Error during parsing of Bing Search API data. Error: {e} for {book['Index']}")
 
