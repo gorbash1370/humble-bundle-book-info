@@ -1,0 +1,432 @@
+Humble Tech Book Bundle- Financial Forecasting- Code and Architecture by O'Reilly - O'Reilly
+Processing date: 2024-04-23
+Data retrieved from: https://www.humblebundle.com/books/financial-forecasting-code-and-architecture-oreilly-books
+
+Book 01 - Unifying Business, Data, and Code - Ron Itelman,Juan Cruz Viotti - None found out of 5 (None found reviews)
+Book 02 - AI-Powered Business Intelligence - Tobias Zwingmann - 4.9 out of 5 (12 reviews)
+Book 03 - Building Solutions with the Microsoft Power Platform - Jason Rivera - 4.2 out of 5 (5 reviews)
+Book 04 - Causal Inference in Python - Matheus Facure - None found out of 5 (None found reviews)
+Book 05 - Practical Salesforce Architecture - Paul McCollum - 5 out of 5 (1 reviews)
+Book 06 - Advancing into Analytics - George Mount - 4.6 out of 5 (76 reviews)
+Book 07 - Learning Microsoft Power Automate - Paul Papanek Stork - 5 out of 5 (1 reviews)
+Book 08 - Building an Event-Driven Data Mesh - Adam Bellemare - 4.3 out of 5 (5 reviews)
+Book 09 - Deep Learning for Finance - Sofien Kaabar - None found out of 5 (None found reviews)
+Book 10 - UX for Business - Joel Marsh - None found out of 5 (None found reviews)
+Book 11 - Analytics Engineering with SQL and dbt - Rui Machado, Hélder Russa - 5 out of 5 (1 reviews)
+Book 12 - Tableau Strategies - Ann Jackson, Luke Stanke - 4.3 out of 5 (40 reviews)
+Book 13 - Advanced Analytics with PySpark - Akash Tandon, Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills - 4 out of 5 (6 reviews)
+Book 14 - Learning Microsoft Power BI - Jeremey Arnold - 4.5 out of 5 (21 reviews)
+Book 15 - Mastering Salesforce Reports and Dashboards - David Carnes - 5 out of 5 (1 reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Unifying Business, Data, and Code
+Author(s): Ron Itelman,Juan Cruz Viotti
+---
+ISBN-10: 109814497X - ISBN-13: 9781098144975 - ASIN: 1098145003
+Published Date: 2023-05-31
+Page Count: 357
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=b2vwEAAAQBAJ&printsec=frontcover&dq=intitle:Unifying+Business,+Data,+and+Code%2Binauthor:Ron+Itelman,Juan+Cruz+Viotti&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Unifying-Business-Data-Code-Designing/dp/1098145003
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Unifying-Business-Data-Code-Designing/dp/1098145003
+---
+HB Blurb: In the modern symphony of business, each section-from the technical to the managerial-must play in harmony. Authors Ron Itelman and Juan Cruz Viotti introduce a bold methodology to synchronize your business and technical teams, transforming them into a single, high-performing unit. Misalignment between business and technical teams halts innovation. You'll learn how to transcend the root causes of project failure-the ambiguity, knowledge gaps, and blind spots that lead to wasted efforts.  The unifying methodology in this book will teach you these alignment tools and more:The four facets of data products: A simple blueprint that encapsulates data and business logic helps eliminate the most common causes of wasted time and misunderstandingThe concept compass: An easy way to identify the biggest sources of misalignmentSuccess spectrums: Define the required knowledge and road map your team needs to achieve successJSON Schema: Leverage JSON and JSON Schema to technically implement the strategy at scale, including extending JSON Schema with custom keywords, understanding JSON Schema annotations, and hosting your own schema registryData hygiene: Learn how to design high-quality datasets aligned with creating real business value, and protect your organization from the most common sources of pain
+--------------------------------------------------
+
+Book 02:
+Title: AI-Powered Business Intelligence
+Author(s): Tobias Zwingmann
+---
+ISBN-10: 1098111427 - ISBN-13: 9781098111427 - ASIN: B0B3SGQJC1
+Published Date: 2022-06-10
+Page Count: 378
+---
+Google Books Price: GBP 40.99
+Google Books URL: http://books.google.co.uk/books?id=44h0EAAAQBAJ&printsec=frontcover&dq=intitle:AI-Powered+Business+Intelligence%2Binauthor:Tobias+Zwingmann&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $44.93Save $12.06 (21%)
+Amazon.com Reviews: 4.9 of 5 (12 reviews)
+Amazon.com URL: https://www.amazon.com/AI-Powered-Business-Intelligence-Tobias-Zwingmann-ebook/dp/B0B3SGQJC1
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (9 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/AI-Powered-Business-Intelligence-Improving-Forecasts/dp/1098111478
+---
+HB Blurb: Use business intelligence to power corporate growth, increase efficiency, and improve corporate decision making. With this practical book featuring hands-on examples in Power BI with basic Python and R code, you'll explore the most relevant AI use cases for BI, including improved forecasting, automated classification, and AI-powered recommendations. And you'll learn how to draw insights from unstructured data sources like text, document, and image files.Author Tobias Zwingmann helps BI professionals, business analysts, and data analytics understand high-impact areas of artificial intelligence. You'll learn how to leverage popular AI-as-a-service and AutoML platforms to ship enterprise-grade proofs of concept without the help of software engineers or data scientists.Learn how AI can generate business impact in BI environmentsUse AutoML for automated classification and improved forecasting Implement recommendation services to support decision-makingDraw insights from text data at scale with NLP servicesExtract information from documents and images with computer vision servicesBuild interactive user frontends for AI-powered dashboard prototypesImplement an end-to-end case study for building an AI-powered customer analytics dashboard
+--------------------------------------------------
+
+Book 03:
+Title: Building Solutions with the Microsoft Power Platform
+Author(s): Jason Rivera
+---
+ISBN-10: 1098117506 - ISBN-13: 9781098117504 - ASIN: B0BRR5T7MJ
+Published Date: 2023-01-05
+Page Count: 386
+---
+Google Books Price: GBP 47.99
+Google Books URL: http://books.google.co.uk/books?id=SgqmEAAAQBAJ&printsec=frontcover&dq=intitle:Building+Solutions+with+the+Microsoft+Power+Platform%2Binauthor:Jason+Rivera&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $48.78Save $19.21 (28%)
+Amazon.com Reviews: 4.2 of 5 (5 reviews)
+Amazon.com URL: https://www.amazon.com/Building-Solutions-Microsoft-Power-Platform-ebook/dp/B0BRR5T7MJ
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.2 of 5 (5 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Building-Solutions-Microsoft-Power-Platform-ebook/dp/B0BRR5T7MJ
+---
+HB Blurb: With the accelerating speed of business and the increasing dependence on technology, companies today are significantly changing the way they build in-house business solutions. Many now use low-code and no code technologies to help them deal with specific issues, but that's just the beginning. With this practical guide, power users and developers will discover ways to resolve everyday challenges by building end-to-end solutions with the Microsoft Power Platform.Author Jason Rivera, who specializes in SharePoint and the Microsoft 365 solution architecture, provides a comprehensive overview of how to use the Power Platform to build end-to-end solutions that address tactical business needs. By learning key components of the platform, including Power Apps, Power Automate, and Power BI, you'll be able to build low-code and no code applications, automate repeatable business processes, and create interactive reports from available data.Learn how the Power Platform apps work togetherIncorporate AI into the Power Platform without extensive ML or AI knowledgeCreate end-to-end solutions to solve tactical business needs, including data collection, process automation, and reportingBuild AI-based solutions using Power Virtual Agents and AI Builder
+--------------------------------------------------
+
+Book 04:
+Title: Causal Inference in Python
+Author(s): Matheus Facure
+---
+ISBN-10: 1098140222 - ISBN-13: 9781098140229 - ASIN: B0CBW96BWK
+Published Date: 2023-07-14
+Page Count: 409
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=K33LEAAAQBAJ&printsec=frontcover&dq=intitle:Causal+Inference+in+Python%2Binauthor:Matheus+Facure&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Causal-Inference-Python-Matheus-Facure-ebook/dp/B0CBW96BWK
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Causal-Inference-Python-Matheus-Facure-ebook/dp/B0CBW96BWK
+---
+HB Blurb: How many buyers will an additional dollar of online marketing bring in? Which customers will only buy when given a discount coupon? How do you establish an optimal pricing strategy? The best way to determine how the levers at our disposal affect the business metrics we want to drive is through causal inference.In this book, author Matheus Facure, senior data scientist at Nubank, explains the largely untapped potential of causal inference for estimating impacts and effects. Managers, data scientists, and business analysts will learn classical causal inference methods like randomized control trials (A/B tests), linear regression, propensity score, synthetic controls, and difference-in-differences. Each method is accompanied by an application in the industry to serve as a grounding example.With this book, you will:Learn how to use basic concepts of causal inference Frame a business problem as a causal inference problemUnderstand how bias gets in the way of causal inferenceLearn how causal effects can differ from person to personUse repeated observations of the same customers across time to adjust for biasesUnderstand how causal effects differ across geographic locationsExamine noncompliance bias and effect dilution
+--------------------------------------------------
+
+Book 05:
+Title: Practical Salesforce Architecture
+Author(s): Paul McCollum
+---
+ISBN-10: 1098138244 - ISBN-13: 9781098138240 - ASIN: B0CKKDNNX9
+Published Date: 2023-10-05
+Page Count: 174
+---
+Google Books Price: GBP 47.99
+Google Books URL: http://books.google.co.uk/books?id=jV7bEAAAQBAJ&printsec=frontcover&dq=intitle:Practical+Salesforce+Architecture%2Binauthor:Paul+McCollum&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $34.99Save $13.00 (27%)
+Amazon.com Reviews: 5 of 5 (1 reviews)
+Amazon.com URL: https://www.amazon.com/Practical-Salesforce-Architecture-Paul-McCollum-ebook/dp/B0CKKDNNX9
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Practical-Salesforce-Architecture-Understanding-Enterprise/dp/1098138287
+---
+HB Blurb: Once renowned as a customer relationship management tool, Salesforce has evolved into a cloud-first application and capability ecosystem. With dedicated components for tasks such as middleware, big data, reporting, ETL, data loading, and API orchestration, Salesforce has become more prevalent in modern architectures.This concise yet comprehensive guide provides an overview of Salesforce architecture for enterprise architects and Salesforce ecosystem architects. Author Paul McCollum, Salesforce Technical Architect at Accenture, provides a roadmap for integrating major elements of the Salesforce ecosystem with planned or existing enterprise architecture. You'll learn how to use these components to address the diverse needs of different organizations.Many companies today are adding or building multicloud capabilities and incorporating various elements from the Salesforce ecosystem. With this book, you'll learn:Strengths, weaknesses, and growth areas of Salesforce's enterprise architecture domain featuresHow Salesforce compares to other cloud providersMethods for using the Salesforce ecosystem effectively to address your organization's needsHow to integrate Salesforce with planned or existing enterprise architecturesWays to manage and forecast performance, complexity, and ease of operation across the Salesforce platform
+--------------------------------------------------
+
+Book 06:
+Title: Advancing into Analytics
+Author(s): George Mount
+---
+ISBN-10: 1492094315 - ISBN-13: 9781492094319 - ASIN: B092PY5DHL
+Published Date: 2021-01-22
+Page Count: 251
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=LYgpEAAAQBAJ&printsec=frontcover&dq=intitle:Advancing+into+Analytics%2Binauthor:George+Mount&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $31.54Save $25.45 (45%)
+Amazon.com Reviews: 4.6 of 5 (76 reviews)
+Amazon.com URL: https://www.amazon.com/Advancing-into-Analytics-Excel-Python-ebook/dp/B092PY5DHL
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (57 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Advancing-into-Analytics-Excel-Python-ebook/dp/B092PY5DHL
+---
+HB Blurb: Data analytics may seem daunting, but if you're an experienced Excel user, you have a unique head start. With this hands-on guide, intermediate Excel users will gain a solid understanding of analytics and the data stack. By the time you complete this book, you'll be able to conduct exploratory data analysis and hypothesis testing using a programming language.Exploring and testing relationships are core to analytics. By using the tools and frameworks in this book, you'll be well positioned to continue learning more advanced data analysis techniques. Author George Mount, founder and CEO of Stringfest Analytics, demonstrates key statistical concepts with spreadsheets, then pivots your existing knowledge about data manipulation into R and Python programming.This practical book guides you through: Foundations of analytics in Excel: Use Excel to test relationships between variables and build compelling demonstrations of important concepts in statistics and analyticsFrom Excel to R: Cleanly transfer what you've learned about working with data from Excel to RFrom Excel to Python: Learn how to pivot your Excel data chops into Python and conduct a complete data analysis
+--------------------------------------------------
+
+Book 07:
+Title: Learning Microsoft Power Automate
+Author(s): Paul Papanek Stork
+---
+ISBN-10: 1098136330 - ISBN-13: 9781098136338 - ASIN: 1098136365
+Published Date: 2023-03
+Page Count: 354
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=TADaEAAAQBAJ&printsec=frontcover&dq=intitle:Learning+Microsoft+Power+Automate%2Binauthor:Paul+Papanek+Stork&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (1 reviews)
+Amazon.com URL: https://www.amazon.com/Learning-Microsoft-Power-Automate-Productivity/dp/1098136365
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learning-Microsoft-Power-Automate-Papanek-ebook/dp/B0CK4MYZNR
+---
+HB Blurb: Processing information efficiently is critical to the successful operation of modern organizations. One particularly helpful tool is Microsoft Power Automate, a low-code/no-code development platform designed to help tech-savvy users create and implement workflows. This practical book explains how small-business and enterprise users can replace manual work that takes days with an automated process you can set up in a few hours using Power Automate.Paul Papanek Stork, principal architect at Don't Pa..Panic Consulting, provides a concise yet comprehensive overview of the foundational skills required to understand and work with Power Automate. You'll learn how to use these workflows, or flows, to automate repetitive tasks or complete business processes without manual intervention. Whether you're transferring form responses to a list, managing document approvals, sending automatic reminders for overdue tasks, or archiving emails and attachments, these skills will help you:Design and build flows with templates or from scratchSelect triggers and actions to automate a processAdd actions to a flow to retrieve and process informationUse functions to transform informationControl the logic of a process using conditional actions, loops, or parallel branchesImplement error checking to avoid potential problems
+--------------------------------------------------
+
+Book 08:
+Title: Building an Event-Driven Data Mesh
+Author(s): Adam Bellemare
+---
+ISBN-10: 1098127560 - ISBN-13: 9781098127565 - ASIN: B0C1HY3734
+Published Date: 2023-04-04
+Page Count: 260
+---
+Google Books Price: GBP 40.99
+Google Books URL: http://books.google.co.uk/books?id=dH-3EAAAQBAJ&printsec=frontcover&dq=intitle:Building+an+Event-Driven+Data+Mesh%2Binauthor:Adam+Bellemare&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $41.99Save $15.00 (26%)
+Amazon.com Reviews: 4.3 of 5 (5 reviews)
+Amazon.com URL: https://www.amazon.com/Building-Event-Driven-Data-Mesh-Bellemare-ebook/dp/B0C1HY3734
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (7 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Building-Event-Driven-Data-Mesh-Architectures/dp/1098127609
+---
+HB Blurb: The exponential growth of data combined with the need to derive real-time business value is a critical issue today. An event-driven data mesh can power real-time operational and analytical workloads, all from a single set of data product streams. With practical real-world examples, this book shows you how to successfully design and build an event-driven data mesh.Building an Event-Driven Data Mesh provides:Practical tips for iteratively building your own event-driven data mesh, including hurdles you'll experience, possible solutions, and how to obtain real value as soon as possibleSolutions to pitfalls you may encounter when moving your organization from monoliths to event-driven architecturesA clear understanding of how events relate to systems and other events in the same stream and across streamsA realistic look at event modeling options, such as fact, delta, and command type events, including how these choices will impact your data productsBest practices for handling events at scale, privacy, and regulatory complianceAdvice on asynchronous communication and handling eventual consistency
+--------------------------------------------------
+
+Book 09:
+Title: Deep Learning for Finance
+Author(s): Sofien Kaabar
+---
+ISBN-10: 1098148355 - ISBN-13: 9781098148355 - ASIN: B0CRSMMK1T
+Published Date: 2024-01-08
+Page Count: 369
+---
+Google Books Price: GBP 45.5
+Google Books URL: http://books.google.co.uk/books?id=EcfsEAAAQBAJ&printsec=frontcover&dq=intitle:Deep+Learning+for+Finance%2Binauthor:Sofien+Kaabar&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $41.99Save $15.00 (26%)
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Deep-Learning-Finance-Sofien-Kaabar-ebook/dp/B0CRSMMK1T
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Deep-Learning-Finance-Sofien-Kaabar-ebook/dp/B0CRSMMK1T
+---
+HB Blurb: Deep learning is rapidly gaining momentum in the world of finance and trading. But for many professional traders, this sophisticated field has a reputation for being complex and difficult. This hands-on guide teaches you how to develop a deep learning trading model from scratch using Python, and it also helps you create and backtest trading algorithms based on machine learning and reinforcement learning.Sofien Kaabar—financial author, trading consultant, and institutional market strategist—introduces deep learning strategies that combine technical and quantitative analyses. By fusing deep learning concepts with technical analysis, this unique book presents outside-the-box ideas in the world of financial trading. This A-Z guide also includes a full introduction to technical analysis, evaluating machine learning algorithms, and algorithm optimization. Understand and create machine learning and deep learning modelsExplore the details behind reinforcement learning and see how it's used in time seriesUnderstand how to interpret performance evaluation metrics Examine technical analysis and learn how it works in financial marketsCreate technical indicators in Python and combine them with ML models for optimizationEvaluate the models' profitability and predictability to understand their limitations and potential
+--------------------------------------------------
+
+Book 10:
+Title: UX for Business
+Author(s): Joel Marsh
+---
+ISBN-10: 1098110560 - ISBN-13: 9781098110567 - ASIN: B0CPHG472F
+Published Date: 2023-12
+Page Count: 363
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=YnrnEAAAQBAJ&printsec=frontcover&dq=intitle:UX+for+Business%2Binauthor:Joel+Marsh&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $30.99Save $12.00 (28%)
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/UX-Business-Joel-Marsh-ebook/dp/B0CPHG472F
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/UX-Business-Valuable-Digital-Companies/dp/1098110595
+---
+HB Blurb: Many UX designers are surprised to learn that much of the job isn't about drawing things. It's about knowing what to draw and how to convince people to build it. Whether you're a one-person design team making products from scratch or a C-level product leader managing many products and strategies,UX for Business is your missing guide to real-world business design.You'll not only learn how to think about design as a professional but also discover how design can move the needle for your entire company. Author Joel Marsh helps you understand stakeholders, business models, the process of designing valuable solutions, dangerous choices that can ruin a product, and how to gain the attention your work deserves. You'll also explore the principles of designing common types of digital products and services, from portfolio sites to social networks to ecosystems. With this book, you'll learn:How to design the right things by understanding value, diagnostics, and probabilityHow to conduct UX research and analysis without the luxury of time or moneyThe most important aspects of common digital business modelsMethods for getting things done under less-than-ideal circumstancesHow to avoid common pitfalls caused by inexperience
+--------------------------------------------------
+
+Book 11:
+Title: Analytics Engineering with SQL and dbt
+Author(s): Rui Machado, Hélder Russa
+---
+ISBN-10: 1098142357 - ISBN-13: 9781098142353 - ASIN: 1098142381
+Published Date: 2023-12-08
+Page Count: 324
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=llroEAAAQBAJ&printsec=frontcover&dq=intitle:Analytics+Engineering+with+SQL+and+dbt%2Binauthor:Rui+Machado,+H%C3%A9lder+Russa&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (1 reviews)
+Amazon.com URL: https://www.amazon.com/Analytics-Engineering-SQL-dbt-Meaningful/dp/1098142381
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Analytics-Engineering-SQL-Dbt-Meaningful/dp/1098142381
+---
+HB Blurb: With the shift from data warehouses to data lakes, data now lands in repositories before it's been transformed, enabling engineers to model raw data into clean, well-defined datasets. dbt (data build tool) helps you take data further. This practical book shows data analysts, data engineers, BI developers, and data scientists how to create a true self-service transformation platform through the use of dynamic SQL.Authors Rui Machado from Monstarlab and Hélder Russa from Jumia show you how to quickly deliver new data products by focusing more on value delivery and less on architectural and engineering aspects. If you know your business well and have the technical skills to model raw data into clean, well-defined datasets, you'll learn how to design and deliver data models without any technical influence. With this book, you'll learn:What dbt is and how a dbt project is structuredHow dbt fits into the data engineering and analytics worldsHow to collaborate on building data modelsThe main tools and architectures for building useful, functional data modelsHow to fit dbt into data warehousing and laking architectureHow to build tests for data transformations
+--------------------------------------------------
+
+Book 12:
+Title: Tableau Strategies
+Author(s): Ann Jackson, Luke Stanke
+---
+ISBN-10: 1492080055 - ISBN-13: 9781492080053 - ASIN: B09BDGFJSM
+Published Date: 2021-07-28
+Page Count: 578
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=jn46EAAAQBAJ&printsec=frontcover&dq=intitle:Tableau+Strategies%2Binauthor:Ann+Jackson,+Luke+Stanke&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $29.44Save $27.55 (48%)
+Amazon.com Reviews: 4.3 of 5 (40 reviews)
+Amazon.com URL: https://www.amazon.com/Tableau-Strategies-Ann-Jackson-ebook/dp/B09BDGFJSM
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (38 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Tableau-Strategies-Practical-Problems-Analytics/dp/149208008X
+---
+HB Blurb: If you want to increase Tableau's value to your organization, this practical book has your back. Authors Ann Jackson and Luke Stanke guide data analysts through strategies for solving real-world analytics problems using Tableau. Starting with the basics and building toward advanced topics such as multidimensional analysis and user experience, you'll explore pragmatic and creative examples that you can apply to your own data.Staying competitive today requires the ability to quickly analyze and visualize data and make data-driven decisions. With this guide, data practitioners and leaders alike will learn strategies for building compelling and purposeful visualizations, dashboards, and data products. Every chapter contains the why behind the solution and the technical knowledge you need to make it work.Use this book as a high-value on-the-job reference guide to TableauVisualize different data types and tackle specific data challengesCreate compelling data visualizations, dashboards, and data productsLearn how to generate industry-specific analyticsExplore categorical and quantitative analysis and comparisonsUnderstand geospatial, dynamic, statistical, and multivariate analysisCommunicate the value of the Tableau platform to your team and to stakeholders
+--------------------------------------------------
+
+Book 13:
+Title: Advanced Analytics with PySpark
+Author(s): Akash Tandon, Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills
+---
+ISBN-10: 1098103602 - ISBN-13: 9781098103606 - ASIN: 1098103653
+Published Date: 2022-06-14
+Page Count: 256
+---
+Google Books Price: GBP 40.99
+Google Books URL: http://books.google.co.uk/books?id=7Bh1EAAAQBAJ&printsec=frontcover&dq=intitle:Advanced+Analytics+with+PySpark%2Binauthor:Akash+Tandon,+Sandy+Ryza,+Uri+Laserson,+Sean+Owen,+Josh+Wills&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4 of 5 (6 reviews)
+Amazon.com URL: https://www.amazon.com/Advanced-Analytics-PySpark-Patterns-Learning/dp/1098103653
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.1 of 5 (8 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Advanced-Analytics-PySpark-Akash-Tandon-ebook/dp/B0B44HJNCC
+---
+HB Blurb: The amount of data being generated today is staggering and growing. Apache Spark has emerged as the de facto tool to analyze big data and is now a critical part of the data science toolbox. Updated for Spark 3.0, this practical guide brings together Spark, statistical methods, and real-world datasets to teach you how to approach analytics problems using PySpark, Spark's Python API, and other best practices in Spark programming.Data scientists Akash Tandon, Sandy Ryza, Uri Laserson, Sean Owen, and Josh Wills offer an introduction to the Spark ecosystem, then dive into patterns that apply common techniques-including classification, clustering, collaborative filtering, and anomaly detection, to fields such as genomics, security, and finance. This updated edition also covers NLP and image processing. If you have a basic understanding of machine learning and statistics and you program in Python, this book will get you started with large-scale data analysis.Familiarize yourself with Spark's programming model and ecosystemLearn general approaches in data scienceExamine complete implementations that analyze large public datasetsDiscover which machine learning tools make sense for particular problemsExplore code that can be adapted to many uses
+--------------------------------------------------
+
+Book 14:
+Title: Learning Microsoft Power BI
+Author(s): Jeremey Arnold
+---
+ISBN-10: 1098112792 - ISBN-13: 9781098112790 - ASIN: B0BFVN1KXW
+Published Date: 2022-09-20
+Page Count: 312
+---
+Google Books Price: GBP 40.99
+Google Books URL: http://books.google.co.uk/books?id=claKEAAAQBAJ&printsec=frontcover&dq=intitle:Learning+Microsoft+Power+BI%2Binauthor:Jeremey+Arnold&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $41.99Save $15.00 (26%)
+Amazon.com Reviews: 4.5 of 5 (21 reviews)
+Amazon.com URL: https://www.amazon.com/Learning-Microsoft-Power-Jeremey-Arnold-ebook/dp/B0BFVN1KXW
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (25 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learning-Microsoft-Power-Bi-Transforming/dp/1098112849
+---
+HB Blurb: Microsoft Power BI is a data analytics and visualization tool powerful enough for the most demanding data scientists, but accessible enough for everyday use for anyone who needs to get more from data. The market has many books designed to train and equip professional data analysts to use Power BI, but few of them make this tool accessible to anyone who wants to get up to speed on their own.This streamlined intro to Power BI covers all the foundational aspects and features you need to go from "zero to hero" with data and visualizations. Whether you work with large, complex datasets or work in Microsoft Excel, author Jeremey Arnold shows you how to teach yourself Power BI and use it confidently as a regular data analysis and reporting tool. You'll learn how to:Import, manipulate, visualize, and investigate data in Power BIApproach solutions for both self-service and enterprise BIUse Power BI in your organization's business intelligence strategyProduce effective reports and dashboardsCreate environments for sharing reports and managing data access with your team Determine the right solution for using Power BI offerings based on size, security, and computational needs
+--------------------------------------------------
+
+Book 15:
+Title: Mastering Salesforce Reports and Dashboards
+Author(s): David Carnes
+---
+ISBN-10: 1098127811 - ISBN-13: 9781098127817 - ASIN: B0C83XQ4M8
+Published Date: 2023-06-14
+Page Count: 344
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=kzHFEAAAQBAJ&printsec=frontcover&dq=intitle:Mastering+Salesforce+Reports+and+Dashboards%2Binauthor:David+Carnes&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (1 reviews)
+Amazon.com URL: https://www.amazon.com/Mastering-Salesforce-Reports-Dashboards-Carnes-ebook/dp/B0C83XQ4M8
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.1 of 5 (4 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Mastering-Salesforce-Reports-Dashboards-Decisions/dp/1098127846
+---
+HB Blurb: Effective, repeatable, and insightful analytics are key to ROI in customer relationship management systems. Many organizations, however, lack the automated reporting tools they need to run their businesses and instead choose to massage the data in Excel. But there's a better way. Salesforce's standard reporting tools provide a rich set of features that, when combined, support a wide variety of analytics needs.This practical introduction covers all the aspects and features you need to be successful with Salesforce reports and dashboards. Author David Carnes, chairman and chief evangelist for OpFocus, shows executives, end users, and report and dashboard superusers what analytics are possible, which features report writers should ask to be enabled, and which settings and permissions system administrators need to activate.You'll learn:How to create reports using the four main report formats in SalesforceHow to create and use dashboardsMethods for storing and finding reports and dashboardsHow to leverage formulas and trending in Salesforce reportingSpecial reporting features only available in Salesforce Mobile and on the Analytics tabWays to embed report charts and dashboards in Lightning page layoutsPowerful combinations of reporting features to drive decisions
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Unifying Business, Data, and Code
+https://www.amazon.com/Unifying-Business-Data-Code-Designing/dp/1098145003
+https://www.amazon.co.uk/Unifying-Business-Data-Code-Designing/dp/1098145003
+http://books.google.co.uk/books?id=b2vwEAAAQBAJ&printsec=frontcover&dq=intitle:Unifying+Business,+Data,+and+Code%2Binauthor:Ron+Itelman,Juan+Cruz+Viotti&hl=&cd=1&source=gbs_api
+
+Book 02 - AI-Powered Business Intelligence
+https://www.amazon.com/AI-Powered-Business-Intelligence-Tobias-Zwingmann-ebook/dp/B0B3SGQJC1
+https://www.amazon.co.uk/AI-Powered-Business-Intelligence-Improving-Forecasts/dp/1098111478
+http://books.google.co.uk/books?id=44h0EAAAQBAJ&printsec=frontcover&dq=intitle:AI-Powered+Business+Intelligence%2Binauthor:Tobias+Zwingmann&hl=&cd=1&source=gbs_api
+
+Book 03 - Building Solutions with the Microsoft Power Platform
+https://www.amazon.com/Building-Solutions-Microsoft-Power-Platform-ebook/dp/B0BRR5T7MJ
+https://www.amazon.co.uk/Building-Solutions-Microsoft-Power-Platform-ebook/dp/B0BRR5T7MJ
+http://books.google.co.uk/books?id=SgqmEAAAQBAJ&printsec=frontcover&dq=intitle:Building+Solutions+with+the+Microsoft+Power+Platform%2Binauthor:Jason+Rivera&hl=&cd=1&source=gbs_api
+
+Book 04 - Causal Inference in Python
+https://www.amazon.com/Causal-Inference-Python-Matheus-Facure-ebook/dp/B0CBW96BWK
+https://www.amazon.co.uk/Causal-Inference-Python-Matheus-Facure-ebook/dp/B0CBW96BWK
+http://books.google.co.uk/books?id=K33LEAAAQBAJ&printsec=frontcover&dq=intitle:Causal+Inference+in+Python%2Binauthor:Matheus+Facure&hl=&cd=1&source=gbs_api
+
+Book 05 - Practical Salesforce Architecture
+https://www.amazon.com/Practical-Salesforce-Architecture-Paul-McCollum-ebook/dp/B0CKKDNNX9
+https://www.amazon.co.uk/Practical-Salesforce-Architecture-Understanding-Enterprise/dp/1098138287
+http://books.google.co.uk/books?id=jV7bEAAAQBAJ&printsec=frontcover&dq=intitle:Practical+Salesforce+Architecture%2Binauthor:Paul+McCollum&hl=&cd=1&source=gbs_api
+
+Book 06 - Advancing into Analytics
+https://www.amazon.com/Advancing-into-Analytics-Excel-Python-ebook/dp/B092PY5DHL
+https://www.amazon.co.uk/Advancing-into-Analytics-Excel-Python-ebook/dp/B092PY5DHL
+http://books.google.co.uk/books?id=LYgpEAAAQBAJ&printsec=frontcover&dq=intitle:Advancing+into+Analytics%2Binauthor:George+Mount&hl=&cd=1&source=gbs_api
+
+Book 07 - Learning Microsoft Power Automate
+https://www.amazon.com/Learning-Microsoft-Power-Automate-Productivity/dp/1098136365
+https://www.amazon.co.uk/Learning-Microsoft-Power-Automate-Papanek-ebook/dp/B0CK4MYZNR
+http://books.google.co.uk/books?id=TADaEAAAQBAJ&printsec=frontcover&dq=intitle:Learning+Microsoft+Power+Automate%2Binauthor:Paul+Papanek+Stork&hl=&cd=1&source=gbs_api
+
+Book 08 - Building an Event-Driven Data Mesh
+https://www.amazon.com/Building-Event-Driven-Data-Mesh-Bellemare-ebook/dp/B0C1HY3734
+https://www.amazon.co.uk/Building-Event-Driven-Data-Mesh-Architectures/dp/1098127609
+http://books.google.co.uk/books?id=dH-3EAAAQBAJ&printsec=frontcover&dq=intitle:Building+an+Event-Driven+Data+Mesh%2Binauthor:Adam+Bellemare&hl=&cd=1&source=gbs_api
+
+Book 09 - Deep Learning for Finance
+https://www.amazon.com/Deep-Learning-Finance-Sofien-Kaabar-ebook/dp/B0CRSMMK1T
+https://www.amazon.co.uk/Deep-Learning-Finance-Sofien-Kaabar-ebook/dp/B0CRSMMK1T
+http://books.google.co.uk/books?id=EcfsEAAAQBAJ&printsec=frontcover&dq=intitle:Deep+Learning+for+Finance%2Binauthor:Sofien+Kaabar&hl=&cd=1&source=gbs_api
+
+Book 10 - UX for Business
+https://www.amazon.com/UX-Business-Joel-Marsh-ebook/dp/B0CPHG472F
+https://www.amazon.co.uk/UX-Business-Valuable-Digital-Companies/dp/1098110595
+http://books.google.co.uk/books?id=YnrnEAAAQBAJ&printsec=frontcover&dq=intitle:UX+for+Business%2Binauthor:Joel+Marsh&hl=&cd=1&source=gbs_api
+
+Book 11 - Analytics Engineering with SQL and dbt
+https://www.amazon.com/Analytics-Engineering-SQL-dbt-Meaningful/dp/1098142381
+https://www.amazon.co.uk/Analytics-Engineering-SQL-Dbt-Meaningful/dp/1098142381
+http://books.google.co.uk/books?id=llroEAAAQBAJ&printsec=frontcover&dq=intitle:Analytics+Engineering+with+SQL+and+dbt%2Binauthor:Rui+Machado,+H%C3%A9lder+Russa&hl=&cd=1&source=gbs_api
+
+Book 12 - Tableau Strategies
+https://www.amazon.com/Tableau-Strategies-Ann-Jackson-ebook/dp/B09BDGFJSM
+https://www.amazon.co.uk/Tableau-Strategies-Practical-Problems-Analytics/dp/149208008X
+http://books.google.co.uk/books?id=jn46EAAAQBAJ&printsec=frontcover&dq=intitle:Tableau+Strategies%2Binauthor:Ann+Jackson,+Luke+Stanke&hl=&cd=1&source=gbs_api
+
+Book 13 - Advanced Analytics with PySpark
+https://www.amazon.com/Advanced-Analytics-PySpark-Patterns-Learning/dp/1098103653
+https://www.amazon.co.uk/Advanced-Analytics-PySpark-Akash-Tandon-ebook/dp/B0B44HJNCC
+http://books.google.co.uk/books?id=7Bh1EAAAQBAJ&printsec=frontcover&dq=intitle:Advanced+Analytics+with+PySpark%2Binauthor:Akash+Tandon,+Sandy+Ryza,+Uri+Laserson,+Sean+Owen,+Josh+Wills&hl=&cd=1&source=gbs_api
+
+Book 14 - Learning Microsoft Power BI
+https://www.amazon.com/Learning-Microsoft-Power-Jeremey-Arnold-ebook/dp/B0BFVN1KXW
+https://www.amazon.co.uk/Learning-Microsoft-Power-Bi-Transforming/dp/1098112849
+http://books.google.co.uk/books?id=claKEAAAQBAJ&printsec=frontcover&dq=intitle:Learning+Microsoft+Power+BI%2Binauthor:Jeremey+Arnold&hl=&cd=1&source=gbs_api
+
+Book 15 - Mastering Salesforce Reports and Dashboards
+https://www.amazon.com/Mastering-Salesforce-Reports-Dashboards-Carnes-ebook/dp/B0C83XQ4M8
+https://www.amazon.co.uk/Mastering-Salesforce-Reports-Dashboards-Decisions/dp/1098127846
+http://books.google.co.uk/books?id=kzHFEAAAQBAJ&printsec=frontcover&dq=intitle:Mastering+Salesforce+Reports+and+Dashboards%2Binauthor:David+Carnes&hl=&cd=1&source=gbs_api
+
