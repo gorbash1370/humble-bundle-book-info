@@ -774,7 +774,7 @@ def open_amazon_uk_urls(books_data):
             url = book['Amazon']['Amazon UK URL']
             if url:  # Check if the URL is not empty
                 webbrowser.open_new_tab(url)
-                time.sleep(0.25)
+                time.sleep(0.75)
             else:
                 print(f"No Amazon.co.uk URL found for {book['Title']}.Skipping to next title.")
     except Exception as e:
@@ -789,7 +789,7 @@ def open_amazon_com_urls(books_data):
             url = book['Amazon']['Amazon.com URL']
             if url:  # Check if the URL is not empty
                 webbrowser.open_new_tab(url)
-                time.sleep(0.25)
+                time.sleep(0.75)
             else:
                 print(f"No Amazon.com URL found for {book['Title']}.Skipping to next title.")
     except Exception as e:
@@ -804,7 +804,7 @@ def open_google_books_urls(books_data):
             url = book['Google Books']['Google Books URL']
             if url:  # Check if the URL is not empty
                 webbrowser.open_new_tab(url)
-                time.sleep(0.25)
+                time.sleep(0.75)
             else:
                 print(f"No Google Books URL found for {book['Title']}.Skipping to next title.")
     except Exception as e:
