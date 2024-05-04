@@ -14,7 +14,7 @@ import time
 from urllib.parse import quote
 import webbrowser
 
-from config import EmptyDictionaryError
+from config1 import EmptyDictionaryError, MismatchError
 
 
 ############### CHECK / CREATE OUTPUT FOLDER FUNCTIONALITY #################
@@ -120,8 +120,8 @@ def hb_webpage_selenium(url_hb, selenium_browser, debug_flag, debug_directory):
 
 ############### HUMBLE BUNDLE WEBPAGE PARSING FUNCTIONALITY #################
 
-def parse_hb_webpage(soup1, soup2):
-    """Parse HumbleBunde webpage for book data"""
+def parse_hb_webpage(soup1, soup2, debug_flag, debug_directory):
+    """Parse HumbleBundle webpage for books data."""
 
     # Translation table for removing invalid characters from web-retreived strings (HumbleBundle titles often contain :,  which will corrupt filename)
     invalid_chars = '<>:"/\\|?*'
@@ -131,22 +131,24 @@ def parse_hb_webpage(soup1, soup2):
     try:
         # Parse the HTML content retrieved by requests using BeautifulSoup
         bundle_data = soup1.find('script', {'id': 'webpack-bundle-page-data'})
-        json_content = json.loads(bundle_data.string)
+        if bundle_data:
+            json_content = json.loads(bundle_data.string)
 
-        # Extract publisher
-        bundle_publisher = json_content['bundleData']['author'].translate(trans_table)
-        print(f"Publisher: {bundle_publisher}")
+            # Extract publisher
+            bundle_publisher = json_content['bundleData']['author'].translate(trans_table)
+            print(f"Publisher: {bundle_publisher}")
 
-        # Extract bundle name
-        bundle_name = json_content['bundleData']['basic_data']['human_name'].translate(trans_table)
-        print(f"Bundle name: {bundle_name}")
+            # Extract bundle name
+            bundle_name = json_content['bundleData']['basic_data']['human_name'].translate(trans_table)
+            print(f"Bundle name: {bundle_name}")
 
-        if not bundle_name: # another method for bundle name
-            bundle_name_pattern = soup1.find('script', {'type': 'application/ld+json'})
-            json_content = json.loads(bundle_name_pattern.string)
-            bundle_name = json_content['name'].translate(trans_table)
-
-
+            if not bundle_name: # another method for bundle name
+                bundle_name_pattern = soup1.find('script', {'type': 'application/ld+json'})
+                if bundle_name_pattern:
+                    json_content = json.loads(bundle_name_pattern.string)
+                    bundle_name = json_content['name'].translate(trans_table)
+        else: 
+            bundle_name, bundle_publisher = "Unknown", "Unknown"
         # Parse the HTML-js content retrieved by Selenium using BeautifulSoup
         # Extract book titles
         title_pattern = re.compile(r'item-title') 
