@@ -1,0 +1,432 @@
+Humble Tech Book Bundle- Electronics and Design for Entrepreneurs by Make - O'Reilly
+Processing date: 2024-05-04
+Data retrieved from: https://www.humblebundle.com/books/electronics-and-design-for-entrepreneurs-make-books
+
+Book 01 - Make: Electronics: Learning By Discovery: a Hands-On Primer For the New Electronics Enthusiast - Charles Platt - 4.7 out of 5 (502 reviews)
+Book 02 - Mechanical Engineering For Makers: a Hands-On Guide to Designing and Making Physical Things - Brian Bunnell and Samer Najia - 4.4 out of 5 (568 reviews)
+Book 03 - Fusion 360 For Makers: Design Your Own Digital Models For 3d Printing and Cnc Fabrication - Lydia Sloan Cline - 4.4 out of 5 (106 reviews)
+Book 04 - Getting Started With Arduino: the Open Source Electronics Prototyping Platform - Massimo Banzi and Michael Shiloh - None found out of 5 (None found reviews)
+Book 05 - Getting Started With 3d Printing: a Hands-On Guide to the Hardware, Software, and Services That Make the 3d Printing Ecosystem - Liza Wallach Kloski, Nick Kloski - 4.4 out of 5 (102 reviews)
+Book 06 - Make: Three Modes of Making: Designing Purposeful Projects to Teach Maker Skills - Unknown - 5 out of 5 (2 reviews)
+Book 07 - Make: Ai Robots: Create Amazing Robots With Artificial Intelligence Using Micro: Bit - Unknown - 5 out of 5 (3 reviews)
+Book 08 - Getting Started With Raspberry Pi: Getting to Know the Inexpensive Arm-Powered Linux Computer - Shawn Wallace, Matt Richardson, Wolfram Donat - 4.6 out of 5 (15 reviews)
+Book 09 - Make: Geometry: Learn By Coding, 3d Printing and Building - John Horvath, Rich Cameron - 4.6 out of 5 (31 reviews)
+Book 10 - Make: Calculus: Build Models to Learn, Visualize, and Explore - Joan Horvath and Rich Cameron - 4.7 out of 5 (30 reviews)
+Book 11 - Make: Trigonometry: Build Your Way from Triangles to Analytic Geometry - Unknown - 5 out of 5 (4 reviews)
+Book 12 - Making Simple Robots: Easy Robotics Projects For Kids Using Everyday Stuff - Kathy Ceceri - 5 out of 5 (5 reviews)
+Book 13 - Zero to Genetic Engineering Hero: the Beginner's Guide to Programming Bacteria at Home, School, & In the Makerspace - Justin Pahara, Julie Legault - 4.4 out of 5 (11 reviews)
+Book 14 - The Maker Magician's Handbook: a Beginner's Guide to Magic + Making - Mario Marchese - 4.6 out of 5 (69 reviews)
+Book 15 - Robot Magic: Beginner Robotics For the Maker and Magician - Mario Marchese - None found out of 5 (None found reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Make: Electronics: Learning By Discovery: a Hands-On Primer For the New Electronics Enthusiast
+Author(s): Charles Platt
+---
+ISBN-10: 1680456857 - ISBN-13: 9781680456851 - ASIN: 1680456873
+Published Date: 2021-09-22
+Page Count: 328
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=E6JEEAAAQBAJ&dq=intitle:Make:+Electronics:+Learning+By+Discovery:+a+Hands-On+Primer+For+the+New+Electronics+Enthusiast%2Binauthor:Charles+Platt&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (502 reviews)
+Amazon.com URL: https://www.amazon.com/Make-Electronics-hands-electronics-enthusiast/dp/1680456873
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (423 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Make-Electronics-Discovery-Hands-Enthusiast/dp/1680456873
+---
+HB Blurb: Make: Electronics explores the properties and applications of discrete components that are the fundamental building blocks of circuit design. Understanding resistors, capacitors, transistors, inductors, diodes, and integrated circuit chips is essential even when using microcontrollers. Make: Electronics teaches the fundamentals and also provides advice on the tools and supplies that are necessary. Component kits are available, specifically developed for the third edition.
+--------------------------------------------------
+
+Book 02:
+Title: Mechanical Engineering For Makers: a Hands-On Guide to Designing and Making Physical Things
+Author(s): Brian Bunnell and Samer Najia
+---
+ISBN-10: 1680457683 - ISBN-13: 9781680457681 - ASIN: B0B3SHK7RW
+Published Date: 2020-01-15
+Page Count: 640
+---
+Google Books Price: GBP 31.99
+Google Books URL: http://books.google.co.uk/books?id=6Yh0EAAAQBAJ&printsec=frontcover&dq=intitle:Mechanical+Engineering+For+Makers:+a+Hands-On+Guide+to+Designing+and+Making+Physical+Things%2Binauthor:Brian+Bunnell+and+Samer+Najia&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.4 of 5 (568 reviews)
+Amazon.com URL: https://www.amazon.com/Mechanical-Engineering-Makers-Brian-Bunnell-ebook/dp/B0B3SHK7RW
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (545 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Mechanical-Engineering-Makers-Brian-Bunnell/dp/1680455877
+---
+HB Blurb: This practical, user-friendly reference book of common mechanical engineering concepts is geared toward makers who don't have (or want) an engineering degree but need to know the essentials of basic mechanical elements to successfully accomplish their personal projects. The book provides practical mechanical engineering information (supplemented with the applicable math, science, physics, and engineering theory) without being boring like a typical textbook. Most chapters contain at least one hands-on, fully illustrated, step-by-step project to demonstrate the topic being discussed and requires only common, inexpensive, easily sourced materials and tools. Some projects also provide alternative materials and tools and processes to align with the reader's individual preferences, skills, tools, and materials-at-hand. Linked together via the authors' overarching project -- building a kid-sized tank -- the chapters describe the thinking behind each mechanism and then expands the discussions to similar mechanical concepts in other applications. Written with humor, a bit of irreverence, and entertaining personal insights and first-hand experiences, the book presents complex concepts in an uncomplicated way.Highlights include:Provides mechanical engineering information that includes math, science, physics and engineering theory without being a textbookContains hands-on projects in each chapter that require common, inexpensive, easily sourced materials and toolsAll hands-on projects are fully illustrated with step-by-step instructionsSome hands-on projects provide alternative materials and tools/processes to align with the reader's individual preferences, skills, tools and materials-at-handIncludes real-world insights from the authors like tips and tricks ("Staying on Track") and fail moments ("Lost Track!")Many chapters contain a section ("Tracking Further") that dives deeper into the chapter subject, for those readers that are interested in more details of the topicBuilds on two related Make: projects to link and illustrate all the chapter topics and bring individual concepts together into one systemFurnishes an accompanying website that offers further information, illustrations, projects, discussion boards, videos, animations, patterns, drawings, etc.Learn to effectively use professional mechanical engineering principles in your projects, without having to graduate from engineering school!
+--------------------------------------------------
+
+Book 03:
+Title: Fusion 360 For Makers: Design Your Own Digital Models For 3d Printing and Cnc Fabrication
+Author(s): Lydia Sloan Cline
+---
+ISBN-10: 1680456482 - ISBN-13: 9781680456486 - ASIN: 1680456520
+Published Date: 2021-05-27
+Page Count: 610
+---
+Google Books Price: GBP 18.5
+Google Books URL: http://books.google.co.uk/books?id=r9hyEAAAQBAJ&printsec=frontcover&dq=intitle:Fusion+360+For+Makers:+Design+Your+Own+Digital+Models+For+3d+Printing+and+Cnc+Fabrication%2Binauthor:Lydia+Sloan+Cline&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.4 of 5 (106 reviews)
+Amazon.com URL: https://www.amazon.com/Fusion-360-Makers-Printing-Fabrication/dp/1680456520
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (140 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Fusion-360-Makers-2e-Fabrication/dp/1680456520
+---
+HB Blurb: Learn how to use Autodesk Fusion 360 to digitally model your own original projects for a 3D printer or a CNC device.
+--------------------------------------------------
+
+Book 04:
+Title: Getting Started With Arduino: the Open Source Electronics Prototyping Platform
+Author(s): Massimo Banzi and Michael Shiloh
+---
+ISBN-10: 9781449363338 - ISBN-13: 1449363334 - ASIN: 1680456938
+Published Date: 2014-12-28
+Page Count: 245
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=nYLmoAEACAAJ&dq=intitle:Getting+Started+With+Arduino:+the+Open+Source+Electronics+Prototyping+Platform%2Binauthor:Massimo+Banzi+and+Michael+Shiloh&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (48 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Getting-Started-Arduino-Electronics-Prototyping/dp/1680456938
+---
+HB Blurb: Arduino is the open source electronics prototyping platform that is the heart of the Maker world. This thorough introduction, updated for the latest Arduino IDE release and the new ARM-based boards, helps you start prototyping right away. From obtaining the required components to putting the final touches on your project, all the information you need is here!Getting started with the Arduino is a snap! To use the introductory examples in this guide, all you need is an Arduino Uno or Nano, along with a USB cable and an LED. The easy-to-use, free Arduino development environment runs on Mac, Windows, and Linux.Join hundreds of thousands of hobbyists who have discovered this incredible (and educational) platform.In Getting Started with Arduino, you will learn about:Interaction design and physical computingThe Arduino board and its software environmentBasics of electricity and electronicsPrototyping on a solderless breadboardDrawing a schematic diagramUsing the Cloud IDE and the new Arduino IoT CloudBuilding a custom plant-watering systemMaking a WiFi-enabled internet fistbumpWritten by Massimo Banzi, the co-founder of Arduino and Michael Shiloh, Arduino educational lead.
+--------------------------------------------------
+
+Book 05:
+Title: Getting Started With 3d Printing: a Hands-On Guide to the Hardware, Software, and Services That Make the 3d Printing Ecosystem
+Author(s): Liza Wallach Kloski, Nick Kloski
+---
+ISBN-10: 9781680453799 - ISBN-13: 1680453793 - ASIN: 1680456431
+Published Date: 2018-12-06
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=ANixtAEACAAJ&dq=intitle:Getting+Started+With+3d+Printing:+a+Hands-On+Guide+to+the+Hardware,+Software,+and+Services+That+Make+the+3d+Printing+Ecosystem%2Binauthor:Liza+Wallach+Kloski,+Nick+Kloski&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.4 of 5 (102 reviews)
+Amazon.com URL: https://www.amazon.com/Getting-Started-Printing-Hands-Ecosystem/dp/1680456431
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (78 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Getting-Started-Printing-Hands-Ecosystem/dp/1680456431
+---
+HB Blurb: The book is written in a casual, conversational style. It is easily accessible to those who have no prior knowledge in 3D printing, yet the book's message is solidly practical, technically accurate, and consumer-relevant. The chapters include contemporary, real-life learning exercises and insights for how to buy, use and maintain 3D printers. It also covers free 3D modeling software, as well as 3D printing services for those who don't want to immediately invest in the purchase of a 3D printer. Particular focus is placed on free and paid resources, the various choices available in 3D printing, and tutorials and troubleshooting guides.
+--------------------------------------------------
+
+Book 06:
+Title: Make: Three Modes of Making: Designing Purposeful Projects to Teach Maker Skills
+Author(s): Unknown
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1680457993
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: 
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (2 reviews)
+Amazon.com URL: https://www.amazon.com/Make-Making-Designing-Purposeful-Projects/dp/1680457993
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Make-Making-Designing-Purposeful-Projects/dp/1680457993
+---
+HB Blurb: The Maker movement has been an excellent opportunity for people to become producers rather than just consumers, and schools are recognizing the value of offering students the tools, materials, and skills necessary to design sophisticated and meaningful projects. But teaching technical skills should not be the end goal: At its best, a Maker education teaches students to think and act in creative ways that can be applied to difficult challenges in all areas of life.Three Modes of Making provides a framework for Maker courses in upper grades that teach students creative-process skills through three key Maker modes: Imitation, Modification, and Innovation. Educators will learn the differences between the three Maker modes, their associated skill sets, and gain concrete methods to teach, document, and assess these skills. Through this approach, teachers will enable students to apply them to different creative needs.By focusing on how to teach skill development rather than merely how to build specific objects, Three Modes of Making enables students to improve and enhance their creative skills, and learn ways to apply them to a wide variety of challenges. This book is a road map to developing the creative problem solvers that the world needs for the future.
+--------------------------------------------------
+
+Book 07:
+Title: Make: Ai Robots: Create Amazing Robots With Artificial Intelligence Using Micro: Bit
+Author(s): Unknown
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1680457292
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: 
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (3 reviews)
+Amazon.com URL: https://www.amazon.com/Make-Robots-Amazing-Artificial-Intelligence/dp/1680457292
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (3 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Make-Robots-Amazing-Artificial-Intelligence/dp/1680457292
+---
+HB Blurb: Artificial intelligence is a tool to explore and create, and it starts here with the experts at Steamlabs, a nonprofit that teaches teens to not just be users of technology, but to create with technology so they can be help shape our future.Make: AI Robots introduces young people to AI through exciting craft projects that start with a mechanical cardboard creation, integrates fun electronic lights and motors, adds simple coding on a micro:bit, and then teaches how to train AI to create a spark of life.With 32 projects designed to guide beginners through increasing challenges, Make: AI Robots is the perfect way to feed curious minds with fun AI experiments that will delight and inspire.
+--------------------------------------------------
+
+Book 08:
+Title: Getting Started With Raspberry Pi: Getting to Know the Inexpensive Arm-Powered Linux Computer
+Author(s): Shawn Wallace, Matt Richardson, Wolfram Donat
+---
+ISBN-10: 9781680456998 - ISBN-13: 1680456997 - ASIN: 
+Published Date: 2021-11
+Page Count: 256
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=eoM8zgEACAAJ&dq=intitle:Getting+Started+With+Raspberry+Pi:+Getting+to+Know+the+Inexpensive+Arm-Powered+Linux+Computer%2Binauthor:Shawn+Wallace,+Matt+Richardson,+Wolfram+Donat&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (15 reviews)
+Amazon.com URL: https://www.amazon.com/Getting-Started-Raspberry-Introduction-Fastest-Selling/dp/1680456997
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (12 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Getting-Started-Raspberry-Introduction-Fastest-Selling/dp/1680456997
+---
+HB Blurb: The Raspberry Pi is a credit card-sized computer that plugs into your TV and a keyboard. It is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does, like spreadsheets, word processing, browsing the internet, and playing games. It also plays high-definition video. This book takes you step-by-step through many fun and educational possibilities. Take advantage of several preloaded programming languages. Use the Raspberry Pi with Arduino. Create Internet-connected projects. Play with multimedia. With Raspberry Pi, you can do all of this and more.
+--------------------------------------------------
+
+Book 09:
+Title: Make: Geometry: Learn By Coding, 3d Printing and Building
+Author(s): John Horvath, Rich Cameron
+---
+ISBN-10: 9781680456714 - ISBN-13: 1680456717 - ASIN: 
+Published Date: 2021-07-31
+Page Count: 312
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=so5YzgEACAAJ&dq=intitle:Make:+Geometry:+Learn+By+Coding,+3d+Printing+and+Building%2Binauthor:John+Horvath,+Rich+Cameron&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (31 reviews)
+Amazon.com URL: https://www.amazon.com/Make-Geometry-coding-printing-building/dp/1680456717
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (24 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Make-Geometry-Coding-Printing-Building/dp/1680456717
+---
+HB Blurb: Geometry, of all the branches of mathematics, is the one that is most easily visualized by making something. However, it is all too easy to reduce it to reams of formulas to memorize and proofs to replicate. This book aims to take geometry back to its practical roots with 3D printed models and puzzles as well as demonstrations with household objects like flashlights and paper towel tubes.This is not a traditional geometry textbook, but rather builds up understanding of geometry concepts while also bringing in elements of concepts normally learned much later. Some of the models are counterintuitive, and figuring out how and why they work will both entertain and give insights. Two final chapters suggesting open-ended projects in astronomy and physics, and art and architecture, allow for deeper understanding and integration of the learning in the rest of the book.
+--------------------------------------------------
+
+Book 10:
+Title: Make: Calculus: Build Models to Learn, Visualize, and Explore
+Author(s): Joan Horvath and Rich Cameron
+---
+ISBN-10: 9781680457391 - ISBN-13: 168045739X - ASIN: 
+Published Date: 2022-09-06
+Page Count: 328
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=FbM3zwEACAAJ&dq=intitle:Make:+Calculus:+Build+Models+to+Learn,+Visualize,+and+Explore%2Binauthor:Joan+Horvath+and+Rich+Cameron&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (30 reviews)
+Amazon.com URL: https://www.amazon.com/Make-Calculus-models-visualize-explore/dp/168045739X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (28 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Make-Calculus-models-visualize-explore/dp/168045739X
+---
+HB Blurb: When Isaac Newton developed calculus in the 1600s, he was trying to tie together math and physics in an intuitive, geometrical way. But over time math and physics teaching became heavily weighted toward algebra, and less toward geometrical problem solving. However, many practicing mathematicians and physicists will get their intuition geometrically first and do the algebra later.Make:Calculus imagines how Newton might have used 3D printed models, construction toys, programming, craft materials, and an Arduino or two to teach calculus concepts in an intuitive way. The book uses as little reliance on algebra as possible while still retaining enough to allow comparison with a traditional curriculum. This book is not a traditional Calculus I textbook. Rather, it will take the reader on a tour of key concepts in calculus that lend themselves to hands-on projects. This book also defines terms and common symbols for them so that self-learners can learn more on their own.
+--------------------------------------------------
+
+Book 11:
+Title: Make: Trigonometry: Build Your Way from Triangles to Analytic Geometry
+Author(s): Unknown
+---
+ISBN-10: 9781586209803 - ISBN-13: 1586209809 - ASIN: 1680457985
+Published Date: 2005
+Page Count: 64
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=x1Ij8TwAEEsC&dq=intitle:Make:+Trigonometry:+Build+Your+Way+from+Triangles+to+Analytic+Geometry%2Binauthor:Unknown&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (4 reviews)
+Amazon.com URL: https://www.amazon.com/MAKE-Trigonometry-triangles-analytic-geometry/dp/1680457985
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Make-Trigonometry-Triangles-Analytic-Geometry/dp/1680457985
+---
+HB Blurb: Trigonometry has 2000-year-old roots in everyday useful endeavors, like finding the size of an object too big or far away to measure directly, or navigating from Point A to Point B. However, it is often taught very theoretically, with an emphasis on abstractions. Make: Trigonometry uses 3D printable models and readily-available physical objects like wire and cardboard tubes to develop intuition about concepts in trigonometry and basic analytic geometry. Readers will imagine the thought process of the people who invented these mathematical concepts, and can try out "math experiments" to see for themselves how ingenious ancient navigators and surveyors really were.The analytic geometry part of the book links equations to many of these intuitive concepts, which we explore through in-depth explanations of manipulative models of conic sections. This book is aimed at high school students who might be in Algebra II or Pre-Calculus. It shows the geometrical and practical sides of these topics that otherwise can drown in their own algebra.Make: Trigonometry builds on the basics of the authors' earlier book, Make: Geometry, and is intended as a bridge from that book to their Make: Calculus book. The user can read this book and understand the concepts from the photographs of 3D printable models alone. However, since many models are puzzle-like, we encourage the reader to print the models on any consumer-grade filament based 3D printer. The models are available for download in a freely-available open source repository. They were created in the free program OpenSCAD, and can be 3D printed or modified by the student in OpenSCAD to learn a little coding along the way.
+--------------------------------------------------
+
+Book 12:
+Title: Making Simple Robots: Easy Robotics Projects For Kids Using Everyday Stuff
+Author(s): Kathy Ceceri
+---
+ISBN-10: 9781680457308 - ISBN-13: 1680457306 - ASIN: 
+Published Date: 2022-05-31
+Page Count: 224
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=lIW0zgEACAAJ&dq=intitle:Making+Simple+Robots:+Easy+Robotics+Projects+For+Kids+Using+Everyday+Stuff%2Binauthor:Kathy+Ceceri&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (5 reviews)
+Amazon.com URL: https://www.amazon.com/Making-Simple-Robots-Robotics-Projects/dp/1680457306
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (5 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Making-Simple-Robots-2E-Robotics/dp/1680457306
+---
+HB Blurb: Making Simple Robots is based on the idea that anybody can build a robot! That includes kids, educators, parents, and anyone who didn't make it to engineering school. If you can cut, fold, and tape a piece of paper to make a tube or a box, you can build a no-tech robotic part. In fact, many of the models in this book are based upon real-life prototypes -- working models created in research labs and companies. What's more, if you can use the apps on your smartphone, you can quickly learn to tell robots what to do using free, online, beginner-level software like MIT's Scratch and Microsoft MakeCode.The projects in this book which teach you about electric circuits by making jumping origami frogs with eyes that light up when you get them ready to hop. You'll practice designing all-terrain robot wheel-legs with free, online Tinkercad software, and you'll create files ready for 3D printing. You'll also learn to sew -- and code -- a cyborg rag doll with a blinking electronic "eye."Each project includes step-by-step directions and clear illustrations and photographs. Along the way, you'll learn about the real research behind the DIY version, find shortcuts for making projects easier when needed, and get suggestions for adding to the challenge as your skill set grows.
+--------------------------------------------------
+
+Book 13:
+Title: Zero to Genetic Engineering Hero: the Beginner's Guide to Programming Bacteria at Home, School, & In the Makerspace
+Author(s): Justin Pahara, Julie Legault
+---
+ISBN-10: 1680457675 - ISBN-13: 9781680457674 - ASIN: 1680457160
+Published Date: 2021-08-19
+Page Count: 336
+---
+Google Books Price: GBP 23.99
+Google Books URL: http://books.google.co.uk/books?id=t9hyEAAAQBAJ&printsec=frontcover&dq=intitle:Zero+to+Genetic+Engineering+Hero:+the+Beginner%27s+Guide+to+Programming+Bacteria+at+Home,+School,+%26+In+the+Makerspace%2Binauthor:Justin+Pahara,+Julie+Legault&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.4 of 5 (11 reviews)
+Amazon.com URL: https://www.amazon.com/Zero-Genetic-Engineering-Hero-programming/dp/1680457160
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (11 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Zero-Genetic-Engineering-Hero-programming/dp/1680457160
+---
+HB Blurb: Zero to Genetic Engineering Hero is made to provide you with a first glimpse of the inner-workings of a cell. It further focuses on skill-building for genetic engineering and the Biology-as-a-Technology mindset (BAAT).  This book is designed and written for hands-on learners who have little knowledge of biology or genetic engineering. This book focuses on the reader mastering the necessary skills of genetic engineering while learning about cells and how they function. The goal of this book is to take you from no prior biology and genetic engineering knowledge toward a basic understanding of how a cell functions, and how they are engineered, all while building the skills needed to do so.
+--------------------------------------------------
+
+Book 14:
+Title: The Maker Magician's Handbook: a Beginner's Guide to Magic + Making
+Author(s): Mario Marchese
+---
+ISBN-10: 1680456547 - ISBN-13: 9781680456547 - ASIN: 168045658X
+Published Date: 2020-12-21
+Page Count: 122
+---
+Google Books Price: GBP 15.99
+Google Books URL: http://books.google.co.uk/books?id=QMpxEAAAQBAJ&printsec=frontcover&dq=intitle:The+Maker+Magician%27s+Handbook:+a+Beginner%27s+Guide+to+Magic+%2B+Making%2Binauthor:Mario+Marchese&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (69 reviews)
+Amazon.com URL: https://www.amazon.com/Maker-Magicians-Handbook-Beginners-Making/dp/168045658X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (69 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Maker-Magicians-Handbook-Beginners-Making/dp/168045658X
+---
+HB Blurb: To get started, you'll need only what you can usually find in your home: items like paper, ziploc bags, index cards, coloring utensils, pencils, rubberbands, scissors, etc. As we progress in the world of making magic, we'll explore how to use 3D design tools like Tinkercad (you can register for a free account at tinkercad.com). You don't need a 3D printer in your home! Libraries, schools, and makerspaces around the world have 3D printers you can use! We'll explore simple programming using Arduino!
+--------------------------------------------------
+
+Book 15:
+Title: Robot Magic: Beginner Robotics For the Maker and Magician
+Author(s): Mario Marchese
+---
+ISBN-10: 9781680457124 - ISBN-13: 1680457128 - ASIN: 
+Published Date: 2021-12-14
+Page Count: 240
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=-RaZzgEACAAJ&dq=intitle:Robot+Magic:+Beginner+Robotics+For+the+Maker+and+Magician%2Binauthor:Mario+Marchese&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Robot-Magic-Beginner-Robotics-Magician/dp/1680457128
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Robot-Magic-Beginner-Robotics-Magician/dp/1680457128
+---
+HB Blurb: Learn robotics through magic, or enhance your magic with robotics! This book is a beginner's guide to creating robotics-infused magic. You'll be introduced to simple DIY electronics and Arduino programming, and you will learn how to use those tools to create a treasure trove of magic bots and effects, with readily-sourced materials and everyday objects. It's magic through the lens of the Maker Movement, with a dedication to accessibility -- cardboard meets Arduino meets magic! All ages, backgrounds, and abilities will find clever, fun projects within these pages that challenge their creativity and explode their imagination.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Make: Electronics: Learning By Discovery: a Hands-On Primer For the New Electronics Enthusiast
+https://www.amazon.com/Make-Electronics-hands-electronics-enthusiast/dp/1680456873
+https://www.amazon.co.uk/Make-Electronics-Discovery-Hands-Enthusiast/dp/1680456873
+http://books.google.co.uk/books?id=E6JEEAAAQBAJ&dq=intitle:Make:+Electronics:+Learning+By+Discovery:+a+Hands-On+Primer+For+the+New+Electronics+Enthusiast%2Binauthor:Charles+Platt&hl=&cd=1&source=gbs_api
+
+Book 02 - Mechanical Engineering For Makers: a Hands-On Guide to Designing and Making Physical Things
+https://www.amazon.com/Mechanical-Engineering-Makers-Brian-Bunnell-ebook/dp/B0B3SHK7RW
+https://www.amazon.co.uk/Mechanical-Engineering-Makers-Brian-Bunnell/dp/1680455877
+http://books.google.co.uk/books?id=6Yh0EAAAQBAJ&printsec=frontcover&dq=intitle:Mechanical+Engineering+For+Makers:+a+Hands-On+Guide+to+Designing+and+Making+Physical+Things%2Binauthor:Brian+Bunnell+and+Samer+Najia&hl=&cd=1&source=gbs_api
+
+Book 03 - Fusion 360 For Makers: Design Your Own Digital Models For 3d Printing and Cnc Fabrication
+https://www.amazon.com/Fusion-360-Makers-Printing-Fabrication/dp/1680456520
+https://www.amazon.co.uk/Fusion-360-Makers-2e-Fabrication/dp/1680456520
+http://books.google.co.uk/books?id=r9hyEAAAQBAJ&printsec=frontcover&dq=intitle:Fusion+360+For+Makers:+Design+Your+Own+Digital+Models+For+3d+Printing+and+Cnc+Fabrication%2Binauthor:Lydia+Sloan+Cline&hl=&cd=1&source=gbs_api
+
+Book 04 - Getting Started With Arduino: the Open Source Electronics Prototyping Platform
+No Amazon.com URL found
+https://www.amazon.co.uk/Getting-Started-Arduino-Electronics-Prototyping/dp/1680456938
+http://books.google.co.uk/books?id=nYLmoAEACAAJ&dq=intitle:Getting+Started+With+Arduino:+the+Open+Source+Electronics+Prototyping+Platform%2Binauthor:Massimo+Banzi+and+Michael+Shiloh&hl=&cd=1&source=gbs_api
+
+Book 05 - Getting Started With 3d Printing: a Hands-On Guide to the Hardware, Software, and Services That Make the 3d Printing Ecosystem
+https://www.amazon.com/Getting-Started-Printing-Hands-Ecosystem/dp/1680456431
+https://www.amazon.co.uk/Getting-Started-Printing-Hands-Ecosystem/dp/1680456431
+http://books.google.co.uk/books?id=ANixtAEACAAJ&dq=intitle:Getting+Started+With+3d+Printing:+a+Hands-On+Guide+to+the+Hardware,+Software,+and+Services+That+Make+the+3d+Printing+Ecosystem%2Binauthor:Liza+Wallach+Kloski,+Nick+Kloski&hl=&cd=1&source=gbs_api
+
+Book 06 - Make: Three Modes of Making: Designing Purposeful Projects to Teach Maker Skills
+https://www.amazon.com/Make-Making-Designing-Purposeful-Projects/dp/1680457993
+https://www.amazon.co.uk/Make-Making-Designing-Purposeful-Projects/dp/1680457993
+
+
+Book 07 - Make: Ai Robots: Create Amazing Robots With Artificial Intelligence Using Micro: Bit
+https://www.amazon.com/Make-Robots-Amazing-Artificial-Intelligence/dp/1680457292
+https://www.amazon.co.uk/Make-Robots-Amazing-Artificial-Intelligence/dp/1680457292
+
+
+Book 08 - Getting Started With Raspberry Pi: Getting to Know the Inexpensive Arm-Powered Linux Computer
+https://www.amazon.com/Getting-Started-Raspberry-Introduction-Fastest-Selling/dp/1680456997
+https://www.amazon.co.uk/Getting-Started-Raspberry-Introduction-Fastest-Selling/dp/1680456997
+http://books.google.co.uk/books?id=eoM8zgEACAAJ&dq=intitle:Getting+Started+With+Raspberry+Pi:+Getting+to+Know+the+Inexpensive+Arm-Powered+Linux+Computer%2Binauthor:Shawn+Wallace,+Matt+Richardson,+Wolfram+Donat&hl=&cd=1&source=gbs_api
+
+Book 09 - Make: Geometry: Learn By Coding, 3d Printing and Building
+https://www.amazon.com/Make-Geometry-coding-printing-building/dp/1680456717
+https://www.amazon.co.uk/Make-Geometry-Coding-Printing-Building/dp/1680456717
+http://books.google.co.uk/books?id=so5YzgEACAAJ&dq=intitle:Make:+Geometry:+Learn+By+Coding,+3d+Printing+and+Building%2Binauthor:John+Horvath,+Rich+Cameron&hl=&cd=1&source=gbs_api
+
+Book 10 - Make: Calculus: Build Models to Learn, Visualize, and Explore
+https://www.amazon.com/Make-Calculus-models-visualize-explore/dp/168045739X
+https://www.amazon.co.uk/Make-Calculus-models-visualize-explore/dp/168045739X
+http://books.google.co.uk/books?id=FbM3zwEACAAJ&dq=intitle:Make:+Calculus:+Build+Models+to+Learn,+Visualize,+and+Explore%2Binauthor:Joan+Horvath+and+Rich+Cameron&hl=&cd=1&source=gbs_api
+
+Book 11 - Make: Trigonometry: Build Your Way from Triangles to Analytic Geometry
+https://www.amazon.com/MAKE-Trigonometry-triangles-analytic-geometry/dp/1680457985
+https://www.amazon.co.uk/Make-Trigonometry-Triangles-Analytic-Geometry/dp/1680457985
+http://books.google.co.uk/books?id=x1Ij8TwAEEsC&dq=intitle:Make:+Trigonometry:+Build+Your+Way+from+Triangles+to+Analytic+Geometry%2Binauthor:Unknown&hl=&cd=1&source=gbs_api
+
+Book 12 - Making Simple Robots: Easy Robotics Projects For Kids Using Everyday Stuff
+https://www.amazon.com/Making-Simple-Robots-Robotics-Projects/dp/1680457306
+https://www.amazon.co.uk/Making-Simple-Robots-2E-Robotics/dp/1680457306
+http://books.google.co.uk/books?id=lIW0zgEACAAJ&dq=intitle:Making+Simple+Robots:+Easy+Robotics+Projects+For+Kids+Using+Everyday+Stuff%2Binauthor:Kathy+Ceceri&hl=&cd=1&source=gbs_api
+
+Book 13 - Zero to Genetic Engineering Hero: the Beginner's Guide to Programming Bacteria at Home, School, & In the Makerspace
+https://www.amazon.com/Zero-Genetic-Engineering-Hero-programming/dp/1680457160
+https://www.amazon.co.uk/Zero-Genetic-Engineering-Hero-programming/dp/1680457160
+http://books.google.co.uk/books?id=t9hyEAAAQBAJ&printsec=frontcover&dq=intitle:Zero+to+Genetic+Engineering+Hero:+the+Beginner%27s+Guide+to+Programming+Bacteria+at+Home,+School,+%26+In+the+Makerspace%2Binauthor:Justin+Pahara,+Julie+Legault&hl=&cd=1&source=gbs_api
+
+Book 14 - The Maker Magician's Handbook: a Beginner's Guide to Magic + Making
+https://www.amazon.com/Maker-Magicians-Handbook-Beginners-Making/dp/168045658X
+https://www.amazon.co.uk/Maker-Magicians-Handbook-Beginners-Making/dp/168045658X
+http://books.google.co.uk/books?id=QMpxEAAAQBAJ&printsec=frontcover&dq=intitle:The+Maker+Magician%27s+Handbook:+a+Beginner%27s+Guide+to+Magic+%2B+Making%2Binauthor:Mario+Marchese&hl=&cd=1&source=gbs_api
+
+Book 15 - Robot Magic: Beginner Robotics For the Maker and Magician
+https://www.amazon.com/Robot-Magic-Beginner-Robotics-Magician/dp/1680457128
+https://www.amazon.co.uk/Robot-Magic-Beginner-Robotics-Magician/dp/1680457128
+http://books.google.co.uk/books?id=-RaZzgEACAAJ&dq=intitle:Robot+Magic:+Beginner+Robotics+For+the+Maker+and+Magician%2Binauthor:Mario+Marchese&hl=&cd=1&source=gbs_api
+
