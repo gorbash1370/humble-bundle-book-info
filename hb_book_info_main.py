@@ -7,7 +7,7 @@ from config import bing_api_key
 
 ############## MANUAL INPUTS ##############
 """ Give the URL of the Humble Book Bundle you wish to target. """
-url_hb = "https://www.humblebundle.com/books/cory-doctorow-novel-collection-tor-books-books"
+url_hb = "https://www.humblebundle.com/books/electronics-and-design-for-entrepreneurs-make-books"
 
 """ Choose the browser you want to use for the Selenium web scraping.
 Options: 'Chrome', 'Firefox', 'Safari', 'Opera', 'Edge', 'Internet Explorer'
