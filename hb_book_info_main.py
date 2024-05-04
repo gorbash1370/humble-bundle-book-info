@@ -2,11 +2,10 @@
 
 from hb_book_info_utils import main, open_browser_tabs
 
-from config import bing_api_key, debug_flag, debug_directory
+from config import bing_api_key
 
 
 ############## MANUAL INPUTS ##############
-
 """ Give the URL of the Humble Book Bundle you wish to target. """
 url_hb = "https://www.humblebundle.com/books/cory-doctorow-novel-collection-tor-books-books"
 
@@ -18,6 +17,14 @@ selenium_browser = 'Firefox' # enter one of the options above (spelt correctly!)
 """ Enter the folder where you want to save the output files. Enter a relative path like "." for the current directory, './my_folder' for a subfolder in the current directory, or an absolute path like "C:/Users/Me/Documents" for a specific location."""
 output_directory = './HumbleBundleBooks' # '.' = current directory. 
 # NB: If running in debug mode, change output_directory to './debug/BundleName' to keep debug outputs separate from standard ones).
+
+
+############## DEVELOPER DEBUG ##############
+"""Leave this flag set to False unless you are a developer and need to see the ouput of all functions for debugging purposes. This will produce a LOT of files.
+
+If debugging multiple Bundles, specify a subdirectory i.e. './debug/BundleName' to keep one bundle's files from overwriting previous ones (some filenames will be identical between bundles)."""
+debug_directory = './debug/makers' # '.' = current directory
+debug_flag = False # True or False
 
 
 ############## FUNCTION CALLS ##############
