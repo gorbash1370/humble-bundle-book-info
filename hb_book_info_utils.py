@@ -15,7 +15,7 @@ import time
 from urllib.parse import quote
 import webbrowser
 
-from config1 import EmptyDictionaryError, MismatchError
+from config import EmptyDictionaryError, MismatchError
 
 
 ############### CHECK / CREATE OUTPUT FOLDER FUNCTIONALITY #################
