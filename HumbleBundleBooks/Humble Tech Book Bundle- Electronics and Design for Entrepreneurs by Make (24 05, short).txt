@@ -6,7 +6,7 @@ Book 01 - Make: Electronics: Learning By Discovery: a Hands-On Primer For the Ne
 Book 02 - Mechanical Engineering For Makers: a Hands-On Guide to Designing and Making Physical Things - Brian Bunnell and Samer Najia - 4.4 out of 5 (568 reviews)
 Book 03 - Fusion 360 For Makers: Design Your Own Digital Models For 3d Printing and Cnc Fabrication - Lydia Sloan Cline - 4.4 out of 5 (106 reviews)
 Book 04 - Getting Started With Arduino: the Open Source Electronics Prototyping Platform - Massimo Banzi and Michael Shiloh - None found out of 5 (None found reviews)
-Book 05 - Getting Started With 3d Printing: a Hands-On Guide to the Hardware, Software, and Services That Make the 3d Printing Ecosystem - Liza Wallach Kloski, Nick Kloski - 4.4 out of 5 (102 reviews)
+Book 05 - Getting Started With 3d Printing: a Hands-On Guide to the Hardware, Software, and Services That Make the 3d Printing Ecosystem - Liza Wallach Kloski, Nick Kloski - 4.3 out of 5 (215 reviews)
 Book 06 - Make: Three Modes of Making: Designing Purposeful Projects to Teach Maker Skills - Unknown - 5 out of 5 (2 reviews)
 Book 07 - Make: Ai Robots: Create Amazing Robots With Artificial Intelligence Using Micro: Bit - Unknown - 5 out of 5 (3 reviews)
 Book 08 - Getting Started With Raspberry Pi: Getting to Know the Inexpensive Arm-Powered Linux Computer - Shawn Wallace, Matt Richardson, Wolfram Donat - 4.6 out of 5 (15 reviews)
@@ -16,7 +16,7 @@ Book 11 - Make: Trigonometry: Build Your Way from Triangles to Analytic Geometry
 Book 12 - Making Simple Robots: Easy Robotics Projects For Kids Using Everyday Stuff - Kathy Ceceri - 5 out of 5 (5 reviews)
 Book 13 - Zero to Genetic Engineering Hero: the Beginner's Guide to Programming Bacteria at Home, School, & In the Makerspace - Justin Pahara, Julie Legault - 4.4 out of 5 (11 reviews)
 Book 14 - The Maker Magician's Handbook: a Beginner's Guide to Magic + Making - Mario Marchese - 4.6 out of 5 (69 reviews)
-Book 15 - Robot Magic: Beginner Robotics For the Maker and Magician - Mario Marchese - None found out of 5 (None found reviews)
+Book 15 - Robot Magic: Beginner Robotics For the Maker and Magician - Mario Marchese - 4.7 out of 5 (39 reviews)
 
 --------------------------------------------------
 Book Details (Short)
@@ -66,8 +66,8 @@ Book 05:
 Title: Getting Started With 3d Printing: a Hands-On Guide to the Hardware, Software, and Services That Make the 3d Printing Ecosystem
 Author(s): Liza Wallach Kloski, Nick Kloski
 ---
-ISBN-10: 9781680453799 - ISBN-13: 1680453793 - ASIN: 1680456431
-Published Date: 2018-12-06
+ISBN-10: 1680456407 - ISBN-13: 9781680456400 - ASIN: 1680450204
+Published Date: 2021-04-18
 ---
 HB Blurb: The book is written in a casual, conversational style. It is easily accessible to those who have no prior knowledge in 3D printing, yet the book's message is solidly practical, technically accurate, and consumer-relevant. The chapters include contemporary, real-life learning exercises and insights for how to buy, use and maintain 3D printers. It also covers free 3D modeling software, as well as 3D printing services for those who don't want to immediately invest in the purchase of a 3D printer. Particular focus is placed on free and paid resources, the various choices available in 3D printing, and tutorials and troubleshooting guides.
 --------------------------------------------------
@@ -196,9 +196,9 @@ https://www.amazon.co.uk/Getting-Started-Arduino-Electronics-Prototyping/dp/1680
 http://books.google.co.uk/books?id=nYLmoAEACAAJ&dq=intitle:Getting+Started+With+Arduino:+the+Open+Source+Electronics+Prototyping+Platform%2Binauthor:Massimo+Banzi+and+Michael+Shiloh&hl=&cd=1&source=gbs_api
 
 Book 05 - Getting Started With 3d Printing: a Hands-On Guide to the Hardware, Software, and Services That Make the 3d Printing Ecosystem
-https://www.amazon.com/Getting-Started-Printing-Hands-Ecosystem/dp/1680456431
+https://www.amazon.com/Getting-Started-Printing-Hands-Manufacturing/dp/1680450204
 https://www.amazon.co.uk/Getting-Started-Printing-Hands-Ecosystem/dp/1680456431
-http://books.google.co.uk/books?id=ANixtAEACAAJ&dq=intitle:Getting+Started+With+3d+Printing:+a+Hands-On+Guide+to+the+Hardware,+Software,+and+Services+That+Make+the+3d+Printing+Ecosystem%2Binauthor:Liza+Wallach+Kloski,+Nick+Kloski&hl=&cd=1&source=gbs_api
+http://books.google.co.uk/books?id=rdhyEAAAQBAJ&printsec=frontcover&dq=intitle:Getting+Started+With+3d+Printing:+a+Hands-On+Guide+to+the+Hardware,+Software,+and+Services+That+Make+the+3d+Printing+Ecosystem%2Binauthor:Liza+Wallach+Kloski,+Nick+Kloski&hl=&cd=1&source=gbs_api
 
 Book 06 - Make: Three Modes of Making: Designing Purposeful Projects to Teach Maker Skills
 https://www.amazon.com/Make-Making-Designing-Purposeful-Projects/dp/1680457993
@@ -237,7 +237,7 @@ http://books.google.co.uk/books?id=lIW0zgEACAAJ&dq=intitle:Making+Simple+Robots:
 
 Book 13 - Zero to Genetic Engineering Hero: the Beginner's Guide to Programming Bacteria at Home, School, & In the Makerspace
 https://www.amazon.com/Zero-Genetic-Engineering-Hero-programming/dp/1680457160
-https://www.amazon.co.uk/Zero-Genetic-Engineering-Hero-programming/dp/1680457160
+https://www.amazon.co.uk/Zero-Genetic-Engineering-Hero-Programming/dp/1999451104
 http://books.google.co.uk/books?id=t9hyEAAAQBAJ&printsec=frontcover&dq=intitle:Zero+to+Genetic+Engineering+Hero:+the+Beginner%27s+Guide+to+Programming+Bacteria+at+Home,+School,+%26+In+the+Makerspace%2Binauthor:Justin+Pahara,+Julie+Legault&hl=&cd=1&source=gbs_api
 
 Book 14 - The Maker Magician's Handbook: a Beginner's Guide to Magic + Making
