@@ -6,6 +6,7 @@ import json
 import os
 import re
 import requests
+import sys
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -147,32 +148,98 @@ def parse_hb_webpage(soup1, soup2, debug_flag, debug_directory):
                 if bundle_name_pattern:
                     json_content = json.loads(bundle_name_pattern.string)
                     bundle_name = json_content['name'].translate(trans_table)
+                            
         else: 
             bundle_name, bundle_publisher = "Unknown", "Unknown"
+            
         # Parse the HTML-js content retrieved by Selenium using BeautifulSoup
         # Extract book titles
         title_pattern = re.compile(r'item-title') 
         titles = soup2.find_all('span', {'class': title_pattern})
-        # print(f"Titles: {titles}") # delete me
+        # print(f"Titles: {titles}") # use only for debug
 
-        # Extract authors
-        author_pattern = re.compile(r'publishers-and-developers') 
-        authors = soup2.find_all('div', {'class': author_pattern})
-        # print(f"Authors: {authors}") # delete me
+        # Authors information stored within misc-info html section. Sometimes, an Author(s) entry is completely missing, which messes up the syncing of title-author-blurb (positional). Books with missing author must be identified and an Author: placeholder inserted, before a full list of authors is extracted.
+        all_books = soup2.find_all('section', class_='misc-info')
 
-        # Filtering authors to only include those with 'Author:' or 'Authors:'
-        refined_authors = [author for author in authors if 'Author:' in str(author) or 'Authors:' in str(author)]
-        # print(f"Refined authors: {refined_authors}") # delete me
+        updated_books = []
+        for book in all_books:
+            details_div = book.find('div', class_='details')
+            publishers_and_developers = details_div.find_all('div', class_='publishers-and-developers')
+            # Ascertain if an Author(s) entry is present
+            author_present = any('Author:' in div.text or 'Authors:' in div.text for div in publishers_and_developers)
+
+            if not author_present:
+                # Create a new author div
+                new_author_div = BeautifulSoup('<div class="publishers-and-developers">\nAuthor:\n<span>Unknown</span>\n</div>', 'html.parser').div
+                # For consistent positioning, the Unknown author div should be inserted before the first publisher div. Find first publisher div, if any..
+                first_publisher_div = next((div for div in publishers_and_developers if 'Publisher:' in div.text), None)
+
+                if first_publisher_div:
+                    # Insert the new author div before the first publisher div
+                    first_publisher_div.insert_before(new_author_div)
+                else:
+                    # If no publisher div is found, insert the new author div at the beginning of the details div
+                    details_div.insert(0, new_author_div)
+
+            # Append the modified or unmodified book section to updated_books
+            updated_books.append(book)
+
+        print(f"Length of 'updated_books' list after Unknown author replacement is: {len(updated_books)}") 
+
+        # Debug Section: Save updated_books to a text file
+        if debug_flag == True:
+            output_filename = 'authors_updated_books.txt'
+            with open(os.path.join(debug_directory, output_filename), 'w') as file:
+                for updated_book in updated_books:
+                    file.write(str(updated_book) + '\n')
+
+        # Re-extract authors after updates
+        authors = [div for book in updated_books for div in book.find_all('div', class_='publishers-and-developers') if 'Author:' in div.text or 'Authors:' in div.text]
+
+        print(f"Length of 'authors' list is: {len(authors)}") 
+
+        # Debug Section: Save authors to a text file
+        if debug_flag == True:
+            output_filename = 'authors_raw.txt'
+            with open(os.path.join(debug_directory, output_filename), 'w') as file:
+                for author in authors:
+                    file.write(str(author) + '\n')
+
+        refined_authors = []
+        for book in updated_books:
+            for div in book.find_all('div', class_='publishers-and-developers'):
+                if 'Author:' in div.text or 'Authors:' in div.text:
+                    # Get the text directly from the <span> tag(s). Sometimes multiple authors are listed in one <span>, other times there are two <span> tags under the single 'publishers-and-developers' div
+                    author_names = [span.text.strip() for span in div.find_all('span')]
+                    if author_names:
+                        refined_authors.append(", ".join(author_names))
+                    else:
+                        # In case the span is missing but the div contains the author placeholder
+                        refined_authors.append("Unknown")
+
+        # Debug Section: Save authors to a text file
+        if debug_flag == True:
+            output_filename = 'authors_refined.txt'
+            with open(os.path.join(debug_directory, output_filename), 'w', encoding='utf-8') as file:
+                file.write(str(refined_authors) + '\n')
 
         # Extract blurbs
         blurb_pattern = re.compile(r'description')
         blurbs = soup2.find_all(['p', 'section'], {'class': blurb_pattern})
 
+        # Count number of titles, authors, and blurbs retrieved:
+        print(f"Number of Titles retrieved: {len(titles)}")
+        print(f"Number of Authors retreived: {len(refined_authors)}")
+        print(f"Number of Blurbs retrieved: {len(blurbs)}")
+
+        if len(titles) != len(refined_authors) or len(titles) != len(blurbs) or len(refined_authors) != len(blurbs):
+            raise MismatchError("WARNING: Mismatch between number of titles, authors, and blurbs retrieved. This will contaminate the synchronisation between title/author/blurb.")
+
     except Exception as e:
-        print(f"Error during parsing of HumbleBundle HTML and JavaScript content. Error: {e}")
+        print(f"Error during parsing of HumbleBundle HTML and JavaScript content. This error is fatal: to avoid wasting API calls, script will exit. Consider rerunning in debug mode. Error: {e}")
+        sys.exit(1)
 
     return bundle_name, bundle_publisher, titles, refined_authors, blurbs
-
 
 def catalogue_book_data(bundle_name, bundle_publisher, titles, refined_authors, blurbs, url_hb, debug_flag, debug_directory):
     """Catalogue the basic book data retrieved from HumbleBundle webpage into a dictionary structure. Dictionary sets up space for the data from Google Books and Bing Search API ."""
@@ -183,11 +250,10 @@ def catalogue_book_data(bundle_name, bundle_publisher, titles, refined_authors, 
     books_data = []
     try:
         for index, (title, author, blurb) in enumerate(zip(titles, refined_authors, blurbs), 1):
-            author_text = ', '.join([span.get_text().strip() for span in author.find_all('span')])
             book_data_dict = {
             "Index" : str(index).zfill(2), # zero-padded index
             "Title" : title.get_text().strip(),
-            "Author(s)" : author_text,
+            "Author(s)" : author,
             "Blurb" : blurb.get_text().strip(),
             "Published Date Google" : "", # placeholder awaiting later API calls
             "Page Count Google" : "", # placeholder 
@@ -234,9 +300,7 @@ def catalogue_book_data(bundle_name, bundle_publisher, titles, refined_authors, 
 
 def google_books_api_call(books_data, debug_flag, debug_directory):
     """ Call Google Books API to retrieve additional book data for each title.
-    Limitation: The script only searches the first returned Google Books result for each book. 
-
-    """
+    Limitation: The script only searches the first returned Google Books result for each book. """
     response_data = {}
     try:
         for book in books_data:
@@ -458,8 +522,8 @@ def bing_search_for_reviews_parse(books_data, response_data, debug_flag, debug_d
                                 if items_text:
                                     price_amazon_com = items_text
                                     found_com_price = True
-                                    break                                      
-                
+                                    break
+           
             # Update books_data with Bing API retrieved Amazon URLs for UK and com, including attempt to extract ASIN. Amazon.com is processed first so that the ASIN is usually for .com, to match the headline review ratings in text file coming from .com (vs co.uk)
             if url_amazon_com is None:
                 book['Amazon']['Amazon.com URL'] = "No Amazon.com URL found"
@@ -612,7 +676,6 @@ def bing_search_for_reviews_parse(books_data, response_data, debug_flag, debug_d
 
 ############# TEXT OUTPUT FORMATTING FUNCTIONS #############
 
-
 def book_data_formatted_txt_verbose(books_data, output_directory):
     """Extract book_data dictionary info, format and output to txt file (verbose)."""
     # Check if books_data is not empty
@@ -678,7 +741,7 @@ def book_data_formatted_txt_verbose(books_data, output_directory):
     
     return True
 
-#%%
+
 def book_data_formatted_txt_short(books_data, output_directory):
     """Extract book_data dictionary info, format and output to txt file (short)."""
     if not books_data:
@@ -834,7 +897,7 @@ def main(output_directory, url_hb, selenium_browser, bing_api_key, txt_file_vers
     make_output_directory(output_directory, debug_flag, debug_directory)
     soup1 = hb_webpage_requests(url_hb, debug_flag, debug_directory)
     soup2 = hb_webpage_selenium(url_hb, selenium_browser, debug_flag, debug_directory)
-    bundle_name, bundle_publisher, titles, refined_authors, blurbs = parse_hb_webpage(soup1, soup2)
+    bundle_name, bundle_publisher, titles, refined_authors, blurbs = parse_hb_webpage(soup1, soup2, debug_flag, debug_directory)
     books_data = catalogue_book_data(bundle_name, bundle_publisher, titles, refined_authors, blurbs, url_hb, debug_flag, debug_directory)
     books_data = google_books_api_call(books_data, debug_flag, debug_directory)
     response_data = bing_search_for_reviews(books_data, bing_api_key, debug_flag, debug_directory) 
