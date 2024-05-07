@@ -1,0 +1,495 @@
+Golang Programming by Packt - Packt
+Processing date: 2024-05-07
+Data retrieved from: https://www.humblebundle.com/books/golang-programming-packt-books
+
+Book 01 - Go Programming - From Beginner to Professional - Samantha Coyle - None found out of 5 (None found reviews)
+Book 02 - Functional Programming in Go - Dylan Meeus - 4.7 out of 5 (15 reviews)
+Book 03 - Test-Driven Development in Go - Adelina Simion, Miki Tebeka, Mat Ryer - 4.7 out of 5 (7 reviews)
+Book 04 - Microservices with Go - Alexander Shuiskov - 4.3 out of 5 (10 reviews)
+Book 05 - Mastering Go - Mihalis Tsoukalos - 4.1 out of 5 (63 reviews)
+Book 06 - Building Modern CLI Applications in Go - Marian Montagnino, William Kennedy - 4.6 out of 5 (15 reviews)
+Book 07 - gRPC Go for Professionals - Clément Jean - 4.4 out of 5 (3 reviews)
+Book 08 - Effective Concurrency in Go - Burak Serdar - 4.8 out of 5 (9 reviews)
+Book 09 - Domain-Driven Design with Golang - Matthew Boyle - 3.9 out of 5 (33 reviews)
+Book 10 - Event-Driven Architecture in Golang - Michael Stack - 4.4 out of 5 (19 reviews)
+Book 11 - Hands-On High Performance with Go - Bob Strecansky - 4 out of 5 (23 reviews)
+Book 12 - Hands-On Software Engineering with Golang - Achilleas Anagnostopoulos - 4.3 out of 5 (27 reviews)
+Book 13 - Learn Data Structures and Algorithms with Golang - Bhagvan Kommadi - 3.8 out of 5 (26 reviews)
+Book 14 - The Go Workshop - Delio D'Anna, Andrew Hayes, Sam Hennessy, Jeremy Leasor, Gobin Sougrakpam, Dániel Szabó - None found out of 5 (None found reviews)
+Book 15 - Go Programming Cookbook - Aaron Torres - 3.8 out of 5 (7 reviews)
+Book 16 - Hands-On System Programming with Go - Alex Guerrieri - 4.1 out of 5 (18 reviews)
+Book 17 - Hands-On Software Architecture with Golang - Jyotiswarup Raiturkar - 4.3 out of 5 (36 reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Go Programming - From Beginner to Professional
+Author(s): Samantha Coyle
+---
+ISBN-10: 1803246308 - ISBN-13: 9781803246307 - ASIN: 1803243058
+Published Date: 2024-03-29
+Page Count: 680
+---
+Google Books Price: GBP 15.59
+Google Books URL: http://books.google.co.uk/books?id=ScD9EAAAQBAJ&printsec=frontcover&dq=intitle:Go+Programming+-+From+Beginner+to+Professional%2Binauthor:Samantha+Coyle&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Go-Programming-Beginner-Professional-everything/dp/1803243058
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Go-Programming-Beginner-Professional-everything/dp/1803243058
+---
+HB Blurb: Key Features:Leverage Go's standard library through practical examples and simplify development tasks using best practicesMaster effective idiomatic Go syntax, including variables, functions, and loops, to handle dataBuild fully functional web applications with capabilities such as database connectivity and RESTful API creationPurchase of the print or Kindle book includes a free PDF eBookWho this book is for:Designed for both complete beginners in Go as well as professionals transitioning from another programming language, this book equips developers with skills needed to build real-world projects and launch their career in Go. With a step-by-step approach, beginners can grasp Go fundamentals even without prior programming experience, and gradually advance to idiomatic Go best practices, exploring the latest features of the language.
+--------------------------------------------------
+
+Book 02:
+Title: Functional Programming in Go
+Author(s): Dylan Meeus
+---
+ISBN-10: 1801814309 - ISBN-13: 9781801814300 - ASIN: B0BH4N6BPX
+Published Date: 2023-03-10
+Page Count: 248
+---
+Google Books Price: GBP 15.59
+Google Books URL: http://books.google.co.uk/books?id=-3ezEAAAQBAJ&printsec=frontcover&dq=intitle:Functional+Programming+in+Go%2Binauthor:Dylan+Meeus&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (15 reviews)
+Amazon.com URL: https://www.amazon.com/Functional-Programming-functional-testability-readability-ebook/dp/B0BH4N6BPX
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (9 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Functional-Programming-functional-testability-readability-ebook/dp/B0BH4N6BPX
+---
+HB Blurb: Key Features:Learn functional programming techniques at the architectural level and use them to solve real-world problemsUnderstand how to think about code functionallyLearn about the trade-offs of functional programming and object-oriented programming (OOP) in GoWho this book is for:If you are a Go engineer with a background in traditionally object-oriented languages such as Java or C++ and want to broaden your knowledge of functional programming, this book is for you.
+--------------------------------------------------
+
+Book 03:
+Title: Test-Driven Development in Go
+Author(s): Adelina Simion, Miki Tebeka, Mat Ryer
+---
+ISBN-10: 1803235020 - ISBN-13: 9781803235028 - ASIN: 1803247878
+Published Date: 2023-04-28
+Page Count: 342
+---
+Google Books Price: GBP 15.59
+Google Books URL: http://books.google.co.uk/books?id=sVC3EAAAQBAJ&printsec=frontcover&dq=intitle:Test-Driven+Development+in+Go%2Binauthor:Adelina+Simion,+Miki+Tebeka,+Mat+Ryer&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (7 reviews)
+Amazon.com URL: https://www.amazon.com/Test-Driven-Development-practical-idiomatic-real-world/dp/1803247878
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (8 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Test-Driven-Development-practical-idiomatic-real-world/dp/1803247878
+---
+HB Blurb: Key Features:Write Go test suites using popular mocking and testing frameworksLeverage TDD to implement testing at all levels of web applications and microservices architectureMaster the art of writing tests that cover edge cases and concurrent codeWho this book is for:If you are an intermediate-level developer or software testing professional who knows Go fundamentals and is looking to deliver projects with Go, then this book is for you. Knowledge of Go syntax, structs, functions, and interfaces will help you get the most out of this book.
+--------------------------------------------------
+
+Book 04:
+Title: Microservices with Go
+Author(s): Alexander Shuiskov
+---
+ISBN-10: 1804618195 - ISBN-13: 9781804618196 - ASIN: B0BHWM674P
+Published Date: 2022-11-25
+Page Count: 329
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=n8SdEAAAQBAJ&printsec=frontcover&dq=intitle:Microservices+with+Go%2Binauthor:Alexander+Shuiskov&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $21.09Save $12.90 (38%)
+Amazon.com Reviews: 4.3 of 5 (10 reviews)
+Amazon.com URL: https://www.amazon.com/Microservices-Go-Building-scalable-microservices-ebook/dp/B0BHWM674P
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4 of 5 (4 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Microservices-Go-Building-scalable-microservices-ebook/dp/B0BHWM674P
+---
+HB Blurb: Key Features:Create and organize well-structured Go microservicesLearn industry best practices and gain insights into Go microservice development tools, patterns, and solutionsCover hands-on Golang examples in each chapterWho this book is for:This book is for all types of developers, from people interested in learning how to write microservices in Go to seasoned professionals who want to take the next step in mastering the art of writing scalable and reliable microservice-based systems. A basic understanding of Go will come in handy
+--------------------------------------------------
+
+Book 05:
+Title: Mastering Go
+Author(s): Mihalis Tsoukalos
+---
+ISBN-10: 9781801079310 - ISBN-13: 1801079315 - ASIN: B09C8R34JM
+Published Date: 2021-08-31
+Page Count: 682
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=b0uczgEACAAJ&dq=intitle:Mastering+Go%2Binauthor:Mihalis+Tsoukalos&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.1 of 5 (63 reviews)
+Amazon.com URL: https://www.amazon.com/Mastering-Go-professional-utilities-concurrent-ebook/dp/B09C8R34JM
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.1 of 5 (52 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Mastering-Go-professional-utilities-concurrent-ebook/dp/B09C8R34JM
+---
+HB Blurb: Key Features:Fully updated with coverage of web services, TCP/IP, REST APIs, Go Generics, and Fuzzy TestingApply your new knowledge to real-world exercises, building high-performance servers and robust command-line utilities, to deepen your learningGain clarity on what makes Go different, understand its nuances and features for smoother Go developmentWho this book is for:Mastering Go is written primarily for Go programmers who have some experience with the language and want to become expert practitioners. You will need to know the basics of computer programming before you get started with this book, but beyond that, anyone can sink their teeth into it.
+--------------------------------------------------
+
+Book 06:
+Title: Building Modern CLI Applications in Go
+Author(s): Marian Montagnino, William Kennedy
+---
+ISBN-10: 180461369X - ISBN-13: 9781804613696 - ASIN: 1804611654
+Published Date: 2023-03-10
+Page Count: 406
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=kZ6yEAAAQBAJ&printsec=frontcover&dq=intitle:Building+Modern+CLI+Applications+in+Go%2Binauthor:Marian+Montagnino,+William+Kennedy&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (15 reviews)
+Amazon.com URL: https://www.amazon.com/Building-Modern-CLI-Applications-next-level/dp/1804611654
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/dp/1804611654
+---
+HB Blurb: Key Features:Discover how Go enables the development of elegant and intuitive CLIsExplore a range of CLI development aspects and pick up a vast array of best practicesCreate engaging and user-friendly interfaces and learn how to distribute themWho this book is for:This book is for beginner- and intermediate-level Golang developers who take an interest in developing CLIs and enjoy learning by doing. You’ll need an understanding of basic Golang programming concepts, but will require no prior knowledge of CLI design and development. This book helps you join a community of CLI developers and distribute within the popular Homebrew package management tool.
+--------------------------------------------------
+
+Book 07:
+Title: gRPC Go for Professionals
+Author(s): Clément Jean
+---
+ISBN-10: 9781837638840 - ISBN-13: 1837638845 - ASIN: B0C33M63DD
+Published Date: 2023-07-14
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=fZEJ0AEACAAJ&dq=intitle:gRPC+Go+for+Professionals%2Binauthor:Cl%C3%A9ment+Jean&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.4 of 5 (3 reviews)
+Amazon.com URL: https://www.amazon.com/gRPC-Professionals-Implement-production-grade-microservices-ebook/dp/B0C33M63DD
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/gRPC-Professionals-Implement-production-grade-microservices/dp/1837638845
+---
+HB Blurb: Key Features:Discover essential guidelines to steer clear of pitfalls when designing and evolving your gRPC servicesDevelop your understanding of advanced gRPC concepts such as authentication and securityPut your knowledge into action as you build, test, and deploy a TODO list microserviceWho this book is for:Whether you’re interested in microservices or looking to use gRPC in your product, this book is for you. To fully benefit from its contents, you’ll need a solid grasp of Go programming and using a terminal. If you’re already familiar with gRPC, this book will help you to explore the different concepts and tools in depth.
+--------------------------------------------------
+
+Book 08:
+Title: Effective Concurrency in Go
+Author(s): Burak Serdar
+---
+ISBN-10: 1804615986 - ISBN-13: 9781804615980 - ASIN: B0BW11N7SZ
+Published Date: 2023-04-21
+Page Count: 212
+---
+Google Books Price: GBP 15.59
+Google Books URL: http://books.google.co.uk/books?id=Faa3EAAAQBAJ&printsec=frontcover&dq=intitle:Effective+Concurrency+in+Go%2Binauthor:Burak+Serdar&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $19.79Save $12.20 (38%)
+Amazon.com Reviews: 4.8 of 5 (9 reviews)
+Amazon.com URL: https://www.amazon.com/Effective-Concurrency-troubleshoot-performance-applications-ebook/dp/B0BW11N7SZ
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Effective-Concurrency-troubleshoot-performance-applications/dp/1804619078
+---
+HB Blurb: Key Features:Learn about the Go concurrency primitives, Go memory model, and common concurrency patternsDevelop the insights on how to model solutions to real-life problems using concurrencyExplore practical techniques to analyze how concurrent programs behaveWho this book is for:If you are a developer with basic knowledge of Go and are looking to gain expertise in highly concurrent backend application development, then this book is for you. Intermediate Go developers who want to make their backend systems more robust and scalable will also find plenty of useful information. Prior exposure Go is a prerequisite.
+--------------------------------------------------
+
+Book 09:
+Title: Domain-Driven Design with Golang
+Author(s): Matthew Boyle
+---
+ISBN-10: 1804619264 - ISBN-13: 9781804619261 - ASIN: B0BNJ8KHYN
+Published Date: 2022-12-16
+Page Count: 205
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=Ix2gEAAAQBAJ&printsec=frontcover&dq=intitle:Domain-Driven+Design+with+Golang%2Binauthor:Matthew+Boyle&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 3.9 of 5 (33 reviews)
+Amazon.com URL: https://www.amazon.com/Domain-Driven-Design-Golang-maintainable-business-ebook/dp/B0BNJ8KHYN
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.9 of 5 (23 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Domain-Driven-Design-Golang-maintainable-business-ebook/dp/B0BNJ8KHYN
+---
+HB Blurb: Key Features:Explore Domain-driven design as a timeless concept and learn how to apply it with GoBuild a domain-driven monolithic application and a microservice from scratchLeverage patterns to make systems scalable, resilient, and maintainableWho this book is for:This book is for intermediate-level Go developers who are looking to ensure that they not only write maintainable code, but also deliver great business value. If you have a basic understanding of Go and are interested in learning about Domain-driven design, or you’ve explored Domain-driven design before but never in the context of Go, then this book will be helpful.
+--------------------------------------------------
+
+Book 10:
+Title: Event-Driven Architecture in Golang
+Author(s): Michael Stack
+---
+ISBN-10: 1803232188 - ISBN-13: 9781803232188 - ASIN: B0B2DPFJN4
+Published Date: 2022-11-25
+Page Count: 384
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=ovKZEAAAQBAJ&printsec=frontcover&dq=intitle:Event-Driven+Architecture+in+Golang%2Binauthor:Michael+Stack&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $22.39Save $15.60 (41%)
+Amazon.com Reviews: 4.4 of 5 (19 reviews)
+Amazon.com URL: https://www.amazon.com/Event-Driven-Architecture-Golang-asynchronicity-consistency-ebook/dp/B0B2DPFJN4
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (20 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Event-Driven-Architecture-Golang-asynchronicity-consistency-ebook/dp/B0B2DPFJN4
+---
+HB Blurb: Key Features:Explore the benefits and tradeoffs of event-driven architectures with practical examples and use casesUnderstand synergy with event sourcing, CQRS, and domain-driven development in software architectureBuild an end-to-end robust application architecture by the end of the bookWho this book is for:This hands-on book is for intermediate-level software architects, or senior software engineers working with Golang and interested in building asynchronous microservices using event sourcing, CQRS, and DDD. Intermediate-level knowledge of the Go syntax and concurrency features is necessary
+--------------------------------------------------
+
+Book 11:
+Title: Hands-On High Performance with Go
+Author(s): Bob Strecansky
+---
+ISBN-10: 178980177X - ISBN-13: 9781789801774 - ASIN: B08576P94D
+Published Date: 2020-03-24
+Page Count: 387
+---
+Google Books Price: GBP 18.84
+Google Books URL: http://books.google.co.uk/books?id=5C7ZDwAAQBAJ&printsec=frontcover&dq=intitle:Hands-On+High+Performance+with+Go%2Binauthor:Bob+Strecansky&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4 of 5 (23 reviews)
+Amazon.com URL: https://www.amazon.com/Hands-High-Performance-performance-applications-ebook/dp/B08576P94D
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.1 of 5 (22 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Hands-High-Performance-performance-applications-ebook/dp/B08576P94D
+---
+HB Blurb: Key Features:Explore Go’s profiling tools to write faster programs by identifying and fixing bottlenecksAddress Go-specific performance issues such as memory allocation and garbage collectionDelve into the subtleties of concurrency and discover how to successfully implement it in everyday applicationsWho this book is for:This Golang book is a must for developers and professionals who have an intermediate-to-advanced understanding of Go programming, and are interested in improving their speed of code execution.
+--------------------------------------------------
+
+Book 12:
+Title: Hands-On Software Engineering with Golang
+Author(s): Achilleas Anagnostopoulos
+---
+ISBN-10: 1838550240 - ISBN-13: 9781838550240 - ASIN: B083QG8Y1C
+Published Date: 2020-01-24
+Page Count: 625
+---
+Google Books Price: GBP 21.44
+Google Books URL: http://books.google.co.uk/books?id=mWbMDwAAQBAJ&printsec=frontcover&dq=intitle:Hands-On+Software+Engineering+with+Golang%2Binauthor:Achilleas+Anagnostopoulos&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $29.49Save $9.50 (24%)
+Amazon.com Reviews: 4.3 of 5 (27 reviews)
+Amazon.com URL: https://www.amazon.com/Hands-Software-Engineering-Golang-programming-ebook/dp/B083QG8Y1C
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (25 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Hands-Software-Engineering-Golang-programming-ebook/dp/B083QG8Y1C
+---
+HB Blurb: Key Features:Apply best practices to produce lean, testable, and maintainable Go code to avoid accumulating technical debtExplore Go’s built-in support for concurrency and message passing to build high-performance applicationsScale your Go programs across machines and manage their life cycle using KubernetesWho this book is for:This Golang programming book is for medium to advanced users who want to delve deeper into the best practices of using Golang to build complex distributed systems effectively. Knowledge of Go programming and the basics of software development is required.
+--------------------------------------------------
+
+Book 13:
+Title: Learn Data Structures and Algorithms with Golang
+Author(s): Bhagvan Kommadi
+---
+ISBN-10: 178961841X - ISBN-13: 9781789618419 - ASIN: B07KYJYSMC
+Published Date: 2019-03-30
+Page Count: 324
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=o86PDwAAQBAJ&printsec=frontcover&dq=intitle:Learn+Data+Structures+and+Algorithms+with+Golang%2Binauthor:Bhagvan+Kommadi&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 3.8 of 5 (26 reviews)
+Amazon.com URL: https://www.amazon.com/Learn-Data-Structures-Algorithms-Golang-ebook/dp/B07KYJYSMC
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.9 of 5 (21 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learn-Data-Structures-Algorithms-Golang-ebook/dp/B07KYJYSMC
+---
+HB Blurb: Key Features:Learn the basics of data structures and algorithms and implement them efficientlyUse data structures such as arrays, stacks, trees, lists and graphs in real-world scenariosCompare the complexity of different algorithms and data structures for improved code performanceWho this book is for:This book is for developers who want to understand how to select the best data structures and algorithms that will help solve coding problems. Basic Go programming experience will be an added advantage.
+--------------------------------------------------
+
+Book 14:
+Title: The Go Workshop
+Author(s): Delio D'Anna, Andrew Hayes, Sam Hennessy, Jeremy Leasor, Gobin Sougrakpam, Dániel Szabó
+---
+ISBN-10: 1838640150 - ISBN-13: 9781838640156 - ASIN: 1838647945
+Published Date: 2019-12-30
+Page Count: 823
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=ymLHDwAAQBAJ&printsec=frontcover&dq=intitle:The+Go+Workshop%2Binauthor:Delio+D%27Anna,+Andrew+Hayes,+Sam+Hennessy,+Jeremy+Leasor,+Gobin+Sougrakpam,+D%C3%A1niel+Szab%C3%B3&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Go-Workshop-Interactive-Approach-Learning/dp/1838647945
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Go-Workshop-Interactive-Approach-Learning-ebook/dp/B083CQPY33
+---
+HB Blurb: Key Features:Build a comprehensive foundation in Go and focus on developing real-world applicationsExplore the Go Standard Library and learn how to structure your codeLearn how to efficiently interact with files, databases and REST APIsWho this book is for:The Go Workshop is designed for anyone who is new to Go. Whether you're beginning your journey as an aspiring developer, or are experienced with another programming language and want to branch out to something new, this book will get you on the right track. No prior programming experience is necessary.
+--------------------------------------------------
+
+Book 15:
+Title: Go Programming Cookbook
+Author(s): Aaron Torres
+---
+ISBN-10: 1789804701 - ISBN-13: 9781789804706 - ASIN: B01MS2MOFP
+Published Date: 2019-07-19
+Page Count: 427
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=O4mkDwAAQBAJ&printsec=frontcover&dq=intitle:Go+Programming+Cookbook%2Binauthor:Aaron+Torres&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $29.99Save $10.00 (25%)
+Amazon.com Reviews: 3.8 of 5 (7 reviews)
+Amazon.com URL: https://www.amazon.com/Go-Cookbook-readable-testable-applications-ebook/dp/B01MS2MOFP
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.4 of 5 (15 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Go-Programming-Cookbook-readable-applications-ebook/dp/B07MVG919G
+---
+HB Blurb: Key Features:Develop applications for different domains using modern programming techniquesTackle common problems when it comes to parallelism, concurrency, and reactive programming in GoWork with ready-to-execute code based on the latest version of GoWho this book is for:If you're a web developer, programmer, or enterprise developer looking for quick solutions to common and not-so-common problems in Go programming, this book is for you. Basic knowledge of the Go language is assumed.
+--------------------------------------------------
+
+Book 16:
+Title: Hands-On System Programming with Go
+Author(s): Alex Guerrieri
+---
+ISBN-10: 1789803365 - ISBN-13: 9781789803365 - ASIN: B07QNP4G1F
+Published Date: 2019-07-05
+Page Count: 441
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=_kWhDwAAQBAJ&printsec=frontcover&dq=intitle:Hands-On+System+Programming+with+Go%2Binauthor:Alex+Guerrieri&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $18.49Save $11.50 (38%)
+Amazon.com Reviews: 4.1 of 5 (18 reviews)
+Amazon.com URL: https://www.amazon.com/Hands-System-Programming-concurrent-applications-ebook/dp/B07QNP4G1F
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.1 of 5 (18 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Hands-System-Programming-concurrent-applications-ebook/dp/B07QNP4G1F
+---
+HB Blurb: Key Features:Learn how to write Unix and Linux system code in Golang v1.12Perform inter-process communication using pipes, message queues, shared memory, and semaphoresExplore modern Go features such as goroutines and channels that facilitate systems programmingWho this book is for:If you are a developer who wants to learn system programming with Go, this book is for you. Although no knowledge of Unix and Linux system programming is necessary, intermediate knowledge of Go will help you understand the concepts covered in the book.
+--------------------------------------------------
+
+Book 17:
+Title: Hands-On Software Architecture with Golang
+Author(s): Jyotiswarup Raiturkar
+---
+ISBN-10: 1788625102 - ISBN-13: 9781788625104 - ASIN: B079X2RGKQ
+Published Date: 2018-12-07
+Page Count: 716
+---
+Google Books Price: GBP 21.44
+Google Books URL: http://books.google.co.uk/books?id=fmd-DwAAQBAJ&printsec=frontcover&dq=intitle:Hands-On+Software+Architecture+with+Golang%2Binauthor:Jyotiswarup+Raiturkar&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $31.72Save $12.27 (28%)
+Amazon.com Reviews: 4.3 of 5 (36 reviews)
+Amazon.com URL: https://www.amazon.com/Hands-Software-Architecture-Golang-applications-ebook/dp/B079X2RGKQ
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (31 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Hands-Software-Architecture-Golang-applications-ebook/dp/B079X2RGKQ
+---
+HB Blurb: Key Features:
+
+Gain knowledge of architectural approaches on SOA and microservices for architectural decisions
+Explore different architectural patterns for building distributed applications
+Migrate applications written in Java or Python to the Go language
+
+Who this book is for:
+Hands-On Software Architecture with Golang is for software developers, architects, and CTOs looking to use Go in their software architecture to build enterprise-grade applications. Programming knowledge of Golang is assumed.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Go Programming - From Beginner to Professional
+https://www.amazon.com/Go-Programming-Beginner-Professional-everything/dp/1803243058
+https://www.amazon.co.uk/Go-Programming-Beginner-Professional-everything/dp/1803243058
+http://books.google.co.uk/books?id=ScD9EAAAQBAJ&printsec=frontcover&dq=intitle:Go+Programming+-+From+Beginner+to+Professional%2Binauthor:Samantha+Coyle&hl=&cd=1&source=gbs_api
+
+Book 02 - Functional Programming in Go
+https://www.amazon.com/Functional-Programming-functional-testability-readability-ebook/dp/B0BH4N6BPX
+https://www.amazon.co.uk/Functional-Programming-functional-testability-readability-ebook/dp/B0BH4N6BPX
+http://books.google.co.uk/books?id=-3ezEAAAQBAJ&printsec=frontcover&dq=intitle:Functional+Programming+in+Go%2Binauthor:Dylan+Meeus&hl=&cd=1&source=gbs_api
+
+Book 03 - Test-Driven Development in Go
+https://www.amazon.com/Test-Driven-Development-practical-idiomatic-real-world/dp/1803247878
+https://www.amazon.co.uk/Test-Driven-Development-practical-idiomatic-real-world/dp/1803247878
+http://books.google.co.uk/books?id=sVC3EAAAQBAJ&printsec=frontcover&dq=intitle:Test-Driven+Development+in+Go%2Binauthor:Adelina+Simion,+Miki+Tebeka,+Mat+Ryer&hl=&cd=1&source=gbs_api
+
+Book 04 - Microservices with Go
+https://www.amazon.com/Microservices-Go-Building-scalable-microservices-ebook/dp/B0BHWM674P
+https://www.amazon.co.uk/Microservices-Go-Building-scalable-microservices-ebook/dp/B0BHWM674P
+http://books.google.co.uk/books?id=n8SdEAAAQBAJ&printsec=frontcover&dq=intitle:Microservices+with+Go%2Binauthor:Alexander+Shuiskov&hl=&cd=1&source=gbs_api
+
+Book 05 - Mastering Go
+https://www.amazon.com/Mastering-Go-professional-utilities-concurrent-ebook/dp/B09C8R34JM
+https://www.amazon.co.uk/Mastering-Go-professional-utilities-concurrent-ebook/dp/B09C8R34JM
+http://books.google.co.uk/books?id=b0uczgEACAAJ&dq=intitle:Mastering+Go%2Binauthor:Mihalis+Tsoukalos&hl=&cd=1&source=gbs_api
+
+Book 06 - Building Modern CLI Applications in Go
+https://www.amazon.com/Building-Modern-CLI-Applications-next-level/dp/1804611654
+https://www.amazon.co.uk/dp/1804611654
+http://books.google.co.uk/books?id=kZ6yEAAAQBAJ&printsec=frontcover&dq=intitle:Building+Modern+CLI+Applications+in+Go%2Binauthor:Marian+Montagnino,+William+Kennedy&hl=&cd=1&source=gbs_api
+
+Book 07 - gRPC Go for Professionals
+https://www.amazon.com/gRPC-Professionals-Implement-production-grade-microservices-ebook/dp/B0C33M63DD
+https://www.amazon.co.uk/gRPC-Professionals-Implement-production-grade-microservices/dp/1837638845
+http://books.google.co.uk/books?id=fZEJ0AEACAAJ&dq=intitle:gRPC+Go+for+Professionals%2Binauthor:Cl%C3%A9ment+Jean&hl=&cd=1&source=gbs_api
+
+Book 08 - Effective Concurrency in Go
+https://www.amazon.com/Effective-Concurrency-troubleshoot-performance-applications-ebook/dp/B0BW11N7SZ
+https://www.amazon.co.uk/Effective-Concurrency-troubleshoot-performance-applications/dp/1804619078
+http://books.google.co.uk/books?id=Faa3EAAAQBAJ&printsec=frontcover&dq=intitle:Effective+Concurrency+in+Go%2Binauthor:Burak+Serdar&hl=&cd=1&source=gbs_api
+
+Book 09 - Domain-Driven Design with Golang
+https://www.amazon.com/Domain-Driven-Design-Golang-maintainable-business-ebook/dp/B0BNJ8KHYN
+https://www.amazon.co.uk/Domain-Driven-Design-Golang-maintainable-business-ebook/dp/B0BNJ8KHYN
+http://books.google.co.uk/books?id=Ix2gEAAAQBAJ&printsec=frontcover&dq=intitle:Domain-Driven+Design+with+Golang%2Binauthor:Matthew+Boyle&hl=&cd=1&source=gbs_api
+
+Book 10 - Event-Driven Architecture in Golang
+https://www.amazon.com/Event-Driven-Architecture-Golang-asynchronicity-consistency-ebook/dp/B0B2DPFJN4
+https://www.amazon.co.uk/Event-Driven-Architecture-Golang-asynchronicity-consistency-ebook/dp/B0B2DPFJN4
+http://books.google.co.uk/books?id=ovKZEAAAQBAJ&printsec=frontcover&dq=intitle:Event-Driven+Architecture+in+Golang%2Binauthor:Michael+Stack&hl=&cd=1&source=gbs_api
+
+Book 11 - Hands-On High Performance with Go
+https://www.amazon.com/Hands-High-Performance-performance-applications-ebook/dp/B08576P94D
+https://www.amazon.co.uk/Hands-High-Performance-performance-applications-ebook/dp/B08576P94D
+http://books.google.co.uk/books?id=5C7ZDwAAQBAJ&printsec=frontcover&dq=intitle:Hands-On+High+Performance+with+Go%2Binauthor:Bob+Strecansky&hl=&cd=1&source=gbs_api
+
+Book 12 - Hands-On Software Engineering with Golang
+https://www.amazon.com/Hands-Software-Engineering-Golang-programming-ebook/dp/B083QG8Y1C
+https://www.amazon.co.uk/Hands-Software-Engineering-Golang-programming-ebook/dp/B083QG8Y1C
+http://books.google.co.uk/books?id=mWbMDwAAQBAJ&printsec=frontcover&dq=intitle:Hands-On+Software+Engineering+with+Golang%2Binauthor:Achilleas+Anagnostopoulos&hl=&cd=1&source=gbs_api
+
+Book 13 - Learn Data Structures and Algorithms with Golang
+https://www.amazon.com/Learn-Data-Structures-Algorithms-Golang-ebook/dp/B07KYJYSMC
+https://www.amazon.co.uk/Learn-Data-Structures-Algorithms-Golang-ebook/dp/B07KYJYSMC
+http://books.google.co.uk/books?id=o86PDwAAQBAJ&printsec=frontcover&dq=intitle:Learn+Data+Structures+and+Algorithms+with+Golang%2Binauthor:Bhagvan+Kommadi&hl=&cd=1&source=gbs_api
+
+Book 14 - The Go Workshop
+https://www.amazon.com/Go-Workshop-Interactive-Approach-Learning/dp/1838647945
+https://www.amazon.co.uk/Go-Workshop-Interactive-Approach-Learning-ebook/dp/B083CQPY33
+http://books.google.co.uk/books?id=ymLHDwAAQBAJ&printsec=frontcover&dq=intitle:The+Go+Workshop%2Binauthor:Delio+D%27Anna,+Andrew+Hayes,+Sam+Hennessy,+Jeremy+Leasor,+Gobin+Sougrakpam,+D%C3%A1niel+Szab%C3%B3&hl=&cd=1&source=gbs_api
+
+Book 15 - Go Programming Cookbook
+https://www.amazon.com/Go-Cookbook-readable-testable-applications-ebook/dp/B01MS2MOFP
+https://www.amazon.co.uk/Go-Programming-Cookbook-readable-applications-ebook/dp/B07MVG919G
+http://books.google.co.uk/books?id=O4mkDwAAQBAJ&printsec=frontcover&dq=intitle:Go+Programming+Cookbook%2Binauthor:Aaron+Torres&hl=&cd=1&source=gbs_api
+
+Book 16 - Hands-On System Programming with Go
+https://www.amazon.com/Hands-System-Programming-concurrent-applications-ebook/dp/B07QNP4G1F
+https://www.amazon.co.uk/Hands-System-Programming-concurrent-applications-ebook/dp/B07QNP4G1F
+http://books.google.co.uk/books?id=_kWhDwAAQBAJ&printsec=frontcover&dq=intitle:Hands-On+System+Programming+with+Go%2Binauthor:Alex+Guerrieri&hl=&cd=1&source=gbs_api
+
+Book 17 - Hands-On Software Architecture with Golang
+https://www.amazon.com/Hands-Software-Architecture-Golang-applications-ebook/dp/B079X2RGKQ
+https://www.amazon.co.uk/Hands-Software-Architecture-Golang-applications-ebook/dp/B079X2RGKQ
+http://books.google.co.uk/books?id=fmd-DwAAQBAJ&printsec=frontcover&dq=intitle:Hands-On+Software+Architecture+with+Golang%2Binauthor:Jyotiswarup+Raiturkar&hl=&cd=1&source=gbs_api
+
