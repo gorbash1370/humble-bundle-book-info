@@ -1,0 +1,301 @@
+Humble Tech Book Bundle- Cybersecurity by Pearson - Pearson
+Processing date: 2024-05-14
+Data retrieved from: https://www.humblebundle.com/books/cybersecurity-pearson-books
+
+Book 01 - CompTIA Security+ SY0-701 Cert Guide - Heuermann - 4.9 out of 5 (108 reviews)
+Book 02 - Network Security - Kaufman, Perlman - 4.3 out of 5 (4 reviews)
+Book 03 - Zero Trust Architecture - Green-Ortiz - None found out of 5 (None found reviews)
+Book 04 - Cybersecurity Myths and Misconceptions - Spafford, Metcalf, Dykstra - 4.6 out of 5 (32 reviews)
+Book 05 - In Zero Trust We Trust - Naduvath - None found out of 5 (None found reviews)
+Book 06 - Database and Application Security: A Practitioner's Guide - Danturthi - None found out of 5 (None found reviews)
+Book 07 - Ransomware and Cyber Extortion - Davidoff - 5 out of 5 (1 reviews)
+Book 08 - Designing and Developing Secure Azure Solutions - Howard - 5 out of 5 (2 reviews)
+Book 09 - The Modern Security Operations Center - Muniz - 4.6 out of 5 (37 reviews)
+Book 10 - A Practical Guide to Digital Forensics Investigations - Hayes - None found out of 5 (None found reviews)
+Book 11 - Data Breaches - Davidoff - 4.8 out of 5 (21 reviews)
+Book 12 - Microsoft Defender for Cloud - Diogenes, Janetscheck - 4.6 out of 5 (3 reviews)
+Book 13 - Microsoft Sentinel - Diogenes - 4.8 out of 5 (7 reviews)
+Book 14 - Effective Cybersecurity - Stallings - 4.5 out of 5 (63 reviews)
+Book 15 - Information Privacy Engineering and Privacy by Design - Stallings - 4.5 out of 5 (27 reviews)
+Book 16 - Building a Career in Cybersecurity - Diogenes - 5 out of 5 (5 reviews)
+Book 17 - Microsoft Azure Network Security - DiCola, Roman - 4.7 out of 5 (10 reviews)
+Book 18 - Securing 5G and Evolving Architectures - Nair - 4.6 out of 5 (3 reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: CompTIA Security+ SY0-701 Cert Guide
+Author(s): Heuermann
+---
+ISBN-10: 0138293163 - ISBN-13: 9780138293161 - ASIN: 1835461530
+Published Date: 2024-04-10
+---
+HB Blurb: Prepare and practice for Security+ SY0-701 exam success with this Cert Guide from Pearson IT Certification, a leader in IT Certification learning. CompTIA Security+ SY0-701 Cert Guide from Pearson IT Certification helps you prepare to succeed on the CompTIA Security+ SY0-701 exam by directly addressing the exam’s objectives as stated by CompTIA. Leading cybersecurity professional Lewis Heuermann shares preparation hints and test-taking tips, helping you identify areas of weakness and improve both your conceptual knowledge and hands-on skills. This complete study package includes valuable online extras, including the powerful Pearson Test Prep Practice Test software, complete with hundreds of well-reviewed, exam-realistic questions, customization options, and detailed performance reports.
+--------------------------------------------------
+
+Book 02:
+Title: Network Security
+Author(s): Kaufman, Perlman
+---
+ISBN-10: 013279716X - ISBN-13: 9780132797160 - ASIN: B08F5HQGT5
+Published Date: 2002-04-22
+---
+HB Blurb: The classic guide to cryptography and network security - now fully updated! Widely regarded as the most comprehensive yet comprehensible guide to security, the previous editions received critical acclaim for lucid and witty explanations of the inner workings of cryptography and network security. In this edition, the authors have significantly updated and revised the previous content, and added new topics that have become important.This book explains sophisticated concepts in a friendly and intuitive manner. An updated glossary demystifies the field's jargon. Network Security, 3rd Edition will appeal to a wide range of professionals, from those who design and evaluate security systems to system administrators and programmers who want a better understanding of this important field.
+--------------------------------------------------
+
+Book 03:
+Title: Zero Trust Architecture
+Author(s): Green-Ortiz
+---
+ISBN-10: 9780137899739 - ISBN-13: 0137899734 - ASIN: B0C5SXY6QH
+Published Date: 2023-08-18
+---
+HB Blurb: Zero Trust Architecture is the first comprehensive guide for technical professionals who want to move from theory to implementation and successful ongoing operation. A team of leading experts offer a comprehensive and substantive guide to Zero Trust, bringing clarity, vision, practical definitions, and real-world examples. The authors explain why Zero Trust identity-based models can enable greater flexibility, simpler operations, intuitive context in the implementation and management of least privilege security. Through real world experiences and case studies, you'll learn what questions to ask, how to start planning, what exists today, what solution components still must emerge and evolve, and how to drive value in the short-term as you execute on your journey towards Zero Trust.
+--------------------------------------------------
+
+Book 04:
+Title: Cybersecurity Myths and Misconceptions
+Author(s): Spafford, Metcalf, Dykstra
+---
+ISBN-10: 9780137929238 - ISBN-13: 0137929234 - ASIN: B0BMPN72HR
+Published Date: 2023-02-23
+---
+HB Blurb: 175+ Cybersecurity Misconceptions and the Myth-Busting Skills You Need to Correct Them. In Cybersecurity Myths and Misconceptions three cybersecurity pioneers don't just deliver the first comprehensive collection of falsehoods that derail security from the frontlines to the boardroom; they offer expert practical advice for avoiding or overcoming each myth. Whatever your cybersecurity role or experience, the authors will help you surface hidden dangers, prevent avoidable errors, eliminate faulty assumptions, and resist deeply human biases that compromise security. You'll find examples drawn from actual cybersecurity events, detailed techniques for recognizing and overcoming security fallacies, and recommended mitigations for building more secure products and businesses.
+--------------------------------------------------
+
+Book 05:
+Title: In Zero Trust We Trust
+Author(s): Naduvath
+---
+ISBN-10: 0138237565 - ISBN-13: 9780138237561 - ASIN: 0138237409
+Published Date: 2024-02-27
+---
+HB Blurb: For a future where success is measured as much by the security of a system as by the functionality, In Zero Trust We Trust is designed to help everyone at every stage and level of leadership understand not only the conceptual underpinnings, but the real-world context of when, how, and why to deploy Zero Trust security controls. This book provides the starting point for helping you change the mindset of others, and getting them to understand why Zero Trust isn’t simply a conversation to be had, but a movement to embrace.
+--------------------------------------------------
+
+Book 06:
+Title: Database and Application Security: A Practitioner's Guide
+Author(s): Danturthi
+---
+ISBN-10: 0138073805 - ISBN-13: 9780138073800 - ASIN: 0138073732
+Published Date: 2024-05-02
+---
+HB Blurb: An all-encompassing guide to securing your database and applications against costly cyberattacks! Increased cybercrime means front-end applications and back-end databases must be finetuned for a strong security posture. This book is the resource you need to better fight cybercrime and become more marketable in a job market that is short on skilled cybersecurity professionals. This extensive and accessible guide provides a solutions-based approach to help you master the tools, processes, and methodologies to establish security inside application and database environments. From securing hosts and creating firewall rules to complying with increasingly tight regulatory requirements, this book will be your go-to resource to creating an ironclad cybersecurity database.
+--------------------------------------------------
+
+Book 07:
+Title: Ransomware and Cyber Extortion
+Author(s): Davidoff
+---
+ISBN-10: 0137450435 - ISBN-13: 9780137450435 - ASIN: B09RV4FPP9
+Published Date: 2022-10-18
+---
+HB Blurb: Ransomware and other cyber extortion crimes have reached epidemic proportions. The secrecy surrounding them has left many organizations unprepared to respond. Ransomware and Cyber Extortion is the ultimate practical guide to surviving ransomware, exposure extortion, denial-of-service, and other forms of cyber extortion. Drawing heavily on their own unpublished case library, cyber security experts guide you through responding faster, minimizing damage, investigating more effectively, expediting recovery, and preventing it from happening in the first place. Proven checklists help your security teams act swiftly and effectively together, throughout the entire lifecycle--whatever the attack and whatever the source.
+--------------------------------------------------
+
+Book 08:
+Title: Designing and Developing Secure Azure Solutions
+Author(s): Howard
+---
+ISBN-10: 0137908687 - ISBN-13: 9780137908684 - ASIN: 013790875X
+Published Date: 2022-12-05
+---
+HB Blurb: Plan, build, and maintain highly secure Azure applications. As applications move to the Microsoft Azure cloud, they must stand up against dangerous new threats. That means you must build robust security into your designs, use proven best practices across the entire development lifecycle, and combine multiple Azure services to optimize security. Drawing on extensive experience securing Azure workloads, the authors present a practical tutorial for addressing immediate security challenges, and a definitive design reference to rely on for years. Learn how to make the most of the platform by integrating multiple Azure security technologies at the application and network layers— taking you from design and development to testing, deployment, governance, and compliance.
+--------------------------------------------------
+
+Book 09:
+Title: The Modern Security Operations Center
+Author(s): Muniz
+---
+ISBN-10: 0135619742 - ISBN-13: 9780135619742 - ASIN: B08BW8Y9Q4
+Published Date: 2021-04-21
+---
+HB Blurb: The Industry Standard, Vendor-Neutral Guide to Managing SOCs and Delivering SOC Services. This guide brings together all the knowledge you need to build, maintain, and operate a modern Security Operations Center (SOC) and deliver security services as efficiently and cost-effectively as possible. Learn to assess current capabilities, align your SOC to your business, and plan a new SOC or evolve an existing one. The book covers people, process, and technology; explores each key service handled by mature SOCs; and offers expert guidance for managing risk, vulnerabilities, and compliance. This guide will be indispensable for everyone responsible for delivering security services—managers and cybersecurity professionals alike.
+--------------------------------------------------
+
+Book 10:
+Title: A Practical Guide to Digital Forensics Investigations
+Author(s): Hayes
+---
+ISBN-10: 0132756153 - ISBN-13: 9780132756150 - ASIN: 0789759918
+Published Date: 2014-12-17
+---
+HB Blurb: "The definitive guide to digital forensics, with complete, practical coverage of both technical and investigative skills.
+Every chapter of this book reflects the newest technologies, the latest challenges and technical solutions, and the most recent court decisions. It contains detailed coverage of wearable technologies, IoT forensics, 5G communications, vehicle forensics, and mobile app examinations; advances in incident response; and iPhone and Android device examination techniques. Through practical activities, realistic examples, and fascinating case studies, you’ll build hands-on mastery—and prepare to succeed in one of today’s fastest-growing fields."
+--------------------------------------------------
+
+Book 11:
+Title: Data Breaches
+Author(s): Davidoff
+---
+ISBN-10: 013450772X - ISBN-13: 9780134507729 - ASIN: B07YVP5LYX
+Published Date: 2019-10-08
+---
+HB Blurb: Data breaches can be catastrophic, but they remain mysterious because victims don't want to talk about them. In Data Breaches, world-renowned cybersecurity expert Sherri Davidoff shines a light on these events, offering practical guidance for reducing risk and mitigating consequences. Reflecting extensive personal experience and lessons from the world's most damaging breaches, Davidoff identifies tactics for reducing damage and avoiding common mistakes that cause them to spiral out of control. You'll learn how to manage data breaches as the true crises they are; minimize reputational damage and legal exposure; address unique challenges associated with health and payment card data; and respond to hacktivism, ransomware, and cyber extortion.
+--------------------------------------------------
+
+Book 12:
+Title: Microsoft Defender for Cloud
+Author(s): Diogenes, Janetscheck
+---
+ISBN-10: 0137878486 - ISBN-13: 9780137878482 - ASIN: 0137878451
+Published Date: 2022-10-18
+---
+HB Blurb: The definitive guide to Microsoft Defender for Cloud covering new components and multi-cloud enhancements! Microsoft Defender for Cloud offers comprehensive tools for hardening resources, tracking security posture, protecting against attacks, and streamlining security management – all in one natively integrated toolset. This guide shows how to make the most of new components, enhancements, and deployment scenarios, as you address today's latest threat vectors. Sharing best practices, expert tips, and optimizations only available from Microsoft's Defender for Cloud team, the authors walk through improving everything from policies and governance to incident response and risk management. Whatever your role or experience, they'll help you address new security challenges far more effectively.
+--------------------------------------------------
+
+Book 13:
+Title: Microsoft Sentinel
+Author(s): Diogenes
+---
+ISBN-10: 0137900961 - ISBN-13: 9780137900961 - ASIN: 0137900937
+Published Date: 2022-08-05
+---
+HB Blurb: Build next-generation security operations with Microsoft Sentinel. Microsoft Sentinel is a scalable, cloud-native, security information and event management solution for automating and streamlining threat identification and response across your enterprise. Three leading experts guide you step-by-step through planning, deployment, and operations, helping you use Microsoft Sentinel to escape the complexity and scalability challenges of traditional solutions. Fully updated for the latest enhancements, this edition introduces new use cases for investigation, hunting, automation, and orchestration across your organization. The authors clearly introduce each service, concisely explain all new concepts, and present proven best practices for maximizing Microsoft Sentinel's.
+--------------------------------------------------
+
+Book 14:
+Title: Effective Cybersecurity
+Author(s): Stallings
+---
+ISBN-10: 9780134772929 - ISBN-13: 013477292X - ASIN: B07FQSGWFD
+Published Date: 2019
+---
+HB Blurb: In Effective Cybersecurity, William Stallings introduces the technology, operational procedures, and management practices needed for successful cybersecurity. Stallings makes extensive use of standards and best practices documents that are often used to guide or mandate cybersecurity implementation. Going beyond these, he offers in-depth tutorials on the “how” of implementation, integrated into a unified framework and realistic plan of action. Each chapter contains a clear technical overview, as well as a detailed discussion of action items and appropriate policies. Stallings offers many pedagogical features designed to help readers master the material: clear learning objectives, keyword lists, review questions, and QR codes linking to relevant standards documents and web resources.
+--------------------------------------------------
+
+Book 15:
+Title: Information Privacy Engineering and Privacy by Design
+Author(s): Stallings
+---
+ISBN-10: 0135278376 - ISBN-13: 9780135278376 - ASIN: B082FMW1XX
+Published Date: 2019-12-06
+---
+HB Blurb: The Comprehensive Guide to Engineering and Implementing Privacy Best Practices. As systems grow more complex and cybersecurity attacks more relentless, safeguarding privacy is ever more challenging. Organizations are increasingly responding in two ways: privacy by design and privacy engineering. In this book internationally renowned security expert William Stallings brings together the comprehensive knowledge you need to apply both approaches. Using the techniques he presents, you can systematically anticipate and respond to a wide spectrum of privacy requirements, threats, and vulnerabilities–addressing regulations, contractual commitments, organizational policies, and the expectations of key stakeholders.
+--------------------------------------------------
+
+Book 16:
+Title: Building a Career in Cybersecurity
+Author(s): Diogenes
+---
+ISBN-10: 0138214328 - ISBN-13: 9780138214326 - ASIN: B0CBNLMTM3
+Published Date: 2023-07-09
+---
+HB Blurb: The Insider’s Guide to Launching and Accelerating Your Cybersecurity Career! Cybersecurity is one of the world's fastest growing, most exciting fields--but that doesn't mean it's easy to enter the industry and succeed. Now there's a complete guide to creating a great cybersecurity career, whether you're migrating to cybersecurity from another field or already a cybersecurity professional. Building a Career in Cybersecurity doesn't teach detailed technical skills you can get from other books and videos. Instead, the author focuses on make-or-break knowledge you won't find elsewhere: personal strategy, planning, process, mindset, and the critical “soft skills” today's employers are desperate to find.
+--------------------------------------------------
+
+Book 17:
+Title: Microsoft Azure Network Security
+Author(s): DiCola, Roman
+---
+ISBN-10: 9780137252022 - ISBN-13: 0137252021 - ASIN: B08W41LMC4
+Published Date: 2021
+---
+HB Blurb: Network security is crucial to safely deploying and managing Azure cloud resources in any environment. Now, two of Microsoft's leading experts present a comprehensive, cloud-native approach to protecting your network, and safeguarding all your Azure systems and assets. Nicholas DiCola and Anthony Roman begin with a thoughtful overview of network security’s role in the cloud. Next, they offer practical, real-world guidance on deploying cloud-native solutions for firewalling, DDOS, WAF, and other foundational services – all within a best-practice secure network architecture based on proven design patterns.
+--------------------------------------------------
+
+Book 18:
+Title: Securing 5G and Evolving Architectures
+Author(s): Nair
+---
+ISBN-10: 0137458045 - ISBN-13: 9780137458042 - ASIN: 0137457936
+Published Date: 2021-12-07
+---
+HB Blurb: This coherent, pragmatic, and vendor-agnostic guide will help you plan for security from the outset of your 5G installation, make better choices throughout the lifecycle, and develop the mindset needed to secure new generations of networks. You'll find all you need: from high-level 5G security concepts to in-depth coverage of specific security controls, end-to-end architectural guidance, 5G security use cases, and cutting-edge "quantum proofing." Throughout, practical examples and real-life scenarios help you apply the author’s insights.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - CompTIA Security+ SY0-701 Cert Guide
+https://www.amazon.com/CompTIA-Security-SY0-701-Certification-Guide/dp/1835461530
+https://www.amazon.co.uk/CompTIA-Security-SY0-701-Certification-Guide/dp/1835461530
+http://books.google.co.uk/books?id=PKrpEAAAQBAJ&printsec=frontcover&dq=intitle:CompTIA+Security%2B+SY0-701+Cert+Guide%2Binauthor:Heuermann&hl=&cd=1&source=gbs_api
+
+Book 02 - Network Security
+https://www.amazon.com/Network-Security-Private-Communications-Public-ebook/dp/B08F5HQGT5
+https://www.amazon.co.uk/Network-Security-Private-Communications-Public-ebook/dp/B08F5HQGT5
+http://books.google.co.uk/books?id=wxMqaz4JMb0C&printsec=frontcover&dq=intitle:Network+Security%2Binauthor:Kaufman,+Perlman&hl=&cd=1&source=gbs_api
+
+Book 03 - Zero Trust Architecture
+https://www.amazon.com/Zero-Trust-Architecture-Networking-Technology-ebook/dp/B0C5SXY6QH
+https://www.amazon.co.uk/Zero-Trust-Architecture-Networking-Technology-ebook/dp/B0C5SXY6QH
+http://books.google.co.uk/books?id=aTcrzwEACAAJ&dq=intitle:Zero+Trust+Architecture%2Binauthor:Green-Ortiz&hl=&cd=1&source=gbs_api
+
+Book 04 - Cybersecurity Myths and Misconceptions
+https://www.amazon.com/Cybersecurity-Myths-Misconceptions-Avoiding-Pitfalls/dp/0137929234
+https://www.amazon.co.uk/Cybersecurity-Myths-Misconceptions-Avoiding-Pitfalls-ebook/dp/B0BMPN72HR
+http://books.google.co.uk/books?id=yD4rzwEACAAJ&dq=intitle:Cybersecurity+Myths+and+Misconceptions%2Binauthor:Spafford,+Metcalf,+Dykstra&hl=&cd=1&source=gbs_api
+
+Book 05 - In Zero Trust We Trust
+https://www.amazon.com/Zero-Trust-We-Networking-Technology/dp/0138237409
+https://www.amazon.co.uk/Zero-Trust-We-Networking-Technology-ebook/dp/B0CWLP9BWM
+http://books.google.co.uk/books?id=mwH4EAAAQBAJ&printsec=frontcover&dq=intitle:In+Zero+Trust+We+Trust%2Binauthor:Naduvath&hl=&cd=1&source=gbs_api
+
+Book 06 - Database and Application Security: A Practitioner's Guide
+https://www.amazon.com/Database-Application-Security-Practitioners-Guide/dp/0138073732
+https://www.amazon.co.uk/Database-Application-Security-Practitioners-Guide/dp/0138073732
+http://books.google.co.uk/books?id=3oXREAAAQBAJ&printsec=frontcover&dq=intitle:Database+and+Application+Security:+A+Practitioner%27s+Guide%2Binauthor:Danturthi&hl=&cd=1&source=gbs_api
+
+Book 07 - Ransomware and Cyber Extortion
+https://www.amazon.com/Ransomware-Cyber-Extortion-Response-Prevention-ebook/dp/B09RV4FPP9
+https://www.amazon.co.uk/Ransomware-Cyber-Extortion-Response-Prevention-ebook/dp/B09RV4FPP9
+http://books.google.co.uk/books?id=uNnPEAAAQBAJ&printsec=frontcover&dq=intitle:Ransomware+and+Cyber+Extortion%2Binauthor:Davidoff&hl=&cd=1&source=gbs_api
+
+Book 08 - Designing and Developing Secure Azure Solutions
+https://www.amazon.com/Designing-Developing-Solutions-Developer-Practices/dp/013790875X
+https://www.amazon.co.uk/Designing-Developing-Solutions-Developer-Practices-ebook/dp/B0BFXG89B6
+http://books.google.co.uk/books?id=jtfPEAAAQBAJ&printsec=frontcover&dq=intitle:Designing+and+Developing+Secure+Azure+Solutions%2Binauthor:Howard&hl=&cd=1&source=gbs_api
+
+Book 09 - The Modern Security Operations Center
+https://www.amazon.com/Modern-Security-Operations-Center-ebook/dp/B08BW8Y9Q4
+https://www.amazon.co.uk/Modern-Security-Operations-Center-ebook/dp/B08BW8Y9Q4
+http://books.google.co.uk/books?id=fNnPEAAAQBAJ&printsec=frontcover&dq=intitle:The+Modern+Security+Operations+Center%2Binauthor:Muniz&hl=&cd=1&source=gbs_api
+
+Book 10 - A Practical Guide to Digital Forensics Investigations
+https://www.amazon.com/Practical-Forensics-Investigations-Cybersecurity-Curriculum/dp/0789759918
+https://www.amazon.co.uk/Practical-Guide-Digital-Forensics-Investigations-ebook/dp/B08F5HVPWT
+http://books.google.co.uk/books?id=s5beBQAAQBAJ&printsec=frontcover&dq=intitle:A+Practical+Guide+to+Digital+Forensics+Investigations%2Binauthor:Hayes&hl=&cd=1&source=gbs_api
+
+Book 11 - Data Breaches
+https://www.amazon.com/Data-Breaches-Opportunity-Sherri-Davidoff-ebook/dp/B07YVP5LYX
+https://www.amazon.co.uk/Data-Breaches-Exposed-Downs-Better/dp/0134506782
+http://books.google.co.uk/books?id=Qda0DwAAQBAJ&printsec=frontcover&dq=intitle:Data+Breaches%2Binauthor:Davidoff&hl=&cd=1&source=gbs_api
+
+Book 12 - Microsoft Defender for Cloud
+https://www.amazon.com/Microsoft-Defender-Cloud-Best-Practices/dp/0137878451
+https://www.amazon.co.uk/Microsoft-Defender-Cloud-Best-Practices/dp/0137878451
+http://books.google.co.uk/books?id=LNfPEAAAQBAJ&printsec=frontcover&dq=intitle:Microsoft+Defender+for+Cloud%2Binauthor:Diogenes,+Janetscheck&hl=&cd=1&source=gbs_api
+
+Book 13 - Microsoft Sentinel
+https://www.amazon.com/Microsoft-Azure-Sentinel-implementing-cloud-native/dp/0137900937
+https://www.amazon.co.uk/Microsoft-Azure-Sentinel-implementing-cloud-native-ebook/dp/B0BFD8FPW2
+http://books.google.co.uk/books?id=RtfPEAAAQBAJ&printsec=frontcover&dq=intitle:Microsoft+Sentinel%2Binauthor:Diogenes&hl=&cd=1&source=gbs_api
+
+Book 14 - Effective Cybersecurity
+https://www.amazon.com/Effective-Cybersecurity-Guide-Practices-Standards-ebook/dp/B07FQSGWFD
+https://www.amazon.co.uk/Effective-Cybersecurity-Guide-Practices-Standards/dp/0134772806
+http://books.google.co.uk/books?id=qBLFuQEACAAJ&dq=intitle:Effective+Cybersecurity%2Binauthor:Stallings&hl=&cd=1&source=gbs_api
+
+Book 15 - Information Privacy Engineering and Privacy by Design
+https://www.amazon.com/Information-Privacy-Engineering-Design-Understanding-ebook/dp/B082FMW1XX
+https://www.amazon.co.uk/dp/B082FMW1XX
+http://books.google.co.uk/books?id=chrCDwAAQBAJ&printsec=frontcover&dq=intitle:Information+Privacy+Engineering+and+Privacy+by+Design%2Binauthor:Stallings&hl=&cd=1&source=gbs_api
+
+Book 16 - Building a Career in Cybersecurity
+https://www.amazon.com/Building-Career-Cybersecurity-Strategy-Succeed-ebook/dp/B0CBNLMTM3
+https://www.amazon.co.uk/Building-Career-Cybersecurity-Strategy-Succeed-ebook/dp/B0CBNLMTM3
+http://books.google.co.uk/books?id=6xPgEAAAQBAJ&printsec=frontcover&dq=intitle:Building+a+Career+in+Cybersecurity%2Binauthor:Diogenes&hl=&cd=1&source=gbs_api
+
+Book 17 - Microsoft Azure Network Security
+https://www.amazon.com/Microsoft-Azure-Network-Security-Practices-ebook/dp/B08W41LMC4
+https://www.amazon.co.uk/Microsoft-Azure-Network-Security-Practices-ebook/dp/B08W41LMC4
+http://books.google.co.uk/books?id=uqSJzgEACAAJ&dq=intitle:Microsoft+Azure+Network+Security%2Binauthor:DiCola,+Roman&hl=&cd=1&source=gbs_api
+
+Book 18 - Securing 5G and Evolving Architectures
+https://www.amazon.com/Securing-Evolving-Architectures-Pramod-Nair/dp/0137457936
+https://www.amazon.co.uk/Securing-Evolving-Architectures-Pramod-Nair-ebook/dp/B09HK5ZGZV
+http://books.google.co.uk/books?id=utnPEAAAQBAJ&printsec=frontcover&dq=intitle:Securing+5G+and+Evolving+Architectures%2Binauthor:Nair&hl=&cd=1&source=gbs_api
+
