@@ -347,7 +347,10 @@ def google_books_api_call(books_data, debug_flag, debug_directory):
                 book['ISBN_10'] = identifiers[1].get('identifier') if len(identifiers) > 1 else None
 
                 book['Google Books']['Google Books ID'] = data['items'][0].get('id')
-                book['Google Books']['Google Books URL'] = book_info.get('previewLink')
+                if 'previewLink' in book_info:
+                    book['Google Books']['Google Books URL'] = book_info.get('previewLink')
+                else:
+                    book['Google Books']['Google Books URL'] = "No Google Books URL found."
                 
                 # Extract the price and currency code
                 price_info = data.get('items', [{}])[0].get('saleInfo', {}).get('retailPrice', {})
@@ -359,6 +362,9 @@ def google_books_api_call(books_data, debug_flag, debug_directory):
                 book['Google Books']['Google Price ebook'] = price_with_currency
             else:
                 print(f"No Google Book results found for Book {book['Index']}")
+                 # Only set the placeholder if the URL is not already set
+                if not book['Google Books'].get('Google Books URL'):
+                    book['Google Books']['Google Books URL'] = "No Google Books URL found."
 
     except Exception as e:
         print(f"Error during Google Books API call or parsing of retrieved data. Error: {e} for Book {book['Index']}\n")
@@ -841,7 +847,7 @@ def open_amazon_uk_urls(books_data):
                 webbrowser.open_new_tab(url)
                 time.sleep(0.75)
             else:
-                print(f"No Amazon.co.uk URL found for {book['Title']}.Skipping to next title.")
+                print(f"No Amazon.co.uk URL found for {book['Title']}. Skipping to next title.")
     except Exception as e:
         print(f"Error: Unable to open Amazon.co.uk book URLs - {e}")
        
@@ -856,7 +862,7 @@ def open_amazon_com_urls(books_data):
                 webbrowser.open_new_tab(url)
                 time.sleep(0.75)
             else:
-                print(f"No Amazon.com URL found for {book['Title']}.Skipping to next title.")
+                print(f"No Amazon.com URL found for {book['Title']}. Skipping to next title.")
     except Exception as e:
         print(f"Error: Unable to open Amazon.com book URLs - {e}")
 
@@ -871,7 +877,7 @@ def open_google_books_urls(books_data):
                 webbrowser.open_new_tab(url)
                 time.sleep(0.75)
             else:
-                print(f"No Google Books URL found for {book['Title']}.Skipping to next title.")
+                print(f"No Google Books URL found for {book['Title']}. Skipping to next title.")
     except Exception as e:
         print(f"Error: Unable to open Google Books URLs - {e}")
 
