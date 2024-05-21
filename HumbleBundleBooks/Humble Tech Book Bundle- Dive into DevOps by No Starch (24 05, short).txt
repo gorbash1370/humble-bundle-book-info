@@ -1,0 +1,381 @@
+Humble Tech Book Bundle- Dive into DevOps by No Starch - No Starch Press
+Processing date: 2024-05-21
+Data retrieved from: https://www.humblebundle.com/books/dive-into-dev-ops-no-starch-books
+
+Book 01 - DevOps for the Desperate - Bradley Smith - 4.4 out of 5 (62 reviews)
+Book 02 - How Linux Works, 3rd Edition - Brian Ward - 4.8 out of 5 (None found reviews)
+Book 03 - The Book of Kubernetes - Alan Hohn - 4.4 out of 5 (24 reviews)
+Book 04 - PowerShell for Sysadmins - Adam Bertram - 4.7 out of 5 (None found reviews)
+Book 05 - Practical Vulnerability Management - Andrew Magnusson - 4.6 out of 5 (62 reviews)
+Book 06 - Practical SQL, 2nd Edition - Anthony DeBarros - 4.6 out of 5 (169 reviews)
+Book 07 - Practical Linux Forensics - Bruce Nikkel - 4.8 out of 5 (51 reviews)
+Book 08 - Eloquent JavaScript, 3rd Edition - Marijn Haverbeke - 4.6 out of 5 (None found reviews)
+Book 09 - Automate the Boring Stuff with Python, 2nd Edition - Al Sweigart - None found out of 5 (None found reviews)
+Book 10 - Cybersecurity for Small Networks - Seth Enoka - 4.6 out of 5 (34 reviews)
+Book 11 - The Linux Command Line, 2nd Edition - William Shotts - 4.7 out of 5 (1852 reviews)
+Book 12 - Web Security for Developers - Malcolm McDonald - 4.5 out of 5 (104 reviews)
+Book 13 - MySQL Crash Course - Rick Silva - 4.7 out of 5 (8 reviews)
+Book 14 - Designing Secure Software - Loren Kohnfelder - 4.6 out of 5 (24 reviews)
+Book 15 - Network Programming with Go - Adam Woodbeck - 4.6 out of 5 (71 reviews)
+Book 16 - Practice of Network Security Monitoring - Richard Bejtlich - 4.7 out of 5 (126 reviews)
+Book 17 - Network Flow Analysis - Michael W. Lucas - 3.9 out of 5 (10 reviews)
+Book 18 - Absolute FreeBSD, 3rd Edition - Michael W. Lucas - 4.7 out of 5 (152 reviews)
+Book 19 - Absolute OpenBSD, 2nd Edition - Michael W. Lucas - 4.8 out of 5 (106 reviews)
+Book 20 - Linux Firewalls - Michael Rash - 4.4 out of 5 (36 reviews)
+Book 21 - Pentesting Azure Applications - Matt Burrough - 4.7 out of 5 (58 reviews)
+Book 22 - The Book of PF, 3rd Edition - Peter N.M. Hansteen - 4.3 out of 5 (19 reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: DevOps for the Desperate
+Author(s): Bradley Smith
+---
+ISBN-10: 1718502486 - ISBN-13: 9781718502482 - ASIN: B09M82VY43
+Published Date: 2022-07-12
+---
+HB Blurb: If you’re a software engineer, developer, or sys admin who needs to get up to speed with DevOps quickly, this book covers the basics you need to thrive in a modern application stack.This book’s fast-paced, hands-on examples will provide the foundation you need to start performing common DevOps tasks. You’ll explore how to implement Infrastructure as Code (IaC) and configuration management (CM)—essential practices for designing secure and stable systems. You’ll take a tour of containerization and set up an automated continuous delivery (CI/CD) pipeline that builds, tests, and deploys code. You’ll dig into how to detect a system’s state and alert on it when things go sideways.You’ll learn how to:Create and provision an Ubuntu VM with Vagrant and AnsibleManage users, groups, and password securitySet up public key and two-factor authentication over SSHAutomate and test a host-based firewallUse Docker to containerize applications and Kubernetes for orchestrationBuild a monitoring stack and troubleshoot problems and performance issuesDevOps for the Desperate is a practical, no-nonsense guide to get you up and running quickly in today’s full-stack infrastructure.
+--------------------------------------------------
+
+Book 02:
+Title: How Linux Works, 3rd Edition
+Author(s): Brian Ward
+---
+ISBN-10: 1593275676 - ISBN-13: 9781593275679 - ASIN: No ASIN found
+Published Date: 2014-11-14
+---
+HB Blurb: Unlike some operating systems, Linux doesn’t try to hide the important bits from you—it gives you full control of your computer. But to truly master Linux, you need to understand its internals, like how the system boots, how networking works, and what the kernel actually does.In this third edition of the bestselling How Linux Works, author Brian Ward peels back the layers of this well-loved operating system to make Linux internals accessible. This edition has been thoroughly updated and expanded with added coverage of Logical Volume Manager (LVM), virtualization, and containers.You’ll learn:How Linux boots, from boot loaders to init (systemd)How the kernel manages devices, device drivers, and processesHow networking, interfaces, firewalls, and servers workHow development tools work and relate to shared librariesHow to write effective shell scriptsYou’ll also explore the kernel and examine key system tasks inside user-space processes, including system calls, input and output, and filesystem maintenance. With its combination of background, theory, real-world examples, and thorough explanations, How Linux Works, 3rd Edition will teach you what you need to know to take control of your operating system.NEW TO THIS EDITION:Hands-on coverage of the LVM, journald logging system, and IPv6Additional chapter on virtualization, featuring containers and cgroupsExpanded discussion of systemdCovers systemd-based installations
+--------------------------------------------------
+
+Book 03:
+Title: The Book of Kubernetes
+Author(s): Alan Hohn
+---
+ISBN-10: 1718502648 - ISBN-13: 9781718502642 - ASIN: B09WJYZKHN
+Published Date: 2022-09-06
+---
+HB Blurb: Containers ensure that software runs reliably no matter where it’s deployed, and Kubernetes is the open-source platform that lets you manage all of your containers from a single control plane. In this comprehensive tour of Kubernetes, each chapter includes a set of examples with just enough automation to start your container exploration with ease.The book begins with an overview of modern application architecture and the benefits of and requirements for containers and orchestration. It describes Linux control groups, process isolation, and network namespaces, and how to build container images. You’ll then create containers, deploy and administer a Kubernetes cluster, and learn how to debug Kubernetes all the way down to the operating system and the network. You'll gain a deep understanding of containerization and Kubernetes, as well as how container networking works at the packet level across multiple nodes in a cluster. Along the way, you’ll learn:How containers make applications more reliable and easier to maintainHow to build a Kubernetes cluster and use it to run containerized applicationsWhy container networking is so important and how it works in detailHow to keep applications running well, and how to debug when things go wrongHow to keep a cluster secure with authentication and role-based access controls
+--------------------------------------------------
+
+Book 04:
+Title: PowerShell for Sysadmins
+Author(s): Adam Bertram
+---
+ISBN-10: 1593279183 - ISBN-13: 9781593279189 - ASIN: B07D23FRC8
+Published Date: 2020-02-04
+---
+HB Blurb: PowerShell® is both a scripting language and an administrative shell that lets you control and automate nearly every aspect of IT. In PowerShell for Sysadmins, five-time Microsoft® MVP “Adam the Automator” Bertram shows you how to use PowerShell to manage and automate your desktop and server environments so that you can head out for an early lunch.You’ll learn how to:Combine commands, control flow, handle errors, write scripts, run scripts remotely, and test scripts with the PowerShell testing framework, PesterParse structured data like XML and JSON, work with common domains (like Active Directory, Azure, and Amazon Web Services), and create a real-world server inventory scriptDesign and build a PowerShell module to demonstrate PowerShell isn’t just about ad-hoc scriptsUse PowerShell to create a hands-off, completely automated Windows deploymentBuild an entire Active Directory forest from nothing but a Hyper-V host and a few ISO filesCreate endless Web and SQL servers with just a few lines of code!Real-world examples throughout help bridge the gap between theory and actual system, and the author’s anecdotes keep things lively.Stop with the expensive software and fancy consultants. Learn how to manage your own environment with PowerShell for Sysadmins and make everyone happy.Covers Windows PowerShell v5.1
+--------------------------------------------------
+
+Book 05:
+Title: Practical Vulnerability Management
+Author(s): Andrew Magnusson
+---
+ISBN-10: 1593279884 - ISBN-13: 9781593279882 - ASIN: B07VG4JPPQ
+Published Date: 2020-10-06
+---
+HB Blurb: Bugs: they’re everywhere. Software, firmware, hardware—they all have them. Bugs even live in the cloud. And when one of these bugs is leveraged to wreak havoc or steal sensitive information, a company’s prized technology assets suddenly become serious liabilities.Fortunately, exploitable security weaknesses are entirely preventable; you just have to find them before the bad guys do. Practical Vulnerability Management will help you achieve this goal on a budget, with a proactive process for detecting bugs and squashing the threat they pose.The book starts by introducing the practice of vulnerability management, its tools and components, and detailing the ways it improves an enterprise’s overall security posture. Then it’s time to get your hands dirty! As the content shifts from conceptual to practical, you’re guided through creating a vulnerability-management system from the ground up, using open-source software.Along the way, you’ll learn how to:Generate accurate and usable vulnerability intelligenceScan your networked systems to identify and assess bugs and vulnerabilitiesPrioritize and respond to various security risksAutomate scans, data analysis, reporting, and other repetitive tasksCustomize the provided scripts to adapt them to your own needsPlaying whack-a-bug won’t cut it against today’s advanced adversaries. Use this book to set up, maintain, and enhance an effective vulnerability management system, and ensure your organization is always a step ahead of hacks and attacks.
+--------------------------------------------------
+
+Book 06:
+Title: Practical SQL, 2nd Edition
+Author(s): Anthony DeBarros
+---
+ISBN-10: 1718501064 - ISBN-13: 9781718501065 - ASIN: B08K7LJRQX
+Published Date: 2022-01-25
+---
+HB Blurb: Practical SQL is an approachable and fast-paced guide to SQL (Structured Query Language), the standard programming language for defining, organizing, and exploring data in relational databases. Anthony DeBarros, a journalist and data analyst, focuses on using SQL to find the story within your data. The examples and code use the open-source database PostgreSQL and its companion pgAdmin interface, and the concepts you learn will apply to most database management systems, including MySQL, Oracle, SQLite, and others.*You’ll first cover the fundamentals of databases and the SQL language, then build skills by analyzing data from real-world datasets such as US Census demographics, New York City taxi rides, and earthquakes from US Geological Survey. Each chapter includes exercises and examples that teach even those who have never programmed before all the tools necessary to build powerful databases and access information quickly and efficiently.You’ll learn how to:Create databases and related tables using your own dataAggregate, sort, and filter data to find patternsUse functions for basic math and advanced statistical operationsIdentify errors in data and clean them upAnalyze spatial data with a geographic information system (PostGIS)Create advanced queries and automate tasksThis updated second edition has been thoroughly revised to reflect the latest in SQL features, including additional advanced query techniques for wrangling data. This edition also has two new chapters: an expanded set of instructions for setting up your system plus a chapter on using PostgreSQL with the popular JSON data interchange format.Learning SQL doesn’t have to be dry and complicated. Practical SQL delivers clear examples with an easy-to-follow approach to teach you the tools you need to build and manage your own databases.*Microsoft SQL Server employs a variant of the language called T-SQL, which is not covered by Practical SQL.
+--------------------------------------------------
+
+Book 07:
+Title: Practical Linux Forensics
+Author(s): Bruce Nikkel
+---
+ISBN-10: 1718501978 - ISBN-13: 9781718501973 - ASIN: B096Z4CRC8
+Published Date: 2021-12-21
+---
+HB Blurb: Practical Linux Forensics dives into the technical details of analyzing postmortem forensic images of Linux systems that have been misused, abused, or the target of malicious attacks. This essential practitioner’s guide will show you how to locate and interpret digital evidence found on Linux desktops, servers, and IoT devices, draw logical conclusions, and reconstruct timelines of past activity after a crime or security incident. It’s a book written for investigators with varying levels of Linux experience, and the techniques shown are independent of the forensic analysis platform and tools used.Early chapters provide an overview of digital forensics as well as an introduction to the Linux operating system and popular distributions. From there, the book describes the analysis of storage, filesystems, files and directories, installed software packages, and logs. Special focus is given to examining human user activity such as logins, desktop environments and artifacts, home directories, regional settings, and peripheral devices used.You’ll learn how to:Analyze partition tables, volume management, Linux filesystems, and directory layoutReconstruct the Linux startup process, from system boot and kernel initialization, to systemd unit files leading up to a graphical loginPerform historical analysis of power, temperature, and physical environment, and find evidence of sleep, hibernation, shutdowns, reboots, and crashesAnalyze network configuration, including interfaces, addresses, network managers, DNS, wireless artifacts, VPNs, firewalls, and proxy settingsPerform analysis of time and locale settings, internationalization (language and keyboard settings), and Linux geolocation servicesReconstruct user login sessions, analyze desktop artifacts, and identify traces of attached peripheral devices, including disks, printers, and mobile devices
+--------------------------------------------------
+
+Book 08:
+Title: Eloquent JavaScript, 3rd Edition
+Author(s): Marijn Haverbeke
+---
+ISBN-10: 1593279515 - ISBN-13: 9781593279516 - ASIN: 1593279507
+Published Date: 2018-12-04
+---
+HB Blurb: JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications.This much anticipated and thoroughly revised third edition of Eloquent JavaScript dives deep into the JavaScript language to show you how to write beautiful, effective code. It has been updated to reflect the current state of JavaScript and web browsers and includes brand-new material on features like class notation, arrow functions, iterators, async functions, template strings, and block scope. A host of new exercises have also been added to test your skills and keep you on track.As with previous editions, Haverbeke continues to teach through extensive examples and immerses you in code from the start, while exercises and full-chapter projects give you hands-on experience with writing your own programs. You start by learning the basic structure of the JavaScript language as well as control structures, functions, and data structures to help you write basic programs. Then you'll learn about error handling and bug fixing, modularity, and asynchronous programming before moving on to web browsers and how JavaScript is used to program them. As you build projects such as an artificial life simulation, a simple programming language, and a paint program, you'll learn how to:Understand the essential elements of programming, including syntax, control, and dataOrganize and clarify your code with object-oriented and functional programming techniquesScript the browser and make basic web applicationsUse the DOM effectively to interact with browsersHarness Node.js to build servers and utilitiesIsn't it time you became fluent in the language of the Web?
+--------------------------------------------------
+
+Book 09:
+Title: Automate the Boring Stuff with Python, 2nd Edition
+Author(s): Al Sweigart
+---
+ISBN-10: 1593279922 - ISBN-13: 9781593279929 - ASIN: B07VSXS4NK
+Published Date: 2019-11-12
+---
+HB Blurb: If you’ve ever spent hours renaming files or updating hundreds of spreadsheet cells, you know how tedious tasks like these can be. But what if you could have your computer do them for you?In this fully revised second edition of the best-selling classic Automate the Boring Stuff with Python, you’ll learn how to use Python to write programs that do in minutes what would take you hours to do by hand—no prior programming experience required. You'll learn the basics of Python and explore Python’s rich library of modules for performing specific tasks, like scraping data off websites, reading PDF and Word documents, and automating clicking and typing tasks.The second edition of this international fan favorite includes a brand-new chapter on input validation, as well as tutorials on automating Gmail and Google Sheets, plus tips on automatically updating CSV files. You’ll learn how to create programs that effortlessly perform useful feats of automation to:• Search for text in a file or across multiple files• Create, update, move, and rename files and folders• Search the Web and download online content• Update and format data in Excel spreadsheets of any size• Split, merge, watermark, and encrypt PDFs• Send email responses and text notifications• Fill out online formsStep-by-step instructions walk you through each program, and updated practice projects at the end of each chapter challenge you to improve those programs and use your newfound skills to automate similar tasks.Don't spend your time doing work a well-trained monkey could do. Even if you've never written a line of code, you can make your computer do the grunt work. Learn how in Automate the Boring Stuff with Python, 2nd Edition.Author: Al Sweigart
+--------------------------------------------------
+
+Book 10:
+Title: Cybersecurity for Small Networks
+Author(s): Seth Enoka
+---
+ISBN-10: 1718501498 - ISBN-13: 9781718501492 - ASIN: B08Y5JWY3S
+Published Date: 2022-12-06
+---
+HB Blurb: Cybersecurity for Small Networks is a straightforward guide to improving network security whether you’re running Linux, Windows, or macOS.As you work through the book’s projects, you’ll learn core hardening techniques like how to map a network, track the status of devices, and recognize unusual activity that might signal an attack. You’ll explore ways to eliminate vulnerabilities and prevent unwanted access to mobile, desktop, or even IoT endpoints. You’ll also learn how to implement custom back-up strategies and how to detect, prevent, and mitigate malware or ransomware attacks.On the still more technical side, you will:Use and configure firewalls like pfSense and iptables to filter network trafficCreate a network segmentation plan to separate devices by risk, manage user access, and configure wireless authenticationDeploy OpenVPN or Wireguard network-wide to encrypt and protect network communicationUse a Squid proxy to obfuscate personal or business data and control web trafficImplement a traffic access point (TAP) to capture and analyze network traffic, and build a Security Onion monitoring appliance to alert you to suspicious activityNo matter your level of experience, Cybersecurity for Small Networks will arm you with the tools and knowledge you need to lock down your network, and defend and recover from attacks.
+--------------------------------------------------
+
+Book 11:
+Title: The Linux Command Line, 2nd Edition
+Author(s): William Shotts
+---
+ISBN-10: 1593279523 - ISBN-13: 9781593279523 - ASIN: B07J43H42Z
+Published Date: 2019-03-07
+---
+HB Blurb: The Linux Command Line takes you from your very first terminal keystrokes to writing full programs in Bash, the most popular Linux shell (or command line). Along the way you’ll learn the timeless skills handed down by generations of experienced, mouse-shunning gurus: file navigation, environment configuration, command chaining, pattern matching with regular expressions, and more.In addition to that practical knowledge, author William Shotts reveals the philosophy behind these tools and the rich heritage that your desktop Linux machine has inherited from Unix supercomputers of yore.As you make your way through the book’s short, easily-digestible chapters, you’ll learn how to:Create and delete files, directories, and symlinksAdminister your system, including networking, package installation, and process managementUse standard input and output, redirection, and pipelinesEdit files with Vi, the world’s most popular text editorWrite shell scripts to automate common or boring tasksSlice and dice text files with cut, paste, grep, patch, and sedOnce you overcome your initial "shell shock," you’ll find that the command line is a natural and expressive way to communicate with your computer. Just don’t be surprised if your mouse starts to gather dust.
+--------------------------------------------------
+
+Book 12:
+Title: Web Security for Developers
+Author(s): Malcolm McDonald
+---
+ISBN-10: 1593279957 - ISBN-13: 9781593279950 - ASIN: B07V78WH7V
+Published Date: 2020-06-30
+---
+HB Blurb: The world has changed. Today, every time you make a site live, you’re opening it up to attack.A first-time developer can easily be discouraged by the difficulties involved with properly securing a website. But have hope: an army of security researchers is out there discovering, documenting, and fixing security flaws. Thankfully, the tools you’ll need to secure your site are freely available and generally easy to use.Web Security for Developers will teach you how your websites are vulnerable to attack and how to protect them. Each chapter breaks down a major security vulnerability and explores a real-world attack, coupled with plenty of code to show you both the vulnerability and the fix.You’ll learn how to:Protect against SQL injection attacks, malicious JavaScript, and cross-site request forgeryAdd authentication and shape access control to protect accountsLock down user accounts to prevent attacks that rely on guessing passwords, stealing sessions, or escalating privilegesImplement encryptionManage vulnerabilities in legacy codePrevent information leaks that disclose vulnerabilitiesMitigate advanced attacks like malvertising and denial-of-serviceAs you get stronger at identifying and fixing vulnerabilities, you’ll learn to deploy disciplined, secure code and become a better programmer along the way.
+--------------------------------------------------
+
+Book 13:
+Title: MySQL Crash Course
+Author(s): Rick Silva
+---
+ISBN-10: 1718503016 - ISBN-13: 9781718503014 - ASIN: B09WJXT97Y
+Published Date: 2023-05-23
+---
+HB Blurb: MySQL Crash Course is a fast-paced, no-nonsense introduction to relational database development. It’s filled with practical examples and expert advice that will have you up and running quickly.You’ll learn the basics of SQL, how to create a database, craft SQL queries to extract data, and work with events, procedures, and functions. You’ll see how to add constraints to tables to enforce rules about permitted data and use indexes to accelerate data retrieval. You’ll even explore how to call MySQL from PHP, Python, and Java.Three final projects will show you how to build a weather database from scratch, use triggers to prevent errors in an election database, and use views to protect sensitive data in a salary database.You’ll also learn how to:Query database tables for specific information, order the results, comment SQL code, and deal with null valuesDefine table columns to hold strings, integers, and dates, and determine what data types to useJoin multiple database tables as well as use temporary tables, common table expressions, derived tables, and subqueriesAdd, change, and remove data from tables, create views based on specific queries, write reusable stored routines, and automate and schedule eventsThe perfect quick-start resource for database developers, MySQL Crash Course will arm you with the tools you need to build and manage fast, powerful, and secure MySQL-based data storage systems.
+--------------------------------------------------
+
+Book 14:
+Title: Designing Secure Software
+Author(s): Loren Kohnfelder
+---
+ISBN-10: 1718501935 - ISBN-13: 9781718501935 - ASIN: B098DLC7BR
+Published Date: 2021-12-21
+---
+HB Blurb: Designing Secure Software consolidates Loren Kohnfelder’s more than twenty years of experience into a concise, elegant guide to improving the security of technology products. Written for a wide range of software professionals, it emphasizes building security into software design early and involving the entire team in the process.The book begins with a discussion of core concepts like trust, threats, mitigation, secure design patterns, and cryptography. The second part, perhaps this book’s most unique and important contribution to the field, covers the process of designing and reviewing a software design with security considerations in mind. The final section details the most common coding flaws that create vulnerabilities, making copious use of code snippets written in C and Python to illustrate implementation vulnerabilities.You’ll learn how to:Identify important assets, the attack surface, and the trust boundaries in a systemEvaluate the effectiveness of various threat mitigation candidatesWork with well-known secure coding patterns and librariesUnderstand and prevent vulnerabilities like XSS and CSRF, memory flaws, and moreUse security testing to proactively identify vulnerabilities introduced into codeReview a software design for security flaws effectively and without judgment
+--------------------------------------------------
+
+Book 15:
+Title: Network Programming with Go
+Author(s): Adam Woodbeck
+---
+ISBN-10: 1718500882 - ISBN-13: 9781718500884 - ASIN: B085BVTB5M
+Published Date: 2021-03-25
+---
+HB Blurb: Combining the best parts of many other programming languages, Go is fast, scalable, and designed for high-performance networking and multiprocessing. In other words, it’s perfect for network programming.Network Programming with Go will help you leverage Go to write secure, readable, production-ready network code. In the early chapters, you’ll learn the basics of networking and traffic routing. Then you’ll put that knowledge to use as the book guides you through writing programs that communicate using TCP, UDP, and Unix sockets to ensure reliable data transmission.As you progress, you’ll explore higher-level network protocols like HTTP and HTTP/2 and build applications that securely interact with servers, clients, and APIs over a network using TLS.You’ll also learn:Internet Protocol basics, such as the structure of IPv4 and IPv6, multicasting, DNS, and network address translationMethods of ensuring reliability in socket-level communicationsWays to use handlers, middleware, and multiplexers to build capable HTTP applications with minimal codeTools for incorporating authentication and encryption into your applications using TLSMethods to serialize data for storage or transmission in Go-friendly formats like JSON, Gob, XML, and protocol buffersWays of instrumenting your code to provide metrics about requests, errors, and moreApproaches for setting up your application to run in the cloud (and reasons why you might want to)Network Programming with Go is all you’ll need to take advantage of Go’s built-in concurrency, rapid compiling, and rich standard library.Covers Go 1.15 (Backward compatible with Go 1.12 and higher)
+--------------------------------------------------
+
+Book 16:
+Title: Practice of Network Security Monitoring
+Author(s): Richard Bejtlich
+---
+ISBN-10: 1593275099 - ISBN-13: 9781593275099 - ASIN: B00E5REN34
+Published Date: 2013-07-15
+---
+HB Blurb: Network security is not simply about building impenetrable walls—determined attackers will eventually overcome traditional defenses. The most effective computer security strategies integrate network security monitoring (NSM): the collection and analysis of data to help you detect and respond to intrusions.In The Practice of Network Security Monitoring, Mandiant CSO Richard Bejtlich shows you how to use NSM to add a robust layer of protection around your networks—no prior experience required. To help you avoid costly and inflexible solutions, he teaches you how to deploy, build, and run an NSM operation using open source software and vendor-neutral tools.You’ll learn how to:Determine where to deploy NSM platforms, and size them for the monitored networksDeploy stand-alone or distributed NSM installationsUse command line and graphical packet analysis tools, and NSM consolesInterpret network evidence from server-side and client-side intrusionsIntegrate threat intelligence into NSM software to identify sophisticated adversariesThere’s no foolproof way to keep attackers out of your network. But when they get in, you’ll be prepared. The Practice of Network Security Monitoring will show you how to build a security net to detect, contain, and control them. Attacks are inevitable, but losing sensitive data shouldn’t be.
+--------------------------------------------------
+
+Book 17:
+Title: Network Flow Analysis
+Author(s): Michael W. Lucas
+---
+ISBN-10: 1593272030 - ISBN-13: 9781593272036 - ASIN: B003VTZXDG
+Published Date: 2010
+---
+HB Blurb: You know that servers have log files and performance measuring tools and that traditional network devices have LEDs that blink when a port does something. You may have tools that tell you how busy an interface is, but mostly a network device is a black box.Network Flow Analysis opens that black box, demonstrating how to use industry-standard software and your existing hardware to assess, analyze, and debug your network.
+Unlike packet sniffers that require you to reproduce network problems in order to analyze them, flow analysis lets you turn back time as you analyze your network. You’ll learn how to use open source software to build a flow-based network awareness system and how to use network analysis and auditing to address problems and improve network reliability. You’ll also learn how to use a flow analysis system; collect flow records; view, filter, and report flows; present flow records graphically; and use flow records to proactively improve your network. Network Flow Analysis will show you how to:
+
+Identify network, server, router, and firewall problems before they become critical
+Find defective and misconfigured software
+Quickly find virus-spewing machines, even if they’re on a different continent
+Determine whether your problem stems from the network or a server
+Automatically graph the most useful data
+
+And much more. Stop asking your users to reproduce problems. Network Flow Analysis gives you the tools and real-world examples you need to effectively analyze your network flow data. Now you can determine what the network problem is long before your customers report it, and you can make that silly phone stop ringing.
+--------------------------------------------------
+
+Book 18:
+Title: Absolute FreeBSD, 3rd Edition
+Author(s): Michael W. Lucas
+---
+ISBN-10: 1593278926 - ISBN-13: 9781593278922 - ASIN: B0776JKXNR
+Published Date: 2018-10-05
+---
+HB Blurb: FreeBSD is the muscle behind companies like Netflix and EMC. Any place where someone does heavy lifting on the Internet, you’ll find FreeBSD. This newly revised edition of Absolute FreeBSD brings FreeBSD’s strengths to bear on your problems and covers FreeBSD's newest features, all in the inimitable style that has made author Michael W. Lucas' system administration books so popular.
+Any computer system is only as good as the system administrator’s knowledge. Absolute FreeBSD teaches you everything you need to know about managing FreeBSD systems, from installation, configuration, and taking the system from “just working” to “working well.” A cohesive focus on service delivery and best practice means that you can apply much of the book to other operating systems.
+Absolute FreeBSD dives deep into server management, taking you beyond just making things work and into understanding why they work.
+You’ll learn:
+• How to best install FreeBSD to meet your needs • Which filesystem to use in your environment • How to back up and restore critical data • How to tweak the kernel, and when not to • Network configuration, from activating interfaces to selecting congestion control algorithms • How to manage UFS, ZFS, and other critical filesystems • FreeBSD’s software packaging system, including how to build your own package repository • How and when to upgrade • Techniques to build your own FreeBSD • Advanced security features like blacklistd and packet filtering • How to monitor and adjust performance • Container-style virtualization with jails • Diskless systems • Panic management and bug reporting
+With Absolute FreeBSD you will get the solid introduction you need; and if you're a fan of the earlier editions, you will expand your skills even further.
+Notes:
+
+Reflowable
+--------------------------------------------------
+
+Book 19:
+Title: Absolute OpenBSD, 2nd Edition
+Author(s): Michael W. Lucas
+---
+ISBN-10: 1593274769 - ISBN-13: 9781593274764 - ASIN: B00CH96VB4
+Published Date: 2013-04-15
+---
+HB Blurb: OpenBSD, the elegant, highly secure Unix-like operating system, is widely used as the basis for critical DNS servers, routers, firewalls, and more. This long-awaited second edition ofAbsolute OpenBSD maintains author Michael Lucas’s trademark straightforward and practical approach that readers have enjoyed for years. You’ll learn the intricacies of the platform, the technical details behind certain design decisions, and best practices, with bits of humor sprinkled throughout. This edition has been completely updated for OpenBSD 5.3, including new coverage of OpenBSD’s boot system, security features like W^X and ProPolice, and advanced networking techniques.You’ll learn how to:Manage network traffic with VLANs, trunks, IPv6, and the PF packet filterMake software management quick and effective using the ports and packages systemGive users only the access they need with groups, sudo, and chrootsConfigure OpenBSD’s secure implementations of SNMP, DHCP, NTP, hardware sensors, and moreCustomize the installation and upgrade processes for your network and hardware, or build a custom OpenBSD releaseWhether you’re a new user looking for a complete introduction to OpenBSD or an experienced sysadmin looking for a refresher, Absolute OpenBSD, 2nd Edition will give you everything you need to master the intricacies of the world’s most secure operating system.
+--------------------------------------------------
+
+Book 20:
+Title: Linux Firewalls
+Author(s): Michael Rash
+---
+ISBN-10: 1593271417 - ISBN-13: 9781593271411 - ASIN: B002N3M6S6
+Published Date: 2007-09-07
+---
+HB Blurb: System administrators need to stay ahead of new security vulnerabilities that leave their networks exposed every day. A firewall and an intrusion detection systems (IDS) are two important weapons in that fight, enabling you to proactively deny access and monitor network traffic for signs of an attack.Linux Firewalls discusses the technical details of the iptables firewall and the Netfilter framework that are built into the Linux kernel, and it explains how they provide strong filtering, Network Address Translation (NAT), state tracking, and application layer inspection capabilities that rival many commercial tools. You’ll learn how to deploy iptables as an IDS with psad and fwsnort and how to build a strong, passive authentication layer around iptables with fwknop.Concrete examples illustrate concepts such as firewall log analysis and policies, passive network authentication and authorization, exploit packet traces, Snort ruleset emulation, and more with coverage of these topics:Passive network authentication and OS fingerprintingiptables log analysis and policiesApplication layer attack detection with the iptables string match extensionBuilding an iptables ruleset that emulates a Snort rulesetPort knocking vs. Single Packet Authorization (SPA)Tools for visualizing iptables logsPerl and C code snippets offer practical examples that will help you to maximize your deployment of Linux firewalls. If you’re responsible for keeping a network secure, you’ll find Linux Firewalls invaluable in your attempt to understand attacks and use iptables—along with psad and fwsnort—to detect and even prevent compromises.
+--------------------------------------------------
+
+Book 21:
+Title: Pentesting Azure Applications
+Author(s): Matt Burrough
+---
+ISBN-10: 1593278640 - ISBN-13: 9781593278649 - ASIN: 1593278632
+Published Date: 2018-07-24
+---
+HB Blurb: Pentesting Azure Applications is a comprehensive guide to penetration testing cloud services deployed in Microsoft Azure, the popular cloud computing service provider used by numerous companies. You’ll start by learning how to approach a cloud-focused penetration test and how to obtain the proper permissions to execute it; then, you’ll learn to perform reconnaissance on an Azure subscription, gain access to Azure Storage accounts, and dig into Azure’s Infrastructure as a Service (IaaS).You’ll also learn how to:Uncover weaknesses in virtual machine settings that enable you to acquire passwords, binaries, code, and settings filesUse PowerShell commands to find IP addresses, administrative users, and resource detailsFind security issues related to multi-factor authentication and management certificatesPenetrate networks by enumerating firewall rulesInvestigate specialized services like Azure Key Vault, Azure Web Apps, and Azure AutomationView logs and security events to find out when you’ve been caughtPacked with sample pentesting scripts, practical advice for completing security assessments, and tips that explain how companies can configure Azure to foil common attacks, Pentesting Azure Applications is a clear overview of how to effectively perform cloud-focused security tests and provide accurate findings and recommendations.
+--------------------------------------------------
+
+Book 22:
+Title: The Book of PF, 3rd Edition
+Author(s): Peter N.M. Hansteen
+---
+ISBN-10: 1593276214 - ISBN-13: 9781593276218 - ASIN: B00O9A7E88
+Published Date: 2014-10-03
+---
+HB Blurb: OpenBSD’s stateful packet filter, PF, is the heart of the OpenBSD firewall. With more and more services placing high demands on bandwidth and an increasingly hostile Internet environment, no sysadmin can afford to be without PF expertise.The third edition of The Book of PF covers the most up-to-date developments in PF, including new content on IPv6, dual stack configurations, the “queues and priorities” traffic-shaping system, NAT and redirection, wireless networking, spam fighting, failover provisioning, logging, and more.You’ll also learn how to:Create rule sets for all kinds of network traffic, whether crossing a simple LAN, hiding behind NAT, traversing DMZs, or spanning bridges or wider networksSet up wireless networks with access points, and lock them down using authpf and special access restrictionsMaximize flexibility and service availability via CARP, relayd, and redirectionBuild adaptive firewalls to proactively defend against attackers and spammersHarness OpenBSD’s latest traffic-shaping system to keep your network responsive, and convert your existing ALTQ configurations to the new systemStay in control of your traffic with monitoring and visualization tools (including NetFlow)The Book of PF is the essential guide to building a secure network with PF. With a little effort and this book, you’ll be well prepared to unlock PF’s full potential.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - DevOps for the Desperate
+https://www.amazon.com/DevOps-Desperate-Hands-Survival-Guide-ebook/dp/B09M82VY43
+https://www.amazon.co.uk/DevOps-Desperate-Hands-Survival-Guide-ebook/dp/B09M82VY43
+http://books.google.co.uk/books?id=T9RcEAAAQBAJ&printsec=frontcover&dq=intitle:DevOps+for+the+Desperate%2Binauthor:Bradley+Smith&hl=&cd=1&source=gbs_api
+
+Book 02 - How Linux Works, 3rd Edition
+https://www.amazon.com/How-Linux-Works-Brian-Ward-ebook/product-reviews/B07X7S1JMB
+https://www.amazon.co.uk/How-Linux-Works-Brian-Ward-ebook/dp/B07X7S1JMB
+http://books.google.co.uk/books?id=fP5WBQAAQBAJ&printsec=frontcover&dq=intitle:How+Linux+Works,+3rd+Edition%2Binauthor:Brian+Ward&hl=&cd=1&source=gbs_api
+
+Book 03 - The Book of Kubernetes
+https://www.amazon.com/Book-Kubernetes-Comprehensive-Container-Orchestration-ebook/dp/B09WJYZKHN
+https://www.amazon.co.uk/Book-Kubernetes-Comprehensive-Container-Orchestration-ebook/dp/B09WJYZKHN
+http://books.google.co.uk/books?id=ry1mEAAAQBAJ&printsec=frontcover&dq=intitle:The+Book+of+Kubernetes%2Binauthor:Alan+Hohn&hl=&cd=1&source=gbs_api
+
+Book 04 - PowerShell for Sysadmins
+https://www.amazon.com/Automate-Boring-Stuff-PowerShell-Sysadmins-ebook/dp/B07D23FRC8
+https://www.amazon.co.uk/Automate-Boring-Stuff-PowerShell-Sysadmins-ebook/dp/B07D23FRC8
+http://books.google.co.uk/books?id=YVv6DwAAQBAJ&printsec=frontcover&dq=intitle:PowerShell+for+Sysadmins%2Binauthor:Adam+Bertram&hl=&cd=1&source=gbs_api
+
+Book 05 - Practical Vulnerability Management
+https://www.amazon.com/Practical-Vulnerability-Management-Andrew-Magnusson-ebook/dp/B07VG4JPPQ
+https://www.amazon.co.uk/Practical-Vulnerability-Management-Andrew-Magnusson-ebook/dp/B07VG4JPPQ
+http://books.google.co.uk/books?id=c1v6DwAAQBAJ&printsec=frontcover&dq=intitle:Practical+Vulnerability+Management%2Binauthor:Andrew+Magnusson&hl=&cd=1&source=gbs_api
+
+Book 06 - Practical SQL, 2nd Edition
+https://www.amazon.com/Practical-SQL-2nd-Beginners-Storytelling-ebook/dp/B08K7LJRQX
+https://www.amazon.co.uk/Practical-SQL-2nd-Beginners-Storytelling-ebook/dp/B08K7LJRQX
+http://books.google.co.uk/books?id=4xVOEAAAQBAJ&printsec=frontcover&dq=intitle:Practical+SQL,+2nd+Edition%2Binauthor:Anthony+DeBarros&hl=&cd=1&source=gbs_api
+
+Book 07 - Practical Linux Forensics
+https://www.amazon.com/Practical-Linux-Forensics-Digital-Investigators-ebook/dp/B096Z4CRC8
+https://www.amazon.co.uk/Practical-Linux-Forensics-Digital-Investigators-ebook/dp/B096Z4CRC8
+http://books.google.co.uk/books?id=w3EyEAAAQBAJ&printsec=frontcover&dq=intitle:Practical+Linux+Forensics%2Binauthor:Bruce+Nikkel&hl=&cd=1&source=gbs_api
+
+Book 08 - Eloquent JavaScript, 3rd Edition
+https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507
+https://www.amazon.co.uk/Eloquent-JavaScript-3rd-Introduction-Programming-ebook/dp/B07C96Q217
+http://books.google.co.uk/books?id=FSVTDwAAQBAJ&printsec=frontcover&dq=intitle:Eloquent+JavaScript,+3rd+Edition%2Binauthor:Marijn+Haverbeke&hl=&cd=1&source=gbs_api
+
+Book 09 - Automate the Boring Stuff with Python, 2nd Edition
+No Amazon.com URL found
+https://www.amazon.co.uk/Automate-Boring-Stuff-Python-2nd-ebook/dp/B07VSXS4NK
+http://books.google.co.uk/books?id=TVz6DwAAQBAJ&printsec=frontcover&dq=intitle:Automate+the+Boring+Stuff+with+Python,+2nd+Edition%2Binauthor:Al+Sweigart&hl=&cd=1&source=gbs_api
+
+Book 10 - Cybersecurity for Small Networks
+https://www.amazon.com/Securing-Small-Networks-Seth-Enoka-ebook/dp/B08Y5JWY3S
+https://www.amazon.co.uk/Securing-Small-Networks-Seth-Enoka-ebook/dp/B08Y5JWY3S
+http://books.google.co.uk/books?id=3WlsEAAAQBAJ&printsec=frontcover&dq=intitle:Cybersecurity+for+Small+Networks%2Binauthor:Seth+Enoka&hl=&cd=1&source=gbs_api
+
+Book 11 - The Linux Command Line, 2nd Edition
+https://www.amazon.com/Linux-Command-Line-2nd-Introduction-ebook/dp/B07J43H42Z
+https://www.amazon.co.uk/Linux-Command-Line-2nd-Introduction-ebook/dp/B07J43H42Z
+http://books.google.co.uk/books?id=oVv6DwAAQBAJ&printsec=frontcover&dq=intitle:The+Linux+Command+Line,+2nd+Edition%2Binauthor:William+Shotts&hl=&cd=1&source=gbs_api
+
+Book 12 - Web Security for Developers
+https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V
+https://www.amazon.co.uk/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V
+http://books.google.co.uk/books?id=l8XdDwAAQBAJ&printsec=frontcover&dq=intitle:Web+Security+for+Developers%2Binauthor:Malcolm+McDonald&hl=&cd=1&source=gbs_api
+
+Book 13 - MySQL Crash Course
+https://www.amazon.com/MySQL-Crash-Course-Hands-Introduction-ebook/dp/B09WJXT97Y
+https://www.amazon.co.uk/MySQL-Crash-Course-Hands-Introduction-ebook/dp/B09WJXT97Y
+http://books.google.co.uk/books?id=zWN0EAAAQBAJ&printsec=frontcover&dq=intitle:MySQL+Crash+Course%2Binauthor:Rick+Silva&hl=&cd=1&source=gbs_api
+
+Book 14 - Designing Secure Software
+https://www.amazon.com/Designing-Secure-Software-Guide-Developers-ebook/dp/B098DLC7BR
+https://www.amazon.co.uk/Designing-Secure-Software-Guide-Developers-ebook/dp/B098DLC7BR
+http://books.google.co.uk/books?id=b1g-EAAAQBAJ&printsec=frontcover&dq=intitle:Designing+Secure+Software%2Binauthor:Loren+Kohnfelder&hl=&cd=1&source=gbs_api
+
+Book 15 - Network Programming with Go
+https://www.amazon.com/Network-Programming-Go-Adam-Woodbeck-ebook/dp/B085BVTB5M
+https://www.amazon.co.uk/Network-Programming-Go-Adam-Woodbeck-ebook/dp/B085BVTB5M
+http://books.google.co.uk/books?id=MvAgEAAAQBAJ&printsec=frontcover&dq=intitle:Network+Programming+with+Go%2Binauthor:Adam+Woodbeck&hl=&cd=1&source=gbs_api
+
+Book 16 - Practice of Network Security Monitoring
+https://www.amazon.com/Practice-Network-Security-Monitoring-Understanding-ebook/dp/B00E5REN34
+https://www.amazon.co.uk/Practice-Network-Security-Monitoring-Understanding-ebook/dp/B00E5REN34
+http://books.google.co.uk/books?id=QdLclhJhQecC&printsec=frontcover&dq=intitle:Practice+of+Network+Security+Monitoring%2Binauthor:Richard+Bejtlich&hl=&cd=1&source=gbs_api
+
+Book 17 - Network Flow Analysis
+https://www.amazon.com/Network-Flow-Analysis-Michael-Lucas-ebook/dp/B003VTZXDG
+https://www.amazon.co.uk/Network-Analysis-Lucas-Michael-Paperback/dp/B00ZY8HRGI
+http://books.google.co.uk/books?id=5MDucc0LwiUC&printsec=frontcover&dq=intitle:Network+Flow+Analysis%2Binauthor:Michael+W.+Lucas&hl=&cd=1&source=gbs_api
+
+Book 18 - Absolute FreeBSD, 3rd Edition
+https://www.amazon.com/Absolute-FreeBSD-3rd-Complete-Guide-ebook/dp/B0776JKXNR
+https://www.amazon.co.uk/Absolute-FreeBSD-3rd-Complete-Guide-ebook/dp/B0776JKXNR
+http://books.google.co.uk/books?id=9Vv6DwAAQBAJ&printsec=frontcover&dq=intitle:Absolute+FreeBSD,+3rd+Edition%2Binauthor:Michael+W.+Lucas&hl=&cd=1&source=gbs_api
+
+Book 19 - Absolute OpenBSD, 2nd Edition
+https://www.amazon.com/Absolute-OpenBSD-2nd-Practical-Paranoid-ebook/dp/B00CH96VB4
+https://www.amazon.co.uk/Absolute-OpenBSD-2nd-Practical-Paranoid-ebook/dp/B00CH96VB4
+http://books.google.co.uk/books?id=PN6Xy9zWAbsC&printsec=frontcover&dq=intitle:Absolute+OpenBSD,+2nd+Edition%2Binauthor:Michael+W.+Lucas&hl=&cd=1&source=gbs_api
+
+Book 20 - Linux Firewalls
+https://www.amazon.com/Linux-Firewalls-Attack-Detection-Response-ebook/dp/B002N3M6S6
+https://www.amazon.co.uk/Linux-Firewalls-Attack-Detection-Response-ebook/dp/B002N3M6S6
+http://books.google.co.uk/books?id=Ad9Fnk9C7QsC&printsec=frontcover&dq=intitle:Linux+Firewalls%2Binauthor:Michael+Rash&hl=&cd=1&source=gbs_api
+
+Book 21 - Pentesting Azure Applications
+https://www.amazon.com/Pentesting-Azure-Applications-Definitive-Deployments/dp/1593278632
+https://www.amazon.co.uk/Pentesting-Azure-Applications-Definitive-Deployments-ebook/dp/B072SS34CP
+http://books.google.co.uk/books?id=orgrDwAAQBAJ&printsec=frontcover&dq=intitle:Pentesting+Azure+Applications%2Binauthor:Matt+Burrough&hl=&cd=1&source=gbs_api
+
+Book 22 - The Book of PF, 3rd Edition
+https://www.amazon.com/Book-PF-3rd-No-Nonsense-Firewall-ebook/dp/B00O9A7E88
+https://www.amazon.co.uk/Book-PF-3rd-No-Nonsense-Firewall-ebook/dp/B00O9A7E88
+http://books.google.co.uk/books?id=7gcvDwAAQBAJ&printsec=frontcover&dq=intitle:The+Book+of+PF,+3rd+Edition%2Binauthor:Peter+N.M.+Hansteen&hl=&cd=1&source=gbs_api
+
