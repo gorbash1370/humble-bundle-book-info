@@ -189,7 +189,7 @@ def parse_hb_webpage(soup1, soup2, debug_flag, debug_directory):
         # Debug Section: Save updated_books to a text file
         if debug_flag == True:
             output_filename = 'authors_updated_books.txt'
-            with open(os.path.join(debug_directory, output_filename), 'w') as file:
+            with open(os.path.join(debug_directory, output_filename), 'w', encoding='utf-8') as file:
                 for updated_book in updated_books:
                     file.write(str(updated_book) + '\n')
 
@@ -201,7 +201,7 @@ def parse_hb_webpage(soup1, soup2, debug_flag, debug_directory):
         # Debug Section: Save authors to a text file
         if debug_flag == True:
             output_filename = 'authors_raw.txt'
-            with open(os.path.join(debug_directory, output_filename), 'w') as file:
+            with open(os.path.join(debug_directory, output_filename), 'w', encoding='utf-8') as file:
                 for author in authors:
                     file.write(str(author) + '\n')
 
@@ -826,7 +826,7 @@ def generate_txt_file(txt_file_version, books_data, output_directory, bundle_nam
         print(e)
         try:
             unsuccessful_output_filename = f'unsuccessful_{dt.now().strftime("%y-%m")}_{bundle_name}.txt'
-            with open(os.path.join(output_directory, unsuccessful_output_filename), 'w') as file:
+            with open(os.path.join(output_directory, unsuccessful_output_filename), 'w', encoding='utf-8') as file:
                 file.write(f"Error: {e}")
         except Exception as e:
             print(f"Error while attempting to create unsuccessful_ file: {e}")
