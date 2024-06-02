@@ -1,0 +1,635 @@
+Humble Tech Book Bundle- CI-CD Mastery for Cloud Infrastructure by Packt - Packt
+Processing date: 2024-06-02
+Data retrieved from: https://www.humblebundle.com/books/cicd-mastery-for-cloud-infrastructure-packt-books
+
+Book 01 - Cloud Solution Architect's Career Master Plan - Rick Weyenberg , Kyle Burns - None found out of 5 (None found reviews)
+Book 02 - The Self-Taught Cloud Computing Engineer - Dr. Logan Song - 5 out of 5 (173 reviews)
+Book 03 - The Ultimate Docker Container Book - Dr. Gabriel N. Schenker - 4.1 out of 5 (6 reviews)
+Book 04 - Microsoft Azure Fundamentals Certification and Beyond, 2E - Steve Miles - 4.9 out of 5 (24 reviews)
+Book 05 - Modern DevOps Practices - Second Edition - Gaurav Agarwal - 5 out of 5 (3 reviews)
+Book 06 - Multi-cloud for Developers - Subash Natarajan , Jeveen Jacob - 0 out of 5 (5 reviews)
+Book 07 - Embracing DevOps Release Management - Joel Kruger - 5 out of 5 (1 reviews)
+Book 08 - AWS Certified Security - Specialty (SCS-C02) Exam Guide - Second Edition - Adam Book , Stuart Scott - None found out of 5 (None found reviews)
+Book 09 - Observability with Grafana - Rob Chapman , Peter Holmes - 5 out of 5 (3 reviews)
+Book 10 - Learning DevOps, Second Edition - Mikael Krief - 4.5 out of 5 (36 reviews)
+Book 11 - Azure for Developers - Second Edition - Kamil Mrzygłód - 4.4 out of 5 (15 reviews)
+Book 12 - AWS Certified Solutions Architect - Professional Exam Guide (SAP-C02) - Patrick Sard , Yohan Wadia - None found out of 5 (None found reviews)
+Book 13 - Azure Architecture Explained - David Rendón , Brett Hargreaves - 4.8 out of 5 (6 reviews)
+Book 14 - Efficient Cloud FinOps - Alfonso San Miguel Sánchez , Danny Obando García - 0 out of 5 (4 reviews)
+Book 15 - Architecting AWS with Terraform - Erol Kavas - None found out of 5 (None found reviews)
+Book 16 - Practical Ansible - Second Edition - James Freeman , Fabio Alessandro Locati , Daniel Oh - 0 out of 5 (5 reviews)
+Book 17 - Go for DevOps - John Doak , David Justice - 4.5 out of 5 (47 reviews)
+Book 18 - Automating DevOps with GitLab CI/CD Pipelines - Christopher Cowell , Nicholas Lotz , Chris Timberlake - 4.5 out of 5 (37 reviews)
+Book 19 - The Linux DevOps Handbook - Damian Wojsław , Grzegorz Adamowicz - 5 out of 5 (4 reviews)
+Book 20 - The Docker Workshop - Vincent Sesto , Onur Yılmaz , Sathsara Sarathchandra - 4.7 out of 5 (21 reviews)
+Book 21 - Microsoft Azure Fundamentals Certification and Beyond, 1E - Steve Miles - 4.6 out of 5 (92 reviews)
+Book 22 - The Kubernetes Workshop - Zachary Arnold , Sahil Dua , Wei Huang - None found out of 5 (None found reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Cloud Solution Architect's Career Master Plan
+Author(s): Rick Weyenberg , Kyle Burns
+---
+ISBN-10: 1805120395 - ISBN-13: 9781805120391 - ASIN: B0CV85DNYF
+Published Date: 2024-03-22
+Page Count: 148
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=Brj3EAAAQBAJ&printsec=frontcover&dq=intitle:Cloud+Solution+Architect%27s+Career+Master+Plan%2Binauthor:Rick+Weyenberg+,+Kyle+Burns&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Cloud-Solution-Architects-Career-Master-ebook/dp/B0CV85DNYF
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Cloud-Solution-Architects-Career-Master/dp/1805129716
+---
+HB Blurb: Key FeaturesGain clarity on where to start your journey into cloud architectureDebunk common misconceptions about cloud platforms for informed decision-makingEquip yourself with strategies for career success, skill enhancement, and certificationsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forIf you’re a self-motivated IT professional aiming to pursue a career as a solution architect, this book is for you. While a strong foundation in traditional software architecture is assumed, deep knowledge of cloud concepts and design considerations is not required.This book is also for professionals considering the solution architect role but uncertain where to get started. No experience in the cloud architect role is needed to get started.
+--------------------------------------------------
+
+Book 02:
+Title: The Self-Taught Cloud Computing Engineer
+Author(s): Dr. Logan Song
+---
+ISBN-10: 1803239417 - ISBN-13: 9781803239415 - ASIN: 180512370X
+Published Date: 2022-09-20
+Page Count: 330
+---
+Google Books Price: GBP 20.14
+Google Books URL: http://books.google.co.uk/books?id=nz6HEAAAQBAJ&printsec=frontcover&dq=intitle:The+Self-Taught+Cloud+Computing+Engineer%2Binauthor:Dr.+Logan+Song&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (173 reviews)
+Amazon.com URL: https://www.amazon.com/Self-Taught-Cloud-Computing-Engineer-comprehensive/dp/180512370X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (31 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Self-Taught-Cloud-Computing-Engineer-comprehensive-ebook/dp/B0BZJD5994
+---
+HB Blurb: Key FeaturesLearn all about cloud computing at your own pace with this easy-to-follow guideDevelop a well-rounded skill set, encompassing fundamentals, data, machine learning, and securityWork on real-world industrial projects and business use cases, and chart a path for your personal cloud career advancementPurchase of the print or Kindle book includes a free PDF eBookWho this book is forWhether you're new to cloud computing or a seasoned professional looking to expand your expertise, this book is for anyone in the information technology domain who aspires to thrive in the realm of cloud computing. With this comprehensive roadmap, you’ll have the tools to build a successful cloud computing career.
+--------------------------------------------------
+
+Book 03:
+Title: The Ultimate Docker Container Book
+Author(s): Dr. Gabriel N. Schenker
+---
+ISBN-10: 1804613185 - ISBN-13: 9781804613184 - ASIN: 1804613983
+Published Date: 2023-08-31
+Page Count: 626
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=ND_VEAAAQBAJ&printsec=frontcover&dq=intitle:The+Ultimate+Docker+Container+Book%2Binauthor:Dr.+Gabriel+N.+Schenker&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $35.99Save $9.00 (20%)
+Amazon.com Reviews: 4.1 of 5 (6 reviews)
+Amazon.com URL: https://www.amazon.com/Ultimate-Docker-Container-Book-containers/dp/1804613983
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.9 of 5 (4 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Ultimate-Docker-Container-Book-containers/dp/1804613983
+---
+HB Blurb: Key FeaturesMaster Docker container setup, operation, and debuggingUse Docker compose for managing multi-service applicationsNavigate orchestrators like Kubernetes and Docker swarmkitPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for Linux professionals, system administrators, operations engineers, DevOps engineers, software architects, and developers looking to work with Docker and Kubernetes from scratch. A basic understanding of Docker containers is recommended, but no prior knowledge of Kubernetes is required. Familiarity with scripting tools such as Bash or PowerShell will be advantageous.
+--------------------------------------------------
+
+Book 04:
+Title: Microsoft Azure Fundamentals Certification and Beyond, 2E
+Author(s): Steve Miles
+---
+ISBN-10: 1837638098 - ISBN-13: 9781837638093 - ASIN: B0CT3VRM1W
+Published Date: 2024-01-25
+Page Count: 284
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=TDHxEAAAQBAJ&printsec=frontcover&dq=intitle:Microsoft+Azure+Fundamentals+Certification+and+Beyond,+2E%2Binauthor:Steve+Miles&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $34.19Save $1.80 (5%)
+Amazon.com Reviews: 4.9 of 5 (24 reviews)
+Amazon.com URL: https://www.amazon.com/Microsoft-Fundamentals-Certification-Beyond-hands-ebook/dp/B0CT3VRM1W
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (87 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Microsoft-Azure-Fundamentals-Certification-Beyond/dp/1801073309
+---
+HB Blurb: Key FeaturesMaster the fundamentals of Azure through a comprehensive exploration of compute, network, and storage servicesLearn essential tools and strategies for securing, governing, and administering Azure effectivelyUse the mobile-friendly bonus website that comes with the book to gain ample practice on the goWho this book is forThis Azure fundamentals book is for individuals with technical or non-technical backgrounds who want to learn and explore the field of cloud computing with Microsoft Azure. There are no prerequisites to get started, only a willingness to learn and explore cloud concepts and Microsoft Azure.
+--------------------------------------------------
+
+Book 05:
+Title: Modern DevOps Practices - Second Edition
+Author(s): Gaurav Agarwal
+---
+ISBN-10: 9781805121824 - ISBN-13: 1805121820 - ASIN: B097DQNQZ3
+Published Date: 2024-01-12
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=-QZj0AEACAAJ&dq=intitle:Modern+DevOps+Practices+-+Second+Edition%2Binauthor:Gaurav+Agarwal&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (3 reviews)
+Amazon.com URL: https://www.amazon.com/Modern-DevOps-Practices-applications-cutting-edge/dp/1805121820
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (18 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Modern-DevOps-Practices-cutting-edge-techniques-ebook/dp/B097DQNQZ3
+---
+HB Blurb: Key FeaturesExplore containers as a service (CaaS) and infrastructure automation in the public cloudSecure and ship software continuously to production with DevOps, GitOps, SecOps, and automationOperate distributed and scalable microservices apps in the cloud with a modern service meshPurchase of the print or Kindle book includes a free PDF eBookWho this book is forIf you are a software engineer, system administrator, or operations engineer looking to step into the world of DevOps within public cloud platforms, this book is for you. Existing DevOps engineers will also find this book helpful as it covers best practices, tips, and tricks for implementing DevOps with a cloud-native mindset. Although no containerization experience is necessary, a basic understanding of the software development life cycle and delivery will help you get the most out of this book.
+--------------------------------------------------
+
+Book 06:
+Title: Multi-cloud for Developers
+Author(s): Subash Natarajan , Jeveen Jacob
+---
+ISBN-10: 1804617091 - ISBN-13: 9781804617090 - ASIN: B0CQT1R6QK
+Published Date: 2024-02-29
+Page Count: 292
+---
+Google Books Price: GBP 19.49
+Google Books URL: http://books.google.co.uk/books?id=ICf2EAAAQBAJ&printsec=frontcover&dq=intitle:Multi-cloud+for+Developers%2Binauthor:Subash+Natarajan+,+Jeveen+Jacob&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 0 of 5 (5 reviews)
+Amazon.com URL: https://www.amazon.com/Multi-Cloud-Handbook-Developers-cloud-native-applications-ebook/dp/B0CQT1R6QK
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Multi-Cloud-Handbook-Developers-cloud-native-applications-ebook/dp/B0CQT1R6QK
+---
+HB Blurb: Key FeaturesDiscover optimal solutions in multi-cloud environments using AWS, Azure, and GCP tools and technologiesExcel in designing, developing, and securing cloud-native apps with Docker, Kubernetes, and IstioLearn design patterns, cost optimization, best practices, and pitfalls to avoid in multi-cloud appsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forIdeal for cloud-native and cloud developers, platform engineers, software architects, and IT professionals focused on building and managing cloud-native applications in multi-cloud environments, this book is an indispensable guide for students and researchers seeking insights into cloud-native concepts and multi-cloud architectures. A basic understanding of cloud computing, contemporary software development, system design, and cloud platforms such as AWS, Azure, and GCP, will prove useful.
+--------------------------------------------------
+
+Book 07:
+Title: Embracing DevOps Release Management
+Author(s): Joel Kruger
+---
+ISBN-10: 183546694X - ISBN-13: 9781835466940 - ASIN: 1835461859
+Published Date: 2024-04-12
+Page Count: 351
+---
+Google Books Price: GBP 19.49
+Google Books URL: http://books.google.co.uk/books?id=-sH7EAAAQBAJ&printsec=frontcover&dq=intitle:Embracing+DevOps+Release+Management%2Binauthor:Joel+Kruger&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (1 reviews)
+Amazon.com URL: https://www.amazon.com/Embracing-DevOps-Release-Management-Strategies/dp/1835461859
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Embracing-DevOps-Release-Management-Strategies/dp/1835461859
+---
+HB Blurb: Key FeaturesUnderstand the SDLC and the most popular release management modelsLearn what makes DevOps unique and how CI/CD pipelines enforce good DevOps release managementDrive a culture-driven release management initiative in your organization that breaks down silosPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is a comprehensive introduction for those who are new to DevOps release management, but it's also valuable for DevOps engineers and release managers looking to enhance their skills and knowledge. If you’re looking to adopt key practices to shift left, this book will enable you to build high-quality products in record time.
+--------------------------------------------------
+
+Book 08:
+Title: AWS Certified Security - Specialty (SCS-C02) Exam Guide - Second Edition
+Author(s): Adam Book , Stuart Scott
+---
+ISBN-10: 9781837633982 - ISBN-13: 1837633983 - ASIN: 
+Published Date: 2024
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=Lp6s0AEACAAJ&dq=intitle:AWS+Certified+Security+-+Specialty+(SCS-C02)+Exam+Guide+-+Second+Edition%2Binauthor:Adam+Book+,+Stuart+Scott&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/AWS-Certified-Security-Specialty-guidance/dp/1837633983
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/AWS-Certified-Security-Specialty-guidance/dp/1837633983
+---
+HB Blurb: Key FeaturesStay updated with the most current SCS-C02 exam syllabusGain modern cloud security skills to build robust security solutionsAccess online exam prep resources like mock exams, flashcards, and exam tips to help with preparationPurchase of this book unlocks access to web-based exam prep resources such as mock exams and flashcardsWho this book is forThis book is for system administrators or security professionals looking to gain AWS security certification. Prior experience in securing cloud environments is necessary to get the most out of this book.
+--------------------------------------------------
+
+Book 09:
+Title: Observability with Grafana
+Author(s): Rob Chapman , Peter Holmes
+---
+ISBN-10: 9781803248004 - ISBN-13: 1803248009 - ASIN: 
+Published Date: 2024-01-12
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=X8pi0AEACAAJ&dq=intitle:Observability+with+Grafana%2Binauthor:Rob+Chapman+,+Peter+Holmes&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (3 reviews)
+Amazon.com URL: https://www.amazon.com/Observability-Grafana-visualize-Kubernetes-platforms/dp/1803248009
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (3 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Observability-Grafana-visualize-Kubernetes-platforms/dp/1803248009
+---
+HB Blurb: Key FeaturesUse personas to better understand the needs and challenges of observability tools usersGet hands-on practice with Grafana and the LGTM stack through real-world examplesImplement and integrate LGTM with AWS, Azure, GCP, Kubernetes and tools such as OpenTelemetry, Ansible, Terraform, and HelmPurchase of the print or Kindle book includes a free PDF eBookWho this book is forIf you’re an application developer, a DevOps engineer, a SRE, platform engineer, or a cloud engineer concerned with Day 2+ systems operations, then this book is for you. Product owners and technical leaders wanting to gain visibility of their products in a standardized, easy to implement way will also benefit from this book. A basic understanding of computer systems, cloud computing, cloud platforms, DevOps processes, Docker or Podman, Kubernetes, cloud native, and similar concepts will be useful.
+--------------------------------------------------
+
+Book 10:
+Title: Learning DevOps, Second Edition
+Author(s): Mikael Krief
+---
+ISBN-10: 1801813469 - ISBN-13: 9781801813464 - ASIN: 1801818967
+Published Date: 2022-03-31
+Page Count: 560
+---
+Google Books Price: GBP 18.84
+Google Books URL: http://books.google.co.uk/books?id=hk5hEAAAQBAJ&printsec=frontcover&dq=intitle:Learning+DevOps,+Second+Edition%2Binauthor:Mikael+Krief&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.5 of 5 (36 reviews)
+Amazon.com URL: https://www.amazon.com/Learning-DevOps-comprehensive-accelerating-Kubernetes/dp/1801818967
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (29 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learning-DevOps-comprehensive-accelerating-Kubernetes-ebook/dp/B09TBBJ787
+---
+HB Blurb: Key Features
+
+Learn how to use business resources effectively for improved productivity and collaboration
+Use infrastructure as code practices to build large-scale cloud infrastructure
+Leverage the ultimate open source DevOps tools to achieve continuous integration and continuous delivery (CI/CD)
+
+Who this book is for
+If you are an application developer or a system administrator interested in understanding continuous integration, continuous delivery, and containerization with DevOps tools and techniques, this book is for you. Knowledge of DevOps fundamentals and Git principles is required.
+--------------------------------------------------
+
+Book 11:
+Title: Azure for Developers - Second Edition
+Author(s): Kamil Mrzygłód
+---
+ISBN-10: 1803238542 - ISBN-13: 9781803238548 - ASIN: B0B5LCNC3Y
+Published Date: 2022-08-30
+Page Count: 633
+---
+Google Books Price: GBP 20.14
+Google Books URL: http://books.google.co.uk/books?id=Xq-FEAAAQBAJ&printsec=frontcover&dq=intitle:Azure+for+Developers+-+Second+Edition%2Binauthor:Kamil+Mrzyg%C5%82%C3%B3d&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $31.49Save $10.50 (25%)
+Amazon.com Reviews: 4.4 of 5 (15 reviews)
+Amazon.com URL: https://www.amazon.com/Azure-Developers-ecosystems-containers-serverless-ebook/dp/B0B5LCNC3Y
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (8 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Azure-Developers-ecosystems-containers-serverless/dp/1803240091
+---
+HB Blurb: Key FeaturesTake a modern approach to Azure Cloud development and managementGet a detailed introduction to services such as web hosting, databases, and serverless platformsGet the hang of cloud services with this practical, developer-centric guide for Azure developersWho this book is forThis book is for developers and IT professionals who want to learn Microsoft Azure by developing applications based on various cloud services. Prior knowledge of software development and the basics of software architecture and Azure services give you an advantage.
+--------------------------------------------------
+
+Book 12:
+Title: AWS Certified Solutions Architect - Professional Exam Guide (SAP-C02)
+Author(s): Patrick Sard , Yohan Wadia
+---
+ISBN-10: 1801815070 - ISBN-13: 9781801815079 - ASIN: 1801813132
+Published Date: 2024-03-01
+Page Count: 429
+---
+Google Books Price: GBP 19.49
+Google Books URL: http://books.google.co.uk/books?id=jBb5EAAAQBAJ&printsec=frontcover&dq=intitle:AWS+Certified+Solutions+Architect+-+Professional+Exam+Guide+(SAP-C02)%2Binauthor:Patrick+Sard+,+Yohan+Wadia&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/AWS-Certified-Solutions-Architect-Professional/dp/1801813132
+---
+HB Blurb: Key FeaturesExplore content meticulously aligned with AWS (SAP-C02) exam objectivesChallenge your knowledge through mock tests with exam-level difficultyGain expert insights and learn best practices for optimizing your cloud solutions from experienced AWS practitionersWho this book is forThis book is for seasoned IT professionals adept at crafting and implementing cloud architecture on AWS. Familiarity with the AWS platform and services is essential. You'll grasp the content more effectively if you have at least 2 years of hands-on experience in AWS-based applications.
+--------------------------------------------------
+
+Book 13:
+Title: Azure Architecture Explained
+Author(s): David Rendón , Brett Hargreaves
+---
+ISBN-10: 1837637946 - ISBN-13: 9781837637942 - ASIN: 1837634815
+Published Date: 2023-09-22
+Page Count: 446
+---
+Google Books Price: GBP 19.49
+Google Books URL: http://books.google.co.uk/books?id=HfzTEAAAQBAJ&printsec=frontcover&dq=intitle:Azure+Architecture+Explained%2Binauthor:David+Rend%C3%B3n+,+Brett+Hargreaves&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.8 of 5 (6 reviews)
+Amazon.com URL: https://www.amazon.com/Azure-Architecture-Explained-comprehensive-effective/dp/1837634815
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Azure-Architecture-Explained-comprehensive-effective/dp/1837634815
+---
+HB Blurb: Key FeaturesDevelop your business case for the cloud with technical guidance from industry expertsAddress critical business challenges effectively by leveraging proven combinations of Azure servicesTackle real-world scenarios by applying practical knowledge of reference architecturesPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is an indispensable resource for Azure architects looking to develop cloud-based services along with deploying and managing applications within the Microsoft Azure ecosystem. It caters to professionals responsible for crucial IT operations, encompassing budgeting, business continuity, governance, identity management, networking, security, and automation. If you have prior experience in operating systems, virtualization, infrastructure, storage structures, or networking, and aspire to master the implementation of best practices in the Azure cloud, then this book will become your go-to guide.
+--------------------------------------------------
+
+Book 14:
+Title: Efficient Cloud FinOps
+Author(s): Alfonso San Miguel Sánchez , Danny Obando García
+---
+ISBN-10: 9781805122579 - ISBN-13: 1805122576 - ASIN: 
+Published Date: 2024-02-23
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=gMeN0AEACAAJ&dq=intitle:Efficient+Cloud+FinOps%2Binauthor:Alfonso+San+Miguel+S%C3%A1nchez+,+Danny+Obando+Garc%C3%ADa&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 0 of 5 (4 reviews)
+Amazon.com URL: https://www.amazon.com/Efficient-Cloud-FinOps-management-optimization/dp/1805122576
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 0 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Efficient-Cloud-FinOps-management-optimization/dp/1805122576
+---
+HB Blurb: Key FeaturesLearn cost optimization best practices on different cloud services using FinOps principles and examplesGain hands-on expertise in improving cost estimations and devising cost reduction plans for Azure, AWS, and GCPAnalyze case studies that illustrate the application of FinOps in diverse real-world scenariosPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for cloud engineers, cloud and solutions architects, as well as DevOps and SysOps engineers interested in learning more about FinOps and cloud financial management for efficiently architecting, designing, and operating software solutions and infrastructure using the public clouds. Additionally, team leads, project managers, and financial teams aiming to optimize cloud resources will also find this book useful. Prior knowledge of cloud computing and major public clouds is assumed.
+--------------------------------------------------
+
+Book 15:
+Title: Architecting AWS with Terraform
+Author(s): Erol Kavas
+---
+ISBN-10: 1803244372 - ISBN-13: 9781803244372 - ASIN: 1803248564
+Published Date: 2023-12-29
+Page Count: 260
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=YajoEAAAQBAJ&printsec=frontcover&dq=intitle:Architecting+AWS+with+Terraform%2Binauthor:Erol+Kavas&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.8 of 5 (6 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Mastering-Terraform-AWS-Infrastructure-streamlined/dp/1803248564
+---
+HB Blurb: Key FeaturesLearn Terraform on AWS from 12x AWS certified trainerImprove reusability and governance for large-scale Terraform projectsUse infrastructure as code practices to fully automate AWS workloadsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for cloud and DevOps engineers, developers, and architects responsible for writing or designing infrastructure as code to deploy resources in AWS. You are expected to have a basic understanding of AWS and should have experience deploying resources through the user interface (UI).
+--------------------------------------------------
+
+Book 16:
+Title: Practical Ansible - Second Edition
+Author(s): James Freeman , Fabio Alessandro Locati , Daniel Oh
+---
+ISBN-10: 1789615410 - ISBN-13: 9781789615418 - ASIN: 180512997X
+Published Date: 2020-06-05
+Page Count: 394
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=qvnpDwAAQBAJ&printsec=frontcover&dq=intitle:Practical+Ansible+-+Second+Edition%2Binauthor:James+Freeman+,+Fabio+Alessandro+Locati+,+Daniel+Oh&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 0 of 5 (5 reviews)
+Amazon.com URL: https://www.amazon.com/Practical-Ansible-infrastructure-configuration-applications/dp/180512997X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.2 of 5 (34 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Practical-Ansible-infrastructure-configuration-applications/dp/1789807468
+---
+HB Blurb: Key FeaturesOrchestrate major cloud platforms such as OpenStack, AWS, and AzureUse Ansible to automate network devicesAutomate your containerized workload with Docker, Podman, or KubernetesPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for DevOps engineers, administrators, or any IT professionals looking to automate IT tasks using Ansible. Prior knowledge of Ansible is not a prerequisite.
+--------------------------------------------------
+
+Book 17:
+Title: Go for DevOps
+Author(s): John Doak , David Justice
+---
+ISBN-10: 1801819343 - ISBN-13: 9781801819343 - ASIN: 1801818894
+Published Date: 2022-07-08
+Page Count: 635
+---
+Google Books Price: GBP 24.69
+Google Books URL: http://books.google.co.uk/books?id=g9JyEAAAQBAJ&printsec=frontcover&dq=intitle:Go+for+DevOps%2Binauthor:John+Doak+,+David+Justice&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $37.49Save $12.50 (25%)
+Amazon.com Reviews: 4.5 of 5 (47 reviews)
+Amazon.com URL: https://www.amazon.com/Go-DevOps-language-Kubernetes-Terraform/dp/1801818894
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (40 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Go-DevOps-language-Kubernetes-Terraform/dp/1801818894
+---
+HB Blurb: Key FeaturesDevelop the skills to build command-line tools to control thousands of nodesUse Go to create Terraform providers and GitHub actions and extend KubernetesGain the knowledge to build DevOps workflows that are understandable, scalable, and safeWho this book is forThis book is for Ops and DevOps engineers who would like to use Go to develop their own DevOps tooling or integrate custom features with DevOps tools such as Kubernetes, GitHub Actions, HashiCorp Packer, and Terraform. Experience with some type of programming language, but not necessarily Go, is necessary to get started with this book.
+--------------------------------------------------
+
+Book 18:
+Title: Automating DevOps with GitLab CI/CD Pipelines
+Author(s): Christopher Cowell , Nicholas Lotz , Chris Timberlake
+---
+ISBN-10: 1803242930 - ISBN-13: 9781803242934 - ASIN: 1803233001
+Published Date: 2023-02-24
+Page Count: 348
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=X36rEAAAQBAJ&printsec=frontcover&dq=intitle:Automating+DevOps+with+GitLab+CI/CD+Pipelines%2Binauthor:Christopher+Cowell+,+Nicholas+Lotz+,+Chris+Timberlake&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.5 of 5 (37 reviews)
+Amazon.com URL: https://www.amazon.com/Automating-DevOps-GitLab-Pipelines-efficient/dp/1803233001
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (30 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Automating-DevOps-GitLab-Pipelines-efficient/dp/1803233001
+---
+HB Blurb: Key FeaturesReap the power of GitLab CI/CD pipelines at every stage of your software development lifecycleLearn how GitLab makes Git easier to use and more powerful when committing and reviewing codeCement your understanding using hands-on tutorials and extensive self-assessment exercisesPurchase of the print or Kindle book includes a free eBook in the PDF formatWho this book is forThis book is for DevOps/DevSecOps engineers, application developers, release engineers, quality assurance engineers, security engineers, SREs, and sysadmins looking to implement fast, secure and automated software development lifecycle tasks using continuous integration and continuous delivery (CI/CD) pipelines in GitLab. Basic knowledge of major stages of the software development life cycle and DevOps processes will be helpful.
+--------------------------------------------------
+
+Book 19:
+Title: The Linux DevOps Handbook
+Author(s): Damian Wojsław , Grzegorz Adamowicz
+---
+ISBN-10: 1803237902 - ISBN-13: 9781803237909 - ASIN: 1803245662
+Published Date: 2023-11-17
+Page Count: 428
+---
+Google Books Price: GBP 19.49
+Google Books URL: http://books.google.co.uk/books?id=2QzgEAAAQBAJ&printsec=frontcover&dq=intitle:The+Linux+DevOps+Handbook%2Binauthor:Damian+Wojs%C5%82aw+,+Grzegorz+Adamowicz&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (4 reviews)
+Amazon.com URL: https://www.amazon.com/Linux-DevOps-Handbook-distributions-accelerate/dp/1803245662
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Linux-DevOps-Handbook-distributions-accelerate/dp/1803245662
+---
+HB Blurb: Key FeaturesMaster Linux basics, the command line, and shell scriptingBecome a DevOps expert by mastering Docker, Git, monitoring, automation, and CI/CDImplement networking, manage services, and leverage Infrastructure as Code (IaC)Purchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for DevOps Engineers looking to extend their Linux and DevOps skills as well as System Administrators responsible for managing Linux servers, who want to adopt DevOps practices to streamline their operations.You’ll also find this book useful if you want to build your skills and knowledge to work with public cloud technologies, especially AWS, to build and manage scalable and reliable systems.
+--------------------------------------------------
+
+Book 20:
+Title: The Docker Workshop
+Author(s): Vincent Sesto , Onur Yılmaz , Sathsara Sarathchandra
+---
+ISBN-10: 1838986138 - ISBN-13: 9781838986131 - ASIN: B08MBQ5M8H
+Published Date: 2020-10-29
+Page Count: 791
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=mTUGEAAAQBAJ&printsec=frontcover&dq=intitle:The+Docker+Workshop%2Binauthor:Vincent+Sesto+,+Onur+Y%C4%B1lmaz+,+Sathsara+Sarathchandra&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (21 reviews)
+Amazon.com URL: https://www.amazon.com/Docker-Workshop-containers-effectively-development-ebook/dp/B08MBQ5M8H
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (15 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Docker-Workshop-containers-effectively-development/dp/1838983449
+---
+HB Blurb: Key FeaturesGet a working understanding of Docker containers by incorporating them in your development processComplete interesting exercises to learn how to secure and control access of your containersWork with advanced features of Docker to make your development process smoother and reliable Who this book is forThis is the right learning asset if you are a developer or a beginner who wants to get a practical understanding of Docker containers. If you have experienced in running command shells or knowledge of IntelliJ, atom, or VSCode editors, then you will grasp the topics covered here quickly.
+--------------------------------------------------
+
+Book 21:
+Title: Microsoft Azure Fundamentals Certification and Beyond, 1E
+Author(s): Steve Miles
+---
+ISBN-10: 1837638098 - ISBN-13: 9781837638093 - ASIN: 1801073309
+Published Date: 2024-01-25
+Page Count: 284
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=TDHxEAAAQBAJ&printsec=frontcover&dq=intitle:Microsoft+Azure+Fundamentals+Certification+and+Beyond,+1E%2Binauthor:Steve+Miles&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (92 reviews)
+Amazon.com URL: https://www.amazon.com/Microsoft-Azure-Fundamentals-Certification-Beyond/dp/1801073309
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (74 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Microsoft-Azure-Fundamentals-Certification-Beyond-ebook/dp/B09LVLR598
+---
+HB Blurb: Key FeaturesGet fundamental knowledge of cloud concepts and the Microsoft Azure platformExplore practical exercises to gain experience of working with the Microsoft Azure platform in the real worldPrepare to achieve AZ-900 certification on the first go with the help of simplified examples covered in the bookWho this book is forThis Azure fundamentals book is both for those with technical backgrounds and non-technical backgrounds who want to learn and explore the field of cloud computing, especially with Azure. This book will also help anyone who wants to develop a good foundation for achieving advanced Azure certifications. There is no prerequisite for this book except a willingness to learn and explore cloud concepts and Microsoft Azure.
+--------------------------------------------------
+
+Book 22:
+Title: The Kubernetes Workshop
+Author(s): Zachary Arnold , Sahil Dua , Wei Huang
+---
+ISBN-10: 1838644288 - ISBN-13: 9781838644284 - ASIN: 1838820752
+Published Date: 2020-09-24
+Page Count: 779
+---
+Google Books Price: GBP 13.64
+Google Books URL: http://books.google.co.uk/books?id=UkL_DwAAQBAJ&printsec=frontcover&dq=intitle:The+Kubernetes+Workshop%2Binauthor:Zachary+Arnold+,+Sahil+Dua+,+Wei+Huang&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (20 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Kubernetes-Workshop-Interactive-Approach-Learning/dp/1838820752
+---
+HB Blurb: Key FeaturesExplore the Kubernetes environment and understand how containers are managedLearn how to build, maintain, and deploy cloud-native applications using KubernetesGet to grips with using Kubernetes primitives to manage the life cycle of a full application stackWho this book is forWhether you are new to the world of web programming or are an experienced developer or software engineer looking to use Kubernetes for managing and scaling containerized applications, you’ll find this workshop useful. A basic understanding of Docker and containerization is necessary to make the most of this book.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Cloud Solution Architect's Career Master Plan
+https://www.amazon.com/Cloud-Solution-Architects-Career-Master-ebook/dp/B0CV85DNYF
+https://www.amazon.co.uk/Cloud-Solution-Architects-Career-Master/dp/1805129716
+http://books.google.co.uk/books?id=Brj3EAAAQBAJ&printsec=frontcover&dq=intitle:Cloud+Solution+Architect%27s+Career+Master+Plan%2Binauthor:Rick+Weyenberg+,+Kyle+Burns&hl=&cd=1&source=gbs_api
+
+Book 02 - The Self-Taught Cloud Computing Engineer
+https://www.amazon.com/Self-Taught-Cloud-Computing-Engineer-comprehensive/dp/180512370X
+https://www.amazon.co.uk/Self-Taught-Cloud-Computing-Engineer-comprehensive-ebook/dp/B0BZJD5994
+http://books.google.co.uk/books?id=nz6HEAAAQBAJ&printsec=frontcover&dq=intitle:The+Self-Taught+Cloud+Computing+Engineer%2Binauthor:Dr.+Logan+Song&hl=&cd=1&source=gbs_api
+
+Book 03 - The Ultimate Docker Container Book
+https://www.amazon.com/Ultimate-Docker-Container-Book-containers/dp/1804613983
+https://www.amazon.co.uk/Ultimate-Docker-Container-Book-containers/dp/1804613983
+http://books.google.co.uk/books?id=ND_VEAAAQBAJ&printsec=frontcover&dq=intitle:The+Ultimate+Docker+Container+Book%2Binauthor:Dr.+Gabriel+N.+Schenker&hl=&cd=1&source=gbs_api
+
+Book 04 - Microsoft Azure Fundamentals Certification and Beyond, 2E
+https://www.amazon.com/Microsoft-Fundamentals-Certification-Beyond-hands-ebook/dp/B0CT3VRM1W
+https://www.amazon.co.uk/Microsoft-Azure-Fundamentals-Certification-Beyond/dp/1801073309
+http://books.google.co.uk/books?id=TDHxEAAAQBAJ&printsec=frontcover&dq=intitle:Microsoft+Azure+Fundamentals+Certification+and+Beyond,+2E%2Binauthor:Steve+Miles&hl=&cd=1&source=gbs_api
+
+Book 05 - Modern DevOps Practices - Second Edition
+https://www.amazon.com/Modern-DevOps-Practices-applications-cutting-edge/dp/1805121820
+https://www.amazon.co.uk/Modern-DevOps-Practices-cutting-edge-techniques-ebook/dp/B097DQNQZ3
+http://books.google.co.uk/books?id=-QZj0AEACAAJ&dq=intitle:Modern+DevOps+Practices+-+Second+Edition%2Binauthor:Gaurav+Agarwal&hl=&cd=1&source=gbs_api
+
+Book 06 - Multi-cloud for Developers
+https://www.amazon.com/Multi-Cloud-Handbook-Developers-cloud-native-applications-ebook/dp/B0CQT1R6QK
+https://www.amazon.co.uk/Multi-Cloud-Handbook-Developers-cloud-native-applications-ebook/dp/B0CQT1R6QK
+http://books.google.co.uk/books?id=ICf2EAAAQBAJ&printsec=frontcover&dq=intitle:Multi-cloud+for+Developers%2Binauthor:Subash+Natarajan+,+Jeveen+Jacob&hl=&cd=1&source=gbs_api
+
+Book 07 - Embracing DevOps Release Management
+https://www.amazon.com/Embracing-DevOps-Release-Management-Strategies/dp/1835461859
+https://www.amazon.co.uk/Embracing-DevOps-Release-Management-Strategies/dp/1835461859
+http://books.google.co.uk/books?id=-sH7EAAAQBAJ&printsec=frontcover&dq=intitle:Embracing+DevOps+Release+Management%2Binauthor:Joel+Kruger&hl=&cd=1&source=gbs_api
+
+Book 08 - AWS Certified Security - Specialty (SCS-C02) Exam Guide - Second Edition
+https://www.amazon.com/AWS-Certified-Security-Specialty-guidance/dp/1837633983
+https://www.amazon.co.uk/AWS-Certified-Security-Specialty-guidance/dp/1837633983
+http://books.google.co.uk/books?id=Lp6s0AEACAAJ&dq=intitle:AWS+Certified+Security+-+Specialty+(SCS-C02)+Exam+Guide+-+Second+Edition%2Binauthor:Adam+Book+,+Stuart+Scott&hl=&cd=1&source=gbs_api
+
+Book 09 - Observability with Grafana
+https://www.amazon.com/Observability-Grafana-visualize-Kubernetes-platforms/dp/1803248009
+https://www.amazon.co.uk/Observability-Grafana-visualize-Kubernetes-platforms/dp/1803248009
+http://books.google.co.uk/books?id=X8pi0AEACAAJ&dq=intitle:Observability+with+Grafana%2Binauthor:Rob+Chapman+,+Peter+Holmes&hl=&cd=1&source=gbs_api
+
+Book 10 - Learning DevOps, Second Edition
+https://www.amazon.com/Learning-DevOps-comprehensive-accelerating-Kubernetes/dp/1801818967
+https://www.amazon.co.uk/Learning-DevOps-comprehensive-accelerating-Kubernetes-ebook/dp/B09TBBJ787
+http://books.google.co.uk/books?id=hk5hEAAAQBAJ&printsec=frontcover&dq=intitle:Learning+DevOps,+Second+Edition%2Binauthor:Mikael+Krief&hl=&cd=1&source=gbs_api
+
+Book 11 - Azure for Developers - Second Edition
+https://www.amazon.com/Azure-Developers-ecosystems-containers-serverless-ebook/dp/B0B5LCNC3Y
+https://www.amazon.co.uk/Azure-Developers-ecosystems-containers-serverless/dp/1803240091
+http://books.google.co.uk/books?id=Xq-FEAAAQBAJ&printsec=frontcover&dq=intitle:Azure+for+Developers+-+Second+Edition%2Binauthor:Kamil+Mrzyg%C5%82%C3%B3d&hl=&cd=1&source=gbs_api
+
+Book 12 - AWS Certified Solutions Architect - Professional Exam Guide (SAP-C02)
+No Amazon.com URL found
+https://www.amazon.co.uk/AWS-Certified-Solutions-Architect-Professional/dp/1801813132
+http://books.google.co.uk/books?id=jBb5EAAAQBAJ&printsec=frontcover&dq=intitle:AWS+Certified+Solutions+Architect+-+Professional+Exam+Guide+(SAP-C02)%2Binauthor:Patrick+Sard+,+Yohan+Wadia&hl=&cd=1&source=gbs_api
+
+Book 13 - Azure Architecture Explained
+https://www.amazon.com/Azure-Architecture-Explained-comprehensive-effective/dp/1837634815
+https://www.amazon.co.uk/Azure-Architecture-Explained-comprehensive-effective/dp/1837634815
+http://books.google.co.uk/books?id=HfzTEAAAQBAJ&printsec=frontcover&dq=intitle:Azure+Architecture+Explained%2Binauthor:David+Rend%C3%B3n+,+Brett+Hargreaves&hl=&cd=1&source=gbs_api
+
+Book 14 - Efficient Cloud FinOps
+https://www.amazon.com/Efficient-Cloud-FinOps-management-optimization/dp/1805122576
+https://www.amazon.co.uk/Efficient-Cloud-FinOps-management-optimization/dp/1805122576
+http://books.google.co.uk/books?id=gMeN0AEACAAJ&dq=intitle:Efficient+Cloud+FinOps%2Binauthor:Alfonso+San+Miguel+S%C3%A1nchez+,+Danny+Obando+Garc%C3%ADa&hl=&cd=1&source=gbs_api
+
+Book 15 - Architecting AWS with Terraform
+No Amazon.com URL found
+https://www.amazon.co.uk/Mastering-Terraform-AWS-Infrastructure-streamlined/dp/1803248564
+http://books.google.co.uk/books?id=YajoEAAAQBAJ&printsec=frontcover&dq=intitle:Architecting+AWS+with+Terraform%2Binauthor:Erol+Kavas&hl=&cd=1&source=gbs_api
+
+Book 16 - Practical Ansible - Second Edition
+https://www.amazon.com/Practical-Ansible-infrastructure-configuration-applications/dp/180512997X
+https://www.amazon.co.uk/Practical-Ansible-infrastructure-configuration-applications/dp/1789807468
+http://books.google.co.uk/books?id=qvnpDwAAQBAJ&printsec=frontcover&dq=intitle:Practical+Ansible+-+Second+Edition%2Binauthor:James+Freeman+,+Fabio+Alessandro+Locati+,+Daniel+Oh&hl=&cd=1&source=gbs_api
+
+Book 17 - Go for DevOps
+https://www.amazon.com/Go-DevOps-language-Kubernetes-Terraform/dp/1801818894
+https://www.amazon.co.uk/Go-DevOps-language-Kubernetes-Terraform/dp/1801818894
+http://books.google.co.uk/books?id=g9JyEAAAQBAJ&printsec=frontcover&dq=intitle:Go+for+DevOps%2Binauthor:John+Doak+,+David+Justice&hl=&cd=1&source=gbs_api
+
+Book 18 - Automating DevOps with GitLab CI/CD Pipelines
+https://www.amazon.com/Automating-DevOps-GitLab-Pipelines-efficient/dp/1803233001
+https://www.amazon.co.uk/Automating-DevOps-GitLab-Pipelines-efficient/dp/1803233001
+http://books.google.co.uk/books?id=X36rEAAAQBAJ&printsec=frontcover&dq=intitle:Automating+DevOps+with+GitLab+CI/CD+Pipelines%2Binauthor:Christopher+Cowell+,+Nicholas+Lotz+,+Chris+Timberlake&hl=&cd=1&source=gbs_api
+
+Book 19 - The Linux DevOps Handbook
+https://www.amazon.com/Linux-DevOps-Handbook-distributions-accelerate/dp/1803245662
+https://www.amazon.co.uk/Linux-DevOps-Handbook-distributions-accelerate/dp/1803245662
+http://books.google.co.uk/books?id=2QzgEAAAQBAJ&printsec=frontcover&dq=intitle:The+Linux+DevOps+Handbook%2Binauthor:Damian+Wojs%C5%82aw+,+Grzegorz+Adamowicz&hl=&cd=1&source=gbs_api
+
+Book 20 - The Docker Workshop
+https://www.amazon.com/Docker-Workshop-containers-effectively-development-ebook/dp/B08MBQ5M8H
+https://www.amazon.co.uk/Docker-Workshop-containers-effectively-development/dp/1838983449
+http://books.google.co.uk/books?id=mTUGEAAAQBAJ&printsec=frontcover&dq=intitle:The+Docker+Workshop%2Binauthor:Vincent+Sesto+,+Onur+Y%C4%B1lmaz+,+Sathsara+Sarathchandra&hl=&cd=1&source=gbs_api
+
+Book 21 - Microsoft Azure Fundamentals Certification and Beyond, 1E
+https://www.amazon.com/Microsoft-Azure-Fundamentals-Certification-Beyond/dp/1801073309
+https://www.amazon.co.uk/Microsoft-Azure-Fundamentals-Certification-Beyond-ebook/dp/B09LVLR598
+http://books.google.co.uk/books?id=TDHxEAAAQBAJ&printsec=frontcover&dq=intitle:Microsoft+Azure+Fundamentals+Certification+and+Beyond,+1E%2Binauthor:Steve+Miles&hl=&cd=1&source=gbs_api
+
+Book 22 - The Kubernetes Workshop
+No Amazon.com URL found
+https://www.amazon.co.uk/Kubernetes-Workshop-Interactive-Approach-Learning/dp/1838820752
+http://books.google.co.uk/books?id=UkL_DwAAQBAJ&printsec=frontcover&dq=intitle:The+Kubernetes+Workshop%2Binauthor:Zachary+Arnold+,+Sahil+Dua+,+Wei+Huang&hl=&cd=1&source=gbs_api
+
