@@ -1,0 +1,544 @@
+Humble Tech Book Bundle- Land a Tech Job for Dummies by Wiley - Wiley
+Processing date: 2024-06-02
+Data retrieved from: https://www.humblebundle.com/books/land-tech-job-for-dummies-wiley-books
+
+Book 01 - Job Interviewing For Dummies - Pamela Skillings - 3.7 out of 5 (4 reviews)
+Book 02 - Web Coding & Development All-in-One For Dummies, 2nd Edition - Paul McFedries - None found out of 5 (None found reviews)
+Book 03 - Beginning Programming with Python For Dummies, 3rd Edition - John Paul Mueller - 4.3 out of 5 (298 reviews)
+Book 04 - Linux All-In-One For Dummies, 7th Edition - Richard Blum - 4.6 out of 5 (39 reviews)
+Book 05 - Coding with AI For Dummies - Chris Minnick - 5 out of 5 (4 reviews)
+Book 06 - SQL All-in-One For Dummies, 4th Edition - Allen G. Taylor, Richard Blum - None found out of 5 (None found reviews)
+Book 07 - Writing AI Prompts For Dummies - Stephanie Diamond, Jeffrey Allan - None found out of 5 (None found reviews)
+Book 08 - 3D Printing For Dummies, 3rd Edition - Richard Horne - 3.7 out of 5 (8 reviews)
+Book 09 - ChatGPT For Dummies - Pam Baker - 3.6 out of 5 (118 reviews)
+Book 10 - GitHub For Dummies, 2nd Edition - Sarah Guthals - 3.8 out of 5 (8 reviews)
+Book 11 - Scrum For Dummies, 3rd Edition - Mark C. Layton, Steven J. Ostermiller, Dean J. Kynaston - None found out of 5 (None found reviews)
+Book 12 - Java For Dummies, 8th Edition - Barry Burd - 4.6 out of 5 (60 reviews)
+Book 13 - CISSP For Dummies, 7th Edition - Lawrence C. Miller, Peter H.Gregory - 4.6 out of 5 (88 reviews)
+Book 14 - C# 10.0 All-in-One For Dummies - John Paul Mueller - 4.5 out of 5 (53 reviews)
+Book 15 - Excel Formulas & Functions For Dummies, 6th Edition - Ken Bluttman - 4.5 out of 5 (98 reviews)
+Book 16 - LinkedIn For Dummies, 6th Edition - Joel Elad - 4.4 out of 5 (73 reviews)
+Book 17 - Machine Learning For Dummies, 2nd Edition - John Paul Mueller, Luca Massaron - None found out of 5 (None found reviews)
+Book 18 - C++ All-in-One For Dummies, 4th Edition - John Paul Mueller - None found out of 5 (None found reviews)
+Book 19 - Raspberry Pi Projects For Dummies - Mike Cook, Jonathan Evans, Brock Craft - 4.4 out of 5 (93 reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Job Interviewing For Dummies
+Author(s): Pamela Skillings
+---
+ISBN-10: 1394192924 - ISBN-13: 9781394192922 - ASIN: B0CLZ1BDKS
+Published Date: 2023-10-26
+Page Count: 375
+---
+Google Books Price: GBP 12.99
+Google Books URL: http://books.google.co.uk/books?id=S6PfEAAAQBAJ&printsec=frontcover&dq=intitle:Job+Interviewing+For+Dummies%2Binauthor:Pamela+Skillings&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $15.00Save $9.99 (40%)
+Amazon.com Reviews: 3.7 of 5 (4 reviews)
+Amazon.com URL: https://www.amazon.com/Job-Interviewing-Dummies-Pamela-Skillings-ebook/dp/B0CLZ1BDKS
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Job-Interviewing-Dummies-Pamela-Skillings/dp/1394192916
+---
+HB Blurb: Job Interviewing For Dummies provides readers with a structured, step-by-step approach to succeed in job interviews. The goal is to level the playing field by providing information, strategies, and examples to empower anyone to present their best self in an interview, with advice on how to anticipate and prepare for the most likely questions. Job Interviewing For Dummies will also offer advice for common challenges and special situations, including: how to prepare for an interview when given short notice; how to explain awkward gaps in your resume; how to brush up rusty interviewing skills if you are out of practice; and how to change your interview approach when want to change careers. The book focuses on actionable advice, with examples and stories from the interview trenches. Successful interviewing is an important lifelong skill and it can be learned. This book will help readers boost their confidence!
+--------------------------------------------------
+
+Book 02:
+Title: Web Coding & Development All-in-One For Dummies, 2nd Edition
+Author(s): Paul McFedries
+---
+ISBN-10: 1394197020 - ISBN-13: 9781394197026 - ASIN: 8126576014
+Published Date: 2024-01-31
+Page Count: 855
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=KnTpEAAAQBAJ&printsec=frontcover&dq=intitle:Web+Coding+%26+Development+All-in-One+For+Dummies,+2nd+Edition%2Binauthor:Paul+McFedries&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (316 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Web-Coding-Development-All-Dummies/dp/8126576014
+---
+HB Blurb: Speak the language that powers the web Whether youre a student learning the coding ropes or a professional trying to expand your skillset, Web Coding & Development All-in-One For Dummies, 2nd Edition is your one stop resource for learning all about the language of the web. This easy-to-understand guide will walk you through the beginning necessities about how web coding and development works as well as branch out into specifics of structuring a page with HTML, building and processing web forms, and much more. Learn how to build a website or create your very own app from the advice of web coding and development experts! 8 Books Inside... - Coding Basics - HTML & CSS - JavaScript - jQuery - PHP & MySQL - Coding Websites - Coding Web Apps - Coding Mobile Apps
+--------------------------------------------------
+
+Book 03:
+Title: Beginning Programming with Python For Dummies, 3rd Edition
+Author(s): John Paul Mueller
+---
+ISBN-10: 1119913772 - ISBN-13: 9781119913771 - ASIN: 1118891457
+Published Date: 2023-01-05
+Page Count: 423
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=9-ubEAAAQBAJ&printsec=frontcover&dq=intitle:Beginning+Programming+with+Python+For+Dummies,+3rd+Edition%2Binauthor:John+Paul+Mueller&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.3 of 5 (298 reviews)
+Amazon.com URL: https://www.amazon.com/Beginning-Programming-Python-Dummies/dp/1118891457
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.7 of 5 (7 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Beginning-Programming-Python-Dummies-Mueller/dp/1119913772
+---
+HB Blurb: DUMMIES = PYTHON MASTERED   Beginning Programming with Python For Dummies 3rd Edition will get new programmers started with the basics of programming with Python. Download the software, create your first application, fix errors in your code, and integrate Python with a variety of data sets and other languages. There is no end to the incredible tasks that programming with Python can allow you to successfully complete. Join the ranks of millions of experienced programmers with help from the For Dummies team.   UPDATES: New chapter: Working with Google Colab New chapter: Working with line and cell magics Expanded information on functions and objects Updated coding examples and graphics
+--------------------------------------------------
+
+Book 04:
+Title: Linux All-In-One For Dummies, 7th Edition
+Author(s): Richard Blum
+---
+ISBN-10: 1119901928 - ISBN-13: 9781119901921 - ASIN: B0BHXKJCKV
+Published Date: 2022-11-16
+Page Count: 583
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=KdGPEAAAQBAJ&printsec=frontcover&dq=intitle:Linux+All-In-One+For+Dummies,+7th+Edition%2Binauthor:Richard+Blum&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $24.00
+Amazon.com Reviews: 4.6 of 5 (39 reviews)
+Amazon.com URL: https://www.amazon.com/Linux-All-One-Dummies-Richard-ebook/dp/B0BHXKJCKV
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (30 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Linux-All-One-Dummies-7th/dp/1119901928
+---
+HB Blurb: Get started with the Linux operating system. Learn how to trouble shoot, get online, and start networking, all with Linux All-in-One For Dummies 7th Edition. This all-inclusive title will cover a wide array of Linux problems, uses, and commonly asked questions, with hands on example problems, so readers can get familiar with Linux.   EIGHT MINI BOOKS: Getting Started with Linux Linux Desktops Networking Administration Managing Linux Servers Security Scripting Linux Certification
+--------------------------------------------------
+
+Book 05:
+Title: Coding with AI For Dummies
+Author(s): Chris Minnick
+---
+ISBN-10: 1394249136 - ISBN-13: 9781394249138 - ASIN: B0CW1LP1RM
+Published Date: 2024-03-26
+Page Count: 343
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=VA_0EAAAQBAJ&printsec=frontcover&dq=intitle:Coding+with+AI+For+Dummies%2Binauthor:Chris+Minnick&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $18.00
+Amazon.com Reviews: 5 of 5 (4 reviews)
+Amazon.com URL: https://www.amazon.com/Coding-AI-Dummies-Chris-Minnick-ebook/dp/B0CW1LP1RM
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (72 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Coding-All-Dummies-Chris-Minnick-ebook/dp/B0B5BBNW9L
+---
+HB Blurb: Write better code faster with the help of AI Coders were among the first professions to embrace the help of artificial intelligence tools in their work. From process automation to code optimization to handling core tasks like documentation, debugging, and updating, artificial intelligence helps coders focus on the core of their development work. This book shares all the secrets early coding AI adopters have learned as it introduces key coding assistant platforms and walks readers through how to apply these tools to make coding a smoother process. Inside... Understanding what AI can and can't (currently) do for coders Exploring the current AI coding platforms Generating code lines with AI Improving code quality and performance Debugging and translating code with AI Documenting your work Updating existing code
+--------------------------------------------------
+
+Book 06:
+Title: SQL All-in-One For Dummies, 4th Edition
+Author(s): Allen G. Taylor, Richard Blum
+---
+ISBN-10: 1119569591 - ISBN-13: 9781119569596 - ASIN: 1394242298
+Published Date: 2019-04-01
+Page Count: 967
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=0wGQDwAAQBAJ&printsec=frontcover&dq=intitle:SQL+All-in-One+For+Dummies,+4th+Edition%2Binauthor:Allen+G.+Taylor,+Richard+Blum&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/All-One-Dummies-Computer-Tech/dp/1394242298
+---
+HB Blurb: Take full control of your data with SQL We live in a data-driven world and it takes some know-how to make all that data behave in a way that makes it useful. SQL serves as a traffic cop of sorts for data. The language can be used to create and fill a database, access and edit data, and protect data from corruption. This book shows you how to do all those things as you work toward building functional databases and data applications that reveal new insights hidden in your data. 7 Books In 1! SQL Concepts Relational Database Development SQL Queries Data Security SQL and Programming SQL and XML Database Tuning Overview
+--------------------------------------------------
+
+Book 07:
+Title: Writing AI Prompts For Dummies
+Author(s): Stephanie Diamond, Jeffrey Allan
+---
+ISBN-10: 1394244673 - ISBN-13: 9781394244676 - ASIN: B0CZSKPZ54
+Published Date: 2024-04-02
+Page Count: 295
+---
+Google Books Price: GBP 12.99
+Google Books URL: http://books.google.co.uk/books?id=s_H-EAAAQBAJ&printsec=frontcover&dq=intitle:Writing+AI+Prompts+For+Dummies%2Binauthor:Stephanie+Diamond,+Jeffrey+Allan&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Writing-Prompts-Dummies-Stephanie-Diamond-ebook/dp/B0CZSKPZ54
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Writing-Prompts-Dummies-Computer-Tech/dp/1394244665
+---
+HB Blurb: Why learn how to write AI prompts? We asked ChatGPT (and edited a bit)... Learning how to write AI prompts can provide you with several benefits and opportunities, depending on your interests and goals. You might consider learning prompt engineering to enhance AI interaction, customize your results, solve specific problems, explore and enhance creative ideas, save time on repetitive tasks (like writing tip sheets), assist in conducting research, or innovate your business. This book covers all those needs, walking you through leading platforms and how to mine great results with effective prompts. Inside: Explore the lay of the AI landscape Understand how platforms are the same or differ Write basic text prompts Create AI generated photos and illustrations Hire AI as a research assistant Discover how prompt-writing will influence your career path
+--------------------------------------------------
+
+Book 08:
+Title: 3D Printing For Dummies, 3rd Edition
+Author(s): Richard Horne
+---
+ISBN-10: 1119386314 - ISBN-13: 9781119386315 - ASIN: B0CHHKY5HK
+Published Date: 2017-05-22
+Page Count: 408
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=x08nDwAAQBAJ&printsec=frontcover&dq=intitle:3D+Printing+For+Dummies,+3rd+Edition%2Binauthor:Richard+Horne&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $18.00
+Amazon.com Reviews: 3.7 of 5 (8 reviews)
+Amazon.com URL: https://www.amazon.com/3D-Printing-Dummies-Richard-Horne-ebook/dp/B0CHHKY5HK
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.9 of 5 (12 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/3D-Printing-Dummies-Richard-Horne/dp/1394169477
+---
+HB Blurb: 3D printers improve manufacturing time to market for big business and bring rapid prototyping capabilities to small businesses and startups. 3D Printing For Dummies, 3e serves as an easy reference for those new to the 3D printing community, as well as for more experienced users looking to learn the latest and greatest. This edition will be updated for the latest generation of machines, materials, and their use in various industries and sectors.
+--------------------------------------------------
+
+Book 09:
+Title: ChatGPT For Dummies
+Author(s): Pam Baker
+---
+ISBN-10: 1394204655 - ISBN-13: 9781394204656 - ASIN: B0C63LZ6DN
+Published Date: 2023-05-22
+Page Count: 183
+---
+Google Books Price: GBP 11.99
+Google Books URL: http://books.google.co.uk/books?id=VUfAEAAAQBAJ&printsec=frontcover&dq=intitle:ChatGPT+For+Dummies%2Binauthor:Pam+Baker&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $12.00Save $7.99 (40%)
+Amazon.com Reviews: 3.6 of 5 (118 reviews)
+Amazon.com URL: https://www.amazon.com/ChatGPT-Dummies-Pam-Baker-ebook/dp/B0C63LZ6DN
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/ChatGPT-Dummies-Pam-Baker-ebook/dp/B0C63LZ6DN
+---
+HB Blurb: This text was not written by ChatGPT. ChatGPT has sent ripples through the worlds of professional communication and education with its ability to generate clear text answers based on simple queries. While ChatGPT is capable of doing things like writing marketing copy for a tip sheet (we assure you, that is not the case with this one other than one section), the ideas for how to use it and when to use it are up for debate. This book drills down into how ChatGPT works and how it can be a help, or hindrance, in the worlds of communication, education, and others. Written by a journalist who's been on the front lines of artificial intelligence for over a decade, this book helps make the promise of generative AI a reality. Inside... How ChatGPT fits into the world of OpenAI Harnessing the power of ChatGPT as a chatbot Looking under the ChatGPT hood Ethical application of ChatGPT and other AI tools Writing queries that deliver the response you want A look into the near future of generative AI
+--------------------------------------------------
+
+Book 10:
+Title: GitHub For Dummies, 2nd Edition
+Author(s): Sarah Guthals
+---
+ISBN-10: 1394159188 - ISBN-13: 9781394159185 - ASIN: 1394159161
+Published Date: 2023-01-27
+Page Count: 359
+---
+Google Books Price: GBP 17.99
+Google Books URL: http://books.google.co.uk/books?id=yCaqEAAAQBAJ&printsec=frontcover&dq=intitle:GitHub+For+Dummies,+2nd+Edition%2Binauthor:Sarah+Guthals&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 3.8 of 5 (8 reviews)
+Amazon.com URL: https://www.amazon.com/GitHub-Dummies-Sarah-Guthals/dp/1394159161
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.7 of 5 (7 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/GitHub-Dummies-Sarah-Guthals-ebook/dp/B0BTB7W4YN
+---
+HB Blurb: GitHub is the worlds largest software development platform. It provides cloud storage for source code, supports all popular programming languages, and streamlines the iteration process. If a company wants to create effective, high-quality software, they need excellent collaboration amongst their engineers, developers, product managers, and analysts. GitHub is the tool that makes this collaboration possible, and GitHub For Dummies, 2e is the must-have guide to understand its ins & outs. Packed with insight from a former GitHub engineering manager, GitHub For Dummies, 2e gives novice software developers the instructions they need for creating collaborative projects, enhancing teamwork, and drawing off the work others have done before them. Inside, readers will learn how to set up their GitHub desktop, create a repository, launch their first project, maximize workflow, and so much more!
+--------------------------------------------------
+
+Book 11:
+Title: Scrum For Dummies, 3rd Edition
+Author(s): Mark C. Layton, Steven J. Ostermiller, Dean J. Kynaston
+---
+ISBN-10: 1119904668 - ISBN-13: 9781119904663 - ASIN: 
+Published Date: 2022-11-16
+Page Count: 439
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=mK6REAAAQBAJ&printsec=frontcover&dq=intitle:Scrum+For+Dummies,+3rd+Edition%2Binauthor:Mark+C.+Layton,+Steven+J.+Ostermiller,+Dean+J.+Kynaston&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Scrum-FD-Dummies-Computer-Tech/dp/1119904668
+---
+HB Blurb: Scrum is an agile project management framework that allows for flexibility and collaboration to be a part of your workflow. Primarily used by software developers, scrum can be used in across many job functions and industries. Scrum can also be used in your personal life, to help you plan for retirement, planning travel, or even planning a wedding or event. Scrum For Dummies 3e shows you how to plan projects, releases, and sprints for all aspects of business and life. Its packed with helpful information to empower you to set up your first scrum project, organize the scrum team, integrate it into your agile project management strategy, and so much more!   Updates include: Conform with 2020s scrum guide Update with content more relevant to todays challenges Include more non-software examples
+--------------------------------------------------
+
+Book 12:
+Title: Java For Dummies, 8th Edition
+Author(s): Barry Burd
+---
+ISBN-10: 1119861640 - ISBN-13: 9781119861645 - ASIN: B09VBGKNJM
+Published Date: 2022-04-12
+Page Count: 519
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=tcZ6EAAAQBAJ&printsec=frontcover&dq=intitle:Java+For+Dummies,+8th+Edition%2Binauthor:Barry+Burd&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $18.00
+Amazon.com Reviews: 4.6 of 5 (60 reviews)
+Amazon.com URL: https://www.amazon.com/Java-Dummies-Barry-Burd-ebook/dp/B09VBGKNJM
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 0 of 5 (57 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Java-Dummies-Barry-Burd-ebook/dp/B09VBGKNJM
+---
+HB Blurb: LEARN FROM THE BESTSELLING JAVA GUIDE!   Java For Dummies 8e will take readers step-by-step through learning Java. Updated with the newest modifications to Java from 2020 and 2021, this book is filled with tutorials, tips, and comprehensive knowledge needed to program like a pro. It covers object-oriented programming basics with Java, code reuse, and the essentials of creating a Java program.   UPDATES: Refer to Java 17 as the latest long-term-support release. Add brief instructions on installing Java and IntelliJ. Add titles to the Try It Out exercises so that they're easier to reference. Change the structure of the downloaded code file so that it's much smaller and change the book's instructions accordingly. Cover the new switch statement syntax and switch expressions; minimize coverage of the old syntax. Use text blocks in examples. Use the var keyword in examples. Add some material on modules.
+--------------------------------------------------
+
+Book 13:
+Title: CISSP For Dummies, 7th Edition
+Author(s): Lawrence C. Miller, Peter H.Gregory
+---
+ISBN-10: 047059991X - ISBN-13: 9780470599914 - ASIN: 1119806828
+Published Date: 2009-11-12
+Page Count: 566
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=nf_ECneNZlsC&printsec=frontcover&dq=intitle:CISSP+For+Dummies,+7th+Edition%2Binauthor:Lawrence+C.+Miller,+Peter+H.Gregory&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (88 reviews)
+Amazon.com URL: https://www.amazon.com/CISSP-Dummies-Computer-Tech/dp/1119806828
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (76 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/CISSP-Dummies-Computer-Tech/dp/1119806828
+---
+HB Blurb: Secure your CISSP certification! CISSP For Dummies, Seventh Edition is the study tool you need to succeed. This book is written by the CISSP experts, and it covers, in detail, all eight domains. The expert advice in this book gives Security Professionals key information youll need to pass the exam. And, go beyond the material! You'll get tips on setting up a 60-day study plan, tips for exam day, and access to an online test bank of questions. UPDATES: Expanded coverage for all non-English exams offered New individual objectives within Domains Privacy regulations New technologies
+--------------------------------------------------
+
+Book 14:
+Title: C# 10.0 All-in-One For Dummies
+Author(s): John Paul Mueller
+---
+ISBN-10: 1119839076 - ISBN-13: 9781119839071 - ASIN: 
+Published Date: 2022-03-02
+Page Count: 871
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=HvRWEAAAQBAJ&printsec=frontcover&dq=intitle:C%23+10.0+All-in-One+For+Dummies%2Binauthor:John+Paul+Mueller&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.5 of 5 (53 reviews)
+Amazon.com URL: https://www.amazon.com/10-0-All-One-Dummies-Computer/dp/1119839076
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (40 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/10-0-All-One-Dummies-Computer/dp/1119839076
+---
+HB Blurb: SHARPEN YOUR CODING SKILLS   If an easy-to-read guide on one of the most popular coding languages is what you need, look no further. C# 10.0 All-in-One For Dummies will teach aspiring coders, and professionals looking to refresh on C#, all the basics of this language. Get an intro to Visual Studio, learn object-oriented C# programming, and join a community dedicated to this language.   Updates:  Fully updated for the newest edition of C# (10.0) Records Init only setters Top-level statements Pattern matching enhancements Performance and interop Native sized integers Function pointers Fit and finish features Target-typed new expressions static anonymous functions Target-typed conditional expressions Covariant return types Extension GetEnumerator support for foreach loops Lambda discard parameters Attributes on local functions Module initializers New features for partial methods  More examples Updated for use with Windows 10
+--------------------------------------------------
+
+Book 15:
+Title: Excel Formulas & Functions For Dummies, 6th Edition
+Author(s): Ken Bluttman
+---
+ISBN-10: 0470770244 - ISBN-13: 9780470770245 - ASIN: 1119839114
+Published Date: 2010-04-15
+Page Count: 332
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=Aeke2684YmUC&printsec=frontcover&dq=intitle:Excel+Formulas+%26+Functions+For+Dummies,+6th+Edition%2Binauthor:Ken+Bluttman&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.5 of 5 (98 reviews)
+Amazon.com URL: https://www.amazon.com/Excel-Formulas-Functions-Dummies-Computer/dp/1119839114
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (92 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Excel-Formulas-Functions-Dummies-Computer/dp/1119839114
+---
+HB Blurb: FORMULA (FOR DUMMIES = BEST RESOURCE)   Learn the functions and formulas of Excel like never before with Excel Formulas & Functions For Dummies 6e. This comprehensive guide will take readers and excel users through the basics of setting up formulas and guide them through more advanced skills like visualizing data. Over 100 of the most useful functions to be covered!
+--------------------------------------------------
+
+Book 16:
+Title: LinkedIn For Dummies, 6th Edition
+Author(s): Joel Elad
+---
+ISBN-10: 1119695392 - ISBN-13: 9781119695394 - ASIN: B091336VFY
+Published Date: 2021-03-19
+Page Count: 384
+---
+Google Books Price: GBP 14.99
+Google Books URL: http://books.google.co.uk/books?id=rvYkEAAAQBAJ&printsec=frontcover&dq=intitle:LinkedIn+For+Dummies,+6th+Edition%2Binauthor:Joel+Elad&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $16.00Save $10.99 (41%)
+Amazon.com Reviews: 4.4 of 5 (73 reviews)
+Amazon.com URL: https://www.amazon.com/LinkedIn-Dummies-Joel-Elad-ebook/dp/B091336VFY
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (63 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/LinkedIn-Dummies-Joel-Elad-ebook/dp/B091336VFY
+---
+HB Blurb: Make LinkedIn your number one professional branding tool. LinkedIn is the premiere social network for all professionals looking to discover new opportunities, enhance personal branding, connect with other professionals, and make advancements in a career. With LinkedIn For Dummies, 6th Edition, you will have all of the latest tools, features, and information at your fingertips to help you do all of this and more. This book will teach you how to create an attractive profile that employers will notice, as well as ways to expand your network by making connections around the globe. You'll also learn how to best navigate the new profile user interface and updated activities, which include reactions, and job search, and recruitment tools. Inside:  Monitoring your LinkedIn activities  Requesting and writing recommendations  Managing and making introductions via InMail  Selling yourself by adding skills, awards, and endorsements to your profile  Following leaders and companies on LinkedIn  Making connections with LinkedIn groups  Marketing yourself in an effective manner
+--------------------------------------------------
+
+Book 17:
+Title: Machine Learning For Dummies, 2nd Edition
+Author(s): John Paul Mueller, Luca Massaron
+---
+ISBN-10: 1119724015 - ISBN-13: 9781119724018 - ASIN: 
+Published Date: 2021-02-09
+Page Count: 471
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=B-USEAAAQBAJ&printsec=frontcover&dq=intitle:Machine+Learning+For+Dummies,+2nd+Edition%2Binauthor:John+Paul+Mueller,+Luca+Massaron&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (91 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Machine-Learning-Dummies-Computer-Tech/dp/1119724015
+---
+HB Blurb: Machine learning is an exciting new way to use computers to perform tasks that require the ability to learn from experience. In order to make machine learning a reality, programmers rely on special languages, such as Python and R, and new types of tools. Machine Learning For Dummies helps the reader understand what machine learning is, when it can help perform a new class of computer tasks, and how to implement machine learning using Python, along with the required tools. Unlike most machine learning books, Machine Learning For Dummies does not assume that the reader has years of experience using programming languages. This book provides the much-needed entry point for people who really could use machine learning to accomplish practical tasks, but don't necessarily have the skills required to use on more advanced books. This book will cover the entry level materials required to get readers up and running faster, how to perform practical tasks, how to perform useful work without getting overly involved in the underlying math principles, fun ways to play with new tools and learn as a result, and how to separate facts from myth to see how machine learning is useful in today's world. Updates include:  Remove all of the R code from the book and provide a dual treatment of R and Python  Correct all coding errors that readers have noticed  Update all graphics  Implement more diagrams to better indicate how things work  Make the text friendlier with more real-world examples
+--------------------------------------------------
+
+Book 18:
+Title: C++ All-in-One For Dummies, 4th Edition
+Author(s): John Paul Mueller
+---
+ISBN-10: 0470317353 - ISBN-13: 9780470317358 - ASIN: 1119601746
+Published Date: 2009-08-31
+Page Count: 866
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=GRSketw4BZAC&printsec=frontcover&dq=intitle:C%2B%2B+All-in-One+For+Dummies,+4th+Edition%2Binauthor:John+Paul+Mueller&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (159 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/All-One-Dummies-Computer-Tech/dp/1119601746
+---
+HB Blurb: C++ All-In-One For Dummies, 4th Edition is 8 books in 1! Each minibook addresses a different aspect of C++ Programming: * In-depth coverage of the most important aspects of the programming language and how to tackle specific challenges. * Introduces readers to the nuances of Visual C++.NET. * Teaches readers how to get integrated with the rest of Visual Studio. * Includes chapters that explore the use of C++ for specific applications, such as game programming, creating enterprise applications, and creating Web services applications. * Appendixes provide installation and use instructions for the available free compilers.
+--------------------------------------------------
+
+Book 19:
+Title: Raspberry Pi Projects For Dummies
+Author(s): Mike Cook, Jonathan Evans, Brock Craft
+---
+ISBN-10: 1118766695 - ISBN-13: 9781118766699 - ASIN: 
+Published Date: 2015-07-13
+Page Count: 523
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=oejWCQAAQBAJ&printsec=frontcover&dq=intitle:Raspberry+Pi+Projects+For+Dummies%2Binauthor:Mike+Cook,+Jonathan+Evans,+Brock+Craft&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.4 of 5 (93 reviews)
+Amazon.com URL: https://www.amazon.com/Raspberry-Projects-Dummies-Mike-Cook/dp/1118766695
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (91 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Raspberry-Projects-Dummies-Mike-Cook/dp/1118766695
+---
+HB Blurb: The Raspberry Pi is cheap, fun and programmable, and as such it opens up a whole world of possibilities. Following up on the successful Raspberry Pi For Dummies, Raspberry Pi Projects For Dummies gives you wonderful projects to work on while you learn the great capabilities of this marvellous small computer. You will learn how to program, how to get to grips with computer sysadmin and how to understand computing architecture. Written by Raspberry Pi For Dummies co-author Mike Cook, and a team of experts in the field, the book starts out with a guide to preparing for your project, including assembling the tools youll need, soldering and desoldering, using test equipment, accessing the GPIO (the Pis General Purpose Input/Output port) and then goes on to show you how to:   Have fun with LEDs   Create a magic light wand   Play with a webcam and computer vision   Build Raspberry Pi games   Enhance the Pis capabilities with LegoTM   Directly access Lego sensors   Install RISC OS   Write programs for the RISC OS   And much, much more Raspberry Pi Projects For Dummies will be the ideal companion when you are starting your journey with the Raspberry Pi.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Job Interviewing For Dummies
+https://www.amazon.com/Job-Interviewing-Dummies-Pamela-Skillings-ebook/dp/B0CLZ1BDKS
+https://www.amazon.co.uk/Job-Interviewing-Dummies-Pamela-Skillings/dp/1394192916
+http://books.google.co.uk/books?id=S6PfEAAAQBAJ&printsec=frontcover&dq=intitle:Job+Interviewing+For+Dummies%2Binauthor:Pamela+Skillings&hl=&cd=1&source=gbs_api
+
+Book 02 - Web Coding & Development All-in-One For Dummies, 2nd Edition
+No Amazon.com URL found
+https://www.amazon.co.uk/Web-Coding-Development-All-Dummies/dp/8126576014
+http://books.google.co.uk/books?id=KnTpEAAAQBAJ&printsec=frontcover&dq=intitle:Web+Coding+%26+Development+All-in-One+For+Dummies,+2nd+Edition%2Binauthor:Paul+McFedries&hl=&cd=1&source=gbs_api
+
+Book 03 - Beginning Programming with Python For Dummies, 3rd Edition
+https://www.amazon.com/Beginning-Programming-Python-Dummies/dp/1118891457
+https://www.amazon.co.uk/Beginning-Programming-Python-Dummies-Mueller/dp/1119913772
+http://books.google.co.uk/books?id=9-ubEAAAQBAJ&printsec=frontcover&dq=intitle:Beginning+Programming+with+Python+For+Dummies,+3rd+Edition%2Binauthor:John+Paul+Mueller&hl=&cd=1&source=gbs_api
+
+Book 04 - Linux All-In-One For Dummies, 7th Edition
+https://www.amazon.com/Linux-All-One-Dummies-Richard-ebook/dp/B0BHXKJCKV
+https://www.amazon.co.uk/Linux-All-One-Dummies-7th/dp/1119901928
+http://books.google.co.uk/books?id=KdGPEAAAQBAJ&printsec=frontcover&dq=intitle:Linux+All-In-One+For+Dummies,+7th+Edition%2Binauthor:Richard+Blum&hl=&cd=1&source=gbs_api
+
+Book 05 - Coding with AI For Dummies
+https://www.amazon.com/Coding-AI-Dummies-Chris-Minnick-ebook/dp/B0CW1LP1RM
+https://www.amazon.co.uk/Coding-All-Dummies-Chris-Minnick-ebook/dp/B0B5BBNW9L
+http://books.google.co.uk/books?id=VA_0EAAAQBAJ&printsec=frontcover&dq=intitle:Coding+with+AI+For+Dummies%2Binauthor:Chris+Minnick&hl=&cd=1&source=gbs_api
+
+Book 06 - SQL All-in-One For Dummies, 4th Edition
+No Amazon.com URL found
+https://www.amazon.co.uk/All-One-Dummies-Computer-Tech/dp/1394242298
+http://books.google.co.uk/books?id=0wGQDwAAQBAJ&printsec=frontcover&dq=intitle:SQL+All-in-One+For+Dummies,+4th+Edition%2Binauthor:Allen+G.+Taylor,+Richard+Blum&hl=&cd=1&source=gbs_api
+
+Book 07 - Writing AI Prompts For Dummies
+https://www.amazon.com/Writing-Prompts-Dummies-Stephanie-Diamond-ebook/dp/B0CZSKPZ54
+https://www.amazon.co.uk/Writing-Prompts-Dummies-Computer-Tech/dp/1394244665
+http://books.google.co.uk/books?id=s_H-EAAAQBAJ&printsec=frontcover&dq=intitle:Writing+AI+Prompts+For+Dummies%2Binauthor:Stephanie+Diamond,+Jeffrey+Allan&hl=&cd=1&source=gbs_api
+
+Book 08 - 3D Printing For Dummies, 3rd Edition
+https://www.amazon.com/3D-Printing-Dummies-Richard-Horne-ebook/dp/B0CHHKY5HK
+https://www.amazon.co.uk/3D-Printing-Dummies-Richard-Horne/dp/1394169477
+http://books.google.co.uk/books?id=x08nDwAAQBAJ&printsec=frontcover&dq=intitle:3D+Printing+For+Dummies,+3rd+Edition%2Binauthor:Richard+Horne&hl=&cd=1&source=gbs_api
+
+Book 09 - ChatGPT For Dummies
+https://www.amazon.com/ChatGPT-Dummies-Pam-Baker-ebook/dp/B0C63LZ6DN
+https://www.amazon.co.uk/ChatGPT-Dummies-Pam-Baker-ebook/dp/B0C63LZ6DN
+http://books.google.co.uk/books?id=VUfAEAAAQBAJ&printsec=frontcover&dq=intitle:ChatGPT+For+Dummies%2Binauthor:Pam+Baker&hl=&cd=1&source=gbs_api
+
+Book 10 - GitHub For Dummies, 2nd Edition
+https://www.amazon.com/GitHub-Dummies-Sarah-Guthals/dp/1394159161
+https://www.amazon.co.uk/GitHub-Dummies-Sarah-Guthals-ebook/dp/B0BTB7W4YN
+http://books.google.co.uk/books?id=yCaqEAAAQBAJ&printsec=frontcover&dq=intitle:GitHub+For+Dummies,+2nd+Edition%2Binauthor:Sarah+Guthals&hl=&cd=1&source=gbs_api
+
+Book 11 - Scrum For Dummies, 3rd Edition
+No Amazon.com URL found
+https://www.amazon.co.uk/Scrum-FD-Dummies-Computer-Tech/dp/1119904668
+http://books.google.co.uk/books?id=mK6REAAAQBAJ&printsec=frontcover&dq=intitle:Scrum+For+Dummies,+3rd+Edition%2Binauthor:Mark+C.+Layton,+Steven+J.+Ostermiller,+Dean+J.+Kynaston&hl=&cd=1&source=gbs_api
+
+Book 12 - Java For Dummies, 8th Edition
+https://www.amazon.com/Java-Dummies-Barry-Burd-ebook/dp/B09VBGKNJM
+https://www.amazon.co.uk/Java-Dummies-Barry-Burd-ebook/dp/B09VBGKNJM
+http://books.google.co.uk/books?id=tcZ6EAAAQBAJ&printsec=frontcover&dq=intitle:Java+For+Dummies,+8th+Edition%2Binauthor:Barry+Burd&hl=&cd=1&source=gbs_api
+
+Book 13 - CISSP For Dummies, 7th Edition
+https://www.amazon.com/CISSP-Dummies-Computer-Tech/dp/1119806828
+https://www.amazon.co.uk/CISSP-Dummies-Computer-Tech/dp/1119806828
+http://books.google.co.uk/books?id=nf_ECneNZlsC&printsec=frontcover&dq=intitle:CISSP+For+Dummies,+7th+Edition%2Binauthor:Lawrence+C.+Miller,+Peter+H.Gregory&hl=&cd=1&source=gbs_api
+
+Book 14 - C# 10.0 All-in-One For Dummies
+https://www.amazon.com/10-0-All-One-Dummies-Computer/dp/1119839076
+https://www.amazon.co.uk/10-0-All-One-Dummies-Computer/dp/1119839076
+http://books.google.co.uk/books?id=HvRWEAAAQBAJ&printsec=frontcover&dq=intitle:C%23+10.0+All-in-One+For+Dummies%2Binauthor:John+Paul+Mueller&hl=&cd=1&source=gbs_api
+
+Book 15 - Excel Formulas & Functions For Dummies, 6th Edition
+https://www.amazon.com/Excel-Formulas-Functions-Dummies-Computer/dp/1119839114
+https://www.amazon.co.uk/Excel-Formulas-Functions-Dummies-Computer/dp/1119839114
+http://books.google.co.uk/books?id=Aeke2684YmUC&printsec=frontcover&dq=intitle:Excel+Formulas+%26+Functions+For+Dummies,+6th+Edition%2Binauthor:Ken+Bluttman&hl=&cd=1&source=gbs_api
+
+Book 16 - LinkedIn For Dummies, 6th Edition
+https://www.amazon.com/LinkedIn-Dummies-Joel-Elad-ebook/dp/B091336VFY
+https://www.amazon.co.uk/LinkedIn-Dummies-Joel-Elad-ebook/dp/B091336VFY
+http://books.google.co.uk/books?id=rvYkEAAAQBAJ&printsec=frontcover&dq=intitle:LinkedIn+For+Dummies,+6th+Edition%2Binauthor:Joel+Elad&hl=&cd=1&source=gbs_api
+
+Book 17 - Machine Learning For Dummies, 2nd Edition
+No Amazon.com URL found
+https://www.amazon.co.uk/Machine-Learning-Dummies-Computer-Tech/dp/1119724015
+http://books.google.co.uk/books?id=B-USEAAAQBAJ&printsec=frontcover&dq=intitle:Machine+Learning+For+Dummies,+2nd+Edition%2Binauthor:John+Paul+Mueller,+Luca+Massaron&hl=&cd=1&source=gbs_api
+
+Book 18 - C++ All-in-One For Dummies, 4th Edition
+No Amazon.com URL found
+https://www.amazon.co.uk/All-One-Dummies-Computer-Tech/dp/1119601746
+http://books.google.co.uk/books?id=GRSketw4BZAC&printsec=frontcover&dq=intitle:C%2B%2B+All-in-One+For+Dummies,+4th+Edition%2Binauthor:John+Paul+Mueller&hl=&cd=1&source=gbs_api
+
+Book 19 - Raspberry Pi Projects For Dummies
+https://www.amazon.com/Raspberry-Projects-Dummies-Mike-Cook/dp/1118766695
+https://www.amazon.co.uk/Raspberry-Projects-Dummies-Mike-Cook/dp/1118766695
+http://books.google.co.uk/books?id=oejWCQAAQBAJ&printsec=frontcover&dq=intitle:Raspberry+Pi+Projects+For+Dummies%2Binauthor:Mike+Cook,+Jonathan+Evans,+Brock+Craft&hl=&cd=1&source=gbs_api
+
