@@ -1,0 +1,628 @@
+Humble Tech Book Bundle- Generative AI by Packt - Packt
+Processing date: 2024-06-06
+Data retrieved from: https://www.humblebundle.com/books/generative-ai-packt-books
+
+Book 01 - Machine Learning with PyTorch and Scikit-Learn - Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili, Dmytro Dzhulgakov - None found out of 5 (None found reviews)
+Book 02 - AWS Certified Machine Learning - Specialty (MLS-C01) Certification Guide - Somanath Nanda, Weslley Moura - None found out of 5 (None found reviews)
+Book 03 - Generative AI with LangChain - Ben Auffarth - 4.3 out of 5 (18 reviews)
+Book 04 - The AI Product Manager's Handbook - Irene Bratsis - 4.3 out of 5 (35 reviews)
+Book 05 - Modern Generative AI with ChatGPT and OpenAI Models - Valentina Alto - 4.1 out of 5 (34 reviews)
+Book 06 - Interpretable Machine Learning with Python - Serg Masís, Aleksander Molak, Denis Rothman - None found out of 5 (None found reviews)
+Book 07 - Transformers for Natural Language Processing and Computer Vision - Denis Rothman - None found out of 5 (None found reviews)
+Book 08 - Pretrain Vision and Large Language Models in Python - Emily Webber, Andrea Olgiati - 4.1 out of 5 (22 reviews)
+Book 09 - Natural Language Understanding with Python - Deborah A. Dahl - 5 out of 5 (1 reviews)
+Book 10 - Unlocking the Secrets of Prompt Engineering - Gilbert Mizrahi, Daniel Serfaty - 5 out of 5 (9 reviews)
+Book 11 - The Definitive Guide to Google Vertex AI - Jasmeet Bhatia, Kartik Chaudhary - 5 out of 5 (5 reviews)
+Book 12 - Automate It with Zapier and Generative AI - Kelly Goss, Philip Lakin - 5 out of 5 (7 reviews)
+Book 13 - Mastering NLP from Foundations to LLMs - Lior Gazit, Meysam Ghaffari, Asha Saxena - 5 out of 5 (1 reviews)
+Book 14 - Generative AI for Cloud Solutions - Paul Singh, Anurag Karuparti, John Maeda - None found out of 5 (None found reviews)
+Book 15 - Generating Creative Images with Dall-E 3 - Holly Picano - 5 out of 5 (3 reviews)
+Book 16 - Building AI Applications with ChatGPT APIs - Martin Yanev - 3.9 out of 5 (19 reviews)
+Book 17 - Machine Learning for Algorithmic Trading - Stefan Jansen - 4.4 out of 5 (319 reviews)
+Book 18 - Hands-On Graph Neural Networks Using Python - Maxime Labonne - 4.1 out of 5 (32 reviews)
+Book 19 - Responsible AI in the Enterprise - Adnan Masood, Heather Dawe, Ed Price, Dr. Ehsan Adeli - None found out of 5 (None found reviews)
+Book 20 - Python Machine Learning - Sebastian Raschka, Vahid Mirjalili - 4.5 out of 5 (443 reviews)
+Book 21 - Generative AI with Python and TensorFlow 2 - Joseph Babcock, Raghav Bali - 4.2 out of 5 (41 reviews)
+Book 22 - The Machine Learning Workshop - Hyatt Saleh - 4.6 out of 5 (12 reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Machine Learning with PyTorch and Scikit-Learn
+Author(s): Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili, Dmytro Dzhulgakov
+---
+ISBN-10: 1801816387 - ISBN-13: 9781801816380 - ASIN: 1801819319
+Published Date: 2022-02-25
+Page Count: 775
+---
+Google Books Price: GBP 20.79
+Google Books URL: http://books.google.co.uk/books?id=SVxaEAAAQBAJ&printsec=frontcover&dq=intitle:Machine+Learning+with+PyTorch+and+Scikit-Learn%2Binauthor:Sebastian+Raschka,+Yuxi+(Hayden)+Liu,+Vahid+Mirjalili,+Dmytro+Dzhulgakov&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Machine-Learning-PyTorch-Scikit-Learn-learning/dp/1801819319
+---
+HB Blurb: Key FeaturesLearn applied machine learning with a solid foundation in theoryClear, intuitive explanations take you deep into the theory and practice of Python machine learningFully updated and expanded to cover PyTorch, transformers, XGBoost, graph neural networks, and best practicesWho this book is forIf you have a good grasp of Python basics and want to start learning about machine learning and deep learning, then this is the book for you. This is an essential resource written for developers and data scientists who want to create practical machine learning and deep learning applications using scikit-learn and PyTorch.Before you get started with this book, you’ll need a good understanding of calculus, as well as linear algebra.
+--------------------------------------------------
+
+Book 02:
+Title: AWS Certified Machine Learning - Specialty (MLS-C01) Certification Guide
+Author(s): Somanath Nanda, Weslley Moura
+---
+ISBN-10: 1835082904 - ISBN-13: 9781835082904 - ASIN: 1835082203
+Published Date: 2024-02-29
+Page Count: 343
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=Q6n4EAAAQBAJ&printsec=frontcover&dq=intitle:AWS+Certified+Machine+Learning+-+Specialty+(MLS-C01)+Certification+Guide%2Binauthor:Somanath+Nanda,+Weslley+Moura&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/AWS-Certified-Machine-Learning-Certification/dp/1835082203
+---
+HB Blurb: Key FeaturesGain proficiency in AWS machine learning services to excel in the MLS-C01 examBuild model training and inference pipelines and deploy machine learning models to the AWS cloudPractice on the go with the mobile-friendly bonus website, accessible with the bookPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is designed for both students and professionals preparing for the AWS Certified Machine Learning Specialty exam or enhance their understanding of machine learning, with a specific emphasis on AWS. Familiarity with machine learning basics and AWS services is recommended to fully benefit from this book.
+--------------------------------------------------
+
+Book 03:
+Title: Generative AI with LangChain
+Author(s): Ben Auffarth
+---
+ISBN-10: 1835088368 - ISBN-13: 9781835088364 - ASIN: B0CBBL55PQ
+Published Date: 2023-12-22
+Page Count: 361
+---
+Google Books Price: GBP 19.49
+Google Books URL: http://books.google.co.uk/books?id=cOrpEAAAQBAJ&printsec=frontcover&dq=intitle:Generative+AI+with+LangChain%2Binauthor:Ben+Auffarth&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.3 of 5 (18 reviews)
+Amazon.com URL: https://www.amazon.com/Generative-AI-LangChain-language-ChatGPT-ebook/dp/B0CBBL55PQ
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4 of 5 (25 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Generative-AI-LangChain-language-ChatGPT/dp/1835083463
+---
+HB Blurb: Key FeaturesLearn how to leverage LLMs’ capabilities and work around their inherent weaknessesDelve into the realm of LLMs with LangChain and go on an in-depth exploration of their fundamentals, ethical dimensions, and application challengesGet better at using ChatGPT and GPT models, from heuristics and training to scalable deployment, empowering you to transform ideas into realityWho this book is forThe book is for developers, researchers, and anyone interested in learning more about LLMs. Whether you are a beginner or an experienced developer, this book will serve as a valuable resource if you want to get the most out of LLMs and are looking to stay ahead of the curve in the LLMs and LangChain arena.Basic knowledge of Python is a prerequisite, while some prior exposure to machine learning will help you follow along more easily.
+--------------------------------------------------
+
+Book 04:
+Title: The AI Product Manager's Handbook
+Author(s): Irene Bratsis
+---
+ISBN-10: 1804617334 - ISBN-13: 9781804617335 - ASIN: B0BRCW95ZQ
+Published Date: 2023-02-28
+Page Count: 250
+---
+Google Books Price: GBP 31.19
+Google Books URL: http://books.google.co.uk/books?id=UDWxEAAAQBAJ&printsec=frontcover&dq=intitle:The+AI+Product+Manager%27s+Handbook%2Binauthor:Irene+Bratsis&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.3 out of 5 (35 reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.1 of 5 (28 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/AI-Product-Managers-Handbook-advantage-ebook/dp/B0BRCW95ZQ
+---
+HB Blurb: Key FeaturesBuild products that leverage AI for the common good and commercial successTake macro data and use it to show your customers you’re a source of truthBest practices and common pitfalls that impact companies while developing AI productWho this book is forThis book is for product managers and other professionals interested in incorporating AI into their products. Foundational knowledge of AI is expected. If you understand the importance of AI as the rising fourth industrial revolution, this book will help you surf the tidal wave of digital transformation and change across industries.
+--------------------------------------------------
+
+Book 05:
+Title: Modern Generative AI with ChatGPT and OpenAI Models
+Author(s): Valentina Alto
+---
+ISBN-10: 1805122835 - ISBN-13: 9781805122838 - ASIN: 1805123335
+Published Date: 2023-05-26
+Page Count: 286
+---
+Google Books Price: GBP 20.79
+Google Books URL: http://books.google.co.uk/books?id=mcnAEAAAQBAJ&printsec=frontcover&dq=intitle:Modern+Generative+AI+with+ChatGPT+and+OpenAI+Models%2Binauthor:Valentina+Alto&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.1 of 5 (34 reviews)
+Amazon.com URL: https://www.amazon.com/Modern-Generative-ChatGPT-OpenAI-Models/dp/1805123335
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.9 of 5 (18 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Modern-Generative-ChatGPT-OpenAI-Models/dp/1805123335
+---
+HB Blurb: Key FeaturesExplore the theory behind generative AI models and the road to GPT3 and GPT4Become familiar with ChatGPT’s applications to boost everyday productivityLearn to embed OpenAI models into applications using lightweight frameworks like LangChainWho this book is forThis book is for individuals interested in boosting their daily productivity; businesspersons looking to dive deeper into real-world applications to empower their organizations; data scientists and developers trying to identify ways to boost ML models and code; marketers and researchers seeking to leverage use cases in their domain – all by using Chat GPT and OpenAI Models.A basic understanding of Python is required; however, the book provides theoretical descriptions alongside sections with code so that the reader can learn the concrete use case application without running the scripts.
+--------------------------------------------------
+
+Book 06:
+Title: Interpretable Machine Learning with Python
+Author(s): Serg Masís, Aleksander Molak, Denis Rothman
+---
+ISBN-10: 1800206577 - ISBN-13: 9781800206571 - ASIN: B0B2PSG2QY
+Published Date: 2021-03-26
+Page Count: 737
+---
+Google Books Price: GBP 21.44
+Google Books URL: http://books.google.co.uk/books?id=iIwmEAAAQBAJ&printsec=frontcover&dq=intitle:Interpretable+Machine+Learning+with+Python%2Binauthor:Serg+Mas%C3%ADs,+Aleksander+Molak,+Denis+Rothman&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (9 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Interpretable-Machine-Learning-Python-hands-ebook/dp/B0B2PSG2QY
+---
+HB Blurb: Key FeaturesInterpret real-world data, including cardiovascular disease data and the COMPAS recidivism scoresBuild your interpretability toolkit with global, local, model-agnostic, and model-specific methodsAnalyze and extract insights from complex models from CNNs to BERT to time series modelsWho this book is forThis book is for data scientists, machine learning developers, machine learning engineers, MLOps engineers, and data stewards who have an increasingly critical responsibility to explain how the artificial intelligence systems they develop work, their impact on decision making, and how they identify and manage bias. It’s also a useful resource for self-taught ML enthusiasts and beginners who want to go deeper into the subject matter, though a good grasp of the Python programming language is needed to implement the examples.
+--------------------------------------------------
+
+Book 07:
+Title: Transformers for Natural Language Processing and Computer Vision
+Author(s): Denis Rothman
+---
+ISBN-10: 1805123742 - ISBN-13: 9781805123743 - ASIN: B0CNH9V8M5
+Published Date: 2024-02-29
+Page Count: 729
+---
+Google Books Price: GBP 21.44
+Google Books URL: http://books.google.co.uk/books?id=q9P3EAAAQBAJ&printsec=frontcover&dq=intitle:Transformers+for+Natural+Language+Processing+and+Computer+Vision%2Binauthor:Denis+Rothman&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Transformers-Natural-Language-Processing-Computer-ebook/dp/B0CNH9V8M5
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (7 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Transformers-Natural-Language-Processing-Computer-ebook/dp/B0CNH9V8M5
+---
+HB Blurb: Key FeaturesMaster NLP and vision transformers, from the architecture to fine-tuning and implementationLearn how to apply Retrieval Augmented Generation (RAG) with LLMs using customized texts and embeddingsMitigate LLM risks, such as hallucinations, using moderation models and knowledge basesWho this book is forThis book is ideal for NLP and CV engineers, software developers, data scientists, machine learning engineers, and technical leaders looking to advance their LLMs and generative AI skills or explore the latest trends in the field.Knowledge of Python and machine learning concepts is required to fully understand the use cases and code examples. However, with examples using LLM user interfaces, prompt engineering, and no-code model building, this book is great for anyone curious about the AI revolution.
+--------------------------------------------------
+
+Book 08:
+Title: Pretrain Vision and Large Language Models in Python
+Author(s): Emily Webber, Andrea Olgiati
+---
+ISBN-10: 9781804618257 - ISBN-13: 180461825X - ASIN: 
+Published Date: 2023-04
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=pstvzwEACAAJ&dq=intitle:Pretrain+Vision+and+Large+Language+Models+in+Python%2Binauthor:Emily+Webber,+Andrea+Olgiati&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.1 of 5 (22 reviews)
+Amazon.com URL: https://www.amazon.com/Pretrain-Vision-Language-Models-Beginners/dp/180461825X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.1 of 5 (13 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Pretrain-Vision-Language-Models-Beginners/dp/180461825X
+---
+HB Blurb: Key FeaturesLearn to develop, train, tune, and apply foundation models with optimized end-to-end pipelinesExplore large-scale distributed training for models and datasets with AWS and SageMaker examplesEvaluate, deploy, and operationalize your custom models with bias detection and pipeline monitoringWho this book is forIf you’re a machine learning researcher or enthusiast who wants to start a foundation modelling project, this book is for you. Applied scientists, data scientists, machine learning engineers, solution architects, product managers, and students will all benefit from this book. Intermediate Python is a must, along with introductory concepts of cloud computing. A strong understanding of deep learning fundamentals is needed, while advanced topics will be explained. The content covers advanced machine learning and cloud techniques, explaining them in an actionable, easy-to-understand way.
+--------------------------------------------------
+
+Book 09:
+Title: Natural Language Understanding with Python
+Author(s): Deborah A. Dahl
+---
+ISBN-10: 1804612995 - ISBN-13: 9781804612996 - ASIN: B0BW9BRVH3
+Published Date: 2023-06-30
+Page Count: 326
+---
+Google Books Price: GBP 19.49
+Google Books URL: http://books.google.co.uk/books?id=ErjHEAAAQBAJ&printsec=frontcover&dq=intitle:Natural+Language+Understanding+with+Python%2Binauthor:Deborah+A.+Dahl&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $39.99
+Amazon.com Reviews: 5 of 5 (1 reviews)
+Amazon.com URL: https://www.amazon.com/Natural-Language-Understanding-Python-comprehension-ebook/dp/B0BW9BRVH3
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (3 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Natural-Language-Understanding-Python-comprehension-ebook/dp/B0BW9BRVH3
+---
+HB Blurb: Key FeaturesMaster NLU concepts from basic text processing to advanced deep learning techniquesExplore practical NLU applications like chatbots, sentiment analysis, and language translationGain a deeper understanding of large language models like ChatGPTWho this book is forThis book is for python developers, computational linguists, linguists, data scientists, NLP developers, conversational AI developers, and students looking to learn about natural language understanding (NLU) and applying natural language processing (NLP) technology to real problems.  Anyone interested in addressing natural language problems will find this book useful. Working knowledge in Python is a must.
+--------------------------------------------------
+
+Book 10:
+Title: Unlocking the Secrets of Prompt Engineering
+Author(s): Gilbert Mizrahi, Daniel Serfaty
+---
+ISBN-10: 1835088260 - ISBN-13: 9781835088265 - ASIN: 1835083838
+Published Date: 2024-01-12
+Page Count: 316
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=qUzpEAAAQBAJ&pg=PP1&dq=intitle:Unlocking+the+Secrets+of+Prompt+Engineering%2Binauthor:Gilbert+Mizrahi,+Daniel+Serfaty&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $32.99Save $3.00 (8%)
+Amazon.com Reviews: 5 of 5 (9 reviews)
+Amazon.com URL: https://www.amazon.com/Unlocking-Secrets-Prompt-Engineering-generation/dp/1835083838
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Unlocking-Secrets-Prompt-Engineering-generation-ebook/dp/B0CL4V6ZZK
+---
+HB Blurb: Key FeaturesMaster prompt engineering techniques to harness AI's writing potentialDiscover diverse LLM applications for content creation and beyondLearn through practical examples, use cases, and hands-on guidancePurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for a wide audience, including writers, marketing and business professionals, researchers, students, tech enthusiasts, and creative individuals. Anyone looking for strategies and examples for using AI co-writing tools like ChatGPT effectively in domains such as content creation, drafting emails, and inspiring artistic works, will find this book especially useful. If you are interested in AI, NLP, and innovative software for personal or professional use, this is the book for you.
+--------------------------------------------------
+
+Book 11:
+Title: The Definitive Guide to Google Vertex AI
+Author(s): Jasmeet Bhatia, Kartik Chaudhary
+---
+ISBN-10: 9781801815260 - ISBN-13: 1801815267 - ASIN: 
+Published Date: 2023-12-29
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=rnSvzwEACAAJ&dq=intitle:The+Definitive+Guide+to+Google+Vertex+AI%2Binauthor:Jasmeet+Bhatia,+Kartik+Chaudhary&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (5 reviews)
+Amazon.com URL: https://www.amazon.com/Definitive-Guide-Google-Vertex-Implement/dp/1801815267
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Definitive-Guide-Google-Vertex-Implement/dp/1801815267
+---
+HB Blurb: Key FeaturesUnderstand the role of an AI platform and MLOps practices in machine learning projectsGet acquainted with Google Vertex AI tools and offerings that help accelerate the creation of end-to-end ML solutionsImplement Vision, NLP, and recommendation-based real-world ML models on Google Cloud PlatformPurchase of the print or Kindle book includes a free PDF eBookWho this book is forIf you are a machine learning practitioner who wants to learn end-to-end ML solution development on Google Cloud Platform using MLOps best practices and tools offered by Google Vertex AI, this is the book for you.
+--------------------------------------------------
+
+Book 12:
+Title: Automate It with Zapier and Generative AI
+Author(s): Kelly Goss, Philip Lakin
+---
+ISBN-10: 1803246626 - ISBN-13: 9781803246628 - ASIN: 1803239840
+Published Date: 2023-08-25
+Page Count: 706
+---
+Google Books Price: GBP 13.64
+Google Books URL: http://books.google.co.uk/books?id=KD_VEAAAQBAJ&pg=PR4&dq=intitle:Automate+It+with+Zapier+and+Generative+AI%2Binauthor:Kelly+Goss,+Philip+Lakin&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (7 reviews)
+Amazon.com URL: https://www.amazon.com/Automate-Zapier-Generative-automation-productivity/dp/1803239840
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (5 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Automate-Zapier-Generative-automation-productivity-ebook/dp/B0BWNBDW1Z
+---
+HB Blurb: Key FeaturesDiscover the newest Zapier features including OpenAI integration and the ChatGPT pluginExplore expert tips and real-life examples to connect 6000+ business apps and automate tasks with ZapierLearn how to manage your account effectively and troubleshoot problems with your ZapsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for business owners, operations managers, and teams in micro, small, or medium-sized businesses looking at automating repetitive tasks and increasing their productivity using Zapier and AI-integrated features. Service providers offering digital process improvement, systemization, and automation services to their clients such as solutions architects, process consultants, business analysts, virtual assistants, CRM consultants, OBMs, bookkeepers and accountants will find this book extremely useful. Suitable for new and experienced Zapier users.
+--------------------------------------------------
+
+Book 13:
+Title: Mastering NLP from Foundations to LLMs
+Author(s): Lior Gazit, Meysam Ghaffari, Asha Saxena
+---
+ISBN-10: 1804616389 - ISBN-13: 9781804616383 - ASIN: 1804619183
+Published Date: 2024-04-26
+Page Count: 340
+---
+Google Books Price: GBP 20.79
+Google Books URL: http://books.google.co.uk/books?id=FzcAEQAAQBAJ&pg=PP1&dq=intitle:Mastering+NLP+from+Foundations+to+LLMs%2Binauthor:Lior+Gazit,+Meysam+Ghaffari,+Asha+Saxena&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (1 reviews)
+Amazon.com URL: https://www.amazon.com/Mastering-NLP-Foundations-LLMs-Techniques/dp/1804619183
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Mastering-NLP-Foundations-LLMs-Techniques/dp/1804619183
+---
+HB Blurb: Key FeaturesLearn how to build Python-driven solutions with a focus on NLP, LLMs, RAGs, and GPT Master embedding techniques and machine learning principles for real-world applications Understand the mathematical foundations of NLP and deep learning designs Purchase of the print or Kindle book includes a free PDF eBook  Who this book is forThis book is for deep learning and machine learning researchers, NLP practitioners, ML/NLP educators, and STEM students. Professionals working with text data as part of their projects will also find plenty of useful information in this book. Beginner-level familiarity with machine learning and a basic working knowledge of Python will help you get the best out of this book.
+--------------------------------------------------
+
+Book 14:
+Title: Generative AI for Cloud Solutions
+Author(s): Paul Singh, Anurag Karuparti, John Maeda
+---
+ISBN-10: 1835080162 - ISBN-13: 9781835080160 - ASIN: 1835084788
+Published Date: 2024-04-22
+Page Count: 301
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=8doBEQAAQBAJ&printsec=frontcover&dq=intitle:Generative+AI+for+Cloud+Solutions%2Binauthor:Paul+Singh,+Anurag+Karuparti,+John+Maeda&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Generative-Cloud-Solutions-Architect-environments/dp/1835084788
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Generative-Cloud-Solutions-Architect-environments/dp/1835084788
+---
+HB Blurb: Key FeaturesGain foundational GenAI knowledge and understand how to scale GenAI/ChatGPT in the cloudUnderstand advanced techniques for customizing LLMs for organizations via fine-tuning, prompt engineering, and responsible AIPeek into the future to explore emerging trends like multimodal AI and autonomous agentsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis artificial intelligence book is for aspiring cloud architects, data analysts, cloud developers, data scientists, AI researchers, technical business leaders, and technology evangelists looking to understanding the interplay between GenAI and cloud computing. Some chapters provide a broad overview of GenAI, which are suitable for readers with basic to no prior AI experience, aspiring to harness AI's potential. Other chapters delve into technical concepts that require intermediate data and AI skills. A basic understanding of a cloud ecosystem is required to get the most out of this book.
+--------------------------------------------------
+
+Book 15:
+Title: Generating Creative Images with Dall-E 3
+Author(s): Holly Picano
+---
+ISBN-10: 1835089909 - ISBN-13: 9781835089903 - ASIN: B0CW5VVWPX
+Published Date: 2024-03-29
+Page Count: 230
+---
+Google Books Price: GBP 15.59
+Google Books URL: http://books.google.co.uk/books?id=Ps_8EAAAQBAJ&printsec=frontcover&dq=intitle:Generating+Creative+Images+with+Dall-E+3%2Binauthor:Holly+Picano&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (3 reviews)
+Amazon.com URL: https://www.amazon.com/Generating-Creative-Images-DALL-applications-ebook/dp/B0CW5VVWPX
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Generating-Creative-Images-DALL-applications/dp/183508771X
+---
+HB Blurb: Key FeaturesExplore Dall-E 3's diverse practical applications across art, design, education, and beyondMaster AI-generated art creation through step-by-step tutorials, ranging from basic to advanced projectsEnhance your prompt crafting skills with the exclusive prompt cheat sheetPurchase of the print or Kindle book includes a free PDF eBookWho this book is forWhether you’re an artist looking to integrate AI into your work, a designer seeking new creative horizons, a tech enthusiast intrigued by the intersection of art and artificial intelligence, an educator in the fields of art and technology, or a curious individual venturing into AI-generated art, this book is for you. For anyone interested in the innovative fusion of creativity and technology, the DALL-E 3 Guide to AI Artistry offers invaluable insights and practical skills that you can apply right away.
+--------------------------------------------------
+
+Book 16:
+Title: Building AI Applications with ChatGPT APIs
+Author(s): Martin Yanev
+---
+ISBN-10: 1805128604 - ISBN-13: 9781805128601 - ASIN: 180512756X
+Published Date: 2023-09-21
+Page Count: 258
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=6mLWEAAAQBAJ&printsec=frontcover&dq=intitle:Building+AI+Applications+with+ChatGPT+APIs%2Binauthor:Martin+Yanev&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 3.9 of 5 (19 reviews)
+Amazon.com URL: https://www.amazon.com/Building-Applications-ChatGPT-APIs-DALL/dp/180512756X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Building-Applications-ChatGPT-APIs-DALL/dp/180512756X
+---
+HB Blurb: Key FeaturesBecome proficient in building AI applications with ChatGPT, DALL-E, and WhisperUnderstand how to select the optimal ChatGPT model and fine-tune it for your specific use caseMonetize your applications by integrating the ChatGPT API with StripePurchase of the print or Kindle book includes a free PDF eBookWho this book is forWith best practices, tips, and tricks for building applications using the ChatGPT API, this book is for programmers, entrepreneurs, and software enthusiasts. Python developers interested in AI applications involving ChatGPT, software developers who want to integrate AI technology, and web developers looking to create AI-powered web applications with ChatGPT will also find this book useful. A fundamental understanding of Python programming and experience of working with APIs will help you make the most of this book.
+--------------------------------------------------
+
+Book 17:
+Title: Machine Learning for Algorithmic Trading
+Author(s): Stefan Jansen
+---
+ISBN-10: 9781839217715 - ISBN-13: 1839217715 - ASIN: B08D9SP6MB
+Published Date: 2020-07-31
+Page Count: 820
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=cki6zQEACAAJ&dq=intitle:Machine+Learning+for+Algorithmic+Trading%2Binauthor:Stefan+Jansen&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $35.43Save $11.56 (25%)
+Amazon.com Reviews: 4.4 of 5 (319 reviews)
+Amazon.com URL: https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (299 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Machine-Learning-Algorithmic-Trading-alternative-ebook/dp/B08D9SP6MB
+---
+HB Blurb: Key FeaturesDesign, train, and evaluate machine learning algorithms that underpin automated trading strategiesCreate a research and strategy development process to apply predictive modeling to trading decisionsLeverage NLP and deep learning to extract tradeable signals from market and alternative dataWho this book is forIf you are a data analyst, data scientist, Python developer, investment analyst, or portfolio manager interested in getting hands-on machine learning knowledge for trading, this book is for you. This book is for you if you want to learn how to extract value from a diverse set of data sources using machine learning to design your own systematic trading strategies.Some understanding of Python and machine learning techniques is required.
+--------------------------------------------------
+
+Book 18:
+Title: Hands-On Graph Neural Networks Using Python
+Author(s): Maxime Labonne
+---
+ISBN-10: 1804610704 - ISBN-13: 9781804610701 - ASIN: 1804617520
+Published Date: 2023-04-14
+Page Count: 354
+---
+Google Books Price: GBP 19.49
+Google Books URL: http://books.google.co.uk/books?id=P063EAAAQBAJ&printsec=frontcover&dq=intitle:Hands-On+Graph+Neural+Networks+Using+Python%2Binauthor:Maxime+Labonne&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.1 of 5 (32 reviews)
+Amazon.com URL: https://www.amazon.com/Hands-Graph-Neural-Networks-Python/dp/1804617520
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4 of 5 (17 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Hands-Graph-Neural-Networks-Python/dp/1804617520
+---
+HB Blurb: Key FeaturesImplement -of-the-art graph neural  architectures in PythonCreate your own graph datasets from tabular dataBuild powerful traffic forecasting, recommender systems, and anomaly detection applicationsWho this book is forThis book is for machine learning practitioners and data scientists interested in learning about graph neural networks and their applications, as well as students looking for a comprehensive reference on this rapidly growing field. Whether you’re new to graph neural networks or looking to take your knowledge to the next level, this book has something for you. Basic knowledge of machine learning and Python programming will help you get the most out of this book.
+--------------------------------------------------
+
+Book 19:
+Title: Responsible AI in the Enterprise
+Author(s): Adnan Masood, Heather Dawe, Ed Price, Dr. Ehsan Adeli
+---
+ISBN-10: 1803249668 - ISBN-13: 9781803249667 - ASIN: 1803230525
+Published Date: 2023-07-31
+Page Count: 318
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=6YXPEAAAQBAJ&printsec=frontcover&dq=intitle:Responsible+AI+in+the+Enterprise%2Binauthor:Adnan+Masood,+Heather+Dawe,+Ed+Price,+Dr.+Ehsan+Adeli&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Responsible-Enterprise-management-explainable-hyperscalers/dp/1803230525
+---
+HB Blurb: Key FeaturesLearn ethical AI principles, frameworks, and governanceUnderstand the concepts of fairness assessment and bias mitigationIntroduce explainable AI and transparency in your machine learning modelsWho this book is forThis book is for data scientists, machine learning engineers, AI practitioners, IT professionals, business stakeholders, and AI ethicists who are responsible for implementing AI models in their organizations.
+--------------------------------------------------
+
+Book 20:
+Title: Python Machine Learning
+Author(s): Sebastian Raschka, Vahid Mirjalili
+---
+ISBN-10: 1789958296 - ISBN-13: 9781789958294 - ASIN: 1789955750
+Published Date: 2019-12-12
+Page Count: 771
+---
+Google Books Price: GBP 23.39
+Google Books URL: http://books.google.co.uk/books?id=sKXIDwAAQBAJ&printsec=frontcover&dq=intitle:Python+Machine+Learning%2Binauthor:Sebastian+Raschka,+Vahid+Mirjalili&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.5 of 5 (443 reviews)
+Amazon.com URL: https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (413 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Python-Machine-Learning-scikit-learn-TensorFlow-ebook/dp/B07VBLX2W7
+---
+HB Blurb: Key FeaturesThird edition of the bestselling, widely acclaimed Python machine learning bookClear and intuitive explanations take you deep into the theory and practice of Python machine learningFully updated and expanded to cover TensorFlow 2, Generative Adversarial Network models, reinforcement learning, and best practicesWho this book is forIf you know some Python and you want to use machine learning and deep learning, pick up this book. Whether you want to start from scratch or extend your machine learning knowledge, this is an essential resource. Written for developers and data scientists who want to create practical machine learning and deep learning code, this book is ideal for anyone who wants to teach computers how to learn from data.
+--------------------------------------------------
+
+Book 21:
+Title: Generative AI with Python and TensorFlow 2
+Author(s): Joseph Babcock, Raghav Bali
+---
+ISBN-10: 1800208502 - ISBN-13: 9781800208506 - ASIN: 1800200889
+Published Date: 2021-04-30
+Page Count: 489
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=4HIsEAAAQBAJ&printsec=frontcover&dq=intitle:Generative+AI+with+Python+and+TensorFlow+2%2Binauthor:Joseph+Babcock,+Raghav+Bali&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.2 of 5 (41 reviews)
+Amazon.com URL: https://www.amazon.com/Generative-AI-Python-TensorFlow-Transformer/dp/1800200889
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (31 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Generative-AI-Python-TensorFlow-Transformer/dp/1800200889
+---
+HB Blurb: Key FeaturesCode examples are in TensorFlow 2, which make it easy for PyTorch users to follow alongLook inside the most famous deep generative models, from GPT to MuseGANLearn to build and adapt your own models in TensorFlow 2.xExplore exciting, cutting-edge use cases for deep generative AIWho this book is forThis is a book for Python programmers who are keen to create and have some fun using generative models. To make the most out of this book, you should have a basic familiarity with math and statistics for machine learning.
+--------------------------------------------------
+
+Book 22:
+Title: The Machine Learning Workshop
+Author(s): Hyatt Saleh
+---
+ISBN-10: 9781801070065 - ISBN-13: 1801070067 - ASIN: B08QVYQSZ8
+Published Date: 2020
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=phlUzwEACAAJ&dq=intitle:The+Machine+Learning+Workshop%2Binauthor:Hyatt+Saleh&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (12 reviews)
+Amazon.com URL: https://www.amazon.com/Machine-Learning-Workshop-high-performance-scikit-learn-ebook/dp/B08QVYQSZ8
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Machine-Learning-Workshop-high-performance-scikit-learn-ebook/dp/B08QVYQSZ8
+---
+HB Blurb: Key FeaturesDiscover how to apply the scikit-learn uniform API in all types of machine learning modelsUnderstand the difference between supervised and unsupervised learning modelsReinforce your understanding of machine learning concepts by working on real-world examplesWho this book is forThe Machine Learning Workshop is perfect for machine learning beginners. You will need Python programming experience, though no prior knowledge of scikit-learn and machine learning is necessary.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Machine Learning with PyTorch and Scikit-Learn
+No Amazon.com URL found
+https://www.amazon.co.uk/Machine-Learning-PyTorch-Scikit-Learn-learning/dp/1801819319
+http://books.google.co.uk/books?id=SVxaEAAAQBAJ&printsec=frontcover&dq=intitle:Machine+Learning+with+PyTorch+and+Scikit-Learn%2Binauthor:Sebastian+Raschka,+Yuxi+(Hayden)+Liu,+Vahid+Mirjalili,+Dmytro+Dzhulgakov&hl=&cd=1&source=gbs_api
+
+Book 02 - AWS Certified Machine Learning - Specialty (MLS-C01) Certification Guide
+No Amazon.com URL found
+https://www.amazon.co.uk/AWS-Certified-Machine-Learning-Certification/dp/1835082203
+http://books.google.co.uk/books?id=Q6n4EAAAQBAJ&printsec=frontcover&dq=intitle:AWS+Certified+Machine+Learning+-+Specialty+(MLS-C01)+Certification+Guide%2Binauthor:Somanath+Nanda,+Weslley+Moura&hl=&cd=1&source=gbs_api
+
+Book 03 - Generative AI with LangChain
+https://www.amazon.com/Generative-AI-LangChain-language-ChatGPT-ebook/dp/B0CBBL55PQ
+https://www.amazon.co.uk/Generative-AI-LangChain-language-ChatGPT/dp/1835083463
+http://books.google.co.uk/books?id=cOrpEAAAQBAJ&printsec=frontcover&dq=intitle:Generative+AI+with+LangChain%2Binauthor:Ben+Auffarth&hl=&cd=1&source=gbs_api
+
+Book 04 - The AI Product Manager's Handbook
+No Amazon.com URL found
+https://www.amazon.co.uk/AI-Product-Managers-Handbook-advantage-ebook/dp/B0BRCW95ZQ
+http://books.google.co.uk/books?id=UDWxEAAAQBAJ&printsec=frontcover&dq=intitle:The+AI+Product+Manager%27s+Handbook%2Binauthor:Irene+Bratsis&hl=&cd=1&source=gbs_api
+
+Book 05 - Modern Generative AI with ChatGPT and OpenAI Models
+https://www.amazon.com/Modern-Generative-ChatGPT-OpenAI-Models/dp/1805123335
+https://www.amazon.co.uk/Modern-Generative-ChatGPT-OpenAI-Models/dp/1805123335
+http://books.google.co.uk/books?id=mcnAEAAAQBAJ&printsec=frontcover&dq=intitle:Modern+Generative+AI+with+ChatGPT+and+OpenAI+Models%2Binauthor:Valentina+Alto&hl=&cd=1&source=gbs_api
+
+Book 06 - Interpretable Machine Learning with Python
+No Amazon.com URL found
+https://www.amazon.co.uk/Interpretable-Machine-Learning-Python-hands-ebook/dp/B0B2PSG2QY
+http://books.google.co.uk/books?id=iIwmEAAAQBAJ&printsec=frontcover&dq=intitle:Interpretable+Machine+Learning+with+Python%2Binauthor:Serg+Mas%C3%ADs,+Aleksander+Molak,+Denis+Rothman&hl=&cd=1&source=gbs_api
+
+Book 07 - Transformers for Natural Language Processing and Computer Vision
+https://www.amazon.com/Transformers-Natural-Language-Processing-Computer-ebook/dp/B0CNH9V8M5
+https://www.amazon.co.uk/Transformers-Natural-Language-Processing-Computer-ebook/dp/B0CNH9V8M5
+http://books.google.co.uk/books?id=q9P3EAAAQBAJ&printsec=frontcover&dq=intitle:Transformers+for+Natural+Language+Processing+and+Computer+Vision%2Binauthor:Denis+Rothman&hl=&cd=1&source=gbs_api
+
+Book 08 - Pretrain Vision and Large Language Models in Python
+https://www.amazon.com/Pretrain-Vision-Language-Models-Beginners/dp/180461825X
+https://www.amazon.co.uk/Pretrain-Vision-Language-Models-Beginners/dp/180461825X
+http://books.google.co.uk/books?id=pstvzwEACAAJ&dq=intitle:Pretrain+Vision+and+Large+Language+Models+in+Python%2Binauthor:Emily+Webber,+Andrea+Olgiati&hl=&cd=1&source=gbs_api
+
+Book 09 - Natural Language Understanding with Python
+https://www.amazon.com/Natural-Language-Understanding-Python-comprehension-ebook/dp/B0BW9BRVH3
+https://www.amazon.co.uk/Natural-Language-Understanding-Python-comprehension-ebook/dp/B0BW9BRVH3
+http://books.google.co.uk/books?id=ErjHEAAAQBAJ&printsec=frontcover&dq=intitle:Natural+Language+Understanding+with+Python%2Binauthor:Deborah+A.+Dahl&hl=&cd=1&source=gbs_api
+
+Book 10 - Unlocking the Secrets of Prompt Engineering
+https://www.amazon.com/Unlocking-Secrets-Prompt-Engineering-generation/dp/1835083838
+https://www.amazon.co.uk/Unlocking-Secrets-Prompt-Engineering-generation-ebook/dp/B0CL4V6ZZK
+http://books.google.co.uk/books?id=qUzpEAAAQBAJ&pg=PP1&dq=intitle:Unlocking+the+Secrets+of+Prompt+Engineering%2Binauthor:Gilbert+Mizrahi,+Daniel+Serfaty&hl=&cd=1&source=gbs_api
+
+Book 11 - The Definitive Guide to Google Vertex AI
+https://www.amazon.com/Definitive-Guide-Google-Vertex-Implement/dp/1801815267
+https://www.amazon.co.uk/Definitive-Guide-Google-Vertex-Implement/dp/1801815267
+http://books.google.co.uk/books?id=rnSvzwEACAAJ&dq=intitle:The+Definitive+Guide+to+Google+Vertex+AI%2Binauthor:Jasmeet+Bhatia,+Kartik+Chaudhary&hl=&cd=1&source=gbs_api
+
+Book 12 - Automate It with Zapier and Generative AI
+https://www.amazon.com/Automate-Zapier-Generative-automation-productivity/dp/1803239840
+https://www.amazon.co.uk/Automate-Zapier-Generative-automation-productivity-ebook/dp/B0BWNBDW1Z
+http://books.google.co.uk/books?id=KD_VEAAAQBAJ&pg=PR4&dq=intitle:Automate+It+with+Zapier+and+Generative+AI%2Binauthor:Kelly+Goss,+Philip+Lakin&hl=&cd=1&source=gbs_api
+
+Book 13 - Mastering NLP from Foundations to LLMs
+https://www.amazon.com/Mastering-NLP-Foundations-LLMs-Techniques/dp/1804619183
+https://www.amazon.co.uk/Mastering-NLP-Foundations-LLMs-Techniques/dp/1804619183
+http://books.google.co.uk/books?id=FzcAEQAAQBAJ&pg=PP1&dq=intitle:Mastering+NLP+from+Foundations+to+LLMs%2Binauthor:Lior+Gazit,+Meysam+Ghaffari,+Asha+Saxena&hl=&cd=1&source=gbs_api
+
+Book 14 - Generative AI for Cloud Solutions
+https://www.amazon.com/Generative-Cloud-Solutions-Architect-environments/dp/1835084788
+https://www.amazon.co.uk/Generative-Cloud-Solutions-Architect-environments/dp/1835084788
+http://books.google.co.uk/books?id=8doBEQAAQBAJ&printsec=frontcover&dq=intitle:Generative+AI+for+Cloud+Solutions%2Binauthor:Paul+Singh,+Anurag+Karuparti,+John+Maeda&hl=&cd=1&source=gbs_api
+
+Book 15 - Generating Creative Images with Dall-E 3
+https://www.amazon.com/Generating-Creative-Images-DALL-applications-ebook/dp/B0CW5VVWPX
+https://www.amazon.co.uk/Generating-Creative-Images-DALL-applications/dp/183508771X
+http://books.google.co.uk/books?id=Ps_8EAAAQBAJ&printsec=frontcover&dq=intitle:Generating+Creative+Images+with+Dall-E+3%2Binauthor:Holly+Picano&hl=&cd=1&source=gbs_api
+
+Book 16 - Building AI Applications with ChatGPT APIs
+https://www.amazon.com/Building-Applications-ChatGPT-APIs-DALL/dp/180512756X
+https://www.amazon.co.uk/Building-Applications-ChatGPT-APIs-DALL/dp/180512756X
+http://books.google.co.uk/books?id=6mLWEAAAQBAJ&printsec=frontcover&dq=intitle:Building+AI+Applications+with+ChatGPT+APIs%2Binauthor:Martin+Yanev&hl=&cd=1&source=gbs_api
+
+Book 17 - Machine Learning for Algorithmic Trading
+https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715
+https://www.amazon.co.uk/Machine-Learning-Algorithmic-Trading-alternative-ebook/dp/B08D9SP6MB
+http://books.google.co.uk/books?id=cki6zQEACAAJ&dq=intitle:Machine+Learning+for+Algorithmic+Trading%2Binauthor:Stefan+Jansen&hl=&cd=1&source=gbs_api
+
+Book 18 - Hands-On Graph Neural Networks Using Python
+https://www.amazon.com/Hands-Graph-Neural-Networks-Python/dp/1804617520
+https://www.amazon.co.uk/Hands-Graph-Neural-Networks-Python/dp/1804617520
+http://books.google.co.uk/books?id=P063EAAAQBAJ&printsec=frontcover&dq=intitle:Hands-On+Graph+Neural+Networks+Using+Python%2Binauthor:Maxime+Labonne&hl=&cd=1&source=gbs_api
+
+Book 19 - Responsible AI in the Enterprise
+No Amazon.com URL found
+https://www.amazon.co.uk/Responsible-Enterprise-management-explainable-hyperscalers/dp/1803230525
+http://books.google.co.uk/books?id=6YXPEAAAQBAJ&printsec=frontcover&dq=intitle:Responsible+AI+in+the+Enterprise%2Binauthor:Adnan+Masood,+Heather+Dawe,+Ed+Price,+Dr.+Ehsan+Adeli&hl=&cd=1&source=gbs_api
+
+Book 20 - Python Machine Learning
+https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750
+https://www.amazon.co.uk/Python-Machine-Learning-scikit-learn-TensorFlow-ebook/dp/B07VBLX2W7
+http://books.google.co.uk/books?id=sKXIDwAAQBAJ&printsec=frontcover&dq=intitle:Python+Machine+Learning%2Binauthor:Sebastian+Raschka,+Vahid+Mirjalili&hl=&cd=1&source=gbs_api
+
+Book 21 - Generative AI with Python and TensorFlow 2
+https://www.amazon.com/Generative-AI-Python-TensorFlow-Transformer/dp/1800200889
+https://www.amazon.co.uk/Generative-AI-Python-TensorFlow-Transformer/dp/1800200889
+http://books.google.co.uk/books?id=4HIsEAAAQBAJ&printsec=frontcover&dq=intitle:Generative+AI+with+Python+and+TensorFlow+2%2Binauthor:Joseph+Babcock,+Raghav+Bali&hl=&cd=1&source=gbs_api
+
+Book 22 - The Machine Learning Workshop
+https://www.amazon.com/Machine-Learning-Workshop-high-performance-scikit-learn-ebook/dp/B08QVYQSZ8
+https://www.amazon.co.uk/Machine-Learning-Workshop-high-performance-scikit-learn-ebook/dp/B08QVYQSZ8
+http://books.google.co.uk/books?id=phlUzwEACAAJ&dq=intitle:The+Machine+Learning+Workshop%2Binauthor:Hyatt+Saleh&hl=&cd=1&source=gbs_api
+
