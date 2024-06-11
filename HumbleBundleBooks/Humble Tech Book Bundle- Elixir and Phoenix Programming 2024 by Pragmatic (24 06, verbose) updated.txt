@@ -1,0 +1,544 @@
+Humble Tech Book Bundle- Elixir and Phoenix Programming 2024 by Pragmatic - Pragmatic Programmers
+Processing date: 2024-06-11
+Data retrieved from: https://www.humblebundle.com/books/elixir-and-phoenix-programming-2024-pragmatic-books
+
+Book 01 - Building Table Views with Phoenix LiveView - Peter Ullrich - None found out of 5 (None found reviews)
+Book 02 - From Ruby to Elixir - Stephen Bussey - None found out of 5 (None found reviews)
+Book 03 - Exploring Graphs with Elixir - Tony Hammond - 4 out of 5 (2 reviews)
+Book 04 - Build a Binary Clock with Elixir and Nerves - Frank Hunleth, Bruce Tate - 5 out of 5 (1 reviews)
+Book 05 - Build a Weather Station with Elixir and Nerves - Alexander Koutmos, Bruce Tate, Frank Hunleth - 3.4 out of 5 (6 reviews)
+Book 06 - Concurrent Data Processing in Elixir - Svilen Gospodinov - 4.8 out of 5 (25 reviews)
+Book 07 - Testing Elixir - Andrea Leopardi, Jeffrey Matthias - 4.8 out of 5 (12 reviews)
+Book 08 - Genetic Algorithms in Elixir - Sean Moriarity - 4.4 out of 5 (17 reviews)
+Book 09 - Real-Time Phoenix - Stephen Bussey - 4.9 of 5 (26 reviews)
+Book 10 - Designing Elixir Systems with OTP - James Edward Gray, Bruce A. Tate - 4.5 out of 5 (47 reviews)
+Book 11 - Programming Phoenix 1.4 - Chris McCord, Bruce Tate, Jose Valim - 4.6 out of 5 (48 reviews)
+Book 12 - Programming Ecto - Darin Wilson, Eric Meadows-Jonsson - 4.6 out of 5 (36 reviews)
+Book 13 - Property-Based Testing with PropEr, Erlang, and Elixir - Fred Hebert - 4.9 of 5 (10 reviews)
+Book 14 - Programming Elixir 1.6 - Dave Thomas - 4.7 out of 5 (81 reviews)
+Book 15 - Craft GraphQL APIs in Elixir with Absinthe - Bruce Williams, Ben Wilson - 4.9 out of 5 (13 reviews)
+Book 16 - Adopting Elixir - Ben Marx, Jose Valim, Bruce Tate - 4.7 out of 5 (20 reviews)
+Book 17 - Learn Functional Programming with Elixir - Ulisses Almeida - 4.6 out of 5 (37 reviews)
+Book 18 - Functional Web Development with Elixir, OTP, and Phoenix - Lance Halvorsen - 4.4 out of 5 (39 reviews)
+Book 19 - Metaprogramming Elixir - Chris McCord - 4.6 out of 5 (45 reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Building Table Views with Phoenix LiveView
+Author(s): Peter Ullrich
+---
+ISBN-10: None - ISBN-13: 9798888650103 - ASIN: B0BSRHQ9P9
+Published Date: 2023-01-11
+Page Count: 89
+---
+Google Books Price: GBP 11.99
+Google Books URL: http://books.google.co.uk/books?id=a5qoEAAAQBAJ&printsec=frontcover&dq=intitle:Building+Table+Views+with+Phoenix+LiveView%2Binauthor:Peter+Ullrich&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Building-Table-Views-Phoenix-LiveView-ebook/dp/B0BSRHQ9P9
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Building-Table-Views-Phoenix-LiveView-ebook/dp/B0BSRHQ9P9
+---
+HB Blurb: Data is at the core of every business, but it is useless if nobody can access and analyze it. Learn how to generate business value by making your data accessible with advanced table UIs. This definitive guide teaches you how to bring your data to the fingertips of nontechnical users with advanced features like pagination, sorting, filtering, and infinity scrolling. Build reactive and reuseable table components by leveraging Phoenix LiveView, schemaless changesets, and Ecto query composition. Table UIs are the bread and butter for every web developer, so it is time to learn how to build them right.
+--------------------------------------------------
+
+Book 02:
+Title: From Ruby to Elixir
+Author(s): Stephen Bussey
+---
+ISBN-10: None - ISBN-13: 9798888650318 - ASIN: No ASIN found
+Published Date: 2024-07-30
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=NjKo0AEACAAJ&dq=intitle:From+Ruby+to+Elixir%2Binauthor:Stephen+Bussey&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Stephen-Bussey/e/B084YRDBSJ/
+---
+HB Blurb: Elixir will change the way you think about programming. Use your Ruby experience to quickly get up to speed so you can see what all of the buzz is about. Go from zero to production applications that are reliable, fast, and scalable. Learn Elixir syntax and pattern matching to conquer the basics. Then move onto Elixir’s unique process model that offers a world-class way to go parallel without fear. Finally, use the most common libraries like Ecto, Phoenix, and Oban to build a real-world SMS application. Now’s the time. Dive in and learn Elixir.
+--------------------------------------------------
+
+Book 03:
+Title: Exploring Graphs with Elixir
+Author(s): Tony Hammond
+---
+ISBN-10: None - ISBN-13: 9798888650066 - ASIN: B0BPZ11Z66
+Published Date: 2022-11-02
+Page Count: 393
+---
+Google Books Price: GBP 32.99
+Google Books URL: http://books.google.co.uk/books?id=TY-hEAAAQBAJ&printsec=frontcover&dq=intitle:Exploring+Graphs+with+Elixir%2Binauthor:Tony+Hammond&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4 of 5 (2 reviews)
+Amazon.com URL: https://www.amazon.com/Exploring-Graphs-Elixir-Tony-Hammond-ebook/dp/B0BPZ11Z66
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Exploring-Graphs-Elixir-Tony-Hammond-ebook/dp/B0BPZ11Z66
+---
+HB Blurb: Data is everywhere—it’s just not very well connected, which makes it super hard to relate dataset to dataset. Using graphs as the underlying glue, you can readily join data together and create navigation paths across diverse sets of data. Add Elixir, with its awesome power of concurrency, and you’ll soon be mastering data networks. Learn how different graph models can be accessed and used from within Elixir and how you can build a robust semantics overlay on top of graph data structures. We’ll start from the basics and examine the main graph paradigms. Get ready to embrace the world of connected data!
+--------------------------------------------------
+
+Book 04:
+Title: Build a Binary Clock with Elixir and Nerves
+Author(s): Frank Hunleth, Bruce Tate
+---
+ISBN-10: 1680509772 - ISBN-13: 9781680509779 - ASIN: B0BBYH2LYW
+Published Date: 2022-08-02
+Page Count: 143
+---
+Google Books Price: GBP 20.99
+Google Books URL: http://books.google.co.uk/books?id=OkCFEAAAQBAJ&printsec=frontcover&dq=intitle:Build+a+Binary+Clock+with+Elixir+and+Nerves%2Binauthor:Frank+Hunleth,+Bruce+Tate&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (1 reviews)
+Amazon.com URL: https://www.amazon.com/Build-Binary-Clock-Elixir-Nerves-ebook/dp/B0BBYH2LYW
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Build-Binary-Clock-Elixir-Nerves-ebook/dp/B0BBYH2LYW
+---
+HB Blurb: Want to get better at coding Elixir? Write a hardware project with Nerves. As you build this binary clock, you’ll build in resiliency using OTP, the same libraries powering many commercial phone switches. You’ll attack complexity the way the experts do, using a layered approach. You’ll sharpen your debugging skills by taking small, easily verified steps toward your goal. When you’re done, you’ll have a working binary clock and a good appreciation of the work that goes into a hardware system. You’ll also be able to apply that understanding to every new line of Elixir you write.
+--------------------------------------------------
+
+Book 05:
+Title: Build a Weather Station with Elixir and Nerves
+Author(s): Alexander Koutmos, Bruce Tate, Frank Hunleth
+---
+ISBN-10: 1680509470 - ISBN-13: 9781680509472 - ASIN: B09Z4WM79M
+Published Date: 2022-01-06
+Page Count: 122
+---
+Google Books Price: GBP 18.5
+Google Books URL: http://books.google.co.uk/books?id=8kVtEAAAQBAJ&printsec=frontcover&dq=intitle:Build+a+Weather+Station+with+Elixir+and+Nerves%2Binauthor:Alexander+Koutmos,+Bruce+Tate,+Frank+Hunleth&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $22.99Save $3.96 (15%)
+Amazon.com Reviews: 3.4 of 5 (6 reviews)
+Amazon.com URL: https://www.amazon.com/Build-Weather-Station-Elixir-Nerves-ebook/dp/B09Z4WM79M
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Build-Weather-Station-Elixir-Nerves-ebook/dp/B09Z4WM79M
+---
+HB Blurb: The Elixir programming language has become a go-to tool for creating reliable, fault-tolerant, and robust server-side applications. Thanks to Nerves, those same exact benefits can be realized in embedded applications. This book will teach you how to structure, build, and deploy production grade Nerves applications to network-enabled devices. The weather station sensor hub project that you will be embarking upon will show you how to create a full stack IoT solution in record time. You will build everything from the embedded Nerves device to the Phoenix backend and even the Grafana time-series data visualizations.
+--------------------------------------------------
+
+Book 06:
+Title: Concurrent Data Processing in Elixir
+Author(s): Svilen Gospodinov
+---
+ISBN-10: 1680508962 - ISBN-13: 9781680508963 - ASIN: B09GPDDK2N
+Published Date: 2021-07-25
+Page Count: 221
+---
+Google Books Price: GBP 26.99
+Google Books URL: http://books.google.co.uk/books?id=fphDEAAAQBAJ&printsec=frontcover&dq=intitle:Concurrent+Data+Processing+in+Elixir%2Binauthor:Svilen+Gospodinov&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.8 of 5 (25 reviews)
+Amazon.com URL: https://www.amazon.com/Concurrent-Processing-Elixir-Svilen-Gospodinov-ebook/dp/B09GPDDK2N
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (25 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Concurrent-Data-Processing-Elixir-Applications/dp/1680508199
+---
+HB Blurb: Learn different ways of writing concurrent code in Elixir and increase your application’s performance, without sacrificing scalability or fault-tolerance. Most projects benefit from running background tasks and processing data concurrently, but the world of OTP and various libraries can be challenging. Which Supervisor and what strategy to use? What about GenServer? Maybe you need back-pressure, but is GenStage, Flow, or Broadway a better choice? You will learn everything you need to know to answer these questions, start building highly concurrent applications in no time, and write code that’s not only fast, but also resilient to errors and easy to scale.
+--------------------------------------------------
+
+Book 07:
+Title: Testing Elixir
+Author(s): Andrea Leopardi, Jeffrey Matthias
+---
+ISBN-10: 168050892X - ISBN-13: 9781680508925 - ASIN: 1680507826
+Published Date: 2021-07-13
+Page Count: 326
+---
+Google Books Price: GBP 31.99
+Google Books URL: http://books.google.co.uk/books?id=5909EAAAQBAJ&printsec=frontcover&dq=intitle:Testing+Elixir%2Binauthor:Andrea+Leopardi,+Jeffrey+Matthias&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.8 of 5 (12 reviews)
+Amazon.com URL: https://www.amazon.com/Testing-Elixir-Effective-Robust-Ecosystem/dp/1680507826
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (12 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Testing-Elixir-Effective-Robust-Ecosystem/dp/1680507826
+---
+HB Blurb: Elixir offers new paradigms, and challenges you to test in unconventional ways. Start with ExUnit: almost everything you need to write tests covering all levels of detail, from unit to integration, but only if you know how to use it to the fullest—we’ll show you how. Explore testing Elixir-specific challenges such as OTP-based modules, asynchronous code, Ecto-based applications, and Phoenix applications. Explore new tools like Mox for mocks and StreamData for property-based testing. Armed with this knowledge, you can create test suites that add value to your production cycle and guard you from regressions.
+--------------------------------------------------
+
+Book 08:
+Title: Genetic Algorithms in Elixir
+Author(s): Sean Moriarity
+---
+ISBN-10: 168050830X - ISBN-13: 9781680508307 - ASIN: B091M4QJXZ
+Published Date: 2021-01-20
+Page Count: 304
+---
+Google Books Price: GBP 26.99
+Google Books URL: http://books.google.co.uk/books?id=7CMnEAAAQBAJ&printsec=frontcover&dq=intitle:Genetic+Algorithms+in+Elixir%2Binauthor:Sean+Moriarity&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $24.99Save $9.00 (26%)
+Amazon.com Reviews: 4.4 of 5 (17 reviews)
+Amazon.com URL: https://www.amazon.com/Genetic-Algorithms-Elixir-Problems-Evolution-ebook/dp/B091M4QJXZ
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Genetic-Algorithms-Elixir-Problems-Evolution/dp/168050794X
+---
+HB Blurb: From finance to artificial intelligence, genetic algorithms are a powerful tool with a wide array of applications. But you don’t need an exotic new language or framework to get started; you can learn about genetic algorithms in a language you’re already familiar with. Join us for an in-depth look at the algorithms, techniques, and methods that go into writing a genetic algorithm. From introductory problems to real-world applications, you’ll learn the underlying principles of problem solving using genetic algorithms.
+--------------------------------------------------
+
+Book 09:
+Title: Real-Time Phoenix
+Author(s): Stephen Bussey
+---
+ISBN-10: 1680507753 - ISBN-13: 9781680507751 - ASIN: 1680507192
+Published Date: 2020-03-25
+Page Count: 405
+---
+Google Books Price: GBP 31.99
+Google Books URL: http://books.google.co.uk/books?id=LvbkDwAAQBAJ&printsec=frontcover&dq=intitle:Real-Time+Phoenix%2Binauthor:Stephen+Bussey&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.9 of 5 (26 reviews)
+Amazon.com URL: https://www.amazon.com/Real-Time-Phoenix-Scalable-Systems-Channels/dp/1680507192
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.9 of 5 (25 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Real-time-Phoenix-Stephen-Bussey/dp/1680507192
+---
+HB Blurb: Give users the real-time experience they expect, by using Elixir and Phoenix Channels to build applications that instantly react to changes and reflect the application’s true state. Learn how Elixir and Phoenix make it easy and enjoyable to create real-time applications that scale to a large number of users. Apply system design and development best practices to create applications that are easy to maintain. Gain confidence by learning how to break your applications before your users do. Deploy applications with minimized resource use and maximized performance.
+--------------------------------------------------
+
+Book 10:
+Title: Designing Elixir Systems with OTP
+Author(s): James Edward Gray, Bruce A. Tate
+---
+ISBN-10: 9781680506617 - ISBN-13: 1680506617 - ASIN: B084NRSQB4
+Published Date: 2019-11-04
+Page Count: 250
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=FVKAwwEACAAJ&dq=intitle:Designing+Elixir+Systems+with+OTP%2Binauthor:James+Edward+Gray,+Bruce+A.+Tate&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.5 of 5 (47 reviews)
+Amazon.com URL: https://www.amazon.com/Designing-Elixir-Systems-OTP-Self-healing/dp/1680506617
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (47 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Designing-Elixir-Systems-OTP-Self-healing-ebook/dp/B084NRSQB4
+---
+HB Blurb: You know how to code in Elixir; now learn to think in it. Learn to design libraries with intelligent layers that shape the right data structures, flow from one function into the next, and present the right APIs. Embrace the same OTP that’s kept our telephone systems reliable and fast for over 30 years. Move beyond understanding the OTP functions to knowing what’s happening under the hood, and why that matters. Using that knowledge, instinctively know how to design systems that deliver fast and resilient services to your users, all with an Elixir focus.
+--------------------------------------------------
+
+Book 11:
+Title: Programming Phoenix 1.4
+Author(s): Chris McCord, Bruce Tate, Jose Valim
+---
+ISBN-10: 1680504363 - ISBN-13: 9781680504361 - ASIN: 1680502263
+Published Date: 2016-04-20
+Page Count: 398
+---
+Google Books Price: GBP 22.99
+Google Books URL: http://books.google.co.uk/books?id=Qg9QDwAAQBAJ&printsec=frontcover&dq=intitle:Programming+Phoenix+1.4%2Binauthor:Chris+McCord,+Bruce+Tate,+Jose+Valim&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (48 reviews)
+Amazon.com URL: https://www.amazon.com/Programming-Phoenix-1-4-Productive-Reliable/dp/1680502263
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (44 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Programming-Phoenix-1-4-Productive-Reliable-ebook/dp/B084NV65T8
+---
+HB Blurb: Don’t accept the compromise between fast and beautiful: you can have it all. Phoenix creator Chris McCord, Elixir creator José Valim, and award-winning author Bruce Tate walk you through building an application that’s fast and reliable. At every step, you’ll learn from the Phoenix creators not just what to do, but why. Packed with insider insights and completely updated for Phoenix 1.4, this definitive guide will be your constant companion in your journey from Phoenix novice to expert as you build the next generation of web applications.
+--------------------------------------------------
+
+Book 12:
+Title: Programming Ecto
+Author(s): Darin Wilson, Eric Meadows-Jonsson
+---
+ISBN-10: 1680506935 - ISBN-13: 9781680506938 - ASIN: B07RRS9C1T
+Published Date: 2019-04-01
+Page Count: 330
+---
+Google Books Price: GBP 31.99
+Google Books URL: http://books.google.co.uk/books?id=6LSXDwAAQBAJ&printsec=frontcover&dq=intitle:Programming+Ecto%2Binauthor:Darin+Wilson,+Eric+Meadows-Jonsson&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (36 reviews)
+Amazon.com URL: https://www.amazon.com/Programming-Ecto-Database-Scalability-Performance-ebook/dp/B07RRS9C1T
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (34 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Programming-Ecto-Darin-Wilson/dp/1680502824
+---
+HB Blurb: Languages may come and go, but the relational database endures. Learn how to use Ecto, the premier database library for Elixir, to connect your Elixir and Phoenix apps to databases. Get a firm handle on Ecto fundamentals with a module-by-module tour of the critical parts of Ecto. Then move on to more advanced topics and advice on best practices with a series of recipes that provide clear, step-by-step instructions on scenarios commonly encountered by app developers. Co-authored by the creator of Ecto, this title provides all the essentials you need to use Ecto effectively.
+--------------------------------------------------
+
+Book 13:
+Title: Property-Based Testing with PropEr, Erlang, and Elixir
+Author(s): Fred Hebert
+---
+ISBN-10: 1680506544 - ISBN-13: 9781680506549 - ASIN: B07NFC3WR2
+Published Date: 2019-01-17
+Page Count: 497
+---
+Google Books Price: GBP 31.99
+Google Books URL: http://books.google.co.uk/books?id=IM-GDwAAQBAJ&printsec=frontcover&dq=intitle:Property-Based+Testing+with+PropEr,+Erlang,+and+Elixir%2Binauthor:Fred+Hebert&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.9 of 5 (10 reviews)
+Amazon.com URL: https://www.amazon.com/Property-Based-Testing-PropEr-Erlang-Elixir/dp/1680506218
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.9 of 5 (10 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Property-Based-Testing-PropEr-Erlang-Elixir-ebook/dp/B07NFC3WR2
+---
+HB Blurb: Property-based testing helps you create better, more solid tests with little code. By using the PropEr framework in both Erlang and Elixir, this book teaches you how to automatically generate test cases, test stateful programs, and change how you design your software for more principled and reliable approaches. You will be able to better explore the problem space, validate the assumptions you make when coming up with program behavior, and expose unexpected weaknesses in your design. PropEr will even show you how to reproduce the bugs it found. With this book, you will be writing efficient property-based tests in no time.
+--------------------------------------------------
+
+Book 14:
+Title: Programming Elixir 1.6
+Author(s): Dave Thomas
+---
+ISBN-10: 9781680502992 - ISBN-13: 1680502999 - ASIN: B07DP8Y2GJ
+Published Date: 2018-05-28
+Page Count: 391
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=RCDUswEACAAJ&dq=intitle:Programming+Elixir+1.6%2Binauthor:Dave+Thomas&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $30.99Save $10.00 (24%)
+Amazon.com Reviews: 4.7 of 5 (81 reviews)
+Amazon.com URL: https://www.amazon.com/Programming-Elixir-1-6-Functional-Concurrent-ebook/dp/B07DP8Y2GJ
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (78 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Programming-Elixir-1-6-Dave-Thomas/dp/1680502999
+---
+HB Blurb: This book is the introduction to Elixir for experienced programmers, completely updated for Elixir 1.6 and beyond. Explore functional programming without the academic overtones (tell me about monads just one more time). Create concurrent applications, but get them right without all the locking and consistency headaches. Meet Elixir, a modern, functional, concurrent language built on the rock-solid Erlang VM. Elixir’s pragmatic syntax and built-in support for metaprogramming will make you productive and keep you interested for the long haul. Maybe the time is right for the Next Big Thing. Maybe it’s Elixir.
+--------------------------------------------------
+
+Book 15:
+Title: Craft GraphQL APIs in Elixir with Absinthe
+Author(s): Bruce Williams, Ben Wilson
+---
+ISBN-10: 1680505939 - ISBN-13: 9781680505931 - ASIN: 1680502557
+Published Date: 2018-03-27
+Page Count: 399
+---
+Google Books Price: GBP 32.99
+Google Books URL: http://books.google.co.uk/books?id=IitZDwAAQBAJ&printsec=frontcover&dq=intitle:Craft+GraphQL+APIs+in+Elixir+with+Absinthe%2Binauthor:Bruce+Williams,+Ben+Wilson&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.9 of 5 (13 reviews)
+Amazon.com URL: https://www.amazon.com/Craft-GraphQL-APIs-Elixir-Absinthe/dp/1680502557
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (14 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Craft-GraphQL-APIs-Elixir-Absinthe/dp/1680502557
+---
+HB Blurb: Your domain is rich and interconnected, and your API should be too. Upgrade your web API to GraphQL, leveraging its flexible queries to empower your users, and its declarative structure to simplify your code. Absinthe is the GraphQL toolkit for Elixir, a functional programming language designed to enable massive concurrency atop robust application architectures. Written by the creators of Absinthe, this book will help you take full advantage of these two groundbreaking technologies. Build your own flexible, high-performance APIs using step-by-step guidance and expert advice you won’t find anywhere else.
+--------------------------------------------------
+
+Book 16:
+Title: Adopting Elixir
+Author(s): Ben Marx, Jose Valim, Bruce Tate
+---
+ISBN-10: 168050584X - ISBN-13: 9781680505849 - ASIN: B07C3G56JL
+Published Date: 2018-03-14
+Page Count: 334
+---
+Google Books Price: GBP 29.5
+Google Books URL: http://books.google.co.uk/books?id=F_tUDwAAQBAJ&printsec=frontcover&dq=intitle:Adopting+Elixir%2Binauthor:Ben+Marx,+Jose+Valim,+Bruce+Tate&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $27.99Save $9.00 (24%)
+Amazon.com Reviews: 4.7 of 5 (20 reviews)
+Amazon.com URL: https://www.amazon.com/Adopting-Elixir-Production-Ben-Marx-ebook/dp/B07C3G56JL
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Adopting-Elixir-Production-Ben-Marx-ebook/dp/B07C3G56JL
+---
+HB Blurb: Adoption is more than programming. Elixir is an exciting new language, but to successfully get your application from start to finish, you’re going to need to know more than just the language. You need the case studies and strategies in this book. Learn the best practices for the whole life of your application, from design and team-building, to managing stakeholders, to deployment and monitoring. Go beyond the syntax and the tools to learn the techniques you need to develop your Elixir application from concept to production.
+--------------------------------------------------
+
+Book 17:
+Title: Learn Functional Programming with Elixir
+Author(s): Ulisses Almeida
+---
+ISBN-10: 1680505769 - ISBN-13: 9781680505764 - ASIN: B07BRDXN4B
+Published Date: 2018-02-23
+Page Count: 259
+---
+Google Books Price: GBP 29.5
+Google Books URL: http://books.google.co.uk/books?id=m3PmEAAAQBAJ&printsec=frontcover&dq=intitle:Learn+Functional+Programming+with+Elixir%2Binauthor:Ulisses+Almeida&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $25.79Save $11.20 (30%)
+Amazon.com Reviews: 4.6 of 5 (37 reviews)
+Amazon.com URL: https://www.amazon.com/Learn-Functional-Programming-Elixir-Foundations-ebook/dp/B07BRDXN4B
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learn-Functional-Programming-Elixir-Foundations-ebook/dp/B07BRDXN4B
+---
+HB Blurb: Elixir’s straightforward syntax and this guided tour give you a clean, simple path to learn modern functional programming techniques. No previous functional programming experience required! This book walks you through the right concepts at the right pace, as you explore immutable values and explicit data transformation, functions, modules, recursive functions, pattern matching, high-order functions, polymorphism, and failure handling, all while avoiding side effects. Don’t board the Elixir train with an imperative mindset! To get the most out of functional languages, you need to think functionally. This book will get you there.
+--------------------------------------------------
+
+Book 18:
+Title: Functional Web Development with Elixir, OTP, and Phoenix
+Author(s): Lance Halvorsen
+---
+ISBN-10: 1680505440 - ISBN-13: 9781680505443 - ASIN: B079ZN5HS7
+Published Date: 2018-01-25
+Page Count: 298
+---
+Google Books Price: GBP 31.99
+Google Books URL: http://books.google.co.uk/books?id=pg9QDwAAQBAJ&printsec=frontcover&dq=intitle:Functional+Web+Development+with+Elixir,+OTP,+and+Phoenix%2Binauthor:Lance+Halvorsen&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $27.36Save $12.63 (32%)
+Amazon.com Reviews: 4.4 of 5 (39 reviews)
+Amazon.com URL: https://www.amazon.com/Functional-Web-Development-Elixir-Phoenix-ebook/dp/B079ZN5HS7
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (37 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Functional-Web-Development-Elixir-Phoenix/dp/1680502433
+---
+HB Blurb: Elixir and Phoenix are generating tremendous excitement as an unbeatable platform for building modern web applications. For decades OTP has helped developers create incredibly robust, scalable applications with unparalleled uptime. Make the most of them as you build a stateful web app with Elixir, OTP, and Phoenix. Model domain entities without an ORM or a database. Manage server state and keep your code clean with OTP Behaviours. Layer on a Phoenix web interface without coupling it to the business logic. Open doors to powerful new techniques that will get you thinking about web development in fundamentally new ways.
+--------------------------------------------------
+
+Book 19:
+Title: Metaprogramming Elixir
+Author(s): Chris McCord
+---
+ISBN-10: 9781680500417 - ISBN-13: 1680500414 - ASIN: B00U1VU2GA
+Published Date: 2015
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=SIgRogEACAAJ&dq=intitle:Metaprogramming+Elixir%2Binauthor:Chris+McCord&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (45 reviews)
+Amazon.com URL: https://www.amazon.com/Metaprogramming-Elixir-Write-Less-Code-ebook/dp/B00U1VU2GA
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (44 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Metaprogramming-Elixir-Write-Less-Code/dp/1680500414
+---
+HB Blurb: Write code that writes code with Elixir macros. Macros make metaprogramming possible and define the language itself. In this book, you’ll learn how to use macros to extend the language with fast, maintainable code and share functionality in ways you never thought possible. You’ll discover how to extend Elixir with your own first-class features, optimize performance, and create domain-specific languages.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Building Table Views with Phoenix LiveView
+https://www.amazon.com/Building-Table-Views-Phoenix-LiveView-ebook/dp/B0BSRHQ9P9
+https://www.amazon.co.uk/Building-Table-Views-Phoenix-LiveView-ebook/dp/B0BSRHQ9P9
+http://books.google.co.uk/books?id=a5qoEAAAQBAJ&printsec=frontcover&dq=intitle:Building+Table+Views+with+Phoenix+LiveView%2Binauthor:Peter+Ullrich&hl=&cd=1&source=gbs_api
+
+Book 02 - From Ruby to Elixir
+No Amazon.com URL found
+https://www.amazon.co.uk/Stephen-Bussey/e/B084YRDBSJ/
+http://books.google.co.uk/books?id=NjKo0AEACAAJ&dq=intitle:From+Ruby+to+Elixir%2Binauthor:Stephen+Bussey&hl=&cd=1&source=gbs_api
+
+Book 03 - Exploring Graphs with Elixir
+https://www.amazon.com/Exploring-Graphs-Elixir-Tony-Hammond-ebook/dp/B0BPZ11Z66
+https://www.amazon.co.uk/Exploring-Graphs-Elixir-Tony-Hammond-ebook/dp/B0BPZ11Z66
+http://books.google.co.uk/books?id=TY-hEAAAQBAJ&printsec=frontcover&dq=intitle:Exploring+Graphs+with+Elixir%2Binauthor:Tony+Hammond&hl=&cd=1&source=gbs_api
+
+Book 04 - Build a Binary Clock with Elixir and Nerves
+https://www.amazon.com/Build-Binary-Clock-Elixir-Nerves-ebook/dp/B0BBYH2LYW
+https://www.amazon.co.uk/Build-Binary-Clock-Elixir-Nerves-ebook/dp/B0BBYH2LYW
+http://books.google.co.uk/books?id=OkCFEAAAQBAJ&printsec=frontcover&dq=intitle:Build+a+Binary+Clock+with+Elixir+and+Nerves%2Binauthor:Frank+Hunleth,+Bruce+Tate&hl=&cd=1&source=gbs_api
+
+Book 05 - Build a Weather Station with Elixir and Nerves
+https://www.amazon.com/Build-Weather-Station-Elixir-Nerves-ebook/dp/B09Z4WM79M
+https://www.amazon.co.uk/Build-Weather-Station-Elixir-Nerves-ebook/dp/B09Z4WM79M
+http://books.google.co.uk/books?id=8kVtEAAAQBAJ&printsec=frontcover&dq=intitle:Build+a+Weather+Station+with+Elixir+and+Nerves%2Binauthor:Alexander+Koutmos,+Bruce+Tate,+Frank+Hunleth&hl=&cd=1&source=gbs_api
+
+Book 06 - Concurrent Data Processing in Elixir
+https://www.amazon.com/Concurrent-Processing-Elixir-Svilen-Gospodinov-ebook/dp/B09GPDDK2N
+https://www.amazon.co.uk/Concurrent-Data-Processing-Elixir-Applications/dp/1680508199
+http://books.google.co.uk/books?id=fphDEAAAQBAJ&printsec=frontcover&dq=intitle:Concurrent+Data+Processing+in+Elixir%2Binauthor:Svilen+Gospodinov&hl=&cd=1&source=gbs_api
+
+Book 07 - Testing Elixir
+https://www.amazon.com/Testing-Elixir-Effective-Robust-Ecosystem/dp/1680507826
+https://www.amazon.co.uk/Testing-Elixir-Effective-Robust-Ecosystem/dp/1680507826
+http://books.google.co.uk/books?id=5909EAAAQBAJ&printsec=frontcover&dq=intitle:Testing+Elixir%2Binauthor:Andrea+Leopardi,+Jeffrey+Matthias&hl=&cd=1&source=gbs_api
+
+Book 08 - Genetic Algorithms in Elixir
+https://www.amazon.com/Genetic-Algorithms-Elixir-Problems-Evolution-ebook/dp/B091M4QJXZ
+https://www.amazon.co.uk/Genetic-Algorithms-Elixir-Problems-Evolution/dp/168050794X
+http://books.google.co.uk/books?id=7CMnEAAAQBAJ&printsec=frontcover&dq=intitle:Genetic+Algorithms+in+Elixir%2Binauthor:Sean+Moriarity&hl=&cd=1&source=gbs_api
+
+Book 09 - Real-Time Phoenix
+No Amazon.com URL found
+https://www.amazon.co.uk/Real-time-Phoenix-Stephen-Bussey/dp/1680507192
+http://books.google.co.uk/books?id=LvbkDwAAQBAJ&printsec=frontcover&dq=intitle:Real-Time+Phoenix%2Binauthor:Stephen+Bussey&hl=&cd=1&source=gbs_api
+
+Book 10 - Designing Elixir Systems with OTP
+https://www.amazon.com/Designing-Elixir-Systems-OTP-Self-healing/dp/1680506617
+https://www.amazon.co.uk/Designing-Elixir-Systems-OTP-Self-healing-ebook/dp/B084NRSQB4
+http://books.google.co.uk/books?id=FVKAwwEACAAJ&dq=intitle:Designing+Elixir+Systems+with+OTP%2Binauthor:James+Edward+Gray,+Bruce+A.+Tate&hl=&cd=1&source=gbs_api
+
+Book 11 - Programming Phoenix 1.4
+https://www.amazon.com/Programming-Phoenix-1-4-Productive-Reliable/dp/1680502263
+https://www.amazon.co.uk/Programming-Phoenix-1-4-Productive-Reliable-ebook/dp/B084NV65T8
+http://books.google.co.uk/books?id=Qg9QDwAAQBAJ&printsec=frontcover&dq=intitle:Programming+Phoenix+1.4%2Binauthor:Chris+McCord,+Bruce+Tate,+Jose+Valim&hl=&cd=1&source=gbs_api
+
+Book 12 - Programming Ecto
+https://www.amazon.com/Programming-Ecto-Database-Scalability-Performance-ebook/dp/B07RRS9C1T
+https://www.amazon.co.uk/Programming-Ecto-Darin-Wilson/dp/1680502824
+http://books.google.co.uk/books?id=6LSXDwAAQBAJ&printsec=frontcover&dq=intitle:Programming+Ecto%2Binauthor:Darin+Wilson,+Eric+Meadows-Jonsson&hl=&cd=1&source=gbs_api
+
+Book 13 - Property-Based Testing with PropEr, Erlang, and Elixir
+No Amazon.com URL found
+https://www.amazon.co.uk/Property-Based-Testing-PropEr-Erlang-Elixir-ebook/dp/B07NFC3WR2
+http://books.google.co.uk/books?id=IM-GDwAAQBAJ&printsec=frontcover&dq=intitle:Property-Based+Testing+with+PropEr,+Erlang,+and+Elixir%2Binauthor:Fred+Hebert&hl=&cd=1&source=gbs_api
+
+Book 14 - Programming Elixir 1.6
+https://www.amazon.com/Programming-Elixir-1-6-Functional-Concurrent-ebook/dp/B07DP8Y2GJ
+https://www.amazon.co.uk/Programming-Elixir-1-6-Dave-Thomas/dp/1680502999
+http://books.google.co.uk/books?id=RCDUswEACAAJ&dq=intitle:Programming+Elixir+1.6%2Binauthor:Dave+Thomas&hl=&cd=1&source=gbs_api
+
+Book 15 - Craft GraphQL APIs in Elixir with Absinthe
+https://www.amazon.com/Craft-GraphQL-APIs-Elixir-Absinthe/dp/1680502557
+https://www.amazon.co.uk/Craft-GraphQL-APIs-Elixir-Absinthe/dp/1680502557
+http://books.google.co.uk/books?id=IitZDwAAQBAJ&printsec=frontcover&dq=intitle:Craft+GraphQL+APIs+in+Elixir+with+Absinthe%2Binauthor:Bruce+Williams,+Ben+Wilson&hl=&cd=1&source=gbs_api
+
+Book 16 - Adopting Elixir
+https://www.amazon.com/Adopting-Elixir-Production-Ben-Marx-ebook/dp/B07C3G56JL
+https://www.amazon.co.uk/Adopting-Elixir-Production-Ben-Marx-ebook/dp/B07C3G56JL
+http://books.google.co.uk/books?id=F_tUDwAAQBAJ&printsec=frontcover&dq=intitle:Adopting+Elixir%2Binauthor:Ben+Marx,+Jose+Valim,+Bruce+Tate&hl=&cd=1&source=gbs_api
+
+Book 17 - Learn Functional Programming with Elixir
+https://www.amazon.com/Learn-Functional-Programming-Elixir-Foundations-ebook/dp/B07BRDXN4B
+https://www.amazon.co.uk/Learn-Functional-Programming-Elixir-Foundations-ebook/dp/B07BRDXN4B
+http://books.google.co.uk/books?id=m3PmEAAAQBAJ&printsec=frontcover&dq=intitle:Learn+Functional+Programming+with+Elixir%2Binauthor:Ulisses+Almeida&hl=&cd=1&source=gbs_api
+
+Book 18 - Functional Web Development with Elixir, OTP, and Phoenix
+https://www.amazon.com/Functional-Web-Development-Elixir-Phoenix-ebook/dp/B079ZN5HS7
+https://www.amazon.co.uk/Functional-Web-Development-Elixir-Phoenix/dp/1680502433
+http://books.google.co.uk/books?id=pg9QDwAAQBAJ&printsec=frontcover&dq=intitle:Functional+Web+Development+with+Elixir,+OTP,+and+Phoenix%2Binauthor:Lance+Halvorsen&hl=&cd=1&source=gbs_api
+
+Book 19 - Metaprogramming Elixir
+https://www.amazon.com/Metaprogramming-Elixir-Write-Less-Code-ebook/dp/B00U1VU2GA
+https://www.amazon.co.uk/Metaprogramming-Elixir-Write-Less-Code/dp/1680500414
+http://books.google.co.uk/books?id=SIgRogEACAAJ&dq=intitle:Metaprogramming+Elixir%2Binauthor:Chris+McCord&hl=&cd=1&source=gbs_api
+
