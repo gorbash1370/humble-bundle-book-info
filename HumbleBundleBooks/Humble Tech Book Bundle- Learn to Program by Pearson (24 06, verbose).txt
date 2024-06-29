@@ -1,0 +1,656 @@
+Humble Tech Book Bundle- Learn to Program by Pearson - Pearson
+Processing date: 2024-06-28
+Data retrieved from: https://www.humblebundle.com/books/learn-to-program-pearson-books
+
+Book 01 - Learn Python the Hard Way, 5/e - Shaw - 3.5 out of 5 (6 reviews)
+Book 02 - Absolute Beginner's Guide to Algorithms - Chinnathambi - 5 out of 5 (2 reviews)
+Book 03 - Learn Enough Python to Be Dangerous - Hartl - 5 out of 5 (3 reviews)
+Book 04 - JavaScript Absolute Beginner's Guide, 3/e - Chinnathambi - 4.4 out of 5 (149 reviews)
+Book 05 - Ruby on Rails Tutorial, 7/e - Hartl - 4.4 out of 5 (64 reviews)
+Book 06 - Learn Enough HTML, CSS, and Layout to Be Dangerous - Hartl - None found out of 5 (None found reviews)
+Book 07 - Learn Enough JavaScript to Be Dangerous - Hartl - 5 out of 5 (1 reviews)
+Book 08 - Learn Enough Developer Tools to Be Dangerous - Hartl - 4.6 out of 5 (3 reviews)
+Book 09 - Coding with Roblox Lua in 24 Hours: The Official Roblox Guide - Roblox - 4.6 out of 5 (202 reviews)
+Book 10 - Captain Code - Forta - 4.5 out of 5 (18 reviews)
+Book 11 - Begin to Code with JavaScript - Miles - 4.6 out of 5 (7 reviews)
+Book 12 - HTML and CSS Visual QuickStart Guide, 9/e - Casabona - 4.3 out of 5 (27 reviews)
+Book 13 - Beginning Programming in 24 Hours, Sams Teach Yourself, 4/e - Perry / Miller - None found out of 5 (None found reviews)
+Book 14 - STY HTML, CSS, and JavaScript - Meloni / Kyrnin - 4.5 out of 5 (294 reviews)
+Book 15 - Begin to Code with Python - Miles - 4.4 out of 5 (75 reviews)
+Book 16 - Python without Fear - Overland - 4.5 out of 5 (45 reviews)
+Book 17 - Java in 24 Hours, Sams Teach Yourself - Cadenhead - 4.4 out of 5 (61 reviews)
+Book 18 - Begin to Code with C# - Miles - None found out of 5 (None found reviews)
+Book 19 - C++ in 24 Hours, Sams Teach Yourself, 6/e - Cadenhead / Liberty - None found out of 5 (None found reviews)
+Book 20 - C++ without Fear - Overland - 4.4 out of 5 (88 reviews)
+Book 21 - Learn C the Hard Way - Shaw - 4.2 out of 5 (222 reviews)
+Book 22 - Learn Ruby the Hard Way - Shaw - 4.1 out of 5 (63 reviews)
+Book 23 - C Programming Absolute Beginner's Guide, 3/e - Perry / Miller - 4.6 out of 5 (742 reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Learn Python the Hard Way, 5/e
+Author(s): Shaw
+---
+ISBN-10: 0133124347 - ISBN-13: 9780133124347 - ASIN: B0CLKZQ9NB
+Published Date: 2013-09-27
+Page Count: 308
+---
+Google Books Price: GBP 9.77
+Google Books URL: http://books.google.co.uk/books?id=CfcEAQAAQBAJ&printsec=frontcover&dq=intitle:Learn+Python+the+Hard+Way,+5/e%2Binauthor:Shaw&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $15.04Save $10.45 (41%)
+Amazon.com Reviews: 3.5 of 5 (6 reviews)
+Amazon.com URL: https://www.amazon.com/Learn-Python-Hard-Way-Shaw-ebook/dp/B0CLKZQ9NB
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.7 of 5 (7 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/gp/product/0138270570/
+---
+HB Blurb: You Will Learn Python! Zed Shaw has created the world's most reliable system for learning Python. Follow it and you will succeed--just like the millions of beginners Zed has taught to date! You bring the discipline, persistence, and attention; the Zed supplies the masterful knowledge you need to succeed.In Learn Python the Hard Way you'll learn Python by working through 60 lovingly crafted exercises. Read them. Type in the code. Run it. Fix your mistakes. Repeat. As you do, you'll learn how a computer works, how to solve problems, and how to enjoy programming.If you keep trying, you'll get it--and it'll feel amazing! This course will reward you for every minute you put into it. Soon, you'll know one of the world's most powerful, popular programming languages. You'll be a Python programmer.
+--------------------------------------------------
+
+Book 02:
+Title: Absolute Beginner's Guide to Algorithms
+Author(s): Chinnathambi
+---
+ISBN-10: 0138222509 - ISBN-13: 9780138222505 - ASIN: 0138222290
+Published Date: 2023-12-08
+Page Count: 662
+---
+Google Books Price: GBP 16.63
+Google Books URL: http://books.google.co.uk/books?id=wmDUEAAAQBAJ&printsec=frontcover&dq=intitle:Absolute+Beginner%27s+Guide+to+Algorithms%2Binauthor:Chinnathambi&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (2 reviews)
+Amazon.com URL: https://www.amazon.com/Absolute-Beginners-Algorithms-Kirupa-Chinnathambi/dp/0138222290
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Absolute-Beginners-Guide-Algorithms-Introduction-ebook/dp/B0CCTZ37DQ
+---
+HB Blurb: A hands-on, easy-to-comprehend guide that is perfect for anyone who needs to understand algorithmsWith the explosive growth in the amount of data and the diversity of computing applications, efficient algorithms are needed now more than ever. Programming languages come and go, but the core of programming--algorithms and data structures--remains the same. Absolute Beginner's Guide to Algorithms is the fastest way to learn algorithms and data structures. Using helpful diagrams and fully annotated code samples in Javascript, you will start with the basics and gradually go deeper and broader into all the techniques you need to organize your data.
+--------------------------------------------------
+
+Book 03:
+Title: Learn Enough Python to Be Dangerous
+Author(s): Hartl
+---
+ISBN-10: 0138051054 - ISBN-13: 9780138051051 - ASIN: B0C4VCSD1G
+Published Date: 2023-06-08
+Page Count: 692
+---
+Google Books Price: GBP 16.24
+Google Books URL: http://books.google.co.uk/books?id=_tnPEAAAQBAJ&printsec=frontcover&dq=intitle:Learn+Enough+Python+to+Be+Dangerous%2Binauthor:Hartl&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $26.99Save $9.80 (27%)
+Amazon.com Reviews: 5 of 5 (3 reviews)
+Amazon.com URL: https://www.amazon.com/Learn-Enough-Python-Dangerous-Development-ebook/dp/B0C4VCSD1G
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learn-Enough-Python-Dangerous-Development/dp/0138050953
+---
+HB Blurb: All You Need to Know, and Nothing You Don't, to Solve Real Problems with PythonPython is a great first language to learn, but you don't need to learn 'everything' to get started, just how to use it efficiently to solve real problems. In Learn Enough Python to Be Dangerous, you will learn the specific concepts, skills, and approaches you need to be professionally productive.The book introduces Python both as a general-purpose language and as a specialist tool for web development and data science, presenting focused examples and exercises that help you internalize what matters, without wasting time on unnecessary details. Soon, it'll be like you were born knowing this stuff--and you'll be suddenly, seriously dangerous.
+--------------------------------------------------
+
+Book 04:
+Title: JavaScript Absolute Beginner's Guide, 3/e
+Author(s): Chinnathambi
+---
+ISBN-10: 0137959133 - ISBN-13: 9780137959136 - ASIN: B0BMTHNFHF
+Published Date: 2022-11-11
+Page Count: 1258
+---
+Google Books Price: GBP 15.99
+Google Books URL: http://books.google.co.uk/books?id=BNnPEAAAQBAJ&printsec=frontcover&dq=intitle:JavaScript+Absolute+Beginner%27s+Guide,+3/e%2Binauthor:Chinnathambi&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $23.99Save $8.00 (25%)
+Amazon.com Reviews: 4.4 of 5 (149 reviews)
+Amazon.com URL: https://www.amazon.com/Javascript-Absolute-Beginners-Guide-Third-ebook/dp/B0BMTHNFHF
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (136 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/JavaScript-Absolute-Beginners-Guide-Guides/dp/0789758067
+---
+HB Blurb: Make the most of JavaScript--even if you've never programmed anything before. JavaScript Absolute Beginner's Guide is the fastest way to learn JavaScript, starting with the basics and gradually going deeper and broader into all the techniques you need to begin building highly scalable web apps and experiences. Do what you want, the way you want, one incredibly easy step at a time! • Create well-organized, clear code that's easy to reuse and improve • Learn proven best practices to build web apps that scale with outstanding performance • Make the most of powerful object-oriented techniques to build complex, extensible apps • Translate your ideas into visually compelling and interactive content  • Identify and fix issues quickly  • Learn how to ensure your code runs lightning-fast
+--------------------------------------------------
+
+Book 05:
+Title: Ruby on Rails Tutorial, 7/e
+Author(s): Hartl
+---
+ISBN-10: 0134077784 - ISBN-13: 9780134077789 - ASIN: B08F5J728H
+Published Date: 2015-04-24
+Page Count: 736
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=0tSmCAAAQBAJ&printsec=frontcover&dq=intitle:Ruby+on+Rails+Tutorial,+7/e%2Binauthor:Hartl&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.4 of 5 (64 reviews)
+Amazon.com URL: https://www.amazon.com/Ruby-Rails-Tutorial-Hartl-Michael-ebook/dp/B08F5J728H
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.1 of 5 (11 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Ruby-Rails-Tutorial-Learn-Development-ebook/dp/B0BGDGX5JM
+---
+HB Blurb: Ruby on Rails is one of the most popular frameworks for developing web applications, but it can be challenging to learn and use. Whether you're new to web development or new only to Rails, Ruby on Rails Tutorial is the solution.Learn Rails through the development of three example applications of increasing sophistication. The tutorial's examples focus on the general principles of web development needed for virtually any kind of website.The author explains how each new technique solves a real-world problem, and then he demonstrates it with bite-sized code that's simple enough to understand while still being useful. Whatever your previous web-development experience, this book will guide you to true Rails mastery.
+--------------------------------------------------
+
+Book 06:
+Title: Learn Enough HTML, CSS, and Layout to Be Dangerous
+Author(s): Hartl
+---
+ISBN-10: 0137843054 - ISBN-13: 9780137843053 - ASIN: 0137843100
+Published Date: 2022-07-27
+Page Count: 868
+---
+Google Books Price: GBP 17.58
+Google Books URL: http://books.google.co.uk/books?id=4NnPEAAAQBAJ&printsec=frontcover&dq=intitle:Learn+Enough+HTML,+CSS,+and+Layout+to+Be+Dangerous%2Binauthor:Hartl&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learn-Enough-HTML-Layout-Dangerous/dp/0137843100
+---
+HB Blurb: All You Need to Know, and Nothing You Don't, to Start Creating and Deploying Web SitesTo design, build, and deploy modern websites, you need three core skills: the ability to write and edit HTML, wield CSS to control page design, and create efficient web layouts that serve users well. But you don't need to learn "everything" about HTML, CSS and web layout, just how to use them efficiently to solve real problems. In Learn Enough HTML, CSS and Layout to Be Dangerous, you learn the specific concepts, skills, and approaches you need to get the job done.Even if you've never created a web page, the authors help you quickly build technical sophistication and master the lore you need to succeed. Exercises help you focus on what matters, without wasting time on details pros don't care about.
+--------------------------------------------------
+
+Book 07:
+Title: Learn Enough JavaScript to Be Dangerous
+Author(s): Hartl
+---
+ISBN-10: 0137843879 - ISBN-13: 9780137843879 - ASIN: B09RDSVV7N
+Published Date: 2022-05-12
+Page Count: 667
+---
+Google Books Price: GBP 15.59
+Google Books URL: http://books.google.co.uk/books?id=6NnPEAAAQBAJ&printsec=frontcover&dq=intitle:Learn+Enough+JavaScript+to+Be+Dangerous%2Binauthor:Hartl&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $23.99Save $8.00 (25%)
+Amazon.com Reviews: 5 of 5 (1 reviews)
+Amazon.com URL: https://www.amazon.com/Learn-Enough-JavaScript-Dangerous-Introduction-ebook/dp/B09RDSVV7N
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learn-Enough-JavaScript-Dangerous-Introduction/dp/0137843747
+---
+HB Blurb: All You Need to Know, and Nothing You Don't, to Code in JavaScriptJavaScript is a big language, but you don't need to learn "everything" about it to get started, just how to use it efficiently to solve real problems. In Learn Enough JavaScript to Be Dangerous, you will learn the specific concepts, skills, and approaches you need to be professionally productive.Treating JavaScript as a general-purpose language right from the start, the book offers examples for creating dynamic effects in browsers and for writing scripts and modules. Focused exercises help you internalize what matters, without wasting time on details pros don't care about. Soon, it'll be like you were born knowing this stuff--and you'll be suddenly, seriously dangerous.
+--------------------------------------------------
+
+Book 08:
+Title: Learn Enough Developer Tools to Be Dangerous
+Author(s): Hartl
+---
+ISBN-10: 0137843267 - ISBN-13: 9780137843268 - ASIN: B09QXD3MC5
+Published Date: 2022-06-17
+Page Count: 469
+---
+Google Books Price: GBP 17.58
+Google Books URL: http://books.google.co.uk/books?id=4tnPEAAAQBAJ&printsec=frontcover&dq=intitle:Learn+Enough+Developer+Tools+to+Be+Dangerous%2Binauthor:Hartl&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $26.99Save $9.80 (27%)
+Amazon.com Reviews: 4.6 of 5 (3 reviews)
+Amazon.com URL: https://www.amazon.com/Learn-Enough-Developer-Tools-Dangerous-ebook/dp/B09QXD3MC5
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learn-Enough-Developer-Tools-Dangerous-ebook/dp/B09QXD3MC5
+---
+HB Blurb: All You Need to Know, and Nothing You Don't, About Core Tools for Software DevelopmentThree of the core tools needed for modern software development are the Unix command line, a text editor, and version control with Git. But you don't need to learn "everything" about them, just how to use them efficiently to solve real problems. In Learn Enough Developer Tools to Be Dangerous, you will learn the specific concepts, skills, and approaches you need so you can write apps, get hired, collaborate, and maybe even launch your own company.Even if you've never used (or even heard of) these tools before, exercises help you focus on what matters, without wasting time on details you don't need. Soon, it'll be like you were born knowing this stuff--and you'll be suddenly, seriously dangerous.
+--------------------------------------------------
+
+Book 09:
+Title: Coding with Roblox Lua in 24 Hours: The Official Roblox Guide
+Author(s): Roblox
+---
+ISBN-10: 0136829287 - ISBN-13: 9780136829287 - ASIN: B08F9SWL72
+Published Date: 2021-12-07
+Page Count: 943
+---
+Google Books Price: GBP 13.64
+Google Books URL: http://books.google.co.uk/books?id=FtfPEAAAQBAJ&printsec=frontcover&dq=intitle:Coding+with+Roblox+Lua+in+24+Hours:+The+Official+Roblox+Guide%2Binauthor:Roblox&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $17.70Save $14.49 (45%)
+Amazon.com Reviews: 4.6 of 5 (202 reviews)
+Amazon.com URL: https://www.amazon.com/Coding-Roblox-Lua-24-Hours-ebook/dp/B08F9SWL72
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (185 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Teach-Yourself-Coding-Roblox-Hours/dp/0136829422
+---
+HB Blurb: In just 24 lessons of one hour or less, Coding with Roblox Lua in 24 Hours: The Official Roblox Guide helps you learn all the skills and techniques you'll need to code your own Roblox games. Perfect for beginners, each short and easy lesson builds upon everything that's come before, helping you quickly master the essentials of Lua programming. Coding with Roblox Lua in 24 Hours covers all this, and much more: • Learn code with properties, variables, functions, if/then statements, and loops • Organise information using arrays and dictionaries • Work with events to make things move, explode, count down, and do whatever you can imagine • Keep your code manageable with abstractions and object-oriented programming • Store data permanently to create leaderboards, inventories, and custom currency
+--------------------------------------------------
+
+Book 10:
+Title: Captain Code
+Author(s): Forta
+---
+ISBN-10: 0137653611 - ISBN-13: 9780137653614 - ASIN: B09HK7HS6R
+Published Date: 2021-12-21
+Page Count: 767
+---
+Google Books Price: GBP 10.04
+Google Books URL: http://books.google.co.uk/books?id=1tnPEAAAQBAJ&printsec=frontcover&dq=intitle:Captain+Code%2Binauthor:Forta&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $14.99Save $5.00 (25%)
+Amazon.com Reviews: 4.5 of 5 (18 reviews)
+Amazon.com URL: https://www.amazon.com/Captain-Code-Unleash-Coding-Superpower-ebook/dp/B09HK7HS6R
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (12 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Captain-Code-Unleash-Coding-Superpower-ebook/dp/B09HK7HS6R
+---
+HB Blurb: Captain Code is a welcoming, engaging, and fun introduction to becoming a coder, designed for the young and young-at-heart. Experienced educators and coders Ben & Shmuel Forta will guide you using Python, one of the most popular programming languages in the world. You'll learn by creating games, from simple projects to retro text-based adventures to complete graphical arcade style games. Captain Code is 400 color pages of goodness packed with welcoming images, useful tips and tidbits, and engaging, readable text that focuses on doing while having fun. All code listings are in full-color, and QR codes link to bonus content, downloads, challenge solutions, and more. Captain Code makes coding exciting and rewarding. Are you ready to unleash your coding superpower and become Captain Code?
+--------------------------------------------------
+
+Book 11:
+Title: Begin to Code with JavaScript
+Author(s): Miles
+---
+ISBN-10: 0136870635 - ISBN-13: 9780136870630 - ASIN: B08Q7MH5QY
+Published Date: 2021-08-05
+Page Count: 1014
+---
+Google Books Price: GBP 15.59
+Google Books URL: http://books.google.co.uk/books?id=ZtfPEAAAQBAJ&printsec=frontcover&dq=intitle:Begin+to+Code+with+JavaScript%2Binauthor:Miles&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $27.99Save $8.80 (24%)
+Amazon.com Reviews: 4.6 of 5 (7 reviews)
+Amazon.com URL: https://www.amazon.com/Begin-Code-JavaScript-Rob-Miles-ebook/dp/B08Q7MH5QY
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (5 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Begin-Code-JavaScript-Rob-Miles-ebook/dp/B08Q7MH5QY
+---
+HB Blurb: Become a JavaScript programmer - and have fun doing it! Start writing software that solves real problems, even if you have absolutely no programming experience! This friendly, easy, full-color book puts you in total control of your own learning, empowering you to build unique and useful programs. Microsoft has completely reinvented the beginning programmer's tutorial, reflecting deep research into how today's beginners learn. Begin to Code with JavaScript is packed with innovations, from its JavaScript code samples you can interact with straight from your browser to its "Make Something Happen" projects. Whether you're a total beginner or you've tried before, this guide will put the power, excitement, and fun of programming where it belongs: in your hands!
+--------------------------------------------------
+
+Book 12:
+Title: HTML and CSS Visual QuickStart Guide, 9/e
+Author(s): Casabona
+---
+ISBN-10: 0136702546 - ISBN-13: 9780136702542 - ASIN: B08F5HPB6Z
+Published Date: 2020-08-14
+Page Count: 617
+---
+Google Books Price: GBP 15.59
+Google Books URL: http://books.google.co.uk/books?id=VNrPEAAAQBAJ&printsec=frontcover&dq=intitle:HTML+and+CSS+Visual+QuickStart+Guide,+9/e%2Binauthor:Casabona&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $26.58Save $10.21 (28%)
+Amazon.com Reviews: 4.3 of 5 (27 reviews)
+Amazon.com URL: https://www.amazon.com/HTML-CSS-Visual-QuickStart-Guide-ebook/dp/B08F5HPB6Z
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (24 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/HTML-CSS-Visual-QuickStart-Guide-ebook/dp/B08F5HPB6Z
+---
+HB Blurb: Hundreds of thousands of people have learned HTML and CSS from the Visual QuickStart Guide - an easy, visual approach to learning. Concise steps and explanations, using many illustrations, guide you through HTML and CSS and show you what to do, getting you up and running in no time. From the basics to more advanced techniques, this book guides you through: • Designing, structuring, and formatting sites  • Using images, links, styles, tables, and forms  • Adding media, visual effects, and animations  • Using CSS to gain full control over elements, fonts, colors, and layouts  • Making the most of sophisticated HTML5 and CSS3 capabilities  • Applying modern best practices for ensuring accessibility and responsiveness
+--------------------------------------------------
+
+Book 13:
+Title: Beginning Programming in 24 Hours, Sams Teach Yourself, 4/e
+Author(s): Perry / Miller
+---
+ISBN-10: 0135937612 - ISBN-13: 9780135937617 - ASIN: 0135836700
+Published Date: 2019-11-25
+Page Count: 934
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=mXjADwAAQBAJ&printsec=frontcover&dq=intitle:Beginning+Programming+in+24+Hours,+Sams+Teach+Yourself,+4/e%2Binauthor:Perry+/+Miller&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (14 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Beginning-Programming-Hours-Teach-Yourself/dp/0135836700
+---
+HB Blurb: Sams Teach Yourself Beginning Programming in 24 Hours explains the basics of programming in the successful 24 Hours format. The book's examples are easily readable and understandable even if you have no previous exposure to programming.This book covers the absolute basics of programming: Why program? What tools to use? How does a program tell the computer what to do? You will learn how to program the computer and will explore some of the most popular programming languages in use. This book introduces you to common programming fundamentals using Python and provides an overview of other common programming languages and their uses.
+--------------------------------------------------
+
+Book 14:
+Title: STY HTML, CSS, and JavaScript
+Author(s): Meloni / Kyrnin
+---
+ISBN-10: 0135167078 - ISBN-13: 9780135167076 - ASIN: B07L8KF3BK
+Published Date: 2018-12-04
+Page Count: 1716
+---
+Google Books Price: GBP 15.59
+Google Books URL: http://books.google.co.uk/books?id=vF1-DwAAQBAJ&printsec=frontcover&dq=intitle:STY+HTML,+CSS,+and+JavaScript%2Binauthor:Meloni+/+Kyrnin&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $17.27Save $14.72 (46%)
+Amazon.com Reviews: 4.5 of 5 (294 reviews)
+Amazon.com URL: https://www.amazon.com/HTML-CSS-JavaScript-All-One-ebook/dp/B07L8KF3BK
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (293 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/HTML-CSS-JavaScript-All-One-ebook/dp/B07L8KF3BK
+---
+HB Blurb: Sams Teach Yourself HTML, CSS, and JavaScript All in One combines these three fundamental web development technologies into one clearly written, carefully organized, step-by-step tutorial that expertly guides the beginner through these three interconnected technologies.In just a short time, you can learn how to use HTML, Cascading Style Sheets (CSS), and JavaScript together to design, create, and maintain world-class websites. Each lesson in this book builds on the previous ones, enabling you to learn the essentials from the ground up. Clear instructions and practical, hands-on examples show you how to use HTML to create the framework of your website, design your site’s layout and typography with CSS, and then add interactivity with JavaScript and jQuery.
+--------------------------------------------------
+
+Book 15:
+Title: Begin to Code with Python
+Author(s): Miles
+---
+ISBN-10: 1509304533 - ISBN-13: 9781509304530 - ASIN: 1509304525
+Published Date: 2017-11-21
+Page Count: 1280
+---
+Google Books Price: GBP 16.63
+Google Books URL: http://books.google.co.uk/books?id=_ERADwAAQBAJ&printsec=frontcover&dq=intitle:Begin+to+Code+with+Python%2Binauthor:Miles&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.4 of 5 (75 reviews)
+Amazon.com URL: https://www.amazon.com/Begin-Code-Python-Rob-Miles/dp/1509304525
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (63 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Begin-Code-Python-Rob-Miles-ebook/dp/B078BV5XF4
+---
+HB Blurb: Become a Python programmer–and have fun doing it!  Start writing software that solves real problems, even if you have absolutely no programming experience! This friendly, easy, full-color book puts you in total control of your own learning, empowering you to build unique and useful programs. Microsoft has completely reinvented the beginning programmer’s tutorial, reflecting deep research into how today’s beginners learn, and why other books fall short. Begin to Code with Python is packed with innovations, from its “Snaps” prebuilt operations to its “Make Something Happen” projects. Whether you’re a total beginner or you’ve tried before, this guide will put the power, excitement, and fun of programming where it belongs: in your hands!
+--------------------------------------------------
+
+Book 16:
+Title: Python without Fear
+Author(s): Overland
+---
+ISBN-10: 0134688279 - ISBN-13: 9780134688275 - ASIN: B075Z6JPFN
+Published Date: 2017-09-27
+Page Count: 1222
+---
+Google Books Price: GBP 12.99
+Google Books URL: http://books.google.co.uk/books?id=s3M3DwAAQBAJ&printsec=frontcover&dq=intitle:Python+without+Fear%2Binauthor:Overland&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.5 of 5 (45 reviews)
+Amazon.com URL: https://www.amazon.com/Python-Without-Fear-Brian-Overland-ebook/dp/B075Z6JPFN
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (35 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Python-Without-Fear-Brian-Overland/dp/0134687477
+---
+HB Blurb: Python without Fear is the perfect beginner Python guide for anyone who wants to learn the language painlessly, and avoid its “gotchas.” • Takes you “under the covers” with Python, so you understand why it works the way it does • Makes learning Python fun, by showing how to use it to solve challenging puzzles and win fascinating games • Especially well-designed for programmers moving to Python from languages such as C, C++, Visual Basic, or Java
+--------------------------------------------------
+
+Book 17:
+Title: Java in 24 Hours, Sams Teach Yourself
+Author(s): Cadenhead
+---
+ISBN-10: 0133517799 - ISBN-13: 9780133517798 - ASIN: B075HHH1GJ
+Published Date: 2014-05-05
+Page Count: 449
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=APKHAwAAQBAJ&printsec=frontcover&dq=intitle:Java+in+24+Hours,+Sams+Teach+Yourself%2Binauthor:Cadenhead&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $15.39Save $12.60 (45%)
+Amazon.com Reviews: 4.4 of 5 (61 reviews)
+Amazon.com URL: https://www.amazon.com/Java-Hours-Teach-Yourself-Covering-ebook/dp/B075HHH1GJ
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (59 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Java-Hours-Teach-Yourself-Covering-ebook/dp/B075HHH1GJ
+---
+HB Blurb: In just 24 lessons of one hour or less, you can learn the fundamentals of Java programming.Sams Teach Yourself in 24 Hours uses a straightforward, step-by-step approach, in which each lesson builds on everything that's come before, helping you learn Java's core features and techniques from the ground up.Friendly, accessible, and conversational, this book offers a practical grounding in the language, without ever becoming overwhelming or intimidating. Full-color figures and clear instructions visually show you how to program with Java.Popular author Rogers Cadenhead helps you master the skills and technology you need to create desktop and web programs, web services, and even an Android app in Java.
+--------------------------------------------------
+
+Book 18:
+Title: Begin to Code with C#
+Author(s): Miles
+---
+ISBN-10: 1509301178 - ISBN-13: 9781509301171 - ASIN: B01LDAJTQG
+Published Date: 2016-08-31
+Page Count: 979
+---
+Google Books Price: GBP 12.99
+Google Books URL: http://books.google.co.uk/books?id=Hmf0DAAAQBAJ&printsec=frontcover&dq=intitle:Begin+to+Code+with+C%23%2Binauthor:Miles&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.2 of 5 (44 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Begin-Code-C-Rob-Miles-ebook/dp/B01LDAJTQG
+---
+HB Blurb: Become a C# programmer—and have fun doing it! Start writing software that solves real problems, even if you have absolutely no programming experience! This friendly, easy, full-color book puts you in total control of your own learning, empowering you to build unique and useful programs. Microsoft has completely reinvented the beginning programmer’s tutorial, reflecting deep research into how today’s beginners learn, and why other books fall short. Begin to Code with C# is packed with innovations, from its “Snaps” prebuilt operations to its “Make Something Happen” projects. Whether you’re a total beginner or you’ve tried before, this guide will put the power, excitement, and fun of programming where it belongs: in your hands!
+--------------------------------------------------
+
+Book 19:
+Title: C++ in 24 Hours, Sams Teach Yourself, 6/e
+Author(s): Cadenhead / Liberty
+---
+ISBN-10: 9780672333316 - ISBN-13: 0672333317 - ASIN: 0672337460
+Published Date: 2011
+Page Count: 444
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=wpobngEACAAJ&dq=intitle:C%2B%2B+in+24+Hours,+Sams+Teach+Yourself,+6/e%2Binauthor:Cadenhead+/+Liberty&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (36 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/24-Hours-Sams-Teach-Yourself/dp/0672337460
+---
+HB Blurb: In just 24 lessons of one hour or less, you can learn the fundamentals of C++ programming.Sams Teach Yourself C++ in 24 Hours is a hands-on guide to the C++ programming language. You are provided with short, practical examples that illustrate key concepts, syntax, and techniques. Using a straightforward approach, this fast and friendly tutorial teaches you everything you need to know, from installing and using a compiler to debugging the programs you’ve created.Step-by-step instructions carefully walk you through the most common C++ programming tasks.Quizzes and exercises at the end of each chapter help you test yourself to make sure you’re ready to go on.
+--------------------------------------------------
+
+Book 20:
+Title: C++ without Fear
+Author(s): Overland
+---
+ISBN-10: 0768684889 - ISBN-13: 9780768684889 - ASIN: B018MXRWXO
+Published Date: 2004-09-14
+Page Count: 555
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=bW6MiHxPULUC&printsec=frontcover&dq=intitle:C%2B%2B+without+Fear%2Binauthor:Overland&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $15.39Save $12.60 (45%)
+Amazon.com Reviews: 4.4 of 5 (88 reviews)
+Amazon.com URL: https://www.amazon.com/Without-Fear-Beginners-Guide-Makes-ebook/dp/B018MXRWXO
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (83 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Without-Fear-Beginners-Guide-Makes-ebook/dp/B018MXRWXO
+---
+HB Blurb: Learning C++ Doesn’t Have to Be Difficult! Have you ever wanted to learn programming? Have you ever wanted to learn the C++ language? C++ Without Fear is the ideal way to get started. It will quickly make you productive with C++ even if you’ve never written a line of code. You start with short, simple examples you can easily enter and run. Within a couple of chapters, you’ll be creating games and solving puzzles. Everything’s simplified to its essentials, patiently explained, and clearly illustrated with practical examples and exercises that help you make progress quickly. You’ll never get bogged down in complex or pointless examples: it’s 100% focused on learning what works and what matters—while having fun!
+--------------------------------------------------
+
+Book 21:
+Title: Learn C the Hard Way
+Author(s): Shaw
+---
+ISBN-10: 0133124371 - ISBN-13: 9780133124378 - ASIN: 0321884922
+Published Date: 2015-08-10
+Page Count: 931
+---
+Google Books Price: GBP 9.77
+Google Books URL: http://books.google.co.uk/books?id=oudVCgAAQBAJ&printsec=frontcover&dq=intitle:Learn+C+the+Hard+Way%2Binauthor:Shaw&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.2 of 5 (222 reviews)
+Amazon.com URL: https://www.amazon.com/Learn-Hard-Way-Practical-Computational/dp/0321884922
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.2 of 5 (200 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learn-Hard-Way-Practical-Computational-ebook/dp/B013PNU6VQ
+---
+HB Blurb: You Will Learn C!You bring discipline, commitment, and persistence; the author supplies everything else.In Learn C the Hard Way, you’ll learn C by working through 52 brilliantly crafted exercises. Read the exercise. Type the code precisely. (No copying and pasting!) Fix your mistakes. Watch the programs run. As you do, you’ll learn what good, modern C programs look like; how to think more effectively about code; and how to find and fix mistakes more efficiently. Most importantly, you’ll master rigorous programming techniques, so you can create software that protects itself from malicious activity and defects.This tutorial will reward you for every minute you put into it. Soon, you’ll know one of the world’s most powerful programming languages. You’ll be a C programmer.
+--------------------------------------------------
+
+Book 22:
+Title: Learn Ruby the Hard Way
+Author(s): Shaw
+---
+ISBN-10: 9780133135640 - ISBN-13: 0133135640 - ASIN: B00QFI5S8A
+Published Date: 2015
+Page Count: None
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=0HICrgEACAAJ&dq=intitle:Learn+Ruby+the+Hard+Way%2Binauthor:Shaw&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $17.27Save $14.72 (46%)
+Amazon.com Reviews: 4.1 of 5 (63 reviews)
+Amazon.com URL: https://www.amazon.com/Learn-Ruby-Hard-Way-Computational-ebook/dp/B00QFI5S8A
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4 of 5 (55 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learn-Ruby-Hard-Way-Computational/dp/032188499X
+---
+HB Blurb: You Will Learn to Program with Ruby!Zed Shaw has perfected the world’s best system for learning Ruby. Follow it and you will succeed–just like the hundreds of thousands of beginners Zed has taught to date! You bring the discipline, commitment, and persistence; the author supplies everything else.In Learn Ruby the Hard Way you’ll learn Ruby by working through 52 brilliantly crafted exercises. Read them. Type their code precisely. (No copying and pasting!) Fix your mistakes. Watch the programs run. As you do, you’ll learn how software works; what good programs look like; how to read, write, and think about code; and how to find and fix your mistakes using tricks professional programmers use.
+--------------------------------------------------
+
+Book 23:
+Title: C Programming Absolute Beginner's Guide, 3/e
+Author(s): Perry / Miller
+---
+ISBN-10: 0133414248 - ISBN-13: 9780133414240 - ASIN: 0789751984
+Published Date: 2013-08-02
+Page Count: 352
+---
+Google Books Price: GBP 7.36
+Google Books URL: http://books.google.co.uk/books?id=Tfk3AAAAQBAJ&printsec=frontcover&dq=intitle:C+Programming+Absolute+Beginner%27s+Guide,+3/e%2Binauthor:Perry+/+Miller&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $14.39Save $9.60 (40%)
+Amazon.com Reviews: 4.6 of 5 (742 reviews)
+Amazon.com URL: https://www.amazon.com/Programming-Absolute-Beginners-Guide-3rd/dp/0789751984
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (702 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Programming-Absolute-Beginners-Guide-Guides/dp/0789751984
+---
+HB Blurb: C Programming Absolute Beginner's Guide is the fastest way to get comfortable with C, one incredibly clear and easy step at a time. You’ll learn all the basics: how to organize programs, store and display data, work with variables, operators, I/O, pointers, arrays, functions, and much more. C programming has never been this simple!Who knew how simple C programming could be?This is today’s best beginner’s guide to writing C programs–and to learning skills you can use with practically any language. Its simple, practical instructions will help you start creating useful, reliable C code, from games to mobile apps.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Learn Python the Hard Way, 5/e
+https://www.amazon.com/Learn-Python-Hard-Way-Shaw-ebook/dp/B0CLKZQ9NB
+https://www.amazon.co.uk/gp/product/0138270570/
+http://books.google.co.uk/books?id=CfcEAQAAQBAJ&printsec=frontcover&dq=intitle:Learn+Python+the+Hard+Way,+5/e%2Binauthor:Shaw&hl=&cd=1&source=gbs_api
+
+Book 02 - Absolute Beginner's Guide to Algorithms
+https://www.amazon.com/Absolute-Beginners-Algorithms-Kirupa-Chinnathambi/dp/0138222290
+https://www.amazon.co.uk/Absolute-Beginners-Guide-Algorithms-Introduction-ebook/dp/B0CCTZ37DQ
+http://books.google.co.uk/books?id=wmDUEAAAQBAJ&printsec=frontcover&dq=intitle:Absolute+Beginner%27s+Guide+to+Algorithms%2Binauthor:Chinnathambi&hl=&cd=1&source=gbs_api
+
+Book 03 - Learn Enough Python to Be Dangerous
+https://www.amazon.com/Learn-Enough-Python-Dangerous-Development-ebook/dp/B0C4VCSD1G
+https://www.amazon.co.uk/Learn-Enough-Python-Dangerous-Development/dp/0138050953
+http://books.google.co.uk/books?id=_tnPEAAAQBAJ&printsec=frontcover&dq=intitle:Learn+Enough+Python+to+Be+Dangerous%2Binauthor:Hartl&hl=&cd=1&source=gbs_api
+
+Book 04 - JavaScript Absolute Beginner's Guide, 3/e
+https://www.amazon.com/Javascript-Absolute-Beginners-Guide-Third-ebook/dp/B0BMTHNFHF
+https://www.amazon.co.uk/JavaScript-Absolute-Beginners-Guide-Guides/dp/0789758067
+http://books.google.co.uk/books?id=BNnPEAAAQBAJ&printsec=frontcover&dq=intitle:JavaScript+Absolute+Beginner%27s+Guide,+3/e%2Binauthor:Chinnathambi&hl=&cd=1&source=gbs_api
+
+Book 05 - Ruby on Rails Tutorial, 7/e
+https://www.amazon.com/Ruby-Rails-Tutorial-Hartl-Michael-ebook/dp/B08F5J728H
+https://www.amazon.co.uk/Ruby-Rails-Tutorial-Learn-Development-ebook/dp/B0BGDGX5JM
+http://books.google.co.uk/books?id=0tSmCAAAQBAJ&printsec=frontcover&dq=intitle:Ruby+on+Rails+Tutorial,+7/e%2Binauthor:Hartl&hl=&cd=1&source=gbs_api
+
+Book 06 - Learn Enough HTML, CSS, and Layout to Be Dangerous
+No Amazon.com URL found
+https://www.amazon.co.uk/Learn-Enough-HTML-Layout-Dangerous/dp/0137843100
+http://books.google.co.uk/books?id=4NnPEAAAQBAJ&printsec=frontcover&dq=intitle:Learn+Enough+HTML,+CSS,+and+Layout+to+Be+Dangerous%2Binauthor:Hartl&hl=&cd=1&source=gbs_api
+
+Book 07 - Learn Enough JavaScript to Be Dangerous
+https://www.amazon.com/Learn-Enough-JavaScript-Dangerous-Introduction-ebook/dp/B09RDSVV7N
+https://www.amazon.co.uk/Learn-Enough-JavaScript-Dangerous-Introduction/dp/0137843747
+http://books.google.co.uk/books?id=6NnPEAAAQBAJ&printsec=frontcover&dq=intitle:Learn+Enough+JavaScript+to+Be+Dangerous%2Binauthor:Hartl&hl=&cd=1&source=gbs_api
+
+Book 08 - Learn Enough Developer Tools to Be Dangerous
+https://www.amazon.com/Learn-Enough-Developer-Tools-Dangerous-ebook/dp/B09QXD3MC5
+https://www.amazon.co.uk/Learn-Enough-Developer-Tools-Dangerous-ebook/dp/B09QXD3MC5
+http://books.google.co.uk/books?id=4tnPEAAAQBAJ&printsec=frontcover&dq=intitle:Learn+Enough+Developer+Tools+to+Be+Dangerous%2Binauthor:Hartl&hl=&cd=1&source=gbs_api
+
+Book 09 - Coding with Roblox Lua in 24 Hours: The Official Roblox Guide
+https://www.amazon.com/Coding-Roblox-Lua-24-Hours-ebook/dp/B08F9SWL72
+https://www.amazon.co.uk/Teach-Yourself-Coding-Roblox-Hours/dp/0136829422
+http://books.google.co.uk/books?id=FtfPEAAAQBAJ&printsec=frontcover&dq=intitle:Coding+with+Roblox+Lua+in+24+Hours:+The+Official+Roblox+Guide%2Binauthor:Roblox&hl=&cd=1&source=gbs_api
+
+Book 10 - Captain Code
+https://www.amazon.com/Captain-Code-Unleash-Coding-Superpower-ebook/dp/B09HK7HS6R
+https://www.amazon.co.uk/Captain-Code-Unleash-Coding-Superpower-ebook/dp/B09HK7HS6R
+http://books.google.co.uk/books?id=1tnPEAAAQBAJ&printsec=frontcover&dq=intitle:Captain+Code%2Binauthor:Forta&hl=&cd=1&source=gbs_api
+
+Book 11 - Begin to Code with JavaScript
+https://www.amazon.com/Begin-Code-JavaScript-Rob-Miles-ebook/dp/B08Q7MH5QY
+https://www.amazon.co.uk/Begin-Code-JavaScript-Rob-Miles-ebook/dp/B08Q7MH5QY
+http://books.google.co.uk/books?id=ZtfPEAAAQBAJ&printsec=frontcover&dq=intitle:Begin+to+Code+with+JavaScript%2Binauthor:Miles&hl=&cd=1&source=gbs_api
+
+Book 12 - HTML and CSS Visual QuickStart Guide, 9/e
+https://www.amazon.com/HTML-CSS-Visual-QuickStart-Guide-ebook/dp/B08F5HPB6Z
+https://www.amazon.co.uk/HTML-CSS-Visual-QuickStart-Guide-ebook/dp/B08F5HPB6Z
+http://books.google.co.uk/books?id=VNrPEAAAQBAJ&printsec=frontcover&dq=intitle:HTML+and+CSS+Visual+QuickStart+Guide,+9/e%2Binauthor:Casabona&hl=&cd=1&source=gbs_api
+
+Book 13 - Beginning Programming in 24 Hours, Sams Teach Yourself, 4/e
+No Amazon.com URL found
+https://www.amazon.co.uk/Beginning-Programming-Hours-Teach-Yourself/dp/0135836700
+http://books.google.co.uk/books?id=mXjADwAAQBAJ&printsec=frontcover&dq=intitle:Beginning+Programming+in+24+Hours,+Sams+Teach+Yourself,+4/e%2Binauthor:Perry+/+Miller&hl=&cd=1&source=gbs_api
+
+Book 14 - STY HTML, CSS, and JavaScript
+https://www.amazon.com/HTML-CSS-JavaScript-All-One-ebook/dp/B07L8KF3BK
+https://www.amazon.co.uk/HTML-CSS-JavaScript-All-One-ebook/dp/B07L8KF3BK
+http://books.google.co.uk/books?id=vF1-DwAAQBAJ&printsec=frontcover&dq=intitle:STY+HTML,+CSS,+and+JavaScript%2Binauthor:Meloni+/+Kyrnin&hl=&cd=1&source=gbs_api
+
+Book 15 - Begin to Code with Python
+https://www.amazon.com/Begin-Code-Python-Rob-Miles/dp/1509304525
+https://www.amazon.co.uk/Begin-Code-Python-Rob-Miles-ebook/dp/B078BV5XF4
+http://books.google.co.uk/books?id=_ERADwAAQBAJ&printsec=frontcover&dq=intitle:Begin+to+Code+with+Python%2Binauthor:Miles&hl=&cd=1&source=gbs_api
+
+Book 16 - Python without Fear
+https://www.amazon.com/Python-Without-Fear-Brian-Overland-ebook/dp/B075Z6JPFN
+https://www.amazon.co.uk/Python-Without-Fear-Brian-Overland/dp/0134687477
+http://books.google.co.uk/books?id=s3M3DwAAQBAJ&printsec=frontcover&dq=intitle:Python+without+Fear%2Binauthor:Overland&hl=&cd=1&source=gbs_api
+
+Book 17 - Java in 24 Hours, Sams Teach Yourself
+https://www.amazon.com/Java-Hours-Teach-Yourself-Covering-ebook/dp/B075HHH1GJ
+https://www.amazon.co.uk/Java-Hours-Teach-Yourself-Covering-ebook/dp/B075HHH1GJ
+http://books.google.co.uk/books?id=APKHAwAAQBAJ&printsec=frontcover&dq=intitle:Java+in+24+Hours,+Sams+Teach+Yourself%2Binauthor:Cadenhead&hl=&cd=1&source=gbs_api
+
+Book 18 - Begin to Code with C#
+No Amazon.com URL found
+https://www.amazon.co.uk/Begin-Code-C-Rob-Miles-ebook/dp/B01LDAJTQG
+http://books.google.co.uk/books?id=Hmf0DAAAQBAJ&printsec=frontcover&dq=intitle:Begin+to+Code+with+C%23%2Binauthor:Miles&hl=&cd=1&source=gbs_api
+
+Book 19 - C++ in 24 Hours, Sams Teach Yourself, 6/e
+No Amazon.com URL found
+https://www.amazon.co.uk/24-Hours-Sams-Teach-Yourself/dp/0672337460
+http://books.google.co.uk/books?id=wpobngEACAAJ&dq=intitle:C%2B%2B+in+24+Hours,+Sams+Teach+Yourself,+6/e%2Binauthor:Cadenhead+/+Liberty&hl=&cd=1&source=gbs_api
+
+Book 20 - C++ without Fear
+https://www.amazon.com/Without-Fear-Beginners-Guide-Makes-ebook/dp/B018MXRWXO
+https://www.amazon.co.uk/Without-Fear-Beginners-Guide-Makes-ebook/dp/B018MXRWXO
+http://books.google.co.uk/books?id=bW6MiHxPULUC&printsec=frontcover&dq=intitle:C%2B%2B+without+Fear%2Binauthor:Overland&hl=&cd=1&source=gbs_api
+
+Book 21 - Learn C the Hard Way
+https://www.amazon.com/Learn-Hard-Way-Practical-Computational/dp/0321884922
+https://www.amazon.co.uk/Learn-Hard-Way-Practical-Computational-ebook/dp/B013PNU6VQ
+http://books.google.co.uk/books?id=oudVCgAAQBAJ&printsec=frontcover&dq=intitle:Learn+C+the+Hard+Way%2Binauthor:Shaw&hl=&cd=1&source=gbs_api
+
+Book 22 - Learn Ruby the Hard Way
+https://www.amazon.com/Learn-Ruby-Hard-Way-Computational-ebook/dp/B00QFI5S8A
+https://www.amazon.co.uk/Learn-Ruby-Hard-Way-Computational/dp/032188499X
+http://books.google.co.uk/books?id=0HICrgEACAAJ&dq=intitle:Learn+Ruby+the+Hard+Way%2Binauthor:Shaw&hl=&cd=1&source=gbs_api
+
+Book 23 - C Programming Absolute Beginner's Guide, 3/e
+https://www.amazon.com/Programming-Absolute-Beginners-Guide-3rd/dp/0789751984
+https://www.amazon.co.uk/Programming-Absolute-Beginners-Guide-Guides/dp/0789751984
+http://books.google.co.uk/books?id=Tfk3AAAAQBAJ&printsec=frontcover&dq=intitle:C+Programming+Absolute+Beginner%27s+Guide,+3/e%2Binauthor:Perry+/+Miller&hl=&cd=1&source=gbs_api
+
