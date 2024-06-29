@@ -1,0 +1,252 @@
+Humble Tech Book Bundle- Linux for Seasoned Admins by O'Reilly - O'Reilly
+Processing date: 2024-06-28
+Data retrieved from: https://www.humblebundle.com/books/linux-for-seasoned-admins-oreilly-books
+
+Book 01 - Python for DevOps - Noah Gift, Kennedy Behrman, Alfredo Deza, Grig Gheorghiu - 4.5 out of 5 (267 reviews)
+Book 02 - Efficient Linux at the Command Line - Daniel J. Barrett - 4.8 out of 5 (73 reviews)
+Book 03 - Learning DevSecOps - Steve Suehring - None found out of 5 (None found reviews)
+Book 04 - Web Application Security - Andrew Hoffman - 5 out of 5 (3 reviews)
+Book 05 - Terraform: Up and Running - Yevgeniy Brikman - 4.6 out of 5 (176 reviews)
+Book 06 - Practical Linux System Administration - Kenneth Hess - 5 out of 5 (3 reviews)
+Book 07 - Ansible: Up and Running - Bas Meijer, Lorin Hochstein, René Moser - None found out of 5 (None found reviews)
+Book 08 - Docker: Up & Running - Sean P. Kane, Karl Matthias - 4 out of 5 (15 reviews)
+Book 09 - Linux Pocket Guide - Daniel J. Barrett - 4.5 out of 5 (120 reviews)
+Book 10 - FastAPI - Bill Lubanovic - 5 out of 5 (2 reviews)
+Book 11 - Learning Modern Linux - Michael Hausenblas - 4 out of 5 (26 reviews)
+Book 12 - Network Programmability and Automation, 2nd Edition - Matt Oswalt, Christian Adell, Scott S. Lowe, Jason Edelman - None found out of 5 (None found reviews)
+Book 13 - Kubernetes: Up and Running - Brendan Burns, Joe Beda, Kelsey Hightower, Lachlan Evenson - None found out of 5 (None found reviews)
+Book 14 - Learning Git - Anna Skoulikari - 4.8 out of 5 (13 reviews)
+Book 15 - Learning GitHub Actions - Brent Laster - 4 out of 5 (1 reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: Python for DevOps
+Author(s): Noah Gift, Kennedy Behrman, Alfredo Deza, Grig Gheorghiu
+---
+ISBN-10: 1492057665 - ISBN-13: 9781492057666 - ASIN: 149205769X
+Published Date: 2019-12-12
+---
+HB Blurb: Much has changed in technology over the past decade. Data is hot, the cloud is ubiquitous, and many organizations need some form of automation. Throughout these transformations, Python has become one of the most popular languages in the world. This practical resource shows you how to use Python for everyday Linux systems administration tasks with today‚Äôs most useful DevOps tools, including Docker, Kubernetes, and Terraform.Learning how to interact and automate with Linux is essential for millions of professionals. Python makes it much easier. With this book, you‚Äôll learn how to develop software and solve problems using containers, as well as how to monitor, instrument, load-test, and operationalize your software. Looking for effective ways to "get stuff done" in Python? This is your guide.Python foundations, including a brief introduction to the languageHow to automate text, write command-line tools, and automate the filesystemLinux utilities, package management, build systems, monitoring and instrumentation, and automated testingCloud computing, infrastructure as code, Kubernetes, and serverlessMachine learning operations and data engineering from a DevOps perspectiveBuilding, deploying, and operationalizing a machine learning project
+--------------------------------------------------
+
+Book 02:
+Title: Efficient Linux at the Command Line
+Author(s): Daniel J. Barrett
+---
+ISBN-10: 1098113373 - ISBN-13: 9781098113377 - ASIN: B09SNNYDZ3
+Published Date: 2022-02-16
+---
+HB Blurb: Take your Linux skills to the next level! Whether you're a system administrator, software developer, site reliability engineer, or enthusiastic hobbyist, this practical, hands-on book will help you work faster, smarter, and more efficiently. You'll learn how to create and run complex commands that solve real business problems, process and retrieve information, and automate manual tasks.You'll also truly understand what happens behind the shell prompt, so no matter which commands you run, you can be more successful in everyday Linux use and more competitive on the job market.As you build intermediate to advanced command-line skills, you'll learn how to:Choose or construct commands that get your work done quicklyRun commands efficiently and navigate the Linux filesystem with easeBuild powerful, complex commands out of simpler onesTransform text files and query them like databases to achieve business goalsControl Linux point-and-click features from the command line
+--------------------------------------------------
+
+Book 03:
+Title: Learning DevSecOps
+Author(s): Steve Suehring
+---
+ISBN-10: 9781098144869 - ISBN-13: 1098144864 - ASIN: B0D4F4YH66
+Published Date: 2024-06-30
+---
+HB Blurb: How do some organizations maintain 24-7 internet-scale operations? How can organizations integrate security while continuously deploying new features? How do organizations increase security within their DevOps processes?This practical guide helps you answer those questions and more. Author Steve Suehring provides unique content to help practitioners and leadership successfully implement DevOps and DevSecOps. Learning DevSecOps emphasizes prerequisites that lead to success through best practices and then takes you through some of the tools and software used by successful DevSecOps-enabled organizations.You'll learn how DevOps and DevSecOps can eliminate the walls that stand between development, operations, and security so that you can tackle the needs of other teams early in the development lifecycle.With this book, you will:Learn why DevSecOps is about culture and processes, with tools to support the processesUnderstand why DevSecOps practices are key elements to deploying software in a 24-7 environmentDeploy software using a DevSecOps toolchain and create scripts to assistIntegrate processes from other teams earlier in the software development lifecycleHelp team members learn the processes important for successful software development
+--------------------------------------------------
+
+Book 04:
+Title: Web Application Security
+Author(s): Andrew Hoffman
+---
+ISBN-10: 1098143892 - ISBN-13: 9781098143893 - ASIN: B0CSMGRLRR
+Published Date: 2024-01-17
+---
+HB Blurb: In the first edition of this critically acclaimed book, Andrew Hoffman defined the three pillars of application security: reconnaissance, offense, and defense. In this revised and updated second edition, he examines dozens of related topics, from the latest types of attacks and mitigations to threat modeling, the secure software development lifecycle (SSDL/SDLC), and more.Hoffman, senior staff security engineer at Ripple, also provides information regarding exploits and mitigations for several additional web application technologies such as GraphQL, cloud-based deployments, content delivery networks (CDN) and server-side rendering (SSR). Following the curriculum from the first book, this second edition is split into three distinct pillars comprising three separate skill sets:Pillar 1: Recon—Learn techniques for mapping and documenting web applications remotely, including procedures for working with web applicationsPillar 2: Offense—Explore methods for attacking web applications using a number of highly effective exploits that have been proven by the best hackers in the world. These skills are valuable when used alongside the skills from Pillar 3.Pillar 3: Defense—Build on skills acquired in the first two parts to construct effective and long-lived mitigations for each of the attacks described in Pillar 2.
+--------------------------------------------------
+
+Book 05:
+Title: Terraform: Up and Running
+Author(s): Yevgeniy Brikman
+---
+ISBN-10: 1492046876 - ISBN-13: 9781492046875 - ASIN: B0BFVT6XS4
+Published Date: 2019-09-06
+---
+HB Blurb: Terraform has become a key player in the DevOps world for defining, launching, and managing infrastructure as code (IaC) across a variety of cloud and virtualization platforms, including AWS, Google Cloud, Azure, and more. This hands-on third edition, expanded and thoroughly updated for version 1.0 and beyond, shows you the fastest way to get up and running with Terraform.Gruntwork cofounder Yevgeniy (Jim) Brikman takes you through code examples that demonstrate Terraform's simple, declarative programming language for deploying and managing infrastructure with a few commands. Veteran sysadmins, DevOps engineers, and novice developers will quickly go from Terraform basics to running a full stack that can support a massive amount of traffic and a large team of developers.Compare Terraform with Chef, Puppet, Ansible, CloudFormation, and PulumiDeploy servers, load balancers, and databasesCreate reusable infrastructure with Terraform modulesTest your Terraform modules with static analysis, unit tests, and integration testsConfigure CI/CD pipelines for both your apps and infrastructure codeUse advanced Terraform syntax for loops, conditionals, and zero-downtime deploymentGet up to speed on Terraform 0.13 to 1.0 and beyondWork with multiple clouds and providers (including Kubernetes!)
+--------------------------------------------------
+
+Book 06:
+Title: Practical Linux System Administration
+Author(s): Kenneth Hess
+---
+ISBN-10: 1098109007 - ISBN-13: 9781098109004 - ASIN: B0C2XFWX1N
+Published Date: 2023-04-18
+---
+HB Blurb: This essential guide covers all aspects of Linux system administration, from user maintenance, backups, filesystem housekeeping, storage management, and network setup to hardware and software troubleshooting and some application management. It's both a practical daily reference manual for sysadmins and IT pros and a handy study guide for those taking Linux certification exams.You'll turn to it frequently, not only because of the sheer volume of valuable information it provides but because of the real-world examples within and the clear, useful way the information is presented. With this book at your side, you'll be able to:Install Linux and perform initial setup duties, such as connecting to a networkNavigate the Linux filesystem via the command lineInstall software from repositories and source and satisfy dependenciesSet permissions on files and directoriesCreate, modify, and remove user accountsSet up networkingFormat and mount filesystemsPerform basic troubleshooting on hardware and softwareCreate and manage logical volumesWork with SELinuxManage a firewall and iptablesShut down, reboot, and recover a systemPerform backups and restores
+--------------------------------------------------
+
+Book 07:
+Title: Ansible: Up and Running
+Author(s): Bas Meijer, Lorin Hochstein, René Moser
+---
+ISBN-10: 9781098109158 - ISBN-13: 1098109155 - ASIN: B0B6DDF6RP
+Published Date: 2022-09-30
+---
+HB Blurb: Among the many configuration management tools available, Ansible has some distinct advantages: It's minimal in nature. You don't need to install agents on your nodes. And there's an easy learning curve. With this updated third edition, you'll quickly learn how to be productive with Ansible whether you're a developer deploying code or a system administrator looking for a better automation solution.Authors Bas Meijer, Lorin Hochstein, and Rene Moser show you how to write playbooks (Ansible's configuration management scripts), manage remote servers, and explore the tool's real power: built-in declarative modules. You'll learn how Ansible has all the functionality you need--and the simplicity you desire.Explore Ansible configuration management and deploymentManage Linux, Windows, and network devicesLearn how to apply Ansible best practicesUnderstand how to use the new collections formatCreate custom modules and plug-insGenerate reusable Ansible content for open source middlewareBuild container images, images for cloud instances, and cloud infrastructureAutomate CI/CD development environmentsLearn how to use Ansible Automation Platform for DevOps
+--------------------------------------------------
+
+Book 08:
+Title: Docker: Up & Running
+Author(s): Sean P. Kane, Karl Matthias
+---
+ISBN-10: 1492036706 - ISBN-13: 9781492036708 - ASIN: B0C2FPMTJ6
+Published Date: 2018-09-07
+---
+HB Blurb: Docker and Linux containers have fundamentally changed the way that organizations develop, deliver, and run software at scale. But understanding why these tools are important and how they can be successfully integrated into your organization's ecosystem can be challenging. This fully updated guide provides developers, operators, architects, and technical managers with a thorough understanding of the Docker tool set and how containers can improve almost every aspect of modern software delivery and management.This edition includes significant updates to the examples and explanations that reflect the substantial changes that have occurred since Docker was first released almost a decade ago. Sean Kane and Karl Matthias have updated the text to reflect best practices and to provide additional coverage of new features like BuildKit, multi-architecture image support, rootless containers, and much more.Learn how Docker and Linux containers integrate with cloud services and KubernetesExperience building OCI images, plus deploying and managing Linux containers with powerful command-line toolsUnderstand how OCI images simplify dependency management and deployment workflow for your applicationsLearn practical techniques for deploying and testing Linux containers in productionDeploy production containers at scale wherever you need themExplore advanced Docker topics, including deployment tools, networking, orchestration, security, and configuration
+--------------------------------------------------
+
+Book 09:
+Title: Linux Pocket Guide
+Author(s): Daniel J. Barrett
+---
+ISBN-10: 1098157931 - ISBN-13: 9781098157937 - ASIN: 0596006284
+Published Date: 2024-03
+---
+HB Blurb: If you use Linux in your day-to-day work, then Linux Pocket Guide is the perfect on-the-job reference. This thoroughly updated 20th anniversary edition explains more than 200 Linux commands, including new commands for file handling, package management, version control, file format conversions, and more.In this concise guide, author Daniel Barrett provides the most useful Linux commands grouped by functionality. Whether you're a novice or an experienced user, this practical book is an ideal reference for the most important Linux commands.You'll learn:Essential concepts—commands, shells, users, and the filesystemFile commands-creating, organizing, manipulating, and processing files of all kindsSysadmin basics-superusers, processes, user management, and software installationFilesystem maintenance-disks, RAID, logical volumes, backups, and moreNetworking commands-working with hosts, network connections, email, and the webGetting stuff done-everything from math to version control to graphics and audio
+--------------------------------------------------
+
+Book 10:
+Title: FastAPI
+Author(s): Bill Lubanovic
+---
+ISBN-10: 1098135474 - ISBN-13: 9781098135478 - ASIN: B0CLKZJSGV
+Published Date: 2023-11-06
+---
+HB Blurb: FastAPI is a young yet solid framework that takes advantage of newer Python features in a clean design. As its name implies, FastAPI is indeed fast, rivaling similar frameworks in languages such as Golang. With this practical book, developers familiar with Python will learn how FastAPI lets you accomplish more in less time with less code.Author Bill Lubanovic covers the nuts and bolts of FastAPI development with how-to guides on various topics such as forms, database access, graphics, maps, and more that will take you beyond the basics. This book also includes how-to guides that will get you up to speed on RESTful APIs, data validation, authorization, and performance. With its similarities to frameworks like Flask and Django, you'll find it easy to get started with FastAPI.Through the course of this book, you will:Learn how to build web applications with FastAPIUnderstand the differences between FastAPI, Starlette, and pydanticLearn two features that set FastAPI apart: asynchronous functions and data type checking and validationExamine new features of Python 3.8+, especially type annotationsUnderstand the differences between sync and async PythonLearn how to connect with external APIs and services
+--------------------------------------------------
+
+Book 11:
+Title: Learning Modern Linux
+Author(s): Michael Hausenblas
+---
+ISBN-10: 1098108892 - ISBN-13: 9781098108892 - ASIN: B09Y2LFQQS
+Published Date: 2022-04-15
+---
+HB Blurb: If you use Linux in development or operations and need a structured approach to help you dive deeper, this book is for you. Author Michael Hausenblas also provides tips and tricks for improving your workflow with this open source operating system. Whether you're a developer, software architect, or site reliability engineer, this hands-on guide focuses on ways to use Linux for your everyday needs, from development to office-related tasks.Along the way, you'll gain hands-on experience with modern Linux terminals and shells, and learn how to manage your workloads. You'll understand how to run Linux applications by using containers, systemd, modern filesystems, and immutable distros such as Flatcar and Bottlerocket.Use Linux as a modern work environment, rather than just from an admin perspectiveLearn critical components such as the Linux kernel, terminal multiplexer, human-friendly shells, and portable shell scriptingBecome familiar with access control, from file permissions to capabilities, and understand the role of filesystems as a fundamental building blockLearn about application dependency management and containersGain hands-on experience with the Linux networking stack and tooling, including DNSApply modern operating system observability to manage your workloadsBecome familiar with interprocess communication, virtual machines, and selected security topics
+--------------------------------------------------
+
+Book 12:
+Title: Network Programmability and Automation, 2nd Edition
+Author(s): Matt Oswalt, Christian Adell, Scott S. Lowe, Jason Edelman
+---
+ISBN-10: 1098110803 - ISBN-13: 9781098110802 - ASIN: 1098110838
+Published Date: 2022-06-23
+---
+HB Blurb: Network engineers are finding it harder than ever to rely solely on manual processes to get their jobs done. New protocols, technologies, delivery models, and the need for businesses to become more agile and flexible have made network automation essential. The updated second edition of this practical guide shows network engineers how to use a range of technologies and tools, including Linux, Python, APIs, and Git, to automate systems through code. This edition also includes brand new topics such as network development environments, cloud, programming with Go, and a reference network automation architecture.Network Programmability and Automation will help you automate tasks involved in configuring, managing, and operating network equipment, topologies, services, and connectivity. Through the course of the book, you'll learn the basic skills and tools you need to make this critical transition.You'll learn:Programming skills with Python and Go: data types, conditionals, loops, functions, and moreNew Linux-based networking technologies and cloud native environments, and how to use them to bootstrap development environments for your network projectsData formats and models: JSON, XML, YAML, Protobuf, and YANGJinja templating for creating network device configurationsA holistic approach to architecting network automation servicesThe role of application programming interfaces (APIs) in network automationSource control with Git to manage code changes during the automation processCloud-native technologies like Docker and KubernetesHow to automate network devices and services using Ansible, Nornir, and TerraformTools and technologies for developing and continuously integrating network automation
+--------------------------------------------------
+
+Book 13:
+Title: Kubernetes: Up and Running
+Author(s): Brendan Burns, Joe Beda, Kelsey Hightower, Lachlan Evenson
+---
+ISBN-10: 109811017X - ISBN-13: 9781098110178 - ASIN: B0B8G22T5L
+Published Date: 2022-08-02
+---
+HB Blurb: In just five years, Kubernetes has radically changed the way developers and ops personnel build, deploy, and maintain applications in the cloud. With this book's updated third edition, you'll learn how this popular container orchestrator can help your company achieve new levels of velocity, agility, reliability, and efficiency--whether you're new to distributed systems or have been deploying cloud native apps for some time.Brendan Burns, Joe Beda, Kelsey Hightower, and Lachlan Evenson--who have worked on Kubernetes at Google and beyond--explain how this system fits into the life cycle of a distributed application. Software developers, engineers, and architects will learn ways to use tools and APIs to automate scalable distributed systems for online services, machine learning applications, or even a cluster of Raspberry Pi computers.This guide shows you how to:Create a simple cluster to learn how Kubernetes worksDive into the details of deploying an application using KubernetesLearn specialized objects in Kubernetes, such as DaemonSets, jobs, ConfigMaps, and secretsExplore deployments that tie together the lifecycle of a complete applicationGet practical examples of how to develop and deploy real-world applications in Kubernetes
+--------------------------------------------------
+
+Book 14:
+Title: Learning Git
+Author(s): Anna Skoulikari
+---
+ISBN-10: 1098133870 - ISBN-13: 9781098133870 - ASIN: B0C768PDQ3
+Published Date: 2023-05-16
+---
+HB Blurb: This book teaches Git in a simple, visual, and tangible manner so that you can build a solid mental model of how Git version control works. Through the use of color, storytelling, and hands-on exercises, you will learn to use this tool with confidence.The information is introduced incrementally so that you don't get bogged down with unknown terms or concepts. Learning Git is ideal for anyone who needs to use Git for personal or professional projects: coding bootcamp students, junior developers, data professionals, and technical writers, to name just a few!This book covers how to:Download Git and initialize a local repositoryAdd files to the staging area and make commitsCreate, switch, and delete branchesMerge and rebase branchesWork with remote repositories including cloning, pushing, pulling, and fetchingUse pull requests to collaborate with others
+--------------------------------------------------
+
+Book 15:
+Title: Learning GitHub Actions
+Author(s): Brent Laster
+---
+ISBN-10: 1098131045 - ISBN-13: 9781098131043 - ASIN: B0CG2QBN3Q
+Published Date: 2023-08-17
+---
+HB Blurb: Automate your software development processes with GitHub Actions, the continuous integration and continuous delivery platform that integrates seamlessly with GitHub. With this practical book, open source author, trainer, and DevOps director Brent Laster explains everything you need to know about using and getting value from GitHub Actions. You'll learn what actions and workflows are and how they can be used, created, and incorporated into your processes to simplify, standardize, and automate your work in GitHub.This book explains the platform, components, use cases, implementation, and integration points of actions, so you can leverage them to provide the functionality and features needed in today's complex pipelines and software development processes. You'll learn how to design and implement automated workflows that respond to common events like pushes, pull requests, and review updates. You'll understand how to use the components of the GitHub Actions platform to gain maximum automation and benefit.With this book, you will:Learn what GitHub Actions are, the various use cases for them, and how to incorporate them into your processesUnderstand GitHub Actions' structure, syntax, and semanticsAutomate processes and implement functionalityCreate your own custom actions with Docker, JavaScript, or shell approachesTroubleshoot and debug workflows that use actionsCombine actions with GitHub APIs and other integration optionsIdentify ways to securely implement workflows with GitHub ActionsUnderstand how GitHub Actions compares to other options
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Python for DevOps
+https://www.amazon.com/Python-DevOps-Ruthlessly-Effective-Automation/dp/149205769X
+https://www.amazon.co.uk/Python-DevOps-Ruthlessly-Effective-Automation/dp/149205769X
+http://books.google.co.uk/books?id=gPrDDwAAQBAJ&printsec=frontcover&dq=intitle:Python+for+DevOps%2Binauthor:Noah+Gift,+Kennedy+Behrman,+Alfredo+Deza,+Grig+Gheorghiu&hl=&cd=1&source=gbs_api
+
+Book 02 - Efficient Linux at the Command Line
+https://www.amazon.com/Efficient-Linux-at-Command-Line-ebook/dp/B09SNNYDZ3
+https://www.amazon.co.uk/Efficient-Linux-Command-Line-Command-Line/dp/1098113403
+http://books.google.co.uk/books?id=upFfEAAAQBAJ&printsec=frontcover&dq=intitle:Efficient+Linux+at+the+Command+Line%2Binauthor:Daniel+J.+Barrett&hl=&cd=1&source=gbs_api
+
+Book 03 - Learning DevSecOps
+https://www.amazon.com/Learning-DevSecOps-Steve-Suehring-ebook/dp/B0D4F4YH66
+https://www.amazon.co.uk/Learning-DevSecOps-Steve-Suehring-ebook/dp/B0D4F4YH66
+http://books.google.co.uk/books?id=_Hpf0AEACAAJ&dq=intitle:Learning+DevSecOps%2Binauthor:Steve+Suehring&hl=&cd=1&source=gbs_api
+
+Book 04 - Web Application Security
+https://www.amazon.com/Web-Application-Security-Andrew-Hoffman-ebook/dp/B0CSMGRLRR
+https://www.amazon.co.uk/Web-Application-Security-Exploitation-Countermeasures/dp/1098143930
+http://books.google.co.uk/books?id=aL7uEAAAQBAJ&printsec=frontcover&dq=intitle:Web+Application+Security%2Binauthor:Andrew+Hoffman&hl=&cd=1&source=gbs_api
+
+Book 05 - Terraform: Up and Running
+https://www.amazon.com/Terraform-Up-Running-Yevgeniy-Brikman-ebook/dp/B0BFVT6XS4
+https://www.amazon.co.uk/Terraform-Up-Running-Yevgeniy-Brikman-ebook/dp/B0BFVT6XS4
+http://books.google.co.uk/books?id=57ytDwAAQBAJ&printsec=frontcover&dq=intitle:Terraform:+Up+and+Running%2Binauthor:Yevgeniy+Brikman&hl=&cd=1&source=gbs_api
+
+Book 06 - Practical Linux System Administration
+https://www.amazon.com/Practical-Linux-System-Administration-Kenneth-ebook/dp/B0C2XFWX1N
+https://www.amazon.co.uk/Practical-Linux-System-Administration-Kenneth-ebook/dp/B0C2XFWX1N
+http://books.google.co.uk/books?id=T1G6EAAAQBAJ&printsec=frontcover&dq=intitle:Practical+Linux+System+Administration%2Binauthor:Kenneth+Hess&hl=&cd=1&source=gbs_api
+
+Book 07 - Ansible: Up and Running
+No Amazon.com URL found
+https://www.amazon.co.uk/Ansible-Up-Running-Bas-Meijer-ebook/dp/B0B6DDF6RP
+http://books.google.co.uk/books?id=0jWIzgEACAAJ&dq=intitle:Ansible:+Up+and+Running%2Binauthor:Bas+Meijer,+Lorin+Hochstein,+Ren%C3%A9+Moser&hl=&cd=1&source=gbs_api
+
+Book 08 - Docker: Up & Running
+https://www.amazon.com/Docker-Running-Sean-P-Kane-ebook/dp/B0C2FPMTJ6
+https://www.amazon.co.uk/Docker-Shipping-Reliable-Containers-Production/dp/1492036730
+http://books.google.co.uk/books?id=GVJtDwAAQBAJ&printsec=frontcover&dq=intitle:Docker:+Up+%26+Running%2Binauthor:Sean+P.+Kane,+Karl+Matthias&hl=&cd=1&source=gbs_api
+
+Book 09 - Linux Pocket Guide
+https://www.amazon.com/Linux-Pocket-Guide-Daniel-Barrett/dp/0596006284
+https://www.amazon.co.uk/Linux-Pocket-Guide-Daniel-Barrett-ebook/dp/B0CWX5XFQT
+http://books.google.co.uk/books?id=gLP4EAAAQBAJ&printsec=frontcover&dq=intitle:Linux+Pocket+Guide%2Binauthor:Daniel+J.+Barrett&hl=&cd=1&source=gbs_api
+
+Book 10 - FastAPI
+https://www.amazon.com/FastAPI-Bill-Lubanovic-ebook/dp/B0CLKZJSGV
+https://www.amazon.co.uk/FastAPI-Bill-Lubanovic-ebook/dp/B0CLKZJSGV
+http://books.google.co.uk/books?id=WpHhEAAAQBAJ&printsec=frontcover&dq=intitle:FastAPI%2Binauthor:Bill+Lubanovic&hl=&cd=1&source=gbs_api
+
+Book 11 - Learning Modern Linux
+https://www.amazon.com/Learning-Modern-Linux-Michael-Hausenblas-ebook/dp/B09Y2LFQQS
+https://www.amazon.co.uk/Learning-Modern-Linux-Michael-Hausenblas-ebook/dp/B09Y2LFQQS
+http://books.google.co.uk/books?id=BzNrEAAAQBAJ&printsec=frontcover&dq=intitle:Learning+Modern+Linux%2Binauthor:Michael+Hausenblas&hl=&cd=1&source=gbs_api
+
+Book 12 - Network Programmability and Automation, 2nd Edition
+No Amazon.com URL found
+https://www.amazon.co.uk/Network-Programmability-Automation-Next-Generation-Engineer/dp/1098110838
+http://books.google.co.uk/books?id=bEnREAAAQBAJ&printsec=frontcover&dq=intitle:Network+Programmability+and+Automation,+2nd+Edition%2Binauthor:Matt+Oswalt,+Christian+Adell,+Scott+S.+Lowe,+Jason+Edelman&hl=&cd=1&source=gbs_api
+
+Book 13 - Kubernetes: Up and Running
+No Amazon.com URL found
+https://www.amazon.co.uk/Kubernetes-Up-Running-Brendan-Burns-ebook/dp/B0B8G22T5L
+http://books.google.co.uk/books?id=K-B-EAAAQBAJ&printsec=frontcover&dq=intitle:Kubernetes:+Up+and+Running%2Binauthor:Brendan+Burns,+Joe+Beda,+Kelsey+Hightower,+Lachlan+Evenson&hl=&cd=1&source=gbs_api
+
+Book 14 - Learning Git
+https://www.amazon.com/Learning-Git-Anna-Skoulikari-ebook/dp/B0C768PDQ3
+https://www.amazon.co.uk/Learning-Git-Anna-Skoulikari-ebook/dp/B0C768PDQ3
+http://books.google.co.uk/books?id=M2fDEAAAQBAJ&printsec=frontcover&dq=intitle:Learning+Git%2Binauthor:Anna+Skoulikari&hl=&cd=1&source=gbs_api
+
+Book 15 - Learning GitHub Actions
+https://www.amazon.com/Learning-GitHub-Actions-Brent-Laster-ebook/dp/B0CG2QBN3Q
+https://www.amazon.co.uk/Learning-GitHub-Actions-Brent-Laster-ebook/dp/B0CG2QBN3Q
+http://books.google.co.uk/books?id=YanREAAAQBAJ&printsec=frontcover&dq=intitle:Learning+GitHub+Actions%2Binauthor:Brent+Laster&hl=&cd=1&source=gbs_api
+
