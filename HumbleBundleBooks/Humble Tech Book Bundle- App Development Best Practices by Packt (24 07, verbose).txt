@@ -1,0 +1,628 @@
+Humble Tech Book Bundle- App Development Best Practices by Packt - Packt
+Processing date: 2024-07-03
+Data retrieved from: https://www.humblebundle.com/books/app-development-best-practices-packt-books
+
+Book 01 - Python Object-Oriented Programming - Steven F. Lott, Dusty Phillips - 4.3 out of 5 (102 reviews)
+Book 02 - 50 Algorithms Every Programmer Should Know - Somaieh Nikpoor, Imran Ahmad - 4.4 out of 5 (57 reviews)
+Book 03 - React Key Concepts - Maximilian Schwarzmüller - 4.7 out of 5 (104 reviews)
+Book 04 - C++20 STL Cookbook - Bill Weinman - 4.3 out of 5 (31 reviews)
+Book 05 - Building Low Latency Applications with C++ - Sourav Ghosh - 4 out of 5 (27 reviews)
+Book 06 - iOS 17 Programming for Beginners - Ahmad Sahar - None found out of 5 (None found reviews)
+Book 07 - .NET MAUI for C# Developers - Jesse Liberty, Rodrigo Juarez, Maddy Montaquila (Leger) - 4.1 out of 5 (42 reviews)
+Book 08 - Building Modern CLI Applications in Go - Marian Montagnino, William Kennedy - 4.8 out of 5 (14 reviews)
+Book 09 - Refactoring with C# - Matt Eland, Steve Smith - 4.6 out of 5 (10 reviews)
+Book 10 - Developer Career Masterplan - Heather VanCura, Bruno Souza, Ed Burns - 4.5 out of 5 (7 reviews)
+Book 11 - AWS Certified Solutions Architect - Professional Exam Guide (SAP-C02) - Patrick Sard, Yohan Wadia - None found out of 5 (None found reviews)
+Book 12 - Clean Code with C# - Jason Alls - 5 out of 5 (4 reviews)
+Book 13 - C++ High Performance for Financial Systems - Ariel Silahian - 0 out of 5 (4 reviews)
+Book 14 - Applied Computational Thinking with Python - Sofía De Jesús, Dayrene Martinez - None found out of 5 (None found reviews)
+Book 15 - Jakarta EE Application Development - David R. Heffelfinger - 0 out of 5 (1 reviews)
+Book 16 - Security-Driven Software Development - Aspen Olmsted - 5 out of 5 (5 reviews)
+Book 17 - Expert Python Programming - Michał Jaworski, Tarek Ziadé - None found out of 5 (None found reviews)
+Book 18 - Learn Java 17 Programming - Nick Samoylov - 4.3 out of 5 (18 reviews)
+Book 19 - Enterprise Application Development with C# 10 and .NET 6 - Ravindra Akella, Arun Kumar Tamirisa, Suneel Kumar Kunani, Bhupesh Guptha Muthiyalu - 4 out of 5 (12 reviews)
+Book 20 - The Art of Writing Efficient Programs - Fedor G. Pikus - 4.5 out of 5 (71 reviews)
+Book 21 - Polished Ruby Programming - Jeremy Evans - 4.7 out of 5 (53 reviews)
+Book 22 - How to Build Android Apps with Kotlin - Alex Forrester, Eran Boudjnah, Alexandru Dumbravan, Jomar Tigcal - 3.8 out of 5 (17 reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Python Object-Oriented Programming
+Author(s): Steven F. Lott, Dusty Phillips
+---
+ISBN-10: 1801075239 - ISBN-13: 9781801075237 - ASIN: 1801077266
+Published Date: 2021-07-02
+Page Count: 715
+---
+Google Books Price: GBP 20.79
+Google Books URL: http://books.google.co.uk/books?id=J5Y2EAAAQBAJ&printsec=frontcover&dq=intitle:Python+Object-Oriented+Programming%2Binauthor:Steven+F.+Lott,+Dusty+Phillips&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.3 of 5 (102 reviews)
+Amazon.com URL: https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1801077266
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (71 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1801077266
+---
+HB Blurb: Key FeaturesBuild an intuitive understanding of object-oriented design, from introductory to mature programsLearn the ins and outs of Python syntax, libraries, and best practicesExamine a machine-learning case study at the end of each chapterWho this book is forIf you are new to object-oriented programming techniques, or if you have basic Python skills and wish to learn how and when to correctly apply OOP principles in Python, this is the book for you. Moreover, if you are an object-oriented programmer coming from other languages or seeking a leg up in the new world of Python, you will find this book a useful introduction to Python. Minimal previous experience with Python is necessary.
+--------------------------------------------------
+
+Book 02:
+Title: 50 Algorithms Every Programmer Should Know
+Author(s): Somaieh Nikpoor, Imran Ahmad
+---
+ISBN-10:  - ISBN-13:  - ASIN: B09QKY6VP9
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: $29.99Save $10.00 (25%)
+Amazon.com Reviews: 4.4 of 5 (57 reviews)
+Amazon.com URL: https://www.amazon.com/Algorithms-Every-Programmer-Should-Know-ebook/dp/B09QKY6VP9
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.2 of 5 (34 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Algorithms-Every-Programmer-Should-Know-ebook/dp/B09QKY6VP9
+---
+HB Blurb: Key FeaturesFamiliarize yourself with advanced deep learning architecturesExplore newer topics, such as handling hidden bias in data and algorithm explainabilityGet to grips with different programming algorithms and choose the right data structures for their optimal implementationWho this book is forThis computer science book is for programmers or developers who want to understand the use of algorithms for problem-solving and writing efficient code.Whether you are a beginner looking to learn the most used algorithms concisely or an experienced programmer looking to explore cutting-edge algorithms in data science, machine learning, and cryptography, you'll find this book useful.Python programming experience is a must, knowledge of data science will be helpful but not necessary.
+--------------------------------------------------
+
+Book 03:
+Title: React Key Concepts
+Author(s): Maximilian Schwarzmüller
+---
+ISBN-10: 1803240482 - ISBN-13: 9781803240480 - ASIN: B0B3XRRYHN
+Published Date: 2022-12-26
+Page Count: 591
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=ykqkEAAAQBAJ&printsec=frontcover&dq=intitle:React+Key+Concepts%2Binauthor:Maximilian+Schwarzm%C3%BCller&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $22.39Save $13.60 (38%)
+Amazon.com Reviews: 4.7 of 5 (104 reviews)
+Amazon.com URL: https://www.amazon.com/React-Key-Concepts-Consolidate-knowledge-ebook/dp/B0B3XRRYHN
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (60 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/React-Key-Concepts-Consolidate-knowledge-ebook/dp/B0B3XRRYHN
+---
+HB Blurb: Key FeaturesA clear, concise explanation of core React 18 functionalities to promote quick, easy referenceGain a deep understanding of key React concepts with the help of step-by-step derivationsWork with practical exercises that challenge you to apply your new skills and build your own simple appsWho this book is forThis React book is for developers who have prior experience with, or who are currently learning, the basics of React. You can use this book as a standalone resource to consolidate your understanding or as a companion guide to a more in-depth course. To get the most value from this book, you should have a basic understanding of the fundamentals of JavaScript, HTML, and CSS.
+--------------------------------------------------
+
+Book 04:
+Title: C++20 STL Cookbook
+Author(s): Bill Weinman
+---
+ISBN-10: 1803239050 - ISBN-13: 9781803239057 - ASIN: 1803248718
+Published Date: 2022-05-27
+Page Count: 450
+---
+Google Books Price: GBP 18.19
+Google Books URL: http://books.google.co.uk/books?id=M-lvEAAAQBAJ&printsec=frontcover&dq=intitle:C%2B%2B20+STL+Cookbook%2Binauthor:Bill+Weinman&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $28.49Save $9.50 (25%)
+Amazon.com Reviews: 4.3 of 5 (31 reviews)
+Amazon.com URL: https://www.amazon.com/20-STL-Cookbook-Leverage-real-world/dp/1803248718
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (30 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/20-STL-Cookbook-Leverage-real-world-ebook/dp/B09TTD9NM3
+---
+HB Blurb: Key FeaturesBecome familiar with the latest features of C++20 and write better code using the STLReduce the development time for your applications and enable faster deploymentGet up and running with the new and leaner STL capabilities introduced in the latest releaseWho this book is forThis book is for intermediate to advanced C++ programmers who want to get the most out of the Standard Template Library of C++20, the newest version of C++. Basic knowledge of coding and C++ concepts is necessary to get started with this book.
+--------------------------------------------------
+
+Book 05:
+Title: Building Low Latency Applications with C++
+Author(s): Sourav Ghosh
+---
+ISBN-10: 9781837639359 - ISBN-13: 1837639353 - ASIN: 
+Published Date: 2023-07-21
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=7jIN0AEACAAJ&dq=intitle:Building+Low+Latency+Applications+with+C%2B%2B%2Binauthor:Sourav+Ghosh&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4 of 5 (27 reviews)
+Amazon.com URL: https://www.amazon.com/Building-Low-Latency-Applications-ecosystem/dp/1837639353
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.9 of 5 (22 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Building-Low-Latency-Applications-ecosystem/dp/1837639353
+---
+HB Blurb: Key FeaturesUnderstand the impact application performance latencies have on different business use casesDevelop a deep understanding of C++ features for low latency applications through real-world examples and performance dataLearn how to build all the components of a C++ electronic trading system from scratchWho this book is forThis book is for C++ developers who want to gain expertise in low latency applications and effective design and development strategies. C++ software engineers looking to apply their knowledge to low latency trading systems such as HFT will find this book useful to understand which C++ features matter and which ones to avoid. Quantitative researchers in the trading industry eager to delve into the intricacies of low latency implementation will also benefit from this book. Familiarity with Linux and the C++ programming language is a prerequisite for this book.
+--------------------------------------------------
+
+Book 06:
+Title: iOS 17 Programming for Beginners
+Author(s): Ahmad Sahar
+---
+ISBN-10: 1837639892 - ISBN-13: 9781837639892 - ASIN: 1837630569
+Published Date: 2023-10-31
+Page Count: 605
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=14jhEAAAQBAJ&printsec=frontcover&dq=intitle:iOS+17+Programming+for+Beginners%2Binauthor:Ahmad+Sahar&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (11 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/iOS-17-Programming-Beginners-Development/dp/1837630569
+---
+HB Blurb: Key FeaturesDive into the latest iOS 17 features and Swift 5.9 through hands-on projectsDevelop robust apps with top design patterns used by professionalsExpand your app's reach by effortlessly converting it for iPad, Mac, and visionOSWho this book is forThis book is tailored for individuals with minimal coding experience who are new to the world of Swift and iOS app development. A basic understanding of programming concepts is recommended.
+--------------------------------------------------
+
+Book 07:
+Title: .NET MAUI for C# Developers
+Author(s): Jesse Liberty, Rodrigo Juarez, Maddy Montaquila (Leger)
+---
+ISBN-10: 1837631522 - ISBN-13: 9781837631520 - ASIN: B0BX3R3W9V
+Published Date: 2023-03-31
+Page Count: 296
+---
+Google Books Price: GBP 15.59
+Google Books URL: http://books.google.co.uk/books?id=CiC2EAAAQBAJ&printsec=frontcover&dq=intitle:.NET+MAUI+for+C%23+Developers%2Binauthor:Jesse+Liberty,+Rodrigo+Juarez,+Maddy+Montaquila+(Leger)&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $19.79Save $12.20 (38%)
+Amazon.com Reviews: 4.1 of 5 (42 reviews)
+Amazon.com URL: https://www.amazon.com/NET-MAUI-Developers-cross-platform-applications-ebook/dp/B0BX3R3W9V
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.1 of 5 (38 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/NET-MAUI-Developers-cross-platform-applications/dp/1837631697
+---
+HB Blurb: Key FeaturesExtend your skills to build cross-platform native apps for iOS, Android, Windows, and MacLearn by working on a real-world projectGo beyond MAUI and integrate with the .NET ecosystemWho this book is forLearning .NET MAUI is targeted squarely at C# programmers, whether or not they have experience with cross-platform or mobile applications, who wish to learn Microsoft's premier platform for building iOS, Android, Windows and Mac apps using a single C#-based solution.
+--------------------------------------------------
+
+Book 08:
+Title: Building Modern CLI Applications in Go
+Author(s): Marian Montagnino, William Kennedy
+---
+ISBN-10: 180461369X - ISBN-13: 9781804613696 - ASIN: B0BQN3BLPF
+Published Date: 2023-03-10
+Page Count: 406
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=kZ6yEAAAQBAJ&printsec=frontcover&dq=intitle:Building+Modern+CLI+Applications+in+Go%2Binauthor:Marian+Montagnino,+William+Kennedy&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $22.39Save $13.60 (38%)
+Amazon.com Reviews: 4.8 of 5 (14 reviews)
+Amazon.com URL: https://www.amazon.com/Building-Modern-CLI-Applications-next-level-ebook/dp/B0BQN3BLPF
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (5 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Building-Modern-CLI-Applications-next-level-ebook/dp/B0BQN3BLPF
+---
+HB Blurb: Key FeaturesDiscover how Go enables the development of elegant and intuitive CLIsExplore a range of CLI development aspects and pick up a vast array of best practicesCreate engaging and user-friendly interfaces and learn how to distribute themWho this book is forThis book is for beginner- and intermediate-level Golang developers who take an interest in developing CLIs and enjoy learning by doing. You’ll need an understanding of basic Golang programming concepts, but will require no prior knowledge of CLI design and development. This book helps you join a community of CLI developers and distribute within the popular Homebrew package management tool.
+--------------------------------------------------
+
+Book 09:
+Title: Refactoring with C#
+Author(s): Matt Eland, Steve Smith
+---
+ISBN-10: 9781835089989 - ISBN-13: 1835089984 - ASIN: B0CL4W4G9K
+Published Date: 2023
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=mGBE0AEACAAJ&dq=intitle:Refactoring+with+C%23%2Binauthor:Matt+Eland,+Steve+Smith&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (10 reviews)
+Amazon.com URL: https://www.amazon.com/Refactoring-Safely-improve-applications-technical/dp/1835089984
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Refactoring-Safely-improve-applications-technical-ebook/dp/B0CL4W4G9K
+---
+HB Blurb: Key FeaturesApply a wide range of refactoring techniques using the latest tools and features of C#Discover ways to safely improve your code using tests, Roslyn analyzers, and AI assistanceFind ways of communicating technical debt and improving your code in agile and enterprise settingsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for any developer familiar with C# who wants to improve the code they work with on a day-to-day basis. While this book will be most beneficial to new developers with only a year or two of experience, even senior engineers and engineering managers can make the most of this book by exploring not just the process of refactoring, but advanced techniques with libraries like Moq, Snapper, Scientist .NET, and writing custom Roslyn analyzers.
+--------------------------------------------------
+
+Book 10:
+Title: Developer Career Masterplan
+Author(s): Heather VanCura, Bruno Souza, Ed Burns
+---
+ISBN-10: 1801811660 - ISBN-13: 9781801811668 - ASIN: B0CFLBHZXZ
+Published Date: 2023-09-15
+Page Count: 310
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=Ej7UEAAAQBAJ&printsec=frontcover&dq=intitle:Developer+Career+Masterplan%2Binauthor:Heather+VanCura,+Bruno+Souza,+Ed+Burns&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $25.49Save $8.50 (25%)
+Amazon.com Reviews: 4.5 of 5 (7 reviews)
+Amazon.com URL: https://www.amazon.com/Developer-Career-Masterplan-practical-insights-ebook/dp/B0CFLBHZXZ
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (4 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Developer-Career-Masterplan-practical-insights/dp/1801818703
+---
+HB Blurb: Key FeaturesDevelop the right skills to advance your career with comprehensive skill developmentExplore practical examples and case studies for real-world career guidanceUnderstand the importance of networking and community engagement for professional growthPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for technical professionals, particularly developers, seeking practical career growth guidelines and best practices. It addresses both junior and senior developers, offering valuable insights and experiences from within the developer community.
+--------------------------------------------------
+
+Book 11:
+Title: AWS Certified Solutions Architect - Professional Exam Guide (SAP-C02)
+Author(s): Patrick Sard, Yohan Wadia
+---
+ISBN-10: 1801815070 - ISBN-13: 9781801815079 - ASIN: 1801813132
+Published Date: 2024-03-01
+Page Count: 429
+---
+Google Books Price: GBP 19.49
+Google Books URL: http://books.google.co.uk/books?id=jBb5EAAAQBAJ&printsec=frontcover&dq=intitle:AWS+Certified+Solutions+Architect+-+Professional+Exam+Guide+(SAP-C02)%2Binauthor:Patrick+Sard,+Yohan+Wadia&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/AWS-Certified-Solutions-Architect-Professional/dp/1801813132
+---
+HB Blurb: Key FeaturesExplore content meticulously aligned with AWS (SAP-C02) exam objectivesChallenge your knowledge through mock tests with exam-level difficultyGain expert insights and learn best practices for optimizing your cloud solutions from experienced AWS practitionersWho this book is forThis book is for seasoned IT professionals adept at crafting and implementing cloud architecture on AWS. Familiarity with the AWS platform and services is essential. You'll grasp the content more effectively if you have at least 2 years of hands-on experience in AWS-based applications.
+--------------------------------------------------
+
+Book 12:
+Title: Clean Code with C#
+Author(s): Jason Alls
+---
+ISBN-10: 1837632995 - ISBN-13: 9781837632992 - ASIN: B0CQ2K1764
+Published Date: 2023-12-22
+Page Count: 492
+---
+Google Books Price: GBP 19.49
+Google Books URL: http://books.google.co.uk/books?id=1HjqEAAAQBAJ&printsec=frontcover&dq=intitle:Clean+Code+with+C%23%2Binauthor:Jason+Alls&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (4 reviews)
+Amazon.com URL: https://www.amazon.com/Clean-Code-application-performance-practices-ebook/dp/B0CQ2K1764
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.2 of 5 (32 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Clean-Code-application-performance-practices/dp/1838982973
+---
+HB Blurb: Key FeaturesWrite code that seamlessly integrates with other systems while maintaining well-defined software boundariesUnderstand how coding principles and standards elevate software qualityLearn how to avoid common errors while implementing concurrency or threadingPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis coding book is for proficient C# developers, team leads, senior software engineers, and software architects who want to improve the efficiency of their legacy systems. A strong understanding of C# programming is assumed.
+--------------------------------------------------
+
+Book 13:
+Title: C++ High Performance for Financial Systems
+Author(s): Ariel Silahian
+---
+ISBN-10: 1805120972 - ISBN-13: 9781805120971 - ASIN: B0CG9NPCMS
+Published Date: 2024-03-29
+Page Count: 317
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=jyv8EAAAQBAJ&printsec=frontcover&dq=intitle:C%2B%2B+High+Performance+for+Financial+Systems%2Binauthor:Ariel+Silahian&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $39.99
+Amazon.com Reviews: 0 of 5 (4 reviews)
+Amazon.com URL: https://www.amazon.com/High-Performance-Financial-Systems-leveraging-ebook/dp/B0CG9NPCMS
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 2.4 of 5 (3 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/High-Performance-Financial-Systems-leveraging-ebook/dp/B0CG9NPCMS
+---
+HB Blurb: Key FeaturesGet started with building financial trading systemsFocus on scalability, architecture, and implementing low-latency network communication in C++Optimize code and use parallel computing techniques for better performancePurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for experienced C++ developers who want to enter the finance industry and learn how trading systems work. It is also suitable for quantitative analysts, financial engineers, and anyone interested in building scalable and robust trading systems. The book assumes familiarity with the C++ programming language, data structures, and algorithms. Additionally, readers should have a basic understanding of finance and trading concepts, such as market data, trading strategies, and risk management.
+--------------------------------------------------
+
+Book 14:
+Title: Applied Computational Thinking with Python
+Author(s): Sofía De Jesús, Dayrene Martinez
+---
+ISBN-10: 183921676X - ISBN-13: 9781839216763 - ASIN: 1839219432
+Published Date: 2020-11-27
+Page Count: 420
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=E_ILEAAAQBAJ&printsec=frontcover&dq=intitle:Applied+Computational+Thinking+with+Python%2Binauthor:Sof%C3%ADa+De+Jes%C3%BAs,+Dayrene+Martinez&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (19 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Applied-Computational-Thinking-Python-algorithmic/dp/1839219432
+---
+HB Blurb: Key FeaturesDevelop logical reasoning and problem-solving skills that will help you tackle complex problemsExplore core computer science concepts and important computational thinking elements using practical examplesFind out how to identify the best-suited algorithmic solution for your problemWho this book is forThis book is for students, developers, and professionals looking to develop problem-solving skills and tactics involved in writing or debugging software programs and applications. Familiarity with Python programming is required.
+--------------------------------------------------
+
+Book 15:
+Title: Jakarta EE Application Development
+Author(s): David R. Heffelfinger
+---
+ISBN-10: 1835080375 - ISBN-13: 9781835080375 - ASIN: 1835085261
+Published Date: 2024-02-29
+Page Count: 316
+---
+Google Books Price: GBP 15.59
+Google Books URL: http://books.google.co.uk/books?id=37P1EAAAQBAJ&printsec=frontcover&dq=intitle:Jakarta+EE+Application+Development%2Binauthor:David+R.+Heffelfinger&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 0 of 5 (1 reviews)
+Amazon.com URL: https://www.amazon.com/Jakarta-Application-Development-applications-persistence/dp/1835085261
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Jakarta-Application-Development-applications-persistence-ebook/dp/B0CLRPFFPD
+---
+HB Blurb: Key FeaturesCraft microservices using standard Jakarta EE technologies such as Jakarta RESTful Web Services, JSON Processing, and JSON BindingDesign web-based applications with Jakarta FacesHarness Jakarta EE technologies such as Jakarta Enterprise Beans and Jakarta Messaging to build enterprise applicationsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for Java developers looking to learn Jakarta EE and expand their skill set. You’ll also find this book useful if you are familiar with Java EE and want to stay abreast of the latest version of the Jakarta EE specification. Knowledge of core Java concepts such as OOP, data types, control flow, and basic collections will be beneficial.
+--------------------------------------------------
+
+Book 16:
+Title: Security-Driven Software Development
+Author(s): Aspen Olmsted
+---
+ISBN-10: 1835461174 - ISBN-13: 9781835461174 - ASIN: 1835462839
+Published Date: 2024-03-15
+Page Count: 262
+---
+Google Books Price: GBP 15.59
+Google Books URL: http://books.google.co.uk/books?id=3kz3EAAAQBAJ&printsec=frontcover&dq=intitle:Security-Driven+Software+Development%2Binauthor:Aspen+Olmsted&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (5 reviews)
+Amazon.com URL: https://www.amazon.com/Security-Driven-Software-Development-mitigate-software/dp/1835462839
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Security-Driven-Software-Development-mitigate-software/dp/1835462839
+---
+HB Blurb: Key FeaturesExplore the practical application of secure software development methodologiesModel security vulnerabilities throughout the software development lifecycle (SDLC)Develop the skills to trace requirements, from requirements gathering through to implementationPurchase of the print or Kindle book includes a free PDF eBookWho this book is forMany software development jobs require developing, maintaining, enhancing, administering, and defending software applications, websites, and scripts. This book is designed for software developers and web developers seeking to excel in these roles, offering concise explanations and applied example use-cases.
+--------------------------------------------------
+
+Book 17:
+Title: Expert Python Programming
+Author(s): Michał Jaworski, Tarek Ziadé
+---
+ISBN-10: 1789806771 - ISBN-13: 9781789806779 - ASIN: B092C586BY
+Published Date: 2019-04-30
+Page Count: 628
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=s1mWDwAAQBAJ&printsec=frontcover&dq=intitle:Expert+Python+Programming%2Binauthor:Micha%C5%82+Jaworski,+Tarek+Ziad%C3%A9&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (56 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Expert-Python-Programming-practices-programming-ebook/dp/B092C586BY
+---
+HB Blurb: Key FeaturesDiscover the new features of Python, such as dictionary merge, the zoneinfo module, and structural pattern matchingCreate manageable code to run in various environments with different sets of dependenciesImplement effective Python data structures and algorithms to write, test, and optimize codeWho this book is forThe Python programming book is intended for expert programmers who want to learn Python’s advanced-level concepts and latest features.Anyone who has basic Python skills should be able to follow the content of the book, although it might require some additional effort from less experienced programmers. It should also be a good introduction to Python 3.9 for those who are still a bit behind and continue to use other older versions.
+--------------------------------------------------
+
+Book 18:
+Title: Learn Java 17 Programming
+Author(s): Nick Samoylov
+---
+ISBN-10: 1803245735 - ISBN-13: 9781803245737 - ASIN: B0B2DN71S2
+Published Date: 2022-07-29
+Page Count: 748
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=EGB6EAAAQBAJ&printsec=frontcover&dq=intitle:Learn+Java+17+Programming%2Binauthor:Nick+Samoylov&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $19.79Save $12.20 (38%)
+Amazon.com Reviews: 4.3 of 5 (18 reviews)
+Amazon.com URL: https://www.amazon.com/Learn-Java-17-Programming-fundamentals-ebook/dp/B0B2DN71S2
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.1 of 5 (17 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learn-Java-17-Programming-fundamentals-ebook/dp/B0B2DN71S2
+---
+HB Blurb: Key FeaturesA step-by-step guide for beginners to get started with programming in Java 17Explore core programming topics including GUI programming, concurrency, and error handlingWrite efficient code and build projects while learning the fundamentals of programmingWho this book is forThis book is for those who would like to start a new career in the modern Java programming profession, as well as those who do it professionally already and would like to refresh their knowledge of the latest Java and related technologies and ideas.
+--------------------------------------------------
+
+Book 19:
+Title: Enterprise Application Development with C# 10 and .NET 6
+Author(s): Ravindra Akella, Arun Kumar Tamirisa, Suneel Kumar Kunani, Bhupesh Guptha Muthiyalu
+---
+ISBN-10: 1803239123 - ISBN-13: 9781803239125 - ASIN: 1803232978
+Published Date: 2022-06-17
+Page Count: 587
+---
+Google Books Price: GBP 16.24
+Google Books URL: http://books.google.co.uk/books?id=qhZzEAAAQBAJ&printsec=frontcover&dq=intitle:Enterprise+Application+Development+with+C%23+10+and+.NET+6%2Binauthor:Ravindra+Akella,+Arun+Kumar+Tamirisa,+Suneel+Kumar+Kunani,+Bhupesh+Guptha+Muthiyalu&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4 of 5 (12 reviews)
+Amazon.com URL: https://www.amazon.com/Enterprise-Application-Development-NET-professional/dp/1803232978
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.9 of 5 (9 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Enterprise-Application-Development-NET-professional/dp/1803232978
+---
+HB Blurb: Key FeaturesExplore the advanced features of C# and .NET 6 to enhance your code and productivityFollow clear and easy instructions for building an end-to-end enterprise applicationLearn how to build scalable web applications and host them on the cloudWho this book is forIf you are a developer, architect, or senior programmer, this book will show you how to leverage the features of .NET 6 and the C# language, as well as help you grasp essential techniques to build your skills.
+--------------------------------------------------
+
+Book 20:
+Title: The Art of Writing Efficient Programs
+Author(s): Fedor G. Pikus
+---
+ISBN-10: 1800202741 - ISBN-13: 9781800202740 - ASIN: B09BZTGJM2
+Published Date: 2021-10-22
+Page Count: 465
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=XCJEEAAAQBAJ&printsec=frontcover&dq=intitle:The+Art+of+Writing+Efficient+Programs%2Binauthor:Fedor+G.+Pikus&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $22.39Save $13.60 (38%)
+Amazon.com Reviews: 4.5 of 5 (71 reviews)
+Amazon.com URL: https://www.amazon.com/Art-Writing-Efficient-Programs-optimizations-ebook/dp/B09BZTGJM2
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (51 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Art-Writing-Efficient-Programs-optimizations-ebook/dp/B09BZTGJM2
+---
+HB Blurb: Key FeaturesLearn proven techniques from a heavyweight and recognized expert in C++ and high-performance computingUnderstand the limitations of modern CPUs and their performance impactFind out how you can avoid writing inefficient code and get the best optimizations from the compilerLearn the tradeoffs and costs of writing high-performance programsWho this book is forThis book is for experienced developers and programmers who work on performance-critical projects and want to learn new techniques to improve the performance of their code. Programmers in algorithmic trading, gaming, bioinformatics, computational genomics, or computational fluid dynamics communities will get the most out of the examples in this book, but the techniques are fairly universal. Although this book uses the C++ language, the concepts demonstrated in the book can be easily transferred or applied to other compiled languages such as C, Java, Rust, Go, and more.
+--------------------------------------------------
+
+Book 21:
+Title: Polished Ruby Programming
+Author(s): Jeremy Evans
+---
+ISBN-10: 1801077916 - ISBN-13: 9781801077910 - ASIN: B093TH9P7C
+Published Date: 2021-07-16
+Page Count: 434
+---
+Google Books Price: GBP 21.44
+Google Books URL: http://books.google.co.uk/books?id=sIAzEAAAQBAJ&printsec=frontcover&dq=intitle:Polished+Ruby+Programming%2Binauthor:Jeremy+Evans&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $31.72Save $12.27 (28%)
+Amazon.com Reviews: 4.7 of 5 (53 reviews)
+Amazon.com URL: https://www.amazon.com/Polished-Ruby-Programming-maintainable-high-performance-ebook/dp/B093TH9P7C
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (50 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Polished-Ruby-Programming-maintainable-high-performance-ebook/dp/B093TH9P7C
+---
+HB Blurb: Key FeaturesLearn Ruby web application design principles and strategies for databases, security, and testing from a Ruby committer Understand the design principles behind polished Ruby code and trade-offs between implementation approachesUse metaprogramming and DSLs to reduce the amount of code needed without decreasing maintainabilityWho this book is forThis book is for Ruby programmers who are comfortable in coding with Ruby but want to advance their skills by mastering the deeper principles and best practices behind writing maintainable, scalable, optimized, and well-structured Ruby code. This book won’t teach you the basics of Ruby – you’ll need intermediate knowledge and practical experience before you can dive in.
+--------------------------------------------------
+
+Book 22:
+Title: How to Build Android Apps with Kotlin
+Author(s): Alex Forrester, Eran Boudjnah, Alexandru Dumbravan, Jomar Tigcal
+---
+ISBN-10: 1838988297 - ISBN-13: 9781838988296 - ASIN: 1837634939
+Published Date: 2021-02-26
+Page Count: 795
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=drYgEAAAQBAJ&printsec=frontcover&dq=intitle:How+to+Build+Android+Apps+with+Kotlin%2Binauthor:Alex+Forrester,+Eran+Boudjnah,+Alexandru+Dumbravan,+Jomar+Tigcal&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 3.8 of 5 (17 reviews)
+Amazon.com URL: https://www.amazon.com/How-Build-Android-Apps-Kotlin/dp/1837634939
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.7 of 5 (7 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/How-Build-Android-Apps-Kotlin/dp/1837634939
+---
+HB Blurb: Key FeaturesBuild apps with Kotlin, Google’s preferred programming language for Android developmentUnlock solutions to development challenges with guidance from experienced Android professionalsImprove your apps by adding valuable features that make use of advanced functionalityWho this book is forIf you want to build your own Android applications using Kotlin but are unsure of how to begin, then this book is for you. To easily grasp the concepts in this book, it is recommended that you already have a basic understanding of Kotlin, or experience in a similar programming language and a willingness to brush up on Kotlin before you start.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Python Object-Oriented Programming
+https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1801077266
+https://www.amazon.co.uk/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1801077266
+http://books.google.co.uk/books?id=J5Y2EAAAQBAJ&printsec=frontcover&dq=intitle:Python+Object-Oriented+Programming%2Binauthor:Steven+F.+Lott,+Dusty+Phillips&hl=&cd=1&source=gbs_api
+
+Book 02 - 50 Algorithms Every Programmer Should Know
+https://www.amazon.com/Algorithms-Every-Programmer-Should-Know-ebook/dp/B09QKY6VP9
+https://www.amazon.co.uk/Algorithms-Every-Programmer-Should-Know-ebook/dp/B09QKY6VP9
+No Google Books URL found.
+
+Book 03 - React Key Concepts
+https://www.amazon.com/React-Key-Concepts-Consolidate-knowledge-ebook/dp/B0B3XRRYHN
+https://www.amazon.co.uk/React-Key-Concepts-Consolidate-knowledge-ebook/dp/B0B3XRRYHN
+http://books.google.co.uk/books?id=ykqkEAAAQBAJ&printsec=frontcover&dq=intitle:React+Key+Concepts%2Binauthor:Maximilian+Schwarzm%C3%BCller&hl=&cd=1&source=gbs_api
+
+Book 04 - C++20 STL Cookbook
+https://www.amazon.com/20-STL-Cookbook-Leverage-real-world/dp/1803248718
+https://www.amazon.co.uk/20-STL-Cookbook-Leverage-real-world-ebook/dp/B09TTD9NM3
+http://books.google.co.uk/books?id=M-lvEAAAQBAJ&printsec=frontcover&dq=intitle:C%2B%2B20+STL+Cookbook%2Binauthor:Bill+Weinman&hl=&cd=1&source=gbs_api
+
+Book 05 - Building Low Latency Applications with C++
+https://www.amazon.com/Building-Low-Latency-Applications-ecosystem/dp/1837639353
+https://www.amazon.co.uk/Building-Low-Latency-Applications-ecosystem/dp/1837639353
+http://books.google.co.uk/books?id=7jIN0AEACAAJ&dq=intitle:Building+Low+Latency+Applications+with+C%2B%2B%2Binauthor:Sourav+Ghosh&hl=&cd=1&source=gbs_api
+
+Book 06 - iOS 17 Programming for Beginners
+No Amazon.com URL found
+https://www.amazon.co.uk/iOS-17-Programming-Beginners-Development/dp/1837630569
+http://books.google.co.uk/books?id=14jhEAAAQBAJ&printsec=frontcover&dq=intitle:iOS+17+Programming+for+Beginners%2Binauthor:Ahmad+Sahar&hl=&cd=1&source=gbs_api
+
+Book 07 - .NET MAUI for C# Developers
+https://www.amazon.com/NET-MAUI-Developers-cross-platform-applications-ebook/dp/B0BX3R3W9V
+https://www.amazon.co.uk/NET-MAUI-Developers-cross-platform-applications/dp/1837631697
+http://books.google.co.uk/books?id=CiC2EAAAQBAJ&printsec=frontcover&dq=intitle:.NET+MAUI+for+C%23+Developers%2Binauthor:Jesse+Liberty,+Rodrigo+Juarez,+Maddy+Montaquila+(Leger)&hl=&cd=1&source=gbs_api
+
+Book 08 - Building Modern CLI Applications in Go
+https://www.amazon.com/Building-Modern-CLI-Applications-next-level-ebook/dp/B0BQN3BLPF
+https://www.amazon.co.uk/Building-Modern-CLI-Applications-next-level-ebook/dp/B0BQN3BLPF
+http://books.google.co.uk/books?id=kZ6yEAAAQBAJ&printsec=frontcover&dq=intitle:Building+Modern+CLI+Applications+in+Go%2Binauthor:Marian+Montagnino,+William+Kennedy&hl=&cd=1&source=gbs_api
+
+Book 09 - Refactoring with C#
+https://www.amazon.com/Refactoring-Safely-improve-applications-technical/dp/1835089984
+https://www.amazon.co.uk/Refactoring-Safely-improve-applications-technical-ebook/dp/B0CL4W4G9K
+http://books.google.co.uk/books?id=mGBE0AEACAAJ&dq=intitle:Refactoring+with+C%23%2Binauthor:Matt+Eland,+Steve+Smith&hl=&cd=1&source=gbs_api
+
+Book 10 - Developer Career Masterplan
+https://www.amazon.com/Developer-Career-Masterplan-practical-insights-ebook/dp/B0CFLBHZXZ
+https://www.amazon.co.uk/Developer-Career-Masterplan-practical-insights/dp/1801818703
+http://books.google.co.uk/books?id=Ej7UEAAAQBAJ&printsec=frontcover&dq=intitle:Developer+Career+Masterplan%2Binauthor:Heather+VanCura,+Bruno+Souza,+Ed+Burns&hl=&cd=1&source=gbs_api
+
+Book 11 - AWS Certified Solutions Architect - Professional Exam Guide (SAP-C02)
+No Amazon.com URL found
+https://www.amazon.co.uk/AWS-Certified-Solutions-Architect-Professional/dp/1801813132
+http://books.google.co.uk/books?id=jBb5EAAAQBAJ&printsec=frontcover&dq=intitle:AWS+Certified+Solutions+Architect+-+Professional+Exam+Guide+(SAP-C02)%2Binauthor:Patrick+Sard,+Yohan+Wadia&hl=&cd=1&source=gbs_api
+
+Book 12 - Clean Code with C#
+https://www.amazon.com/Clean-Code-application-performance-practices-ebook/dp/B0CQ2K1764
+https://www.amazon.co.uk/Clean-Code-application-performance-practices/dp/1838982973
+http://books.google.co.uk/books?id=1HjqEAAAQBAJ&printsec=frontcover&dq=intitle:Clean+Code+with+C%23%2Binauthor:Jason+Alls&hl=&cd=1&source=gbs_api
+
+Book 13 - C++ High Performance for Financial Systems
+https://www.amazon.com/High-Performance-Financial-Systems-leveraging-ebook/dp/B0CG9NPCMS
+https://www.amazon.co.uk/High-Performance-Financial-Systems-leveraging-ebook/dp/B0CG9NPCMS
+http://books.google.co.uk/books?id=jyv8EAAAQBAJ&printsec=frontcover&dq=intitle:C%2B%2B+High+Performance+for+Financial+Systems%2Binauthor:Ariel+Silahian&hl=&cd=1&source=gbs_api
+
+Book 14 - Applied Computational Thinking with Python
+No Amazon.com URL found
+https://www.amazon.co.uk/Applied-Computational-Thinking-Python-algorithmic/dp/1839219432
+http://books.google.co.uk/books?id=E_ILEAAAQBAJ&printsec=frontcover&dq=intitle:Applied+Computational+Thinking+with+Python%2Binauthor:Sof%C3%ADa+De+Jes%C3%BAs,+Dayrene+Martinez&hl=&cd=1&source=gbs_api
+
+Book 15 - Jakarta EE Application Development
+https://www.amazon.com/Jakarta-Application-Development-applications-persistence/dp/1835085261
+https://www.amazon.co.uk/Jakarta-Application-Development-applications-persistence-ebook/dp/B0CLRPFFPD
+http://books.google.co.uk/books?id=37P1EAAAQBAJ&printsec=frontcover&dq=intitle:Jakarta+EE+Application+Development%2Binauthor:David+R.+Heffelfinger&hl=&cd=1&source=gbs_api
+
+Book 16 - Security-Driven Software Development
+https://www.amazon.com/Security-Driven-Software-Development-mitigate-software/dp/1835462839
+https://www.amazon.co.uk/Security-Driven-Software-Development-mitigate-software/dp/1835462839
+http://books.google.co.uk/books?id=3kz3EAAAQBAJ&printsec=frontcover&dq=intitle:Security-Driven+Software+Development%2Binauthor:Aspen+Olmsted&hl=&cd=1&source=gbs_api
+
+Book 17 - Expert Python Programming
+No Amazon.com URL found
+https://www.amazon.co.uk/Expert-Python-Programming-practices-programming-ebook/dp/B092C586BY
+http://books.google.co.uk/books?id=s1mWDwAAQBAJ&printsec=frontcover&dq=intitle:Expert+Python+Programming%2Binauthor:Micha%C5%82+Jaworski,+Tarek+Ziad%C3%A9&hl=&cd=1&source=gbs_api
+
+Book 18 - Learn Java 17 Programming
+https://www.amazon.com/Learn-Java-17-Programming-fundamentals-ebook/dp/B0B2DN71S2
+https://www.amazon.co.uk/Learn-Java-17-Programming-fundamentals-ebook/dp/B0B2DN71S2
+http://books.google.co.uk/books?id=EGB6EAAAQBAJ&printsec=frontcover&dq=intitle:Learn+Java+17+Programming%2Binauthor:Nick+Samoylov&hl=&cd=1&source=gbs_api
+
+Book 19 - Enterprise Application Development with C# 10 and .NET 6
+https://www.amazon.com/Enterprise-Application-Development-NET-professional/dp/1803232978
+https://www.amazon.co.uk/Enterprise-Application-Development-NET-professional/dp/1803232978
+http://books.google.co.uk/books?id=qhZzEAAAQBAJ&printsec=frontcover&dq=intitle:Enterprise+Application+Development+with+C%23+10+and+.NET+6%2Binauthor:Ravindra+Akella,+Arun+Kumar+Tamirisa,+Suneel+Kumar+Kunani,+Bhupesh+Guptha+Muthiyalu&hl=&cd=1&source=gbs_api
+
+Book 20 - The Art of Writing Efficient Programs
+https://www.amazon.com/Art-Writing-Efficient-Programs-optimizations-ebook/dp/B09BZTGJM2
+https://www.amazon.co.uk/Art-Writing-Efficient-Programs-optimizations-ebook/dp/B09BZTGJM2
+http://books.google.co.uk/books?id=XCJEEAAAQBAJ&printsec=frontcover&dq=intitle:The+Art+of+Writing+Efficient+Programs%2Binauthor:Fedor+G.+Pikus&hl=&cd=1&source=gbs_api
+
+Book 21 - Polished Ruby Programming
+https://www.amazon.com/Polished-Ruby-Programming-maintainable-high-performance-ebook/dp/B093TH9P7C
+https://www.amazon.co.uk/Polished-Ruby-Programming-maintainable-high-performance-ebook/dp/B093TH9P7C
+http://books.google.co.uk/books?id=sIAzEAAAQBAJ&printsec=frontcover&dq=intitle:Polished+Ruby+Programming%2Binauthor:Jeremy+Evans&hl=&cd=1&source=gbs_api
+
+Book 22 - How to Build Android Apps with Kotlin
+https://www.amazon.com/How-Build-Android-Apps-Kotlin/dp/1837634939
+https://www.amazon.co.uk/How-Build-Android-Apps-Kotlin/dp/1837634939
+http://books.google.co.uk/books?id=drYgEAAAQBAJ&printsec=frontcover&dq=intitle:How+to+Build+Android+Apps+with+Kotlin%2Binauthor:Alex+Forrester,+Eran+Boudjnah,+Alexandru+Dumbravan,+Jomar+Tigcal&hl=&cd=1&source=gbs_api
+
