@@ -1,0 +1,284 @@
+Humble Tech Book Bundle- Threat Intelligence by Packt - Packt
+Processing date: 2024-08-06
+Data retrieved from: https://www.humblebundle.com/books/threat-intelligence-packt-books
+
+Book 01 - PowerShell Automation and Scripting for Cybersecurity - Miriam C. Wiesner, Tanya Janca - 4.7 out of 5 (32 reviews)
+Book 02 - ChatGPT for Cybersecurity Cookbook - Clint Bodungen, Aaron Crow - None found out of 5 (None found reviews)
+Book 03 - Practical Threat Detection Engineering - Megan Roddie, Jason Deyalsingh, Gary J. Katz - 4.6 out of 5 (32 reviews)
+Book 04 - Effective Threat Investigation for SOC Analysts - Mostafa Yahia - 4.6 out of 5 (37 reviews)
+Book 05 - Industrial Cybersecurity - Second Edition - Pascal Ackerman - 4.7 out of 5 (None found reviews)
+Book 06 - Cybersecurity Threats, Malware Trends, and Strategies - Tim Rains, Timothy Youngblood - 4.7 out of 5 (40 reviews)
+Book 07 - Practical Threat Intelligence and Data-Driven Threat Hunting - Valentina Costa-Gazcón - 4.7 out of 5 (162 reviews)
+Book 08 - Automating Security Detection Engineering - Dennis Chow, David Bruskin - 4 out of 5 (2 reviews)
+Book 09 - Operationalizing Threat Intelligence - Kyle Wilhoit, Joseph Opacki - 4.5 out of 5 (None found reviews)
+Book 10 - Aligning Security Operations with the MITRE ATT&CK Framework - Rebecca Blair - 4.6 out of 5 (23 reviews)
+Book 11 - Mastering Cloud Security Posture Management (CSPM) - Qamar Nomani, Julie Davila, Rehman Khan - 5 out of 5 (4 reviews)
+Book 12 - The Vulnerability Researcher's Handbook - Benjamin Strout - 5 out of 5 (5 reviews)
+Book 13 - Threat Hunting with Elastic Stack - Andrew Pease - 4.2 out of 5 (None found reviews)
+Book 14 - Mastering Cyber Intelligence - Jean Nestor M. Dahj - None found out of 5 (None found reviews)
+Book 15 - Incident Response with Threat Intelligence - Roberto Martinez - 4.7 out of 5 (27 reviews)
+Book 16 - Machine Learning Security Principles - John Paul Mueller, Rod Stephens - 4.5 out of 5 (7 reviews)
+Book 17 - The Foundations of Threat Hunting - Chad Maurice, Jeremiah Thompson, William Copeland, Anthony Particini - 4.6 out of 5 (17 reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: PowerShell Automation and Scripting for Cybersecurity
+Author(s): Miriam C. Wiesner, Tanya Janca
+---
+ISBN-10: 1800569262 - ISBN-13: 9781800569263 - ASIN: B0BWKZCNK9
+Published Date: 2023-08-16
+---
+HB Blurb: Key FeaturesMaster PowerShell for security by configuring, auditing, monitoring, exploiting, and bypassing defensesResearch and develop methods to bypass security features and use stealthy tradecraftExplore essential security features in PowerShell and protect your environment against exploits and bypassesWho this book is forThis book is for security professionals, penetration testers, system administrators, and red and blue teams looking to learn how to leverage PowerShell for security operations. A basic understanding of PowerShell, cybersecurity fundamentals, and scripting is a must. For some parts a basic understanding of active directory, C++/C#, and assembly can be beneficial.
+--------------------------------------------------
+
+Book 02:
+Title: ChatGPT for Cybersecurity Cookbook
+Author(s): Clint Bodungen, Aaron Crow
+---
+ISBN-10: 1805125117 - ISBN-13: 9781805125112 - ASIN: 1805124048
+Published Date: 2024-03-29
+---
+HB Blurb: Key FeaturesEnhance your skills by leveraging ChatGPT to generate complex commands, write code, and create toolsAutomate penetration testing, risk assessment, and threat detection tasks using the OpenAI API and Python programmingRevolutionize your approach to cybersecurity with an AI-powered toolkitPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for cybersecurity professionals, IT experts, and enthusiasts looking to harness the power of ChatGPT and the OpenAI API in their cybersecurity operations. Whether you're a red teamer, blue teamer, or security researcher, this book will help you revolutionize your approach to cybersecurity with generative AI-powered techniques. A basic understanding of cybersecurity concepts along with familiarity in Python programming is expected. Experience with command-line tools and basic knowledge of networking concepts and web technologies is also required.
+--------------------------------------------------
+
+Book 03:
+Title: Practical Threat Detection Engineering
+Author(s): Megan Roddie, Jason Deyalsingh, Gary J. Katz
+---
+ISBN-10: 1801073643 - ISBN-13: 9781801073646 - ASIN: 1801076715
+Published Date: 2023-07-21
+---
+HB Blurb: Key FeaturesGain a comprehensive understanding of threat validationLeverage open-source tools to test security detectionsHarness open-source content to supplement detection and testingWho this book is forThis book is for security analysts and engineers seeking to improve their organization’s security posture by mastering the detection engineering lifecycle. To get started with this book, you’ll need a basic understanding of cybersecurity concepts, along with some experience with detection and alert capabilities.
+--------------------------------------------------
+
+Book 04:
+Title: Effective Threat Investigation for SOC Analysts
+Author(s): Mostafa Yahia
+---
+ISBN-10: 1837638756 - ISBN-13: 9781837638758 - ASIN: 1837634785
+Published Date: 2023-08-25
+---
+HB Blurb: Key FeaturesUnderstand and analyze various modern cyber threats and attackers' techniquesGain in-depth knowledge of email security, Windows, firewall, proxy, WAF, and security solution logsExplore popular cyber threat intelligence platforms to investigate suspicious artifactsWho this book is forThis book is for Security Operation Center (SOC) analysts, security professionals, cybersecurity incident investigators, incident handlers, incident responders, or anyone looking to explore attacker techniques and delve deeper into detecting and investigating attacks. If you want to efficiently detect and investigate cyberattacks by analyzing logs generated from different log sources, then this is the book for you. Basic knowledge of cybersecurity and networking domains and entry-level security concepts are necessary to get the most out of this book.
+--------------------------------------------------
+
+Book 05:
+Title: Industrial Cybersecurity - Second Edition
+Author(s): Pascal Ackerman
+---
+ISBN-10: 1788395980 - ISBN-13: 9781788395984 - ASIN: 1800202091
+Published Date: 2017-10-18
+---
+HB Blurb: Key FeaturesArchitect, design, and build ICS networks with security in mindPerform a variety of security assessments, checks, and verificationsEnsure that your security processes are effective, complete, and relevantWho this book is forIf you are an ICS security professional or anyone curious about ICS cybersecurity for extending, improving, monitoring, and validating your ICS cybersecurity posture, then this book is for you. IT/OT professionals interested in entering the ICS cybersecurity monitoring domain or searching for additional learning material for different industry-leading cybersecurity certifications will also find this book useful.
+--------------------------------------------------
+
+Book 06:
+Title: Cybersecurity Threats, Malware Trends, and Strategies
+Author(s): Tim Rains, Timothy Youngblood
+---
+ISBN-10: 1804618950 - ISBN-13: 9781804618950 - ASIN: 1804613673
+Published Date: 2023-01-25
+---
+HB Blurb: Key FeaturesProtect your organization from cybersecurity threats with field-tested strategiesUnderstand threats such as exploits, malware, internet-based threats, and governmentsMeasure the effectiveness of your organization's current cybersecurity program against modern attackers’ tacticsWho this book is forThis book is for anyone who is looking to implement or improve their organization's cybersecurity strategy. This includes Chief Information Security Officers (CISOs), Chief Security Officers (CSOs), compliance and audit professionals, security architects, and cybersecurity professionals. Basic knowledge of Information Technology (IT), software development principles, and cybersecurity concepts is assumed.
+--------------------------------------------------
+
+Book 07:
+Title: Practical Threat Intelligence and Data-Driven Threat Hunting
+Author(s): Valentina Costa-Gazcón
+---
+ISBN-10: 1838551638 - ISBN-13: 9781838551636 - ASIN: 1838556370
+Published Date: 2021-02-12
+---
+HB Blurb: Key FeaturesSet up an environment to centralize all data in an Elasticsearch, Logstash, and Kibana (ELK) server that enables threat huntingCarry out atomic hunts to start the threat hunting process and understand the environmentPerform advanced hunting using MITRE ATT&CK Evals emulations and Mordor datasetsWho this book is forIf you are looking to start out in the cyber intelligence and threat hunting domains and want to know more about how to implement a threat hunting division with open-source tools, then this cyber threat intelligence book is for you.
+--------------------------------------------------
+
+Book 08:
+Title: Automating Security Detection Engineering
+Author(s): Dennis Chow, David Bruskin
+---
+ISBN-10: 1837631425 - ISBN-13: 9781837631421 - ASIN: 1837636419
+Published Date: 2024-06-28
+---
+HB Blurb: Key FeaturesCreate automated CI/CD pipelines for testing and implementing threat detection use casesApply implementation strategies to optimize the adoption of automated work streamsUse a variety of enterprise-grade tools and APIs to bolster your detection programPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for security engineers and analysts responsible for the day-to-day tasks of developing and implementing new detections at scale. If you’re working with existing programs focused on threat detection, you’ll also find this book helpful. Prior knowledge of DevSecOps, hands-on experience with any programming or scripting languages, and familiarity with common security practices and tools are recommended for an optimal learning experience.
+--------------------------------------------------
+
+Book 09:
+Title: Operationalizing Threat Intelligence
+Author(s): Kyle Wilhoit, Joseph Opacki
+---
+ISBN-10: 1801818665 - ISBN-13: 9781801818667 - ASIN: 1801814686
+Published Date: 2022-06-17
+---
+HB Blurb: Key FeaturesDevelop and implement a threat intelligence program from scratchDiscover techniques to perform cyber threat intelligence, collection, and analysis using open-source toolsLeverage a combination of theory and practice that will help you prepare a solid foundation for operationalizing threat intelligence programsWho this book is forThis book is for cybersecurity professionals, security analysts, security enthusiasts, and anyone who is just getting started and looking to explore threat intelligence in more detail. Those working in different security roles will also be able to explore threat intelligence with the help of this security book.
+--------------------------------------------------
+
+Book 10:
+Title: Aligning Security Operations with the MITRE ATT&CK Framework
+Author(s): Rebecca Blair
+---
+ISBN-10: 1804616699 - ISBN-13: 9781804616697 - ASIN: 1804614262
+Published Date: 2023-05-19
+---
+HB Blurb: Key FeaturesUnderstand Cloud, Windows, and Network ATT&CK Framework using different techniquesAssess the attack potential and implement frameworks aligned with Mitre ATT&CKAddress security gaps to detect and respond to all security threatsWho this book is forThis book is for SOC managers, security analysts, CISOs, security engineers, or security consultants looking to improve their organization's security posture. Basic knowledge of Mitre ATT&CK, as well as a deep understanding of triage and detections is a must.
+--------------------------------------------------
+
+Book 11:
+Title: Mastering Cloud Security Posture Management (CSPM)
+Author(s): Qamar Nomani, Julie Davila, Rehman Khan
+---
+ISBN-10: 1837630704 - ISBN-13: 9781837630707 - ASIN: 1837638403
+Published Date: 2024-01-31
+---
+HB Blurb: Key FeaturesChoose the right CSPM tool to rectify cloud security misconfigurations based on organizational requirementsOptimize your security posture with expert techniques for in-depth cloud security insightsImprove your security compliance score by adopting a secure-by-design approach and implementing security automationPurchase of the print or Kindle book includes a free PDF eBookWho this book is forIf you’re a cloud security administrator, security engineer, or DevSecOps engineer, you’ll find this book useful every step of the way—from proof of concept to the secured, automated implementation of CSPM with proper auto-remediation configuration. This book will also help cybersecurity managers, security leads, and cloud security architects looking to explore the decision matrix and key requirements for choosing the right product. Cloud security enthusiasts who want to enhance their knowledge to bolster the security posture of multi-cloud infrastructure will also benefit from this book.
+--------------------------------------------------
+
+Book 12:
+Title: The Vulnerability Researcher's Handbook
+Author(s): Benjamin Strout
+---
+ISBN-10: 1803243562 - ISBN-13: 9781803243566 - ASIN: 1803238879
+Published Date: 2023-02-17
+---
+HB Blurb: Key FeaturesBuild successful strategies for planning and executing zero-day vulnerability researchFind the best ways to disclose vulnerabilities while avoiding vendor conflictLearn to navigate the complicated CVE publishing process to receive credit for your researchWho this book is forThis book is for security analysts, researchers, penetration testers, software developers, IT engineers, and anyone who wants to learn how vulnerabilities are found and then disclosed to the public. You’ll need intermediate knowledge of operating systems, software, and interconnected systems before you get started. No prior experience with zero-day vulnerabilities is needed, but some exposure to vulnerability scanners and penetration testing tools will help accelerate your journey to publishing your first vulnerability.
+--------------------------------------------------
+
+Book 13:
+Title: Threat Hunting with Elastic Stack
+Author(s): Andrew Pease
+---
+ISBN-10: 1801079803 - ISBN-13: 9781801079808 - ASIN: B098XBQ8VN
+Published Date: 2021-07-23
+---
+HB Blurb: Key FeaturesGet started with Elastic Security configuration and featuresLeverage Elastic Stack features to provide optimal protection against threatsDiscover tips, tricks, and best practices to enhance the security of your environmentWho this book is forSecurity analysts, cybersecurity enthusiasts, information systems security staff, or anyone who works with the Elastic Stack for security monitoring, incident response, intelligence analysis, or threat hunting will find this book useful. Basic working knowledge of IT security operations and network and endpoint systems is necessary to get started.
+--------------------------------------------------
+
+Book 14:
+Title: Mastering Cyber Intelligence
+Author(s): Jean Nestor M. Dahj
+---
+ISBN-10: 1800208286 - ISBN-13: 9781800208285 - ASIN: B09VH4ZSF3
+Published Date: 2022-04-29
+---
+HB Blurb: Key FeaturesBuild the analytics skills and practices you need for analyzing, detecting, and preventing cyber threatsLearn how to perform intrusion analysis using the cyber threat intelligence (CTI) processIntegrate threat intelligence into your current security infrastructure for enhanced protectionWho this book is forThis book is for security professionals, researchers, and individuals who want to gain profound knowledge of cyber threat intelligence and discover techniques to prevent varying types of cyber threats. Basic knowledge of cybersecurity and network fundamentals is required to get the most out of this book.
+--------------------------------------------------
+
+Book 15:
+Title: Incident Response with Threat Intelligence
+Author(s): Roberto Martinez
+---
+ISBN-10: 1801070997 - ISBN-13: 9781801070997 - ASIN: B09FKKXQB3
+Published Date: 2022-06-24
+---
+HB Blurb: Key FeaturesUnderstand best practices for detecting, containing, and recovering from modern cyber threatsGet practical experience embracing incident response using intelligence-based threat hunting techniquesImplement and orchestrate different incident response, monitoring, intelligence, and investigation platformsWho this book is forIf you are an information security professional or anyone who wants to learn the principles of incident management, first response, threat hunting, and threat intelligence using a variety of platforms and tools, this book is for you. Although not necessary, basic knowledge of Linux, Windows internals, and network protocols will be helpful.
+--------------------------------------------------
+
+Book 16:
+Title: Machine Learning Security Principles
+Author(s): John Paul Mueller, Rod Stephens
+---
+ISBN-10: 1804615404 - ISBN-13: 9781804615409 - ASIN: B0BMGLBJD5
+Published Date: 2022-12-30
+---
+HB Blurb: Key FeaturesDiscover how hackers rely on misdirection and deep fakes to fool even the best security systemsRetain the usefulness of your data by detecting unwanted and invalid modificationsDevelop application code to meet the security requirements related to machine learningWho this book is forWhether you’re a data scientist, researcher, or manager working with machine learning techniques in any aspect, this security book is a must-have. While most resources available on this topic are written in a language more suitable for experts, this guide presents security in an easy-to-understand way, employing a host of diagrams to explain concepts to visual learners. While familiarity with machine learning concepts is assumed, knowledge of Python and programming in general will be useful.
+--------------------------------------------------
+
+Book 17:
+Title: The Foundations of Threat Hunting
+Author(s): Chad Maurice, Jeremiah Thompson, William Copeland, Anthony Particini
+---
+ISBN-10:  - ISBN-13:  - ASIN: 180324299X
+Published Date: 
+---
+HB Blurb: Key FeaturesLearn foundational concepts for effective threat hunting teams in pursuit of cyber adversariesRecognize processes and requirements for executing and conducting a huntCustomize a defensive cyber framework needed to grow and mature a hunt teamWho this book is forThis book is for anyone interested in learning how to organize and execute effective cyber threat hunts, establishing extra defense capabilities within their company, and wanting to mature an organization's cybersecurity posture. It will also be useful for anyone looking for a framework to help a hunt team grow and evolve.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - PowerShell Automation and Scripting for Cybersecurity
+https://www.amazon.com/PowerShell-Automation-Scripting-Cybersecurity-Hacking-ebook/dp/B0BWKZCNK9
+https://www.amazon.co.uk/PowerShell-Automation-Scripting-Cybersecurity-Hacking/dp/1800566379
+http://books.google.co.uk/books?id=JhfQEAAAQBAJ&printsec=frontcover&dq=intitle:PowerShell+Automation+and+Scripting+for+Cybersecurity%2Binauthor:Miriam+C.+Wiesner,+Tanya+Janca&hl=&cd=1&source=gbs_api
+
+Book 02 - ChatGPT for Cybersecurity Cookbook
+https://www.amazon.com/ChatGPT-Cybersecurity-Cookbook-generative-supercharge/dp/1805124048
+https://www.amazon.co.uk/ChatGPT-Cybersecurity-Cookbook-generative-supercharge/dp/1805124048
+http://books.google.co.uk/books?id=Txz7EAAAQBAJ&printsec=frontcover&dq=intitle:ChatGPT+for+Cybersecurity+Cookbook%2Binauthor:Clint+Bodungen,+Aaron+Crow&hl=&cd=1&source=gbs_api
+
+Book 03 - Practical Threat Detection Engineering
+https://www.amazon.com/Practical-Threat-Detection-Engineering-hands/dp/1801076715
+https://www.amazon.co.uk/Practical-Threat-Detection-Engineering-hands/dp/1801076715
+http://books.google.co.uk/books?id=eBHIEAAAQBAJ&printsec=frontcover&dq=intitle:Practical+Threat+Detection+Engineering%2Binauthor:Megan+Roddie,+Jason+Deyalsingh,+Gary+J.+Katz&hl=&cd=1&source=gbs_api
+
+Book 04 - Effective Threat Investigation for SOC Analysts
+https://www.amazon.com/Effective-Threat-Investigation-SOC-Analysts/dp/1837634785
+https://www.amazon.co.uk/Effective-Threat-Investigation-SOC-Analysts-ebook/dp/B0BYZHL9RZ
+http://books.google.co.uk/books?id=5_TOEAAAQBAJ&printsec=frontcover&dq=intitle:Effective+Threat+Investigation+for+SOC+Analysts%2Binauthor:Mostafa+Yahia&hl=&cd=1&source=gbs_api
+
+Book 05 - Industrial Cybersecurity - Second Edition
+https://www.amazon.com/Industrial-Cybersecurity-Efficiently-cybersecurity-environment/dp/1800202091
+https://www.amazon.co.uk/Industrial-Cybersecurity-Efficiently-cybersecurity-environment-ebook/dp/B0997HDH5P
+http://books.google.co.uk/books?id=FhlKDwAAQBAJ&printsec=frontcover&dq=intitle:Industrial+Cybersecurity+-+Second+Edition%2Binauthor:Pascal+Ackerman&hl=&cd=1&source=gbs_api
+
+Book 06 - Cybersecurity Threats, Malware Trends, and Strategies
+https://www.amazon.com/Cybersecurity-Threats-Malware-Trends-Strategies/dp/1804613673
+https://www.amazon.co.uk/Cybersecurity-Threats-Malware-Trends-Strategies-ebook/dp/B0BNNTSTWR
+http://books.google.co.uk/books?id=TN-oEAAAQBAJ&printsec=frontcover&dq=intitle:Cybersecurity+Threats,+Malware+Trends,+and+Strategies%2Binauthor:Tim+Rains,+Timothy+Youngblood&hl=&cd=1&source=gbs_api
+
+Book 07 - Practical Threat Intelligence and Data-Driven Threat Hunting
+https://www.amazon.com/Practical-Threat-Hunting/dp/1838556370
+https://www.amazon.co.uk/Practical-Threat-Hunting-James-Spiteri/dp/1838556370
+http://books.google.co.uk/books?id=tbYTEAAAQBAJ&printsec=frontcover&dq=intitle:Practical+Threat+Intelligence+and+Data-Driven+Threat+Hunting%2Binauthor:Valentina+Costa-Gazc%C3%B3n&hl=&cd=1&source=gbs_api
+
+Book 08 - Automating Security Detection Engineering
+https://www.amazon.com/Automating-Security-Detection-Engineering-hands/dp/1837636419
+https://www.amazon.co.uk/Automating-Security-Detection-Engineering-hands-ebook/dp/B0D343MGWD
+http://books.google.co.uk/books?id=J_wJEQAAQBAJ&printsec=frontcover&dq=intitle:Automating+Security+Detection+Engineering%2Binauthor:Dennis+Chow,+David+Bruskin&hl=&cd=1&source=gbs_api
+
+Book 09 - Operationalizing Threat Intelligence
+https://www.amazon.com/Operationalizing-Threat-Intelligence-operationalizing-intelligence/dp/1801814686
+https://www.amazon.co.uk/Operationalizing-Threat-Intelligence-operationalizing-intelligence/dp/1801814686
+http://books.google.co.uk/books?id=TSNvEAAAQBAJ&printsec=frontcover&dq=intitle:Operationalizing+Threat+Intelligence%2Binauthor:Kyle+Wilhoit,+Joseph+Opacki&hl=&cd=1&source=gbs_api
+
+Book 10 - Aligning Security Operations with the MITRE ATT&CK Framework
+https://www.amazon.com/Aligning-Security-Operations-MITRE-Framework/dp/1804614262
+https://www.amazon.co.uk/Aligning-Security-Operations-MITRE-Framework/dp/1804614262
+http://books.google.co.uk/books?id=6km9EAAAQBAJ&printsec=frontcover&dq=intitle:Aligning+Security+Operations+with+the+MITRE+ATT%26CK+Framework%2Binauthor:Rebecca+Blair&hl=&cd=1&source=gbs_api
+
+Book 11 - Mastering Cloud Security Posture Management (CSPM)
+https://www.amazon.com/Mastering-Cloud-Security-Posture-Management/dp/1837638403
+https://www.amazon.co.uk/Mastering-Cloud-Security-Posture-Management-ebook/dp/B0CQ2H3G6Q
+http://books.google.co.uk/books?id=x7PtEAAAQBAJ&printsec=frontcover&dq=intitle:Mastering+Cloud+Security+Posture+Management+(CSPM)%2Binauthor:Qamar+Nomani,+Julie+Davila,+Rehman+Khan&hl=&cd=1&source=gbs_api
+
+Book 12 - The Vulnerability Researcher's Handbook
+https://www.amazon.com/Vulnerability-Researchers-Handbook-comprehensive-vulnerabilities/dp/1803238879
+https://www.amazon.co.uk/Vulnerability-Researchers-Handbook-comprehensive-vulnerabilities-ebook/dp/B0BHKGNDMP
+http://books.google.co.uk/books?id=z36rEAAAQBAJ&printsec=frontcover&dq=intitle:The+Vulnerability+Researcher%27s+Handbook%2Binauthor:Benjamin+Strout&hl=&cd=1&source=gbs_api
+
+Book 13 - Threat Hunting with Elastic Stack
+https://www.amazon.com/Threat-Hunting-Elastic-Stack-challenges-ebook/dp/B098XBQ8VN
+https://www.amazon.co.uk/Threat-Hunting-Elastic-Stack-challenges/dp/1801073783
+http://books.google.co.uk/books?id=Nh86EAAAQBAJ&printsec=frontcover&dq=intitle:Threat+Hunting+with+Elastic+Stack%2Binauthor:Andrew+Pease&hl=&cd=1&source=gbs_api
+
+Book 14 - Mastering Cyber Intelligence
+https://www.amazon.com/Mastering-Cyber-Intelligence-comprehensive-intelligence-ebook/dp/B09VH4ZSF3
+https://www.amazon.co.uk/Mastering-Cyber-Intelligence-comprehensive-intelligence/dp/1800209401
+http://books.google.co.uk/books?id=TRBoEAAAQBAJ&printsec=frontcover&dq=intitle:Mastering+Cyber+Intelligence%2Binauthor:Jean+Nestor+M.+Dahj&hl=&cd=1&source=gbs_api
+
+Book 15 - Incident Response with Threat Intelligence
+https://www.amazon.com/Incident-response-Threat-Intelligence-intelligence-based-ebook/dp/B09FKKXQB3
+https://www.amazon.co.uk/Incident-response-Threat-Intelligence-intelligence-based-ebook/dp/B09FKKXQB3
+http://books.google.co.uk/books?id=BK5wEAAAQBAJ&printsec=frontcover&dq=intitle:Incident+Response+with+Threat+Intelligence%2Binauthor:Roberto+Martinez&hl=&cd=1&source=gbs_api
+
+Book 16 - Machine Learning Security Principles
+https://www.amazon.com/Machine-Learning-Security-Principles-applications-ebook/dp/B0BMGLBJD5
+https://www.amazon.co.uk/Machine-Learning-Security-Principles-applications-ebook/dp/B0BMGLBJD5
+http://books.google.co.uk/books?id=XEqkEAAAQBAJ&printsec=frontcover&dq=intitle:Machine+Learning+Security+Principles%2Binauthor:John+Paul+Mueller,+Rod+Stephens&hl=&cd=1&source=gbs_api
+
+Book 17 - The Foundations of Threat Hunting
+https://www.amazon.com/Foundations-Threat-Hunting-Organize-effective/dp/180324299X
+https://www.amazon.co.uk/Foundations-Threat-Hunting-Organize-effective/dp/180324299X
+No Google Books URL found.
+
