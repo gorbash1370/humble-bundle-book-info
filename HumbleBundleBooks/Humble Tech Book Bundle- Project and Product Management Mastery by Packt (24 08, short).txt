@@ -1,0 +1,332 @@
+Humble Tech Book Bundle- Project and Product Management Mastery by Packt - Packt
+Processing date: 2024-08-20
+Data retrieved from: https://www.humblebundle.com/books/project-and-product-management-mastery-packt-books
+
+Book 01 - Mastering Project Management with ClickUp for Work and Home Life Balance - Edward Unger, Ryan Coyne - None found out of 5 (None found reviews)
+Book 02 - Growth Product Manager's Handbook - Eve Chen - 0 out of 5 (14 reviews)
+Book 03 - SAFe® Coaches Handbook - Darren Wilmshurst, Lindy Quick, Dean Leffingwell - 4.9 out of 5 (26 reviews)
+Book 04 - Microsoft 365 and SharePoint Online Cookbook - Gaurav Mahajan, Sudeep Ghatak, Nate Chamberlain, Scott Brewster, Mark Kashman - 4.8 out of 5 (26 reviews)
+Book 05 - Work Smarter with Microsoft OneNote - Connie Clark - 5 out of 5 (None found reviews)
+Book 06 - The Professional Scrum Master Guide - Fred Heath - 0 out of 5 (85 reviews)
+Book 07 - Workflow Automation with Microsoft Power Automate - Aaron Guilmette - 4.3 out of 5 (82 reviews)
+Book 08 - Mastering Microsoft Dynamics 365 Business Central - Stefano Demiliani, Duilio Tacconi - 4.9 out of 5 (17 reviews)
+Book 09 - Sustainable IT Playbook for Technology Leaders - Niklas Sundberg, Hélène Barnekow - 0 out of 5 (37 reviews)
+Book 10 - Learning Microsoft Project 2019 - Srikanth Shirodkar - 4.9 out of 5 (None found reviews)
+Book 11 - Salesforce End-to-End Implementation Handbook - Kristian Margaryan Jørgensen, Tameem Bahri - 4.7 out of 5 (25 reviews)
+Book 12 - Microsoft PowerPoint Best Practices, Tips, and Techniques - Chantal Bossé - 0 out of 5 (30 reviews)
+Book 13 - Mastering Customer Success - Jeff Mar, Peter Armaly, Mark Stouse - 5 out of 5 (None found reviews)
+Book 14 - Technical Writing for Software Developers - Chris Chinchilla - None found out of 5 (None found reviews)
+Book 15 - Exploring Microsoft Excel's Hidden Treasures - David Ringstrom - 4.3 out of 5 (19 reviews)
+Book 16 - Jira 8 Essentials - Patrick Li - 4.2 out of 5 (None found reviews)
+Book 17 - Implementing Atlassian Confluence - Eren Kalelioğlu, Evren Civelek - 4.6 out of 5 (14 reviews)
+Book 18 - Gamification for Product Excellence - Mike Hyzy, Bret Wardle, Gabe Zichermann - 0 out of 5 (32 reviews)
+Book 19 - Supercharging Productivity with Trello - Brittany Joiner - 5 out of 5 (None found reviews)
+Book 20 - Fundamentals of CRM with Dynamics 365 and Power Platform - Nicolae Tarla - 0 out of 5 (10 reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: Mastering Project Management with ClickUp for Work and Home Life Balance
+Author(s): Edward Unger, Ryan Coyne
+---
+ISBN-10: 1835464688 - ISBN-13: 9781835464687 - ASIN: B0D78Y42JQ
+Published Date: 2024-06-28
+---
+HB Blurb: Key FeaturesMaster ClickUp's core functionalities, automation, and integrations to become a ClickUp power user in all areas of your lifeDiscover new habits and goal-setting methods to accomplish your personal and professional goalsLearn with step-by-step guides, FAQs, and a downloadable workbookPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for anyone who wants more out of life and wants to reclaim time in areas that matter most. It will help everyday people, professionals, entrepreneurs, business owners, project managers, hobbyists, and anyone seeking to enhance their time management skills and productivity. Whether you’re an experienced user or new to ClickUp, this book offers valuable insights, including ClickUp's AI features.
+--------------------------------------------------
+
+Book 02:
+Title: Growth Product Manager's Handbook
+Author(s): Eve Chen
+---
+ISBN-10: 1837634610 - ISBN-13: 9781837634613 - ASIN: 1837635951
+Published Date: 2024-01-30
+---
+HB Blurb: Key FeaturesUnderstand and implement key growth product management models to improve revenue, user adoption, and retentionLearn effective frameworks, strategies, and tactics for growth product management in various contextsDevelop practical strategies and insights to achieve customer lifetime goalsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forWhether you're a seasoned product manager, a newcomer to the field, or an aspiring growth product manager, this guide offers valuable insights and actionable strategies to drive growth and achieve success. Additionally, growth marketers and startup founders with basic product marketing knowledge will benefit from this book, expanding their understanding of growth-centric product management practices to elevate their careers and propel their companies to acquire more customers and reach customer-for-life goals.
+--------------------------------------------------
+
+Book 03:
+Title: SAFe® Coaches Handbook
+Author(s): Darren Wilmshurst, Lindy Quick, Dean Leffingwell
+---
+ISBN-10: 1839214120 - ISBN-13: 9781839214127 - ASIN: B0C2Z2KJ7D
+Published Date: 2023-07-28
+---
+HB Blurb: Key FeaturesUnderstand how to tailor SAFe® practices to meet your organization’s needsAvoid common mistakes encountered while adopting SAFe® at team, ART, and portfolio levelsDiscover practical tips and best practices to plan teams, ARTs, events, and Lean Portfolio ManagementWho this book is forIf you're a SAFe® Practice Consultant (SPCT), Scrum Master/Team Coach, or Release Train Engineer tasked with implementing SAFe® within an organization, you'll find this book indispensable. It offers valuable insights into aspects of SAFe® and helps ensure success in delivery and execution with practical uses you can adopt. Product owners and product managers will also benefit from this book by gaining a deeper understanding of how to function effectively within a SAFe® environment. A basic understanding of SAFe®, agile, and DevOps is recommended to get the most out of this book.
+--------------------------------------------------
+
+Book 04:
+Title: Microsoft 365 and SharePoint Online Cookbook
+Author(s): Gaurav Mahajan, Sudeep Ghatak, Nate Chamberlain, Scott Brewster, Mark Kashman
+---
+ISBN-10: 1803247371 - ISBN-13: 9781803247373 - ASIN: 1803243171
+Published Date: 2024-02-29
+---
+HB Blurb: Key FeaturesEnhance collaboration and productivity using SharePoint, Teams, OneDrive, Viva, Planner, and Microsoft FormsAutomate processes, build apps, bots, and dashboards with Power Automate (with RPA), Power Apps, Copilot Studio, and Power BIHarness Copilot, the new AI virtual assistant, for seamless support in your everyday tasksWho this book is forThis cookbook caters to professionals stepping into the world of Microsoft 365 and SharePoint Online. It is tailored for a broad spectrum of skillsets including general business professionals, IT administrators, and enterprise architects who are newcomers to Microsoft 365, offering valuable insights for establishing a contemporary, digital workplace effectively.
+--------------------------------------------------
+
+Book 05:
+Title: Work Smarter with Microsoft OneNote
+Author(s): Connie Clark
+---
+ISBN-10: 1801074844 - ISBN-13: 9781801074841 - ASIN: No ASIN found
+Published Date: 2022-04-29
+---
+HB Blurb: Key FeaturesLearn how to store notes that include images, audio, videos, links, files, emails, and web clippingsUnleash the magic of tags to make notes stand out and become more searchableDiscover the power of shared notebooks with your team or family to ensure everyone is in the loopWho this book is forIf you save notes on your phone, wear out more spiral notebooks than you can count, or if you’re a Microsoft 365 user and need to keep track of information, then this book is for you. Beginner-level experience with OneNote is required to get the most out of this book.
+--------------------------------------------------
+
+Book 06:
+Title: The Professional Scrum Master Guide
+Author(s): Fred Heath
+---
+ISBN-10: 1800200498 - ISBN-13: 9781800200494 - ASIN: 1800205562
+Published Date: 2021-07-16
+---
+HB Blurb: Key FeaturesGo from absolute beginner to exam-ready with detailed explorations of Scrum use-casesUnderstand the different applications of agile concepts, and how to best apply them to your businessDiscover expert tips and work with real-world examples to pass the certification exam the first timeWho this book is forAssuming no prior knowledge of Scrum, this book is for professionals who want to build a strong foundation in Scrum practices with the intention of passing the certification exam. If you're a product owner or project manager looking to stay relevant in an agile world, this book is essential to helping you become a Scrum expert.
+--------------------------------------------------
+
+Book 07:
+Title: Workflow Automation with Microsoft Power Automate
+Author(s): Aaron Guilmette
+---
+ISBN-10: 1839218347 - ISBN-13: 9781839218347 - ASIN: 1803237678
+Published Date: 2020-09-18
+---
+HB Blurb: Key FeaturesLearn the latest in Power Automate with updated user interface visuals and new technology includedApply practical knowledge like managing user inputs, documents, approvals, and database storageCreate flows that integrate with services both inside and outside the Microsoft 365 ecosystemWho this book is forThis book is excellent for information workers and Power users who are looking to automate repetitive tasks for their organizations or for projects they are undertaking. To make the most of this book you should have some basic exposure to the MS 365 platform.
+--------------------------------------------------
+
+Book 08:
+Title: Mastering Microsoft Dynamics 365 Business Central
+Author(s): Stefano Demiliani, Duilio Tacconi
+---
+ISBN-10: 1837639663 - ISBN-13: 9781837639663 - ASIN: 183763064X
+Published Date: 2024-03-19
+---
+HB Blurb: Key FeaturesExtend Business Central's functionalities through Azure, Power Platform, GitHub, and custom extensionsUnlock the potential of data exchange and functionality expansion by integrating with external systems using APIs and ODataBuild reliable, maintainable, and continuously improving solutions while writing performant, well-structured code and using telemetries and DevOpsWho this book is forThis book is intended for new developers who want to get started with Dynamics 365 Business Central. Professionals with expertise will also benefit from this book by enhancing their knowledge and comprehension of Dynamics 365 Business Central development platform and best practices
+--------------------------------------------------
+
+Book 09:
+Title: Sustainable IT Playbook for Technology Leaders
+Author(s): Niklas Sundberg, Hélène Barnekow
+---
+ISBN-10: 1803241977 - ISBN-13: 9781803241975 - ASIN: B0B18F39DB
+Published Date: 2022-10-14
+---
+HB Blurb: Key FeaturesExecute a sustainable IT strategy with proven methods and real-world use casesProgress as a sustainable IT advocate and set yourself apart from other senior IT leadersIncrease your chances of receiving executive buy-in on your sustainable IT strategyWho this book is forThis book is for executive IT leaders such as CIOs, CDOs, and CTOs dedicated to influencing, inspiring, and engaging businesses, organizations, and individuals to reduce their carbon footprint through sustainable IT practices.
+--------------------------------------------------
+
+Book 10:
+Title: Learning Microsoft Project 2019
+Author(s): Srikanth Shirodkar
+---
+ISBN-10: 1838983724 - ISBN-13: 9781838983727 - ASIN: B0863T3XQ5
+Published Date: 2020-09-11
+---
+HB Blurb: Key FeaturesExplore various algorithms and the latest features of MS Project to organize and keep track of your projectsUnderstand Work Breakdown Structure (WBS) to improve productivityApply real-world best practices and discover the tips, tricks, and pitfalls of schedule managementWho this book is forIf you use Microsoft Office and are looking to use MS Project to manage your projects efficiently, this book is for you. Project managers or anyone interested in project management will also find this book useful. Basic knowledge of Windows UI and MS Office products is required.
+--------------------------------------------------
+
+Book 11:
+Title: Salesforce End-to-End Implementation Handbook
+Author(s): Kristian Margaryan Jørgensen, Tameem Bahri
+---
+ISBN-10: 1804617601 - ISBN-13: 9781804617601 - ASIN: 1804613223
+Published Date: 2023-03-10
+---
+HB Blurb: Key FeaturesExplore the end-to-end Salesforce implementation lifecycle with templates and practical examplesDiscover common issues and strategies for mitigation and preventionWork with checklists to assess the state of your Salesforce implementation in each phasePurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for Salesforce consultants, architects, project/program managers, delivery leaders for Salesforce implementation, or product owners- planning to implement Salesforce or already implementing Salesforce for their organizations. If you are switching to a role in Salesforce development, this book will act as a guide on what to expect on the job and how to ace it. Familiarity with basic business, CRM, and project management concepts is required.
+--------------------------------------------------
+
+Book 12:
+Title: Microsoft PowerPoint Best Practices, Tips, and Techniques
+Author(s): Chantal Bossé
+---
+ISBN-10: 1839216603 - ISBN-13: 9781839216602 - ASIN: 183921533X
+Published Date: 2023-02-10
+---
+HB Blurb: Key FeaturesLearn how to plan your content and prepare your PowerPoint mastersCreate beautiful content using PowerPoint features and add-insDeliver impressive presentations by leveraging PowerPoint’s advanced delivery toolsWho this book is forIf you are a business professional looking for best practices for presentations and are interested in the features PowerPoint has to offer to help you create and deliver impactful presentations, this book is for you. No formal presentation design knowledge is needed, but you do need to know PowerPoint’s basic tools and functions such as starting and saving files, adding, copying, pasting, or moving slides. A sound understanding of cloud storage and the use of Office 365 is also needed.
+--------------------------------------------------
+
+Book 13:
+Title: Mastering Customer Success
+Author(s): Jeff Mar, Peter Armaly, Mark Stouse
+---
+ISBN-10: 183546677X - ISBN-13: 9781835466773 - ASIN: 1835469035
+Published Date: 2024-05-31
+---
+HB Blurb: Key FeaturesMaster the art of driving measurable customer value, a cornerstone of business successExplore techniques to ensure your work is relevant, stimulating, and aligns with the evolving needs of your customers and businessRatchet up your understanding of building and operating dynamic and resilient CS organizationsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for aspiring and established Customer Success professionals who want to learn how to develop and refine service delivery in customer engagements. Professionals embarking on a journey to excellence will be able to master the evolving business landscape of Customer Success and foster relationships with other internal organizations and external partners. A foundational understanding of business basics, typical B2B structures, and Customer Success concepts is necessary to get started. Intermediate to advanced customer engagement skills from customer-facing roles will prove useful.
+--------------------------------------------------
+
+Book 14:
+Title: Technical Writing for Software Developers
+Author(s): Chris Chinchilla
+---
+ISBN-10: 1835083919 - ISBN-13: 9781835083918 - ASIN: 1835080405
+Published Date: 2024-03-29
+---
+HB Blurb: Key FeaturesOptimize documentation workflows with collaborative version-controlled "docs-as-code" tooling optionsEngage with interactive learning modules embedded throughout the bookImprove software quality as a lead developer through effective communication in documentationPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for software developers who want to improve their technical writing prowess. Whether you are a junior developer looking to refine your documentation skills or a professional striving for smoother collaboration, this resource equips you with all the essential knowledge and practical insights you need. Covering everything from creating clear documentation to enhancing career prospects, this book caters to a diverse range of software developers, including programmers, software architects, and software engineers looking to streamline the product development process and save time.
+--------------------------------------------------
+
+Book 15:
+Title: Exploring Microsoft Excel's Hidden Treasures
+Author(s): David Ringstrom
+---
+ISBN-10: 1803233095 - ISBN-13: 9781803233093 - ASIN: B0B5GZ95H7
+Published Date: 2022-09-16
+---
+HB Blurb: Key FeaturesGet hands-on experience by carrying out techniques in detailed example workbooksReclaim portions of your day by immediately implementing data integrity and automation featuresIncorporate spreadsheet disaster recovery techniques into your daily workWho this book is forThis book is for intermediate to advanced excel users working in diverse roles such as business users, accountants, project managers and business analysts among others. The more time that you spend in excel the more time this book will save you. You will be able to maximize your productivity by learning spreadsheet interactivity, accessibility and automation. This clear step-by-step explanation and detailed example workbook will help you to try out new techniques firsthand and leverage them for your business's advantage in no time.
+--------------------------------------------------
+
+Book 16:
+Title: Jira 8 Essentials
+Author(s): Patrick Li
+---
+ISBN-10: 1789808197 - ISBN-13: 9781789808193 - ASIN: B0BDRS1BHF
+Published Date: 2019-02-28
+---
+HB Blurb: Key FeaturesExplore all of Jira's core features as well as the advanced features offered by Data CenterLearn to use Jira for issue management, field management, screen management, and business workflowsInstall, update, and manage third-party apps from Atlassian marketplace to extend Jira capabilitiesWho this book is forThis book is especially useful for project managers, but it's also intended for other Jira users, including developers, and any other industry besides software development, who would like to leverage Jira's powerful task management and workflow features to better manage their business processes.
+--------------------------------------------------
+
+Book 17:
+Title: Implementing Atlassian Confluence
+Author(s): Eren Kalelioğlu, Evren Civelek
+---
+ISBN-10: 180056905X - ISBN-13: 9781800569058 - ASIN: 1800560427
+Published Date: 2023-09-29
+---
+HB Blurb: Key FeaturesManage cross-functional distributed teams working on enterprise resources with easeExtend Confluence with Atlassian tools such as Jira, Bitbucket, and third-party tools like Miro, Figma, and DropboxCreate a single source of truth for enterprise-wide projects for productive collaborationPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis Atlassian Confluence book is for anyone looking to leverage the world-class collaboration platform for remote and distributed teams to collaborate efficiently, securely, and enjoyably. Whether you are a Confluence administrator, Confluence user, project manager, agile team leader, member of a management information systems team, or part of an asynchronous team looking to adopt Atlassian Confluence, you’ll find value in this guide.
+--------------------------------------------------
+
+Book 18:
+Title: Gamification for Product Excellence
+Author(s): Mike Hyzy, Bret Wardle, Gabe Zichermann
+---
+ISBN-10: 1837634432 - ISBN-13: 9781837634439 - ASIN: 1837638381
+Published Date: 2023-09-29
+---
+HB Blurb: Key FeaturesDesign gamification frameworks that captivate users and deliver a compelling experienceBuild a successful gamification strategy to go from concept to prototype to production with easeGamify product management processes using game techniques to effectively lead teams and stakeholdersPurchase of the print or Kindle book includes a free PDF eBookWho this book is forIf you are a product manager, product leader, or product designer weaving gamified experiences and crafting exceptional digital products from conception to reality, then this book is the absolute right pick for you. The topics covered will enable you to level up your products and unleash their full potential through gamification. All the gamification strategies and frameworks discussed in this book can be practically applied across different domains with ease.
+--------------------------------------------------
+
+Book 19:
+Title: Supercharging Productivity with Trello
+Author(s): Brittany Joiner
+---
+ISBN-10: 1801818282 - ISBN-13: 9781801818285 - ASIN: B0C8NNDYYN
+Published Date: 2023-08-11
+---
+HB Blurb: Key FeaturesUncover the secrets of Trello’s core features, automation, and integrations to become a Trello power userMaster Trello with practical advice, real-world examples, and workflows to improve task managementGet in-depth knowledge of Trello to get it up and running within minutes and scale it for future needsWho this book is forIf you are a busy professional, student, entrepreneur, or anyone looking to get more done in less time, this book is for you. Whether you're new or an experienced Trello user, this comprehensive guide will provide the tools and strategies needed to streamline your workflow, boost your productivity, and achieve your goals.
+--------------------------------------------------
+
+Book 20:
+Title: Fundamentals of CRM with Dynamics 365 and Power Platform
+Author(s): Nicolae Tarla
+---
+ISBN-10: 1789954584 - ISBN-13: 9781789954586 - ASIN: B08HYWX6VL
+Published Date: 2020-10-06
+---
+HB Blurb: Key FeaturesDiscover impressive Dynamics 365 features to transform your business and increase productivityLeverage the platform’s extensibility to meet your organizational needsUnderstand how Power Platform powers Dynamics 365 and enhances its integration capabilitiesWho this book is forThis book is for customers and project stakeholders, new functional consultants, business administration users, and project managers looking to get up and running with the latest features of Dynamics 365 and Power Platform. This guide will help non-developers become acquainted with a no-code approach to customization and configuration. A basic understanding of relational data and customer management concepts will help you get the most out of this book.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Mastering Project Management with ClickUp for Work and Home Life Balance
+No Amazon.com URL found
+https://www.amazon.co.uk/Mastering-Project-Management-ClickUp-Balance/dp/B0D78Y42JQ
+http://books.google.co.uk/books?id=rTUQEQAAQBAJ&printsec=frontcover&dq=intitle:Mastering+Project+Management+with+ClickUp+for+Work+and+Home+Life+Balance%2Binauthor:Edward+Unger,+Ryan+Coyne&hl=&cd=1&source=gbs_api
+
+Book 02 - Growth Product Manager's Handbook
+https://www.amazon.com/Growth-Product-Managers-Handbook-acquisition/dp/1837635951
+https://www.amazon.co.uk/Growth-Product-Managers-Handbook-acquisition/dp/1837635951
+http://books.google.co.uk/books?id=JrfuEAAAQBAJ&printsec=frontcover&dq=intitle:Growth+Product+Manager%27s+Handbook%2Binauthor:Eve+Chen&hl=&cd=1&source=gbs_api
+
+Book 03 - SAFe® Coaches Handbook
+https://www.amazon.com/SAFe%C2%AE-Coaches-Handbook-techniques-Portfolios-ebook/dp/B0C2Z2KJ7D
+https://www.amazon.co.uk/SAFe%C2%AE-Coaches-Handbook-techniques-Portfolios-ebook/dp/B0C2Z2KJ7D
+http://books.google.co.uk/books?id=RCXMEAAAQBAJ&pg=PP1&dq=intitle:SAFe%C2%AE+Coaches+Handbook%2Binauthor:Darren+Wilmshurst,+Lindy+Quick,+Dean+Leffingwell&hl=&cd=1&source=gbs_api
+
+Book 04 - Microsoft 365 and SharePoint Online Cookbook
+https://www.amazon.com/Microsoft-Office-SharePoint-Online-Cookbook/dp/1803243171
+https://www.amazon.co.uk/Microsoft-Office-SharePoint-Online-Cookbook/dp/1803243171
+http://books.google.co.uk/books?id=o9P3EAAAQBAJ&printsec=frontcover&dq=intitle:Microsoft+365+and+SharePoint+Online+Cookbook%2Binauthor:Gaurav+Mahajan,+Sudeep+Ghatak,+Nate+Chamberlain,+Scott+Brewster,+Mark+Kashman&hl=&cd=1&source=gbs_api
+
+Book 05 - Work Smarter with Microsoft OneNote
+https://www.amazon.com/Work-Smarter-Microsoft-OneNote-productive/product-reviews/1801075662/
+https://www.amazon.co.uk/Work-Smarter-Microsoft-OneNote-productive-ebook/dp/B09T3J3D83
+http://books.google.co.uk/books?id=Bn5rEAAAQBAJ&printsec=frontcover&dq=intitle:Work+Smarter+with+Microsoft+OneNote%2Binauthor:Connie+Clark&hl=&cd=1&source=gbs_api
+
+Book 06 - The Professional Scrum Master Guide
+https://www.amazon.com/Professional-Scrum-Master-Guide-certification/dp/1800205562
+https://www.amazon.co.uk/Professional-Scrum-Master-Guide-certification-ebook/dp/B08WHZGM6X
+http://books.google.co.uk/books?id=Opw3EAAAQBAJ&printsec=frontcover&dq=intitle:The+Professional+Scrum+Master+Guide%2Binauthor:Fred+Heath&hl=&cd=1&source=gbs_api
+
+Book 07 - Workflow Automation with Microsoft Power Automate
+https://www.amazon.com/Workflow-Automation-Microsoft-Power-Automate/dp/1803237678
+https://www.amazon.co.uk/Workflow-Automation-Microsoft-Power-Automate-ebook/dp/B09ZBCL47F
+http://books.google.co.uk/books?id=xED-DwAAQBAJ&printsec=frontcover&dq=intitle:Workflow+Automation+with+Microsoft+Power+Automate%2Binauthor:Aaron+Guilmette&hl=&cd=1&source=gbs_api
+
+Book 08 - Mastering Microsoft Dynamics 365 Business Central
+https://www.amazon.com/Mastering-Microsoft-Dynamics-Business-Central/dp/183763064X
+https://www.amazon.co.uk/Mastering-Microsoft-Dynamics-Business-Central/dp/183763064X
+http://books.google.co.uk/books?id=TRz7EAAAQBAJ&printsec=frontcover&dq=intitle:Mastering+Microsoft+Dynamics+365+Business+Central%2Binauthor:Stefano+Demiliani,+Duilio+Tacconi&hl=&cd=1&source=gbs_api
+
+Book 09 - Sustainable IT Playbook for Technology Leaders
+https://www.amazon.com/Sustainable-Playbook-Technology-Leaders-opportunities-ebook/dp/B0B18F39DB
+https://www.amazon.co.uk/Sustainable-Playbook-Technology-Leaders-opportunities-ebook/dp/B0B18F39DB
+http://books.google.co.uk/books?id=ab-UEAAAQBAJ&printsec=frontcover&dq=intitle:Sustainable+IT+Playbook+for+Technology+Leaders%2Binauthor:Niklas+Sundberg,+H%C3%A9l%C3%A8ne+Barnekow&hl=&cd=1&source=gbs_api
+
+Book 10 - Learning Microsoft Project 2019
+https://www.amazon.com/Learn-Microsoft-Project-2019-Streamline-ebook/dp/B0863T3XQ5
+https://www.amazon.co.uk/Learn-Microsoft-Project-2019-Streamline-ebook/dp/B0863T3XQ5
+http://books.google.co.uk/books?id=89_8DwAAQBAJ&printsec=frontcover&dq=intitle:Learning+Microsoft+Project+2019%2Binauthor:Srikanth+Shirodkar&hl=&cd=1&source=gbs_api
+
+Book 11 - Salesforce End-to-End Implementation Handbook
+https://www.amazon.com/Salesforce-End-End-Implementation-Handbook/dp/1804613223
+https://www.amazon.co.uk/Salesforce-End-End-Implementation-Handbook/dp/1804613223
+http://books.google.co.uk/books?id=2NewEAAAQBAJ&printsec=frontcover&dq=intitle:Salesforce+End-to-End+Implementation+Handbook%2Binauthor:Kristian+Margaryan+J%C3%B8rgensen,+Tameem+Bahri&hl=&cd=1&source=gbs_api
+
+Book 12 - Microsoft PowerPoint Best Practices, Tips, and Techniques
+https://www.amazon.com/Microsoft-PowerPoint-Best-Practices-Techniques/dp/183921533X
+https://www.amazon.co.uk/Microsoft-PowerPoint-Best-Practices-Techniques/dp/183921533X
+http://books.google.co.uk/books?id=DxasEAAAQBAJ&printsec=frontcover&dq=intitle:Microsoft+PowerPoint+Best+Practices,+Tips,+and+Techniques%2Binauthor:Chantal+Boss%C3%A9&hl=&cd=1&source=gbs_api
+
+Book 13 - Mastering Customer Success
+https://www.amazon.com/Mastering-Customer-Success-Discover-decrease/dp/1835469035
+https://www.amazon.co.uk/Mastering-Customer-Success-Discover-decrease/dp/1835469035
+http://books.google.co.uk/books?id=utIREQAAQBAJ&printsec=frontcover&dq=intitle:Mastering+Customer+Success%2Binauthor:Jeff+Mar,+Peter+Armaly,+Mark+Stouse&hl=&cd=1&source=gbs_api
+
+Book 14 - Technical Writing for Software Developers
+https://www.amazon.com/Technical-Writing-Software-Developers-communication/dp/1835080405
+https://www.amazon.co.uk/Technical-Writing-Software-Developers-communication-ebook/dp/B0CYL9SWZ5
+http://books.google.co.uk/books?id=vBr9EAAAQBAJ&printsec=frontcover&dq=intitle:Technical+Writing+for+Software+Developers%2Binauthor:Chris+Chinchilla&hl=&cd=1&source=gbs_api
+
+Book 15 - Exploring Microsoft Excel's Hidden Treasures
+https://www.amazon.com/Exploring-Microsoft-Excels-Hidden-Treasures-ebook/dp/B0B5GZ95H7
+https://www.amazon.co.uk/Exploring-Microsoft-Excels-Hidden-Treasures-ebook/dp/B0B5GZ95H7
+http://books.google.co.uk/books?id=b5mGEAAAQBAJ&printsec=frontcover&dq=intitle:Exploring+Microsoft+Excel%27s+Hidden+Treasures%2Binauthor:David+Ringstrom&hl=&cd=1&source=gbs_api
+
+Book 16 - Jira 8 Essentials
+https://www.amazon.com/Jira-Essentials-Effective-tracking-management-ebook/dp/B0BDRS1BHF
+https://www.amazon.co.uk/Jira-Essentials-Effective-management-tracking-ebook/dp/B07MCJ7P4B
+http://books.google.co.uk/books?id=sAyLDwAAQBAJ&printsec=frontcover&dq=intitle:Jira+8+Essentials%2Binauthor:Patrick+Li&hl=&cd=1&source=gbs_api
+
+Book 17 - Implementing Atlassian Confluence
+https://www.amazon.com/Implementing-Atlassian-Confluence-distributed-collaboration/dp/1800560427
+https://www.amazon.co.uk/Implementing-Atlassian-Confluence-distributed-collaboration/dp/1800560427
+http://books.google.co.uk/books?id=f_TZEAAAQBAJ&printsec=frontcover&dq=intitle:Implementing+Atlassian+Confluence%2Binauthor:Eren+Kalelio%C4%9Flu,+Evren+Civelek&hl=&cd=1&source=gbs_api
+
+Book 18 - Gamification for Product Excellence
+https://www.amazon.com/Gamification-Product-Excellence-engagement-innovation/dp/1837638381
+https://www.amazon.co.uk/Gamification-Product-Excellence-engagement-innovation-ebook/dp/B0CBK8Q8MG
+http://books.google.co.uk/books?id=BrraEAAAQBAJ&printsec=frontcover&dq=intitle:Gamification+for+Product+Excellence%2Binauthor:Mike+Hyzy,+Bret+Wardle,+Gabe+Zichermann&hl=&cd=1&source=gbs_api
+
+Book 19 - Supercharging Productivity with Trello
+https://www.amazon.com/Supercharging-Productivity-Trello-productivity-collaboration-ebook/dp/B0C8NNDYYN
+https://www.amazon.co.uk/Supercharging-Productivity-Trello-productivity-collaboration-ebook/dp/B0C8NNDYYN
+http://books.google.co.uk/books?id=fqbNEAAAQBAJ&printsec=frontcover&dq=intitle:Supercharging+Productivity+with+Trello%2Binauthor:Brittany+Joiner&hl=&cd=1&source=gbs_api
+
+Book 20 - Fundamentals of CRM with Dynamics 365 and Power Platform
+https://www.amazon.com/Fundamentals-CRM-Dynamics-Power-Platform-ebook/dp/B08HYWX6VL
+https://www.amazon.co.uk/Fundamentals-CRM-Dynamics-Power-Platform-ebook/dp/B08HYWX6VL
+http://books.google.co.uk/books?id=2ZQBEAAAQBAJ&printsec=frontcover&dq=intitle:Fundamentals+of+CRM+with+Dynamics+365+and+Power+Platform%2Binauthor:Nicolae+Tarla&hl=&cd=1&source=gbs_api
+
