@@ -1,0 +1,364 @@
+Humble Tech Book Bundle- Sybex CompTIA and More by Wiley - Wiley
+Processing date: 2024-07-24
+Data retrieved from: https://www.humblebundle.com/books/sybex-comptia-and-more-wiley-books
+
+Book 01 - AWS Certified Solutions Architect Study Guide with 900 Practice Test Questions: Associate (SAA-C03) Exam, 4th Edition - Ben Piper, David Clinton - None found out of 5 (None found reviews)
+Book 02 - CCNP Enterprise Certification Study Guide: Implementing and Operating Cisco Enterprise Network Core Technologies: Exam 350-401 - Ben Piper - None found out of 5 (None found reviews)
+Book 03 - OCP Oracle Certified Professional Java SE 17 Developer Study Guide: Exam 1Z0-829 - Scott Selikoff, Jeanne Boyarsky - None found out of 5 (None found reviews)
+Book 04 - Google Cloud Certified Professional Cloud Architect Study Guide, 2nd Edition - Dan Sullivan - None found out of 5 (None found reviews)
+Book 05 - CEH v12 Certified Ethical Hacker Study Guide with 750 Practice Test Questions - Ric Messier - 4.3 out of 5 (47 reviews)
+Book 06 - Mca Microsoft Certified Associate Azure Administrator Study Guide: Exam Az-104 - Rithin Skaria - None found out of 5 (None found reviews)
+Book 07 - CompTIA A+ Complete Study Guide: Core 1 Exam 220-1101 and Core 2 Exam 220-1102, 5th Edition - Troy McMillan - 4.6 out of 5 (648 reviews)
+Book 08 - MCA Microsoft 365 Certified Associate Modern Desktop Administrator Complete Study Guide with 900 Practice Test Questions: Exam MD-100 and Exam MD-101, 2nd Edition - William Panek - None found out of 5 (None found reviews)
+Book 09 - CompTIA PenTest+ Study Guide: Exam PT0-002, 2nd Edition - David Seidl, Mike Chapple - 4.6 out of 5 (140 reviews)
+Book 10 - Official Google Cloud Certified Professional Machine Learning Engineer Study Guide - Mona Mona, Pratap Ramamurthy - None found out of 5 (None found reviews)
+Book 11 - (ISC)2 CCSP Certified Cloud Security Professional Official Study Guide, 3rd Edition - Mike Chapple, David Seidl - None found out of 5 (None found reviews)
+Book 12 - CompTIA Linux+ Study Guide: Exam XK0-005, 5th Edition - Richard Blum, Christine Bresnahan - 4.4 out of 5 (60 reviews)
+Book 13 - CompTIA Project+ Practice Tests: Exam PK0-005, 2nd Edition - Brett J. Feddersen - None found out of 5 (None found reviews)
+Book 14 - CompTIA CySA+ Study Guide: Exam CS0-003, 3rd Edition - Mike Chapple, David Seidl - 4.8 out of 5 (74 reviews)
+Book 15 - IAPP CIPM Certified Information Privacy Manager Study Guide - Mike Chapple, Joe Shelley - 4.5 out of 5 (19 reviews)
+Book 16 - Microsoft Certified Azure Fundamentals Study Guide: Exam Az-900 - James Boyce - None found out of 5 (None found reviews)
+Book 17 - CCNA Certification Study Guide, Volume 2: Exam 200-301 - Todd Lammle - 4.5 out of 5 (183 reviews)
+Book 18 - CC Certified in Cybersecurity Study Guide - Mike Chapple - None found out of 5 (None found reviews)
+Book 19 - Comptia Network+ Certmike: Prepare. Practice. Pass the Test! Get Certified!: Exam N10-008 - Mike Chapple - 4.8 out of 5 (8 reviews)
+Book 20 - CompTIA A+ Complete Review Guide: Core 1 Exam 220-1101 and Core 2 Exam 220-1102, 5th Edition - Quentin Docter, Jon Buhagiar - None found out of 5 (None found reviews)
+Book 21 - CompTIA ITF+ CertMike: Prepare. Practice. Pass the Test! Get Certified!: Exam FC0-U61 - Mike Chapple - None found out of 5 (None found reviews)
+Book 22 - CompTIA Linux+ Practice Tests: Exam XK0-005, 3rd Edition - Steve Suehring - 5 out of 5 (3 reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: AWS Certified Solutions Architect Study Guide with 900 Practice Test Questions: Associate (SAA-C03) Exam, 4th Edition
+Author(s): Ben Piper, David Clinton
+---
+ISBN-10: 1119982634 - ISBN-13: 9781119982630 - ASIN: 
+Published Date: 2022-09-13
+---
+HB Blurb: Validate your AWS Cloud skills! Take the next step in your career by expanding and validating your AWS Cloud skills. AWS has been the frontrunner in cloud computing products and services, and the UPDATED AWS Certified Solutions Architect Study Guide, Fourth Edition, for the Associate SAA-C03 Exam gets you fully prepared. AWS experts Ben Piper and David Clinton provide thorough coverage of concepts and key review of exam topics, including:Design Secure ArchitecturesDesign Resilient ArchitecturesDesign High-Performing ArchitecturesDesign Cost-Optimized ArchitectureReaders also have access to Sybex's superior online interactive learning environment and test bank, including hundreds of test questions, bonus practice exams, electronic flashcards, and a glossary of key terms. If you are looking to take the AWS Certified Solutions Architect Associate exam, this guide is what you need for comprehensive content and robust study tools that help you gain the edge on exam day and throughout your career.
+--------------------------------------------------
+
+Book 02:
+Title: CCNP Enterprise Certification Study Guide: Implementing and Operating Cisco Enterprise Network Core Technologies: Exam 350-401
+Author(s): Ben Piper
+---
+ISBN-10: 1119658756 - ISBN-13: 9781119658757 - ASIN: 
+Published Date: 2020-06-03
+---
+HB Blurb: CCNP Enterprise Certification Study Guide: Implementing and Operating Cisco Enterprise Network Core Technologies helps you to prepare for Exam 350-401 while it focuses on your knowledge of enterprise infrastructure including:- Dual-stack (IPv4 and IPv6) architecture- Virtualization- Infrastructure- Network assurance- Security- AutomationReaders will also have access to Sybex's superior online interactive learning environment and test bank, including chapter tests, practice exam, electronic flashcards, a glossary of key terms.
+--------------------------------------------------
+
+Book 03:
+Title: OCP Oracle Certified Professional Java SE 17 Developer Study Guide: Exam 1Z0-829
+Author(s): Scott Selikoff, Jeanne Boyarsky
+---
+ISBN-10: 1119864623 - ISBN-13: 9781119864622 - ASIN: 1119864585
+Published Date: 2022-08-03
+---
+HB Blurb: Focusing 100% on the objectives for the latest certification, OCP Oracle Certified Professional Java SE 17 Developer Study Guide: Exam 1Z0-829 is organized to make you fully prepared to understand the job role of a Java developer and to take the exam. In particular, developers will need to learn functional programming to pass the certification. This comprehensive Study Guide covers all of the key topic areas that Java programmers need to be familiar with, including:- Handling date, time, text, numeric and boolean values - Controlling Program Flow Utilizing Java Object-Oriented Approach - Handling Exceptions Working with Arrays and Collections - Working with Streams and Lambda expressions - Packaging and deploying Java code and using the Java Platform Module System - Managing concurrent code execution - Using Java I/O API - Accessing databases using JDBC - Implementing LocalizationReaders also get access to Sybex's superior online interactive learning environment and test bank, including an assessment test, chapter tests, bonus practice exam questions, electronic flashcards, and a searchable Glossary of the most important terms readers need to understand.
+--------------------------------------------------
+
+Book 04:
+Title: Google Cloud Certified Professional Cloud Architect Study Guide, 2nd Edition
+Author(s): Dan Sullivan
+---
+ISBN-10: 1119871077 - ISBN-13: 9781119871071 - ASIN: 1119602440
+Published Date: 2022-03-22
+---
+HB Blurb: Sybex Study Guides teach IT professionals the skills needed to perform a job well. With those skills plus insight on how a certification exam tests for those skills, an IT professional can be confident for the exam.In Google Cloud Certified Professional Cloud Architect Study Guide, readers get ready for this important exam from Google and master the skills they need to be prepared to tackle Google Cloud Architecture jobs. With 100% coverage of all exam objectives readers will learn:Designing for Business and Technical RequirementsDesigning Compute ResourcesDesigning Storage SystemsDesigning NetworksDesigning Security and Legal ComplianceDesigning for ReliabilityAnalyzing and Defining Technical ProcessesAnalyzing and Defining Business ProcessesDevelopment and OperationsMigration Planning
+--------------------------------------------------
+
+Book 05:
+Title: CEH v12 Certified Ethical Hacker Study Guide with 750 Practice Test Questions
+Author(s): Ric Messier
+---
+ISBN-10: 1394186916 - ISBN-13: 9781394186914 - ASIN: 1394186924
+Published Date: 2023-04-12
+---
+HB Blurb: As protecting information continues to be a growing concern for today's businesses, certifications in IT security have become highly desirable, even as the number of certifications has grown. Now you can set yourself apart with the Certified Ethical Hacker (CEH v12) certification. The CEH v12 Certified Ethical Hacker Study Guide with 750 Practice Test Questions offers a comprehensive overview of the CEH certification requirements using concise and easy-to-follow instructions. Chapters are organized by exam objective, with a handy section that maps each objective to its corresponding chapter, so you can keep track of your progress. The text provides thorough coverage of all topics, along with challenging chapter review questions and Exam Essentials, a key feature that identifies critical study areas. Subjects include common attack practices like reconnaissance and scanning. Also covered are topics like intrusion detection, DoS attacks, buffer overflows, wireless attacks, mobile attacks, Internet of Things (IoT), and more.This study guide goes beyond test prep, providing practical hands-on exercises to reinforce vital skills and real-world scenarios that put what you've learned into the context of actual job roles. Gain a unique certification that allows you to function like an attacker, allowing you to identify vulnerabilities so they can be remediated.Expand your career opportunities with an IT certificate that satisfies the Department of Defense's 8570 Directive for Information Assurance positionsFully updated for the 2022 CEH v12 exam, including the latest developments in IT security Access the Sybex online learning center, with chapter review questions, full-length practice exams, hundreds of electronic flashcards, and a glossary of key terms New to this edition: even more end of chapter review questions to validate your knowledge and twice as many online practice tests included at no extra charge with the book!Thanks to its clear organization, all-inclusive coverage, and practical instruction, the CEH v12 Certified Ethical Hacker Study Guide is an excellent resource for anyone who needs to understand the hacking process or anyone who wants to demonstrate their skills as a Certified Ethical Hacker.
+--------------------------------------------------
+
+Book 06:
+Title: Mca Microsoft Certified Associate Azure Administrator Study Guide: Exam Az-104
+Author(s): Rithin Skaria
+---
+ISBN-10: 9781394158478 - ISBN-13: 1394158475 - ASIN: 1119705150
+Published Date: 2022-09-07
+---
+HB Blurb: MCA Microsoft 365 Certified Associate Azure Administrator Study Guide is your best resource for helping you to understand the job role and responsibilities of a Azure Administrator AND prepare you to take the certification Exam AZ-104. This Study Guide covers the following topics:Managing Azure subscriptions and resourcesImplementing and managing storageDeploying and managing virtual machinesConfiguring and managing virtual networksManaging identitiesReaders will also have access to Sybex's online test bank, including hundreds of practice questions, flashcards and a glossary. Take your career to a new level with this Study Guide!
+--------------------------------------------------
+
+Book 07:
+Title: CompTIA A+ Complete Study Guide: Core 1 Exam 220-1101 and Core 2 Exam 220-1102, 5th Edition
+Author(s): Troy McMillan
+---
+ISBN-10: 111986108X - ISBN-13: 9781119861089 - ASIN: B09VYL9MWF
+Published Date: 2022-03-29
+---
+HB Blurb: Learn the key objectives and most crucial concepts covered by the A+ Core 1 Exam 220-1101 and Core 2 Exam 220-1102 with this comprehensive and practical Deluxe Study Guide! Covers 100% of exam objectives including Mobile Devices, Networking, Hardware, Virtualization and Cloud Computing, Hardware and Network Troubleshooting, Operating Systems, Security, Software Troubleshooting, Operational Procedures, and much more... Includes interactive online learning environment and study tools with:8 custom practice exams600 Electronic FlashcardsSearchable key term glossaryPlus 28 Online A+ Core 2 Exam 1102 Practice Lab ModulesExpert A+ Core 1 Exam 1101 and Core 2 Exam 1102 test preparation--Now with 28 Online Lab Modules for Core 2 Exam 220-1102 The book provides 100% coverage of the A+ exam objectives, and verifies the successful candidate has the knowledge and job skills required to: Install, configure, and maintain computer equipment, mobile devices, and software for end users; Service components based on customer requirements; Understand networking basics and apply basic cybersecurity methods to mitigate threats; Properly and safely diagnose, resolve, and document common hardware and software issues; Apply troubleshooting skills and provide customer support using appropriate communication skills; Understand the basics of scripting, cloud technologies, virtualization, and multi-OS deployments in corporate environments.This Study Guide includes practical examples and insights drawn from real-world experience, as well as exam highlights and end-of-chapter review. Coverage of 100% of all exam objectives in this Deluxe Study Guide means you'll be ready for:CompTIA A+ Core 1 220-1001--covering Mobile Devices, Networking, Hardware, Virtualization and Cloud Computing, and Hardware and Network Troubleshooting CompTIA A+ Core 2 220-1002--covering Operating Systems, Security, Software Troubleshooting, and Operational ProceduresInteractive learning environmentTake your exam prep to the next level with Sybex's superior interactive online study tools. To access our learning environment, simply visit www.wiley.com/go/sybextestprep, register your book to receive your unique PIN, and instantly gain one year of FREE access after activation to:Interactive test bank with 8 Practices Exams to help you identify areas where further review is needed.600 Electronic Flashcards to reinforce learning and last-minute prep before the exam. Comprehensive glossary in PDF format gives you instant access to understanding key terms so you are fully prepared.ABOUT THE PRACTICE LABS A+ LABS So you can practice with hands-on learning in a real environment, Sybex has bundled Practice Labs virtual labs that run from your browser. The registration code is included with the book and gives you 6 months unlimited access to Practice Labs CompTIA A+ Core 2 Exam 220-1102 Labs with 28 unique lab modules to practice your skills.**NOTE: Currently, Practice Labs offers A+ lab modules for Core 2 Exam 220-1102 only.
+--------------------------------------------------
+
+Book 08:
+Title: MCA Microsoft 365 Certified Associate Modern Desktop Administrator Complete Study Guide with 900 Practice Test Questions: Exam MD-100 and Exam MD-101, 2nd Edition
+Author(s): William Panek
+---
+ISBN-10: 1119984653 - ISBN-13: 9781119984658 - ASIN: 1119984645
+Published Date: 2023-01-05
+---
+HB Blurb: The All-in-One COMPLETE Study Guide to help you prepare for earning the MCA Modern Desktop Administrator certification!In the MCA Modern Desktop Administrator Complete Study Guide: Exam MD-100 and Exam MD-101, Second Edition, well-known Windows guru and 5-time Microsoft MVP, William Panek, guides you through the UPDATED Exam MD-100, Windows Client, and UPDATED Exam MD-101, Managing Modern Desktops. He covers 100% of the objectives, providing real world scenarios, hands-on exercises, and challenging review questions. He also dives deeper into some of the more complex topics and technologies, including the following:Deploy WindowsManage devices and dataConfigure storage and connectivityMaintain WindowsDeploy and upgrade operating systemsManage policies and profilesManage and protect devicesManage apps and dataWith this Study Guide, you also get access to Sybex's superior online learning environment with an Assessment Test, Bonus Practice Exams, Flashcards, Searchable Glossary, and Videos for many of the chapter exercises.
+--------------------------------------------------
+
+Book 09:
+Title: CompTIA PenTest+ Study Guide: Exam PT0-002, 2nd Edition
+Author(s): David Seidl, Mike Chapple
+---
+ISBN-10: 111982382X - ISBN-13: 9781119823827 - ASIN: 1119823811
+Published Date: 2021-10-05
+---
+HB Blurb: Your career as a Penetration Tester begins here with the REVISED CompTIA PenTest+ Study Guide! CompTIA PenTest+ Study Guide: Exam PT0-002, Second Edition, introduces you to the core skills and techniques that every pen tester needs:-Perform assessments of traditional server and desktop operating systems as well as new types of network devices, including mobile, cloud, IoT, industrial, and embedded-Identify security weaknesses-Manage system vulnerabilities-Determine if existing cybersecurity practices deviate from accepted practices, configurations and policiesPenetration testers simulate cyber attacks to find security weaknesses in networks, operating systems, and applications. Information security experts worldwide use penetration techniques to evaluate enterprise defenses. Typical penetration testing consists of low-level hackers attacking a system with a list of known vulnerabilities, and defenders preventing those hacks using an equally well-known list of defensive scans.Readers will also have access to additional online study tools, including hundreds of bonus practice exam questions, electronic flashcards, and a searchable Glossary of important terms. Prepare smarter with Sybex's superior interactive online learning environment and test bank.
+--------------------------------------------------
+
+Book 10:
+Title: Official Google Cloud Certified Professional Machine Learning Engineer Study Guide
+Author(s): Mona Mona, Pratap Ramamurthy
+---
+ISBN-10: 1119981565 - ISBN-13: 9781119981565 - ASIN: 1119944465
+Published Date: 2023-10-27
+---
+HB Blurb: This book will help developer, data scientists, IT professionals and ML engineers gain expertise in the ML technology on Google Cloud Platform and take the Google Cloud Certified Professional Machine Learning Engineer exam. The book takes readers through the machine learning process starting from data, feature engineering, model training and deployment on Google Cloud. It also walks the readers through best practices on when to pick a custom models vs a AutoML or pretrained models. Google cloud AI/ML technologies are presented through real-world scenarios in order to illustrate how IT professionals can design, build, and operate secure ML cloud environments to modernize and automate applications.The Google Cloud Certified Professional Machine Learning Engineer Study Guide includes all of the proven Sybex Study Guide tools that have helped millions of IT professionals prepare for exam success: a pre-book assessment exam, chapters with objective maps and review questions, and additional online practice tests with explanations, glossary, and flash cards. All of these tools combine with a real world approach to give professionals the best confidence for success for the exam.The Google Cloud Certified Professional Machine Learning Engineer Study Guide covers:-Framing ML Problems-Architecting ML Solutions-Designing data preparation and processing systems-Developing , Training and Scaling ML models-Automating and orchestrating ML pipelines-Monitoring, optimizing, and maintaining ML solutions
+--------------------------------------------------
+
+Book 11:
+Title: (ISC)2 CCSP Certified Cloud Security Professional Official Study Guide, 3rd Edition
+Author(s): Mike Chapple, David Seidl
+---
+ISBN-10: 1119909422 - ISBN-13: 9781119909422 - ASIN: 1119603374
+Published Date: 2022-09-21
+---
+HB Blurb: The CCSP Official (ISC)2 Practice Tests is a vital resource for CCSP candidates, providing more than 1000 unique practice questions. The first part of the book provides at least 100 questions per each domain so you can practice on any domains you know you need to brush up on. After that, you get two unique complete practice exams to help you master the material and practice simulated exam taking well in advance of the exam. The two practice exams cover all exam domains and are included in proportion to the exam itself to help you gauge the relative importance of each topic covered.
+--------------------------------------------------
+
+Book 12:
+Title: CompTIA Linux+ Study Guide: Exam XK0-005, 5th Edition
+Author(s): Richard Blum, Christine Bresnahan
+---
+ISBN-10: 9781119878940 - ISBN-13: 1119878942 - ASIN: 
+Published Date: 2022-08-02
+---
+HB Blurb: Building on the popular Sybex Study Guide approach, this book provides 100% coverage of the NEW Linux+ Exam XK0-005 objectives. The book contains clear and concise information on all Linux administration topics. It includes practical examples and insights drawn from real-world experience. It also provides authoritative coverage of key exam topics, including:System ManagementSecurityScripting, Containers, and AutomationTroubleshootingReaders also have access to the online test bank, including bonus practice exams, electronic flashcards, and a searchable PDF of key terms.
+--------------------------------------------------
+
+Book 13:
+Title: CompTIA Project+ Practice Tests: Exam PK0-005, 2nd Edition
+Author(s): Brett J. Feddersen
+---
+ISBN-10: 1119892503 - ISBN-13: 9781119892502 - ASIN: 1119892481
+Published Date: 2022-10-18
+---
+HB Blurb: CompTIA Project+ Practice Tests: Exam PK0-005, Second Edition, provides hundreds of domain-by-domain practice questions, covering:Project Management ConceptsProject Life Cycle PhasesTools and DocumentationBasics of IT and GovernanceTwo additional practice exams help you prepare for taking the actual exam. A 1000 practice test questions in total! Readers will also have access to Sybex's interactive online learning environment and test bank, including all the practice questions! Use the practice questions to review your knowledge and skills! They're a great way to prepare for taking the actual exam right before you sit for it!
+--------------------------------------------------
+
+Book 14:
+Title: CompTIA CySA+ Study Guide: Exam CS0-003, 3rd Edition
+Author(s): Mike Chapple, David Seidl
+---
+ISBN-10: 1394182945 - ISBN-13: 9781394182947 - ASIN: 1394182902
+Published Date: 2023-07-11
+---
+HB Blurb: The perfect self-study resource for the CySA+ certification and a solid on-the-job reference for cybersecurity analysts!CompTIA CySA+ Study Guide: Exam CS0-003, Third Edition, provides you with 100% coverage of the REVISED CompTIA Cybersecurity Analyst+ (CySA+) exam objectives. This Study Guide contains clear and concise information on crucial security topics. You'll learn about detecting and analyzing indicators of malicious activity; applying threat hunting and threat intelligence concepts; using appropriate tools and methods to manage, prioritize, and respond to attacks and vulnerabilities; performing incident response processes; and reporting and communication concepts related to vulnerability management and incident response activities. The book includes practical examples and insights drawn from real-world experience, as well as exam highlights and end-of-chapter review questions. It also provides authoritative coverage of key exam topics, including:Security OperationsVulnerability ManagementIncident Response and Management Reporting and CommunicationBuilding on the proven Sybex Study Guide approach, this book focuses on practical application of key security concepts, including hands-on labs and recommendations for creating a cybersecurity toolkit. You'll also have access to Sybexs superior online test bank with hundreds of bonus practice questions and electronic flashcards, and a searchable glossary of the most important terms readers need to understand. It's the perfect self-study resource for the CySA+ certification and a solid on-the-job reference for cybersecurity analysts!
+--------------------------------------------------
+
+Book 15:
+Title: IAPP CIPM Certified Information Privacy Manager Study Guide
+Author(s): Mike Chapple, Joe Shelley
+---
+ISBN-10: 1394153813 - ISBN-13: 9781394153817 - ASIN: 1394153805
+Published Date: 2023-01-19
+---
+HB Blurb: For the first time, Sybex tackles the industry leading CIPM Certified Information Privacy Manager exam in the popular Sybex Study Guide format, with an emphasis on learning the real world applications of privacy that practitioners need to master for their jobs, this Study Guide provides the preparation for work in the privacy field. By being prepared to know how to do the job combined with references to the IAPP objectives for the CIPM exam, you'll be prepared for the exam as well. Like every Sybex Study Guide, the authors include two online practice tests for additional exam preparation as well as an online glossary and flashcards so you can study and prepare any way you find useful. Coverage includes:Developing a Privacy ProgramPrivacy Program FrameworkPrivacy Operational Lifecycle: AssessPrivacy Operational Lifecycle: ProtectPrivacy Operational Lifecycle: SustainPrivacy Operational Lifecycle: Respond
+--------------------------------------------------
+
+Book 16:
+Title: Microsoft Certified Azure Fundamentals Study Guide: Exam Az-900
+Author(s): James Boyce
+---
+ISBN-10: 1119771153 - ISBN-13: 9781119771159 - ASIN: 1119770920
+Published Date: 2021-04-13
+---
+HB Blurb: Microsoft Certified Azure Fundamentals Study Guide: Exam AZ-900 is a springboard certification for people considering a career as an Azure cloud administrator, but who aren't ready to take the higher level AZ-104 exam. The book covers foundational topics for the Microsoft AZ-900 certification exam, and is designed to quickly prepare technical and non-technical readers to pass the exam. Topics include:Cloud conceptsCloud types (Public, Private, Hybrid)Azure service types (IaaS, SaaS, PaaS)Core Azure servicesSecurity, compliance, privacy, and trustAzure pricing levelsLegacy and modern lifecyclesThe book is also ideal for people in sales, marketing, and other non-technical roles who need at a minimum a fundamental understanding and basic working knowledge of Azure to be successful in driving and supporting cloud adoption within their organizations and for their clients. Readers will also get access to the superior Sybex online learning environment and text bank, which includes practice test questions, a bonus exam, flashcards, and glossary.
+--------------------------------------------------
+
+Book 17:
+Title: CCNA Certification Study Guide, Volume 2: Exam 200-301
+Author(s): Todd Lammle
+---
+ISBN-10: 1119659183 - ISBN-13: 9781119659181 - ASIN: B0D1GZXCWK
+Published Date: 2020-02-11
+---
+HB Blurb: CCNA Certification Study Guide: Exam 200-301 helps you prepare for the new comprehensive CCNA certification, focused on the solutions and technologies needed to implement amd administer a broad range of modern networking and IT infrastructure. The exam validates a candidate's knowledge and skills related to core network fundamentals, including:Network fundamentalsNetwork accessIP connectivityIP servicesSecurity fundamentalsAutomation and programmabilityReaders will also have access to an interactive online test bank, including hundreds of sample questions, a pre-assessment test, bonus practice exam, flashcards, and a glossary of key terms.
+--------------------------------------------------
+
+Book 18:
+Title: CC Certified in Cybersecurity Study Guide
+Author(s): Mike Chapple
+---
+ISBN-10: 1394213840 - ISBN-13: 9781394213849 - ASIN: 1394213832
+Published Date: 2023-12-22
+---
+HB Blurb: Certified in Cybersecurity Study Guide is a one-stop resource for complete coverage of the new (ISC)2 Certified in Cybersecurity objectives. You'll prepare for the exam smarter and faster with Sybex thanks to superior content including bit size chapters that help you speed through learning individual objectives for the exam. Along with 2 online practice tests to give you confidence for exam day, the Certified in Cybersecurity Study Guide gets you ready for your new career in cybersecurity fast. With Certified in Cybersecurity Study Guide you'll be prepared to prove your knowledge of: Security PrinciplesBusiness Continuity (BC)Disaster Recovery (DR) ll be ready for the exam with no time wasted.
+--------------------------------------------------
+
+Book 19:
+Title: Comptia Network+ Certmike: Prepare. Practice. Pass the Test! Get Certified!: Exam N10-008
+Author(s): Mike Chapple
+---
+ISBN-10: 9781119898153 - ISBN-13: 1119898153 - ASIN: 
+Published Date: 2023-02-01
+---
+HB Blurb: Let CertMike help you prepare, practice, and pass the CompTIA Network+ exam!Sybex's NEW CompTIA Network+ CertMike: Prepare. Practice. Pass the Test! Get Certified! Exam N10-008 lets you skip the fluff and focus only on the material you need to understand for passing CompTIA Network+ Exam N10-008and earning your certification! Ace the test using the proven CertMike approach:Prepare -- As your personal study coach, CertMike guides you through all the exam objectives, helping you gain an understanding of important topics and how they apply to on-the-job scenarios!Practice -- Each chapter includes two multiple choice practice questions. Work through the detailed explanations to evaluate each answer option and understand the reason for the best answer.Pass -- On exam day, take the critical knowledge you've learned into the test. You'll feel ready and confident to pass the exam and earn your certification!The CompTIA Network+ certification validates you have the knowledge and skills required to establish network connectivity by deploying wired and wireless devices; understand and maintain network documentation; understand the purpose of network services; understand basic datacenter, cloud, and virtual networking concepts; monitor network activity, identifying performance and availability issues; implement network hardening techniques; and manage, configure, and troubleshoot network infrastructure.Readers also have access to additional online study tools, including a bonus practice exam and audio recordings of the book's Exam Essentials to help you review for the actual exam. Prepare smarter with Sybex's NEW CertMike Get Certified! for achieving the CompTIA Network+ certification!
+--------------------------------------------------
+
+Book 20:
+Title: CompTIA A+ Complete Review Guide: Core 1 Exam 220-1101 and Core 2 Exam 220-1102, 5th Edition
+Author(s): Quentin Docter, Jon Buhagiar
+---
+ISBN-10: 1119862922 - ISBN-13: 9781119862925 - ASIN: 1119862914
+Published Date: 2022-03-17
+---
+HB Blurb: An ideal prep tool and perfect way to review for the A+ certification, revised for the latest exams!Organized by the exam domain objectives, the focused CompTIA A+ Complete Review Guide: Core 1 Exam 220-1101 and Core 2 Exam 220-1102,5th Edition is the must-have companion for the Sybex CompTIA A+ Complete Study Guide, 5th Edition and the CompTIA A+ Complete Deluxe Study Guide with Online Labs, 5th Edition.The book provides 100% coverage of the A+ exam objectives, and verifies the successful candidate has the knowledge and job skills required to: Install, configure, and maintain computer equipment, mobile devices, and software for end users; Service components based on customer requirements; Understand networking basics and apply basic cybersecurity methods to mitigate threats; Properly and safely diagnose, resolve, and document common hardware and software issues; Apply troubleshooting skills and provide customer support using appropriate communication skills; Understand the basics of scripting, cloud technologies, virtualization, and multi-OS deployments in corporate environments. This Review Guide includes practical examples and insights drawn from real-world experience, as well as exam highlights and end-of-chapter review. Topics include:CompTIA A+ Core 1 220-1001 covers Mobile Devices, Networking, Hardware, Virtualization and Cloud Computing, and Hardware and Network TroubleshootingCompTIA A+ Core 2 220-1002 covers Operating Systems, Security, Software Troubleshooting, and Operational ProceduresReaders also have access to additional learning resources, including the Sybex interactive online learning environment and test bank with hundreds of review questions, practice exams, electronic flashcards, and a searchable PDF of a Glossary of the most important terms readers will need to understand.
+--------------------------------------------------
+
+Book 21:
+Title: CompTIA ITF+ CertMike: Prepare. Practice. Pass the Test! Get Certified!: Exam FC0-U61
+Author(s): Mike Chapple
+---
+ISBN-10: 1119897823 - ISBN-13: 9781119897828 - ASIN: 
+Published Date: 2023-03-31
+---
+HB Blurb: Let CertMike help you prepare, practice, and pass the CompTIA ITF+ exam!Sybex's NEW CompTIA ITF+ CertMike: Prepare. Practice. Pass the Test! Get Certified! Exam FC0-U61 lets you skip the fluff and focus only on the material you need to understand for passing CompTIA ITF+ (IT Fundamentals+) Exam FC0-U61--and earning your certification! Ace the test using the proven CertMike approach:Prepare As your personal study coach, CertMike guides you through all the exam objectives, helping you gain an understanding of important topics and how they apply to on-the-job scenarios!Practice Each chapter includes two multiple choice practice questions. Work through the detailed explanations to evaluate each answer option and understand the reason for the best answer.Pass On exam day, take the critical knowledge youve learned into the test. Youll feel ready and confident to pass the exam and earn your certification!The CompTIA ITF+ certification validates you have the knowledge and skills required to identify and explain the basics of computing, including IT infrastructure, software development, database use, installing software, establishing basic network connectivity, identifying / preventing basic security risks, troubleshooting theory, and preventative maintenance of devices.Readers also have access to additional online study tools, including a bonus practice exam and audio recordings of the books Exam Essentials to help you review for the actual exam. Prepare smarter with Sybex's NEW CertMike Get Certified! for achieving the CompTIA ITF+ certification!
+--------------------------------------------------
+
+Book 22:
+Title: CompTIA Linux+ Practice Tests: Exam XK0-005, 3rd Edition
+Author(s): Steve Suehring
+---
+ISBN-10: 1119879639 - ISBN-13: 9781119879633 - ASIN: 1119879612
+Published Date: 2022-06-30
+---
+HB Blurb: CompTIA Linux+ Practice Tests: Exam XK0-005, Third Edition, helps you gain the confidence you need for taking the NEW CompTIA Linux+ exam. The practice test questions prepare you for test success, focusing on:	System Management  Security  Scripting, Containers, and Automation  Troubleshooting	The book provides hundreds of domain-by-domain practice questions. Readers will also get one year of FREE access to the online test bank where they can study and work through the questions, reinforcing their skills and knowledge.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - AWS Certified Solutions Architect Study Guide with 900 Practice Test Questions: Associate (SAA-C03) Exam, 4th Edition
+No Amazon.com URL found
+No Amazon.co.uk URL found
+http://books.google.co.uk/books?id=gl6JEAAAQBAJ&printsec=frontcover&dq=intitle:AWS+Certified+Solutions+Architect+Study+Guide+with+900+Practice+Test+Questions:+Associate+(SAA-C03)+Exam,+4th+Edition%2Binauthor:Ben+Piper,+David+Clinton&hl=&cd=1&source=gbs_api
+
+Book 02 - CCNP Enterprise Certification Study Guide: Implementing and Operating Cisco Enterprise Network Core Technologies: Exam 350-401
+No Amazon.com URL found
+https://www.amazon.co.uk/CCNP-Enterprise-Certification-Study-Guide/dp/1119658756
+http://books.google.co.uk/books?id=D7rZDwAAQBAJ&printsec=frontcover&dq=intitle:CCNP+Enterprise+Certification+Study+Guide:+Implementing+and+Operating+Cisco+Enterprise+Network+Core+Technologies:+Exam+350-401%2Binauthor:Ben+Piper&hl=&cd=1&source=gbs_api
+
+Book 03 - OCP Oracle Certified Professional Java SE 17 Developer Study Guide: Exam 1Z0-829
+No Amazon.com URL found
+https://www.amazon.co.uk/Oracle-Certified-Professional-Developer-Study/dp/1119864585
+http://books.google.co.uk/books?id=mz5_EAAAQBAJ&printsec=frontcover&dq=intitle:OCP+Oracle+Certified+Professional+Java+SE+17+Developer+Study+Guide:+Exam+1Z0-829%2Binauthor:Scott+Selikoff,+Jeanne+Boyarsky&hl=&cd=1&source=gbs_api
+
+Book 04 - Google Cloud Certified Professional Cloud Architect Study Guide, 2nd Edition
+No Amazon.com URL found
+https://www.amazon.co.uk/Google-Professional-Cloud-Architect-Study/dp/1119602440
+http://books.google.co.uk/books?id=3YJlEAAAQBAJ&printsec=frontcover&dq=intitle:Google+Cloud+Certified+Professional+Cloud+Architect+Study+Guide,+2nd+Edition%2Binauthor:Dan+Sullivan&hl=&cd=1&source=gbs_api
+
+Book 05 - CEH v12 Certified Ethical Hacker Study Guide with 750 Practice Test Questions
+https://www.amazon.com/Certified-Ethical-Hacker-Practice-Questions/dp/1394186924
+https://www.amazon.co.uk/Certified-Ethical-Hacker-Practice-Questions/dp/1394186924
+http://books.google.co.uk/books?id=4165EAAAQBAJ&printsec=frontcover&dq=intitle:CEH+v12+Certified+Ethical+Hacker+Study+Guide+with+750+Practice+Test+Questions%2Binauthor:Ric+Messier&hl=&cd=1&source=gbs_api
+
+Book 06 - Mca Microsoft Certified Associate Azure Administrator Study Guide: Exam Az-104
+No Amazon.com URL found
+https://www.amazon.co.uk/Microsoft-Azure-Administrator-Study-Guide/dp/1119705150
+http://books.google.co.uk/books?id=EEs6zwEACAAJ&dq=intitle:Mca+Microsoft+Certified+Associate+Azure+Administrator+Study+Guide:+Exam+Az-104%2Binauthor:Rithin+Skaria&hl=&cd=1&source=gbs_api
+
+Book 07 - CompTIA A+ Complete Study Guide: Core 1 Exam 220-1101 and Core 2 Exam 220-1102, 5th Edition
+https://www.amazon.com/CompTIA-Complete-Study-Guide-220-1101-ebook/dp/B09VYL9MWF
+https://www.amazon.co.uk/CompTIA-Complete-Study-Guide-220-1101/dp/1119862914
+http://books.google.co.uk/books?id=FOlmEAAAQBAJ&printsec=frontcover&dq=intitle:CompTIA+A%2B+Complete+Study+Guide:+Core+1+Exam+220-1101+and+Core+2+Exam+220-1102,+5th+Edition%2Binauthor:Troy+McMillan&hl=&cd=1&source=gbs_api
+
+Book 08 - MCA Microsoft 365 Certified Associate Modern Desktop Administrator Complete Study Guide with 900 Practice Test Questions: Exam MD-100 and Exam MD-101, 2nd Edition
+No Amazon.com URL found
+https://www.amazon.co.uk/Microsoft-Certified-Associate-Administrator-Questions/dp/1119984645
+http://books.google.co.uk/books?id=RAWmEAAAQBAJ&printsec=frontcover&dq=intitle:MCA+Microsoft+365+Certified+Associate+Modern+Desktop+Administrator+Complete+Study+Guide+with+900+Practice+Test+Questions:+Exam+MD-100+and+Exam+MD-101,+2nd+Edition%2Binauthor:William+Panek&hl=&cd=1&source=gbs_api
+
+Book 09 - CompTIA PenTest+ Study Guide: Exam PT0-002, 2nd Edition
+https://www.amazon.com/CompTIA-PenTest-Study-Guide-PT0-002/dp/1119823811
+https://www.amazon.co.uk/CompTIA-PenTest-Study-Guide-PT0-002/dp/1119823811
+http://books.google.co.uk/books?id=6W5HEAAAQBAJ&printsec=frontcover&dq=intitle:CompTIA+PenTest%2B+Study+Guide:+Exam+PT0-002,+2nd+Edition%2Binauthor:David+Seidl,+Mike+Chapple&hl=&cd=1&source=gbs_api
+
+Book 10 - Official Google Cloud Certified Professional Machine Learning Engineer Study Guide
+No Amazon.com URL found
+https://www.amazon.co.uk/Google-Certified-Professional-Machine-Learning/dp/1119944465
+http://books.google.co.uk/books?id=ytrfEAAAQBAJ&printsec=frontcover&dq=intitle:Official+Google+Cloud+Certified+Professional+Machine+Learning+Engineer+Study+Guide%2Binauthor:Mona+Mona,+Pratap+Ramamurthy&hl=&cd=1&source=gbs_api
+
+Book 11 - (ISC)2 CCSP Certified Cloud Security Professional Official Study Guide, 3rd Edition
+No Amazon.com URL found
+https://www.amazon.co.uk/Certified-Cloud-Security-Professional-Official/dp/1119603374
+http://books.google.co.uk/books?id=Hl-LEAAAQBAJ&printsec=frontcover&dq=intitle:(ISC)2+CCSP+Certified+Cloud+Security+Professional+Official+Study+Guide,+3rd+Edition%2Binauthor:Mike+Chapple,+David+Seidl&hl=&cd=1&source=gbs_api
+
+Book 12 - CompTIA Linux+ Study Guide: Exam XK0-005, 5th Edition
+https://www.amazon.com/CompTIA-Linux-Study-Guide-XK0-005/dp/1119878942
+No Amazon.co.uk URL found
+http://books.google.co.uk/books?id=sFc5zwEACAAJ&dq=intitle:CompTIA+Linux%2B+Study+Guide:+Exam+XK0-005,+5th+Edition%2Binauthor:Richard+Blum,+Christine+Bresnahan&hl=&cd=1&source=gbs_api
+
+Book 13 - CompTIA Project+ Practice Tests: Exam PK0-005, 2nd Edition
+No Amazon.com URL found
+https://www.amazon.co.uk/CompTIA-Project-Practice-Tests-PK0-005/dp/1119892481
+http://books.google.co.uk/books?id=3_2VEAAAQBAJ&printsec=frontcover&dq=intitle:CompTIA+Project%2B+Practice+Tests:+Exam+PK0-005,+2nd+Edition%2Binauthor:Brett+J.+Feddersen&hl=&cd=1&source=gbs_api
+
+Book 14 - CompTIA CySA+ Study Guide: Exam CS0-003, 3rd Edition
+https://www.amazon.com/CompTIA-CySA-Study-Guide-CS0-003/dp/1394182902
+https://www.amazon.co.uk/CompTIA-CySA-Study-Guide-CS0-003/dp/1394182902
+http://books.google.co.uk/books?id=cATLEAAAQBAJ&printsec=frontcover&dq=intitle:CompTIA+CySA%2B+Study+Guide:+Exam+CS0-003,+3rd+Edition%2Binauthor:Mike+Chapple,+David+Seidl&hl=&cd=1&source=gbs_api
+
+Book 15 - IAPP CIPM Certified Information Privacy Manager Study Guide
+https://www.amazon.com/Certified-Information-Privacy-Manager-Study/dp/1394153805
+https://www.amazon.co.uk/Certified-Information-Privacy-Manager-Study/dp/1394153805
+http://books.google.co.uk/books?id=B3apEAAAQBAJ&printsec=frontcover&dq=intitle:IAPP+CIPM+Certified+Information+Privacy+Manager+Study+Guide%2Binauthor:Mike+Chapple,+Joe+Shelley&hl=&cd=1&source=gbs_api
+
+Book 16 - Microsoft Certified Azure Fundamentals Study Guide: Exam Az-900
+No Amazon.com URL found
+https://www.amazon.co.uk/Microsoft-Certified-Azure-Fundamentals-Study/dp/1119770920
+http://books.google.co.uk/books?id=uCQqEAAAQBAJ&printsec=frontcover&dq=intitle:Microsoft+Certified+Azure+Fundamentals+Study+Guide:+Exam+Az-900%2Binauthor:James+Boyce&hl=&cd=1&source=gbs_api
+
+Book 17 - CCNA Certification Study Guide, Volume 2: Exam 200-301
+https://www.amazon.com/CCNA-Certification-Study-Guide-200-301/dp/B0D1GZXCWK
+https://www.amazon.co.uk/CCNA-Certification-Study-Guide-200-301-ebook/dp/B08468191T
+http://books.google.co.uk/books?id=adjIDwAAQBAJ&printsec=frontcover&dq=intitle:CCNA+Certification+Study+Guide,+Volume+2:+Exam+200-301%2Binauthor:Todd+Lammle&hl=&cd=1&source=gbs_api
+
+Book 18 - CC Certified in Cybersecurity Study Guide
+https://www.amazon.com/Certified-Cybersecurity-Study-Guide-Chapple/dp/1394213832
+https://www.amazon.co.uk/Certified-Cybersecurity-Study-Guide-Sybex/dp/1394213832
+http://books.google.co.uk/books?id=reLqEAAAQBAJ&printsec=frontcover&dq=intitle:CC+Certified+in+Cybersecurity+Study+Guide%2Binauthor:Mike+Chapple&hl=&cd=1&source=gbs_api
+
+Book 19 - Comptia Network+ Certmike: Prepare. Practice. Pass the Test! Get Certified!: Exam N10-008
+https://www.amazon.com/CompTIA-Network-CertMike-Practice-Certified/dp/1119898153
+https://www.amazon.co.uk/CompTIA-Network-CertMike-Practice-Certified/dp/1119898153
+http://books.google.co.uk/books?id=gOk5zwEACAAJ&dq=intitle:Comptia+Network%2B+Certmike:+Prepare.+Practice.+Pass+the+Test!+Get+Certified!:+Exam+N10-008%2Binauthor:Mike+Chapple&hl=&cd=1&source=gbs_api
+
+Book 20 - CompTIA A+ Complete Review Guide: Core 1 Exam 220-1101 and Core 2 Exam 220-1102, 5th Edition
+No Amazon.com URL found
+https://www.amazon.co.uk/CompTIA-Complete-Study-Guide-220-1101/dp/1119862914
+http://books.google.co.uk/books?id=5gRlEAAAQBAJ&printsec=frontcover&dq=intitle:CompTIA+A%2B+Complete+Review+Guide:+Core+1+Exam+220-1101+and+Core+2+Exam+220-1102,+5th+Edition%2Binauthor:Quentin+Docter,+Jon+Buhagiar&hl=&cd=1&source=gbs_api
+
+Book 21 - CompTIA ITF+ CertMike: Prepare. Practice. Pass the Test! Get Certified!: Exam FC0-U61
+No Amazon.com URL found
+No Amazon.co.uk URL found
+http://books.google.co.uk/books?id=-Ri3EAAAQBAJ&printsec=frontcover&dq=intitle:CompTIA+ITF%2B+CertMike:+Prepare.+Practice.+Pass+the+Test!+Get+Certified!:+Exam+FC0-U61%2Binauthor:Mike+Chapple&hl=&cd=1&source=gbs_api
+
+Book 22 - CompTIA Linux+ Practice Tests: Exam XK0-005, 3rd Edition
+https://www.amazon.com/CompTIA-Linux-Practice-Tests-XK0-005/dp/1119879612
+No Amazon.co.uk URL found
+http://books.google.co.uk/books?id=7OV5EAAAQBAJ&printsec=frontcover&dq=intitle:CompTIA+Linux%2B+Practice+Tests:+Exam+XK0-005,+3rd+Edition%2Binauthor:Steve+Suehring&hl=&cd=1&source=gbs_api
+
