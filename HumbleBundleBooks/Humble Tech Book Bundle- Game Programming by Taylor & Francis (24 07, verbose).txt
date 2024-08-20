@@ -1,0 +1,572 @@
+Humble Tech Book Bundle- Game Programming by Taylor & Francis - Taylor & Francis Group
+Processing date: 2024-07-08
+Data retrieved from: https://www.humblebundle.com/books/game-programming-taylor-francis-books
+
+Book 01 - Composing Music for Games: The Art, Technology and Business of Video Game Scoring - Chance Thomas - None found out of 5 (None found reviews)
+Book 02 - 3D Game Environments: Create Professional 3D Game Worlds - Luke Ahearn - 3.9 out of 5 (16 reviews)
+Book 03 - 3ds Max Basics for Modeling Video Game Assets: Volume 1: Model a Complete Game Environment and Export to Unity or Other Game Engines - William Culbertson - None found out of 5 (None found reviews)
+Book 04 - Independent Animation: Developing, Producing and Distributing Your Animated Films - Ben Mitchell - 5 out of 5 (3 reviews)
+Book 05 - Once Upon a Pixel: Storytelling and Worldbuilding in Video Games - Eddie Paterson, Timothy Williams, Will Cordner - 5 out of 5 (1 reviews)
+Book 06 - Lighting for Animation: The Art of Visual Storytelling - Jasmine Katatikarn, Michael Tanzillo - 4.8 out of 5 (50 reviews)
+Book 07 - Character Development and Storytelling for Games - Lee Sheldon - 3.8 out of 5 (8 reviews)
+Book 08 - Exploring Roguelike Games - John Harris - 4.9 out of 5 (14 reviews)
+Book 09 - They Create Worlds: The Story of the People and Companies That Shaped the Video Game Industry, Vol. I: 1971-1982 - Alexander Smith - None found out of 5 (None found reviews)
+Book 10 - The Business of Indie Games: Everything You Need to Know to Conquer the Indie Games Industry - Alex Josef, Alex Van Lepp, Marshal Carper - None found out of 5 (None found reviews)
+Book 11 - Branching Story, Unlocked Dialogue: Designing and Writing Visual Novels - Toiya Kristen Finley - 3 out of 5 (2 reviews)
+Book 12 - Dramatic Storytelling & Narrative Design: A WriteraEUR(tm)s Guide to Video Games and Transmedia - Ross Berger - 4.8 out of 5 (16 reviews)
+Book 13 - Environment Art in the Game Industry: A Guide to Rich and Realistic Environments Using Substance Designer - Henry Kelly - None found out of 5 (None found reviews)
+Book 14 - Game Audio Programming: Principles and Practices - Guy Somberg - None found out of 5 (None found reviews)
+Book 15 - The Fundamentals of C/C++ Game Programming: Using Target-based Development on SBC's - Brian Beuken - 0 out of 5 (17 reviews)
+Book 16 - Virtual Character Design for Games and Interactive Media - Robin James Stuart Sloan - None found out of 5 (None found reviews)
+Book 17 - The Indie Game Developer Handbook - Richard Hill-Whittall - 4.4 out of 5 (33 reviews)
+Book 18 - Real Time Cameras: A Guide for Game Designers and Developers - Mark Haigh-Hutchinson - 4.4 out of 5 (2 reviews)
+Book 19 - Talking to Artists / Talking to Programmers: How to Get Programmers and Artists Communicating - Wendy Despain - 5 out of 5 (2 reviews)
+Book 20 - Game Magic: A Designer's Guide to Magic Systems in Theory and Practice - Jeff Howard - None found out of 5 (None found reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Composing Music for Games: The Art, Technology and Business of Video Game Scoring
+Author(s): Chance Thomas
+---
+ISBN-10: 1315318628 - ISBN-13: 9781315318622 - ASIN: 1138428264
+Published Date: 2017-10-05
+Page Count: 582
+---
+Google Books Price: GBP 36.15
+Google Books URL: http://books.google.co.uk/books?id=S4V7DwAAQBAJ&printsec=frontcover&dq=intitle:Composing+Music+for+Games:+The+Art,+Technology+and+Business+of+Video+Game+Scoring%2Binauthor:Chance+Thomas&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (29 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Composing-Music-Games-Technology-Business/dp/1138428264
+---
+HB Blurb: Composing Music for Games; is a guidebook for launching and maintaining a successful career as a video game composer. It offers a pragmatic approach to learning, intensified through challenging project assignments and simulations. Author Chance Thomas begins with the foundation of scoring principles applicable to all media, and then progresses serially through core methodologies specific to video game music. This book offers a powerful blend of aesthetic, technique, technology and business, which are all necessary components for a successful career as a video game composer.
+--------------------------------------------------
+
+Book 02:
+Title: 3D Game Environments: Create Professional 3D Game Worlds
+Author(s): Luke Ahearn
+---
+ISBN-10: 1317418166 - ISBN-13: 9781317418160 - ASIN: 0240808959
+Published Date: 2017-03-03
+Page Count: 331
+---
+Google Books Price: GBP 33.27
+Google Books URL: http://books.google.co.uk/books?id=TM1BDgAAQBAJ&printsec=frontcover&dq=intitle:3D+Game+Environments:+Create+Professional+3D+Game+Worlds%2Binauthor:Luke+Ahearn&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 3.9 of 5 (16 reviews)
+Amazon.com URL: https://www.amazon.com/3D-Game-Environments-Create-Professional/dp/0240808959
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (4 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/3D-Game-Environments-Create-Professional/dp/1138731250
+---
+HB Blurb: From a steamy jungle to a modern city, or even a sci-fi space station, 3D Game Environments is the ultimate resource to help you create AAA quality art for a variety of game worlds. Primarily using Photoshop and 3ds Max, you will learn to create realistic textures from photo source and a variety of techniques to portray dynamic and believable game worlds. With detailed tutorials on creating 3D models, applying 2D art to 3D models, and clear concise advice on issues of efficiency and optimization for a 3D game engine, Luke Ahearn gives you everything you need to make your own realistic game environments.
+--------------------------------------------------
+
+Book 03:
+Title: 3ds Max Basics for Modeling Video Game Assets: Volume 1: Model a Complete Game Environment and Export to Unity or Other Game Engines
+Author(s): William Culbertson
+---
+ISBN-10: 0429796005 - ISBN-13: 9780429796005 - ASIN: B07R6Y31WP
+Published Date: 2019-04-15
+Page Count: 551
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=x8ySDwAAQBAJ&printsec=frontcover&dq=intitle:3ds+Max+Basics+for+Modeling+Video+Game+Assets:+Volume+1:+Model+a+Complete+Game+Environment+and+Export+to+Unity+or+Other+Game+Engines%2Binauthor:William+Culbertson&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (13 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Basics-Modeling-Video-Game-Assets-ebook/dp/B07R6Y31WP
+---
+HB Blurb: A book for learning 3d modeling fundamentals,&nbsp;step-by-step lessons develops the readers modeling skills through a series of modeling exercises creating modules for a medieval castle environment, calling on the reader to perform repetitive tasks. The content is presented as if the reader is in a working video game studio, being responsible for researching asset design, providing the team with placeholder assets, and final model assets that are unwrapped and custom textured. Upon completion of the modeling projects, the modeled environment is exported to the Unity game engine for use in a real game environment.
+--------------------------------------------------
+
+Book 04:
+Title: Independent Animation: Developing, Producing and Distributing Your Animated Films
+Author(s): Ben Mitchell
+---
+ISBN-10: 1351599216 - ISBN-13: 9781351599214 - ASIN: 1138855723
+Published Date: 2017-04-21
+Page Count: 684
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=4rS8DgAAQBAJ&printsec=frontcover&dq=intitle:Independent+Animation:+Developing,+Producing+and+Distributing+Your+Animated+Films%2Binauthor:Ben+Mitchell&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (3 reviews)
+Amazon.com URL: https://www.amazon.com/Independent-Animation-Developing-Producing-Distributing/dp/1138855723
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (5 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Independent-Animation-Developing-Producing-Distributing/dp/1138855723
+---
+HB Blurb: Independent Animation showcases some of the greatest, most innovated giants in the field and helps guide readers through the artistic process and production techniques. Story development, casting, color, distribution, and the intimidating aspects of production are elucidated using various examples from all over the world. Readers will also explore the changing nature of the audiencesâ€™ relationship with animation, granting firsthand guidance in navigating the diverse fields of animated film-making.
+--------------------------------------------------
+
+Book 05:
+Title: Once Upon a Pixel: Storytelling and Worldbuilding in Video Games
+Author(s): Eddie Paterson, Timothy Williams, Will Cordner
+---
+ISBN-10: 1351014269 - ISBN-13: 9781351014267 - ASIN: 1138499765
+Published Date: 2019-10-31
+Page Count: 182
+---
+Google Books Price: GBP 33.27
+Google Books URL: http://books.google.co.uk/books?id=ePm7DwAAQBAJ&printsec=frontcover&dq=intitle:Once+Upon+a+Pixel:+Storytelling+and+Worldbuilding+in+Video+Games%2Binauthor:Eddie+Paterson,+Timothy+Williams,+Will+Cordner&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (1 reviews)
+Amazon.com URL: https://www.amazon.com/Once-Upon-Pixel-Storytelling-Worldbuilding/dp/1138499765
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Once-Upon-Pixel-Storytelling-Worldbuilding/dp/1138499765
+---
+HB Blurb: Once Upon a Pixel examines the increasing sophistication of storytelling, worldbuilding and narrative techniques in video games. Drawing on recent examples such as Red Dead Redemption 2, The Last of Us 1 and 2, Firewatch, The Witness, long-running series such as Bioshock and others, and new developments in VR gaming, this book is the first to explore the potential of storytelling in games from the perspective of authors and teachers of creative writing. This collection arises from the lack of resources for players and creative writers about how games are written, not in terms of code or design, but in terms of story arcs, worldbuilding and the unique narrative techniques of newer games.
+--------------------------------------------------
+
+Book 06:
+Title: Lighting for Animation: The Art of Visual Storytelling
+Author(s): Jasmine Katatikarn, Michael Tanzillo
+---
+ISBN-10: 1317699939 - ISBN-13: 9781317699934 - ASIN: 1138018678
+Published Date: 2016-12-19
+Page Count: 642
+---
+Google Books Price: GBP 31.83
+Google Books URL: http://books.google.co.uk/books?id=b5MECwAAQBAJ&printsec=frontcover&dq=intitle:Lighting+for+Animation:+The+Art+of+Visual+Storytelling%2Binauthor:Jasmine+Katatikarn,+Michael+Tanzillo&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.8 of 5 (50 reviews)
+Amazon.com URL: https://www.amazon.com/Lighting-Animation-Art-Visual-Storytelling/dp/1138018678
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (47 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Lighting-Animation-Art-Visual-Storytelling/dp/113801866X
+---
+HB Blurb: Lighting is one of the most technical (and difficult) aspects of animation, yet it is of the utmost importance if you want to be an effective storyteller. Lighting masters at Blue Sky Studios, Jasmine Katatikarn and Michael Tanzillo go beyond software packages and equip you with the foundational skills you need to be a successful lighter. Lighting for Animation explores core fundamentals such as creating mood, directing the viewerâ€™s eye, visual shaping, color, shadows, and materials. Learn how to create meaningful images and make informed aesthetic decisions about your work with this bookâ€™s holistic approach to lighting.
+--------------------------------------------------
+
+Book 07:
+Title: Character Development and Storytelling for Games
+Author(s): Lee Sheldon
+---
+ISBN-10: 1000782867 - ISBN-13: 9781000782868 - ASIN: 1435461045
+Published Date: 2022-11-18
+Page Count: 519
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=n0OMEAAAQBAJ&printsec=frontcover&dq=intitle:Character+Development+and+Storytelling+for+Games%2Binauthor:Lee+Sheldon&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 3.8 of 5 (8 reviews)
+Amazon.com URL: https://www.amazon.com/Character-Development-Storytelling-Games-Sheldon/dp/1435461045
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Character-Development-Storytelling-Games-Sheldon-ebook/dp/B0BGYZX15T
+---
+HB Blurb: Written by a professional game writer who also teaches his craft, Lee Sheldon combines his experience and expertise in this updated edition of Character Development and Storytelling for Games. New examples, new game types, and new challenges throughout the text highlight the fundamental importance of characters and storytelling in every type of game. Sheldon emphasizes the importance of creative instinct and listening to the inner voice that guides successful game designers and writers. Join him on his quest to instruct, inform, and maybe even inspire your next great game.
+--------------------------------------------------
+
+Book 08:
+Title: Exploring Roguelike Games
+Author(s): John Harris
+---
+ISBN-10: 1000169499 - ISBN-13: 9781000169492 - ASIN: 0367513722
+Published Date: 2020-09-09
+Page Count: 910
+---
+Google Books Price: GBP 30.39
+Google Books URL: http://books.google.co.uk/books?id=Ni_wDwAAQBAJ&printsec=frontcover&dq=intitle:Exploring+Roguelike+Games%2Binauthor:John+Harris&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.9 of 5 (14 reviews)
+Amazon.com URL: https://www.amazon.com/Exploring-Roguelike-Games-John-Harris/dp/0367513722
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.9 of 5 (14 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Exploring-Roguelike-Games-John-Harris/dp/0367482592
+---
+HB Blurb: Since 1980, in-the-know computer gamers have been enthralled by the unpredictable, random, and incredibly deep gameplay of Rogue and those games inspired by it, known to fans as "roguelikes."
+--------------------------------------------------
+
+Book 09:
+Title: They Create Worlds: The Story of the People and Companies That Shaped the Video Game Industry, Vol. I: 1971-1982
+Author(s): Alexander Smith
+---
+ISBN-10: 042975261X - ISBN-13: 9780429752612 - ASIN: 1138389900
+Published Date: 2019-11-19
+Page Count: 575
+---
+Google Books Price: GBP 48.39
+Google Books URL: http://books.google.co.uk/books?id=Cxy_DwAAQBAJ&printsec=frontcover&dq=intitle:They+Create+Worlds:+The+Story+of+the+People+and+Companies+That+Shaped+the+Video+Game+Industry,+Vol.+I:+1971-1982%2Binauthor:Alexander+Smith&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (5 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/They-Create-Worlds-Alexander-Smith/dp/1138389900
+---
+HB Blurb: In They Create Worlds , Alexander Smith comprehensively examine the individuals, companies, and market forces that have shaped the development of the video game industry around the world from its inception in 1971 to the end of the PS2 era as accurately as currently available sources allow. These books are intended to be foundational works for the study and understanding of interactive entertainment and will focus on all the major product areas generally defined as being a part of the "video game industry," including coin-operated amusements, home consoles, games created for personal computers, handheld video game consoles, and games created for cell phones, smart phones, and tablets.
+--------------------------------------------------
+
+Book 10:
+Title: The Business of Indie Games: Everything You Need to Know to Conquer the Indie Games Industry
+Author(s): Alex Josef, Alex Van Lepp, Marshal Carper
+---
+ISBN-10: 1000583287 - ISBN-13: 9781000583281 - ASIN: B0B11J9S2R
+Published Date: 2022-05-03
+Page Count: 287
+---
+Google Books Price: GBP 31.83
+Google Books URL: http://books.google.co.uk/books?id=AmxjEAAAQBAJ&printsec=frontcover&dq=intitle:The+Business+of+Indie+Games:+Everything+You+Need+to+Know+to+Conquer+the+Indie+Games+Industry%2Binauthor:Alex+Josef,+Alex+Van+Lepp,+Marshal+Carper&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Business-Indie-Games-Everything-Industry-ebook/dp/B0B11J9S2R
+---
+HB Blurb: The Business of Indie Games explores what many universities forget to cover; how to sell and market your own indie game to potential publishers and developers.
+--------------------------------------------------
+
+Book 11:
+Title: Branching Story, Unlocked Dialogue: Designing and Writing Visual Novels
+Author(s): Toiya Kristen Finley
+---
+ISBN-10: 1000798364 - ISBN-13: 9781000798364 - ASIN: 1032059001
+Published Date: 2022-12-07
+Page Count: 206
+---
+Google Books Price: GBP 23.19
+Google Books URL: http://books.google.co.uk/books?id=FdKTEAAAQBAJ&printsec=frontcover&dq=intitle:Branching+Story,+Unlocked+Dialogue:+Designing+and+Writing+Visual+Novels%2Binauthor:Toiya+Kristen+Finley&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 3 of 5 (2 reviews)
+Amazon.com URL: https://www.amazon.com/Branching-Story-Unlocked-Dialogue-Designing/dp/1032059001
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Branching-Story-Unlocked-Dialogue-Designing/dp/1032059001
+---
+HB Blurb: Branching Story, Unlocked Dialogue: Designing and Writing Visual Novels covers the distinguishing characteristics and tropes of visual novels as choice-based games and analyzes VNs like 999: Nine Hours, Nine Persons, Nine Doors; Hatoful Boyfriend; and Monster Prom, some of the best examples of the genre as illustrations. The author covers structuring branching narrative and plot, designing impactful and compelling choices, writing entertaining relationships and character interactions, understanding the importance of a VNs prose, and planning a VNs overall narrative design and story delivery.
+--------------------------------------------------
+
+Book 12:
+Title: Dramatic Storytelling & Narrative Design: A WriteraEUR(tm)s Guide to Video Games and Transmedia
+Author(s): Ross Berger
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1138319732
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.8 of 5 (16 reviews)
+Amazon.com URL: https://www.amazon.com/Dramatic-Storytelling-Narrative-Design-Berger/dp/1138319732
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (14 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Dramatic-Storytelling-Narrative-Design-Berger/dp/1138319732
+---
+HB Blurb: Describes narrative design's role in game development, provide examples of its practical usage, delves into the day-to-day expectations, and assess its quality via case studies of 5 popular games.
+--------------------------------------------------
+
+Book 13:
+Title: Environment Art in the Game Industry: A Guide to Rich and Realistic Environments Using Substance Designer
+Author(s): Henry Kelly
+---
+ISBN-10: 1000471969 - ISBN-13: 9781000471960 - ASIN: 0367706792
+Published Date: 2021-11-05
+Page Count: 192
+---
+Google Books Price: GBP 30.39
+Google Books URL: http://books.google.co.uk/books?id=0mhEEAAAQBAJ&printsec=frontcover&dq=intitle:Environment+Art+in+the+Game+Industry:+A+Guide+to+Rich+and+Realistic+Environments+Using+Substance+Designer%2Binauthor:Henry+Kelly&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Environment-Art-Game-Industry-Environments/dp/0367706792
+---
+HB Blurb: This book explains the fundamentals of being a talented games environment artist, outlining the key considerations that most environment artists tend to forget. With a focus on using Substance Designer to create rich, colorful, and realistic environments, the book shows you how to improve your story telling and think outside of the box. This book will be of great interest to new and aspiring games environment artists, as well as those looking to increase their knowledge of Substance Designer.
+--------------------------------------------------
+
+Book 14:
+Title: Game Audio Programming: Principles and Practices
+Author(s): Guy Somberg
+---
+ISBN-10: 9781584502135 - ISBN-13: 1584502134 - ASIN: B0CKWL6PHF
+Published Date: 2002
+Page Count: 428
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=3XfTwAEACAAJ&dq=intitle:Game+Audio+Programming:+Principles+and+Practices%2Binauthor:Guy+Somberg&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Game-Audio-Programming-Principles-Practices-ebook/dp/B0CKWL6PHF
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (9 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Game-Audio-Programming-Principles-Practices/dp/0367658348
+---
+HB Blurb: This is an edited volume comprised of 20-30 chapters written by game audio programmers and sound designers. A basic knowledge of programming and audio integration techniques is presented. One of the goals of this book is to raise the general level of game audio programming expertise, so it is written in a manner that is accessible to beginners, while still providing valuable content for more advanced game audio programmers. The authors of the articles will have used all of the techniques in shipping games, so readers will learn about techniques that are actually practical, with plenty of code examples and diagrams.
+--------------------------------------------------
+
+Book 15:
+Title: The Fundamentals of C/C++ Game Programming: Using Target-based Development on SBC's
+Author(s): Brian Beuken
+---
+ISBN-10: 135164288X - ISBN-13: 9781351642880 - ASIN: B08R16F52K
+Published Date: 2018-02-21
+Page Count: 747
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=BkFNDwAAQBAJ&printsec=frontcover&dq=intitle:The+Fundamentals+of+C/C%2B%2B+Game+Programming:+Using+Target-based+Development+on+SBC%27s%2Binauthor:Brian+Beuken&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 0 of 5 (17 reviews)
+Amazon.com URL: https://www.amazon.com/Fundamentals-Game-Programming-Target-based-Development-ebook/dp/B08R16F52K
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (19 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Fundamentals-Game-Programming-Brian-Beuken/dp/1498788742
+---
+HB Blurb: Aimed to give novice coders an understanding of the methods and techniques used in professional games development. It is also designed to help develop and strengthen basic C/C++ skills, help to develop familiarity with hardware and allow the reader to increase their confidence as game programmers by walking them through increasingly difficult game concepts but, maintaining the understanding that despite the increased complexity, the core concepts remain consistent with the advancement of the technology and that the technology only enhances the gaming experience. Demonstrates underlying principles of game coding in practical step by step ways to increase exposure to concepts in game coding.
+--------------------------------------------------
+
+Book 16:
+Title: Virtual Character Design for Games and Interactive Media
+Author(s): Robin James Stuart Sloan
+---
+ISBN-10: 1466598204 - ISBN-13: 9781466598201 - ASIN: 1466598190
+Published Date: 2015-05-07
+Page Count: 248
+---
+Google Books Price: GBP 46.23
+Google Books URL: http://books.google.co.uk/books?id=rI_YCQAAQBAJ&printsec=frontcover&dq=intitle:Virtual+Character+Design+for+Games+and+Interactive+Media%2Binauthor:Robin+James+Stuart+Sloan&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Virtual-Character-Design-Games-Interactive/dp/1466598190
+---
+HB Blurb: While the earliest character representations in video games were rudimentary in terms of their presentation and performance, the virtual characters that appear in games today can be extremely complex and lifelike. These are characters that have the potential to make a powerful and emotional connection with gamers. As virtual characters become more intricate and varied, there is a growing need to examine the theory and practice of virtual character design. This book seeks to develop a series of critical frameworks to support the analysis and design of virtual characters.
+--------------------------------------------------
+
+Book 17:
+Title: The Indie Game Developer Handbook
+Author(s): Richard Hill-Whittall
+---
+ISBN-10: 131757365X - ISBN-13: 9781317573654 - ASIN: B0B5FNVRLN
+Published Date: 2015-02-11
+Page Count: 279
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=ZzihBgAAQBAJ&printsec=frontcover&dq=intitle:The+Indie+Game+Developer+Handbook%2Binauthor:Richard+Hill-Whittall&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.4 of 5 (33 reviews)
+Amazon.com URL: https://www.amazon.com/Indie-Game-Developer-Handbook-ebook/dp/B0B5FNVRLN
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (32 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Indie-Game-Developer-Handbook-ebook/dp/B0B5FNVRLN
+---
+HB Blurb: Seemingly every day there is a story in the process of how a successful app or game has earned so many thousands of downloads and revenue. The climate for the games industry has never been as hot as it is right now, and this is only set to continue as the marketplace for tablets/consoles and phones grow. As the market size increases, so does the number of people developing and looking to develop their own app or game to publish. The Indie Game Developer Handbook covers every aspect of running a game development studioâ€”from the initial creation of the game through to completion, release and beyond.
+--------------------------------------------------
+
+Book 18:
+Title: Real Time Cameras: A Guide for Game Designers and Developers
+Author(s): Mark Haigh-Hutchinson
+---
+ISBN-10: 1000065081 - ISBN-13: 9781000065084 - ASIN: B003FK5Q3I
+Published Date: 2009-04-02
+Page Count: 544
+---
+Google Books Price: GBP 91.6
+Google Books URL: http://books.google.co.uk/books?id=SYr1DwAAQBAJ&printsec=frontcover&dq=intitle:Real+Time+Cameras:+A+Guide+for+Game+Designers+and+Developers%2Binauthor:Mark+Haigh-Hutchinson&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.4 of 5 (2 reviews)
+Amazon.com URL: https://www.amazon.com/Real-Time-Cameras-Designers-Developers-ebook/dp/B003FK5Q3I
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.3 of 5 (5 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Real-Time-Cameras-Developers-Interactive/dp/0123116341
+---
+HB Blurb: Breaks down the algorithms behind contemporary game camera systems, written by a leading expert in the area
+--------------------------------------------------
+
+Book 19:
+Title: Talking to Artists / Talking to Programmers: How to Get Programmers and Artists Communicating
+Author(s): Wendy Despain
+---
+ISBN-10: 1498700748 - ISBN-13: 9781498700740 - ASIN: 149870073X
+Published Date: 2016-12-19
+Page Count: 157
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=bG0NDgAAQBAJ&printsec=frontcover&dq=intitle:Talking+to+Artists+/+Talking+to+Programmers:+How+to+Get+Programmers+and+Artists+Communicating%2Binauthor:Wendy+Despain&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (2 reviews)
+Amazon.com URL: https://www.amazon.com/Talking-Artists-Programmers-How-Communicating/dp/149870073X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Talking-Artists-Programmers-How-Communicating/dp/149870073X
+---
+HB Blurb: To make videogames, artists and programmers must work together in pressure cooker environments. The problem is that they use the same words to mean completely different things, leading to rampant miscommunication. This book in written in both programmer-ese and artist-ese in order to present strategies for better communication. To make sure her suggestions hit the mark, the author teams with an artist and a programmer and avoids underlying tones hinting that one style of communication is better than the other.
+--------------------------------------------------
+
+Book 20:
+Title: Game Magic: A Designer's Guide to Magic Systems in Theory and Practice
+Author(s): Jeff Howard
+---
+ISBN-10: 1466567872 - ISBN-13: 9781466567870 - ASIN: 1138427756
+Published Date: 2014-04-22
+Page Count: 362
+---
+Google Books Price: GBP 39.03
+Google Books URL: http://books.google.co.uk/books?id=_1rSBQAAQBAJ&printsec=frontcover&dq=intitle:Game+Magic:+A+Designer%27s+Guide+to+Magic+Systems+in+Theory+and+Practice%2Binauthor:Jeff+Howard&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3 of 5 (3 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Game-Magic-Designers-Systems-Practice/dp/1138427756
+---
+HB Blurb: This book explains how to construct magic systems and presents a compendium of arcane lore. Showing you how to weave compelling magic into your games, the book is interspersed with examples that illustrate how to design and program magic systems. It explains how to set up tables of correspondences and spell components as well as how to write programming code integrating these components as part of game mechanics. It also shows how to divide a simulated world into domains of influence and how to use specific rule systems to simulate powers within these realms.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Composing Music for Games: The Art, Technology and Business of Video Game Scoring
+No Amazon.com URL found
+https://www.amazon.co.uk/Composing-Music-Games-Technology-Business/dp/1138428264
+http://books.google.co.uk/books?id=S4V7DwAAQBAJ&printsec=frontcover&dq=intitle:Composing+Music+for+Games:+The+Art,+Technology+and+Business+of+Video+Game+Scoring%2Binauthor:Chance+Thomas&hl=&cd=1&source=gbs_api
+
+Book 02 - 3D Game Environments: Create Professional 3D Game Worlds
+https://www.amazon.com/3D-Game-Environments-Create-Professional/dp/0240808959
+https://www.amazon.co.uk/3D-Game-Environments-Create-Professional/dp/1138731250
+http://books.google.co.uk/books?id=TM1BDgAAQBAJ&printsec=frontcover&dq=intitle:3D+Game+Environments:+Create+Professional+3D+Game+Worlds%2Binauthor:Luke+Ahearn&hl=&cd=1&source=gbs_api
+
+Book 03 - 3ds Max Basics for Modeling Video Game Assets: Volume 1: Model a Complete Game Environment and Export to Unity or Other Game Engines
+No Amazon.com URL found
+https://www.amazon.co.uk/Basics-Modeling-Video-Game-Assets-ebook/dp/B07R6Y31WP
+http://books.google.co.uk/books?id=x8ySDwAAQBAJ&printsec=frontcover&dq=intitle:3ds+Max+Basics+for+Modeling+Video+Game+Assets:+Volume+1:+Model+a+Complete+Game+Environment+and+Export+to+Unity+or+Other+Game+Engines%2Binauthor:William+Culbertson&hl=&cd=1&source=gbs_api
+
+Book 04 - Independent Animation: Developing, Producing and Distributing Your Animated Films
+https://www.amazon.com/Independent-Animation-Developing-Producing-Distributing/dp/1138855723
+https://www.amazon.co.uk/Independent-Animation-Developing-Producing-Distributing/dp/1138855723
+http://books.google.co.uk/books?id=4rS8DgAAQBAJ&printsec=frontcover&dq=intitle:Independent+Animation:+Developing,+Producing+and+Distributing+Your+Animated+Films%2Binauthor:Ben+Mitchell&hl=&cd=1&source=gbs_api
+
+Book 05 - Once Upon a Pixel: Storytelling and Worldbuilding in Video Games
+https://www.amazon.com/Once-Upon-Pixel-Storytelling-Worldbuilding/dp/1138499765
+https://www.amazon.co.uk/Once-Upon-Pixel-Storytelling-Worldbuilding/dp/1138499765
+http://books.google.co.uk/books?id=ePm7DwAAQBAJ&printsec=frontcover&dq=intitle:Once+Upon+a+Pixel:+Storytelling+and+Worldbuilding+in+Video+Games%2Binauthor:Eddie+Paterson,+Timothy+Williams,+Will+Cordner&hl=&cd=1&source=gbs_api
+
+Book 06 - Lighting for Animation: The Art of Visual Storytelling
+https://www.amazon.com/Lighting-Animation-Art-Visual-Storytelling/dp/1138018678
+https://www.amazon.co.uk/Lighting-Animation-Art-Visual-Storytelling/dp/113801866X
+http://books.google.co.uk/books?id=b5MECwAAQBAJ&printsec=frontcover&dq=intitle:Lighting+for+Animation:+The+Art+of+Visual+Storytelling%2Binauthor:Jasmine+Katatikarn,+Michael+Tanzillo&hl=&cd=1&source=gbs_api
+
+Book 07 - Character Development and Storytelling for Games
+https://www.amazon.com/Character-Development-Storytelling-Games-Sheldon/dp/1435461045
+https://www.amazon.co.uk/Character-Development-Storytelling-Games-Sheldon-ebook/dp/B0BGYZX15T
+http://books.google.co.uk/books?id=n0OMEAAAQBAJ&printsec=frontcover&dq=intitle:Character+Development+and+Storytelling+for+Games%2Binauthor:Lee+Sheldon&hl=&cd=1&source=gbs_api
+
+Book 08 - Exploring Roguelike Games
+https://www.amazon.com/Exploring-Roguelike-Games-John-Harris/dp/0367513722
+https://www.amazon.co.uk/Exploring-Roguelike-Games-John-Harris/dp/0367482592
+http://books.google.co.uk/books?id=Ni_wDwAAQBAJ&printsec=frontcover&dq=intitle:Exploring+Roguelike+Games%2Binauthor:John+Harris&hl=&cd=1&source=gbs_api
+
+Book 09 - They Create Worlds: The Story of the People and Companies That Shaped the Video Game Industry, Vol. I: 1971-1982
+No Amazon.com URL found
+https://www.amazon.co.uk/They-Create-Worlds-Alexander-Smith/dp/1138389900
+http://books.google.co.uk/books?id=Cxy_DwAAQBAJ&printsec=frontcover&dq=intitle:They+Create+Worlds:+The+Story+of+the+People+and+Companies+That+Shaped+the+Video+Game+Industry,+Vol.+I:+1971-1982%2Binauthor:Alexander+Smith&hl=&cd=1&source=gbs_api
+
+Book 10 - The Business of Indie Games: Everything You Need to Know to Conquer the Indie Games Industry
+No Amazon.com URL found
+https://www.amazon.co.uk/Business-Indie-Games-Everything-Industry-ebook/dp/B0B11J9S2R
+http://books.google.co.uk/books?id=AmxjEAAAQBAJ&printsec=frontcover&dq=intitle:The+Business+of+Indie+Games:+Everything+You+Need+to+Know+to+Conquer+the+Indie+Games+Industry%2Binauthor:Alex+Josef,+Alex+Van+Lepp,+Marshal+Carper&hl=&cd=1&source=gbs_api
+
+Book 11 - Branching Story, Unlocked Dialogue: Designing and Writing Visual Novels
+https://www.amazon.com/Branching-Story-Unlocked-Dialogue-Designing/dp/1032059001
+https://www.amazon.co.uk/Branching-Story-Unlocked-Dialogue-Designing/dp/1032059001
+http://books.google.co.uk/books?id=FdKTEAAAQBAJ&printsec=frontcover&dq=intitle:Branching+Story,+Unlocked+Dialogue:+Designing+and+Writing+Visual+Novels%2Binauthor:Toiya+Kristen+Finley&hl=&cd=1&source=gbs_api
+
+Book 12 - Dramatic Storytelling & Narrative Design: A WriteraEUR(tm)s Guide to Video Games and Transmedia
+https://www.amazon.com/Dramatic-Storytelling-Narrative-Design-Berger/dp/1138319732
+https://www.amazon.co.uk/Dramatic-Storytelling-Narrative-Design-Berger/dp/1138319732
+No Google Books URL found.
+
+Book 13 - Environment Art in the Game Industry: A Guide to Rich and Realistic Environments Using Substance Designer
+No Amazon.com URL found
+https://www.amazon.co.uk/Environment-Art-Game-Industry-Environments/dp/0367706792
+http://books.google.co.uk/books?id=0mhEEAAAQBAJ&printsec=frontcover&dq=intitle:Environment+Art+in+the+Game+Industry:+A+Guide+to+Rich+and+Realistic+Environments+Using+Substance+Designer%2Binauthor:Henry+Kelly&hl=&cd=1&source=gbs_api
+
+Book 14 - Game Audio Programming: Principles and Practices
+https://www.amazon.com/Game-Audio-Programming-Principles-Practices-ebook/dp/B0CKWL6PHF
+https://www.amazon.co.uk/Game-Audio-Programming-Principles-Practices/dp/0367658348
+http://books.google.co.uk/books?id=3XfTwAEACAAJ&dq=intitle:Game+Audio+Programming:+Principles+and+Practices%2Binauthor:Guy+Somberg&hl=&cd=1&source=gbs_api
+
+Book 15 - The Fundamentals of C/C++ Game Programming: Using Target-based Development on SBC's
+https://www.amazon.com/Fundamentals-Game-Programming-Target-based-Development-ebook/dp/B08R16F52K
+https://www.amazon.co.uk/Fundamentals-Game-Programming-Brian-Beuken/dp/1498788742
+http://books.google.co.uk/books?id=BkFNDwAAQBAJ&printsec=frontcover&dq=intitle:The+Fundamentals+of+C/C%2B%2B+Game+Programming:+Using+Target-based+Development+on+SBC%27s%2Binauthor:Brian+Beuken&hl=&cd=1&source=gbs_api
+
+Book 16 - Virtual Character Design for Games and Interactive Media
+No Amazon.com URL found
+https://www.amazon.co.uk/Virtual-Character-Design-Games-Interactive/dp/1466598190
+http://books.google.co.uk/books?id=rI_YCQAAQBAJ&printsec=frontcover&dq=intitle:Virtual+Character+Design+for+Games+and+Interactive+Media%2Binauthor:Robin+James+Stuart+Sloan&hl=&cd=1&source=gbs_api
+
+Book 17 - The Indie Game Developer Handbook
+https://www.amazon.com/Indie-Game-Developer-Handbook-ebook/dp/B0B5FNVRLN
+https://www.amazon.co.uk/Indie-Game-Developer-Handbook-ebook/dp/B0B5FNVRLN
+http://books.google.co.uk/books?id=ZzihBgAAQBAJ&printsec=frontcover&dq=intitle:The+Indie+Game+Developer+Handbook%2Binauthor:Richard+Hill-Whittall&hl=&cd=1&source=gbs_api
+
+Book 18 - Real Time Cameras: A Guide for Game Designers and Developers
+https://www.amazon.com/Real-Time-Cameras-Designers-Developers-ebook/dp/B003FK5Q3I
+https://www.amazon.co.uk/Real-Time-Cameras-Developers-Interactive/dp/0123116341
+http://books.google.co.uk/books?id=SYr1DwAAQBAJ&printsec=frontcover&dq=intitle:Real+Time+Cameras:+A+Guide+for+Game+Designers+and+Developers%2Binauthor:Mark+Haigh-Hutchinson&hl=&cd=1&source=gbs_api
+
+Book 19 - Talking to Artists / Talking to Programmers: How to Get Programmers and Artists Communicating
+https://www.amazon.com/Talking-Artists-Programmers-How-Communicating/dp/149870073X
+https://www.amazon.co.uk/Talking-Artists-Programmers-How-Communicating/dp/149870073X
+http://books.google.co.uk/books?id=bG0NDgAAQBAJ&printsec=frontcover&dq=intitle:Talking+to+Artists+/+Talking+to+Programmers:+How+to+Get+Programmers+and+Artists+Communicating%2Binauthor:Wendy+Despain&hl=&cd=1&source=gbs_api
+
+Book 20 - Game Magic: A Designer's Guide to Magic Systems in Theory and Practice
+No Amazon.com URL found
+https://www.amazon.co.uk/Game-Magic-Designers-Systems-Practice/dp/1138427756
+http://books.google.co.uk/books?id=_1rSBQAAQBAJ&printsec=frontcover&dq=intitle:Game+Magic:+A+Designer%27s+Guide+to+Magic+Systems+in+Theory+and+Practice%2Binauthor:Jeff+Howard&hl=&cd=1&source=gbs_api
+
