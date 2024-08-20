@@ -1,0 +1,332 @@
+Humble Tech Book Bundle- Get Certified! by Packt - Packt
+Processing date: 2024-07-19
+Data retrieved from: https://www.humblebundle.com/books/get-certified-packt-2024-books
+
+Book 01 - CISA - Certified Information Systems Auditor Study Guide - Hemang Doshi - 4.4 out of 5 (223 reviews)
+Book 02 - Microsoft Azure Fundamentals Certification and Beyond - Steve Miles, Peter De Tender - 4.6 out of 5 (92 reviews)
+Book 03 - AWS Certified Solutions Architect - Professional Exam Guide (SAP-C02) - Patrick Sard, Yohan Wadia - None found out of 5 (None found reviews)
+Book 04 - Microsoft 365 Administrator MS-102 Exam Guide - Aaron Guilmette - 4.9 out of 5 (12 reviews)
+Book 05 - Official Google Cloud Certified Professional Cloud Security Engineer Exam Guide - Ankush Chowdhary, Prashant Kulkarni, Phil Venables - None found out of 5 (None found reviews)
+Book 06 - CompTIA A+ Practice Tests Core 1 (220-1101) and Core 2 (220-1102) - Ian Neil, Mark Birch - 4.4 out of 5 (10 reviews)
+Book 07 - AWS Certified Security - Specialty (SCS-C02) Exam Guide - Adam Book, Stuart Scott - 4.8 out of 5 (16 reviews)
+Book 08 - AWS Certified Machine Learning - Specialty (MLS-C01) Certification Guide - Somanath Nanda, Weslley Moura - None found out of 5 (None found reviews)
+Book 09 - Azure Data Engineer Associate Certification Guide - Giacinto Palmieri, Surendra Mettapalli, Newton Alex - 4.4 out of 5 (7 reviews)
+Book 10 - Developing Solutions for Microsoft Azure AZ-204 Exam Guide - Paul Ivey, Alex Ivanov - None found out of 5 (None found reviews)
+Book 11 - Databricks Certified Associate Developer for Apache Spark Using Python - Saba Shah, Rod Waltermann - None found out of 5 (None found reviews)
+Book 12 - HashiCorp Terraform Associate (003) Exam Guide - Chandra Mohan Dhanasekaran, Manjunath H. Gowda - 5 out of 5 (4 reviews)
+Book 13 - CCSP (ISC)2 Certified Cloud Security Professional Exam Guide - Omar A. Turner, Navya Lakshmana - None found out of 5 (None found reviews)
+Book 14 - Tableau Certified Data Analyst Certification Guide - Harry Cooney, Daisy Jones - 0 out of 5 (2 reviews)
+Book 15 - ISACA Certified in Risk and Information Systems Control (CRISC(r)) Exam Guide - Shobhit Mehta, Vikas Yadav - None found out of 5 (None found reviews)
+Book 16 - Microsoft 365 Certified Fundamentals MS-900 Exam Guide - Aaron Guilmette, Yura Lee, Marcos Zanre - None found out of 5 (None found reviews)
+Book 17 - Becoming a Salesforce Certified Technical Architect - Tameem Bahri - 4.9 out of 5 (23 reviews)
+Book 18 - CompTIA CASP+ CAS-004 Certification Guide - Mark Birch - 4.5 out of 5 (116 reviews)
+Book 19 - Certified Information Security Manager Exam Prep Guide - Hemang Doshi - 4.7 out of 5 (64 reviews)
+Book 20 - Certified Ethical Hacker (CEH) v12 312-50 Exam Guide - Dale Meredith, Chistopher Rees - 4.3 out of 5 (19 reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: CISA - Certified Information Systems Auditor Study Guide
+Author(s): Hemang Doshi
+---
+ISBN-10: 1803242779 - ISBN-13: 9781803242774 - ASIN: 1838989587
+Published Date: 2023-06-28
+---
+HB Blurb: Key Features:Enhance your understanding of each topic by practicing a set of exam-oriented questionsRevise concepts easily focusing on key aspects from CISA exam perspective, highlighted in each chapterAccelerate your exam prep with additional study material including flashcards, practice questions, and exam tipsWho this book is for:This CISA study guide is specifically tailored for anyone with a non-technical background who wants to achieve the CISA certification. It caters to those currently working in or looking to seek employment in IT audit and security management roles.
+--------------------------------------------------
+
+Book 02:
+Title: Microsoft Azure Fundamentals Certification and Beyond
+Author(s): Steve Miles, Peter De Tender
+---
+ISBN-10: 1801077126 - ISBN-13: 9781801077125 - ASIN: 1801073309
+Published Date: 2022-01-07
+---
+HB Blurb: Key Features:Master the fundamentals of Azure through a comprehensive exploration of compute, network, and storage servicesLearn essential tools and strategies for securing, governing, and administering Azure effectivelyUse the mobile-friendly bonus website that comes with the book to gain ample practice on the goWho this book is for:This Azure fundamentals book is for individuals with technical or non-technical backgrounds who want to learn and explore the field of cloud computing with Microsoft Azure. There are no prerequisites to get started, only a willingness to learn and explore cloud concepts and Microsoft Azure.
+--------------------------------------------------
+
+Book 03:
+Title: AWS Certified Solutions Architect - Professional Exam Guide (SAP-C02)
+Author(s): Patrick Sard, Yohan Wadia
+---
+ISBN-10: 1801815070 - ISBN-13: 9781801815079 - ASIN: 1801813132
+Published Date: 2024-03-01
+---
+HB Blurb: Key Features:Explore content meticulously aligned with AWS (SAP-C02) exam objectivesChallenge your knowledge through mock tests with exam-level difficultyGain expert insights and learn best practices for optimizing your cloud solutions from experienced AWS practitionersWho this book is for:This book is for seasoned IT professionals adept at crafting and implementing cloud architecture on AWS. Familiarity with the AWS platform and services is essential. You'll grasp the content more effectively if you have at least 2 years of hands-on experience in AWS-based applications.
+--------------------------------------------------
+
+Book 04:
+Title: Microsoft 365 Administrator MS-102 Exam Guide
+Author(s): Aaron Guilmette
+---
+ISBN-10: 1835088031 - ISBN-13: 9781835088036 - ASIN: 183508396X
+Published Date: 2023-12-20
+---
+HB Blurb: Key Features:Navigate exam topics easily with well-structured and informative contentAccess online practice tools to enhance exam readinessBoost exam confidence through expert tips and real-world insightsPurchase of the book unlocks access to web-based exam prep resources like mock exams, flashcards, exam tips, and a free eBook PDFWho this book is for:If you’re looking to validate your skills in planning, deploying, and managing Microsoft 365 identity and security workloads, this book is for you. Ideal for IT professionals seeking the MS-102 certification, this book ensures success with clear guidance, practical insights, and hands-on exercises. Although not a pre-requisite, prior knowledge of configuring DNS records, experience of administering a Microsoft 365 tenant, and a high-level understanding of information protection concepts will be beneficial.
+--------------------------------------------------
+
+Book 05:
+Title: Official Google Cloud Certified Professional Cloud Security Engineer Exam Guide
+Author(s): Ankush Chowdhary, Prashant Kulkarni, Phil Venables
+---
+ISBN-10: 1835466966 - ISBN-13: 9781835466964 - ASIN: 1835468861
+Published Date: 2023-08-30
+---
+HB Blurb: Key Features:Prepare for the certification exam with clear explanations, real-world examples, and self-assessment questionsReview Google Cloud security best practices for building a secure and compliant cloud environmentExplore advanced concepts like Security Command Center, BeyondCorp Zero Trust, and container securityWho this book is for:This book is for IT professionals, cybersecurity specialists, system administrators, and tech enthusiasts aspiring to strengthen their understanding of Google Cloud security and elevate their career trajectory. Earning this certification not only validates your expertise but also makes you part of an elite group of GCP security engineers, opening doors to opportunities that can significantly advance your career. Prior knowledge of the foundational concepts of Google Cloud or GCP Associate Engineer Certification is strongly recommended.
+--------------------------------------------------
+
+Book 06:
+Title: CompTIA A+ Practice Tests Core 1 (220-1101) and Core 2 (220-1102)
+Author(s): Ian Neil, Mark Birch
+---
+ISBN-10: 1837638691 - ISBN-13: 9781837638697 - ASIN: 1837633185
+Published Date: 2023-11-17
+---
+HB Blurb: Key Features:Ensure a comprehensive understanding of each exam domain with in-depth practiceEnhance your problem-solving skills by working with real-world scenariosAssess your exam readiness with mock exams for both Core 1 and Core 2Purchase of this book unlocks access to web-based exam prep resources including practice questions, flashcards, and exam tipsWho this book is for:Whether you’re a student or a professional, if you’re on a mission to ace the CompTIA A+ exam, this book is for you. This book isn’t meant for teaching theory; instead, it will evaluate your retention of studied information and your exam readiness.
+--------------------------------------------------
+
+Book 07:
+Title: AWS Certified Security - Specialty (SCS-C02) Exam Guide
+Author(s): Adam Book, Stuart Scott
+---
+ISBN-10: 1837635927 - ISBN-13: 9781837635924 - ASIN: 1837633983
+Published Date: 2024-04-16
+---
+HB Blurb: Key Features:Stay updated with the most current SCS-C02 exam syllabus</li><li>Gain modern cloud security skills to build robust security solutionsAccess online exam prep resources like mock exams, flashcards, and exam tips to help with preparationPurchase of this book unlocks access to web-based exam prep resources such as mock exams and flashcardsWho this book is for:This book is for system administrators or security professionals looking to gain AWS security certification. Prior experience in securing cloud environments is necessary to get the most out of this book.
+--------------------------------------------------
+
+Book 08:
+Title: AWS Certified Machine Learning - Specialty (MLS-C01) Certification Guide
+Author(s): Somanath Nanda, Weslley Moura
+---
+ISBN-10: 1800568436 - ISBN-13: 9781800568433 - ASIN: 1835082203
+Published Date: 2021-03-19
+---
+HB Blurb: Key Features:Gain proficiency in AWS machine learning services to excel in the MLS-C01 examBuild model training and inference pipelines and deploy machine learning models to the AWS cloudPractice on the go with the mobile-friendly bonus website, accessible with the bookPurchase of the print or Kindle book includes a free PDF eBookWho this book is for:This book is designed for both students and professionals preparing for the AWS Certified Machine Learning Specialty exam or enhance their understanding of machine learning, with a specific emphasis on AWS. Familiarity with machine learning basics and AWS services is recommended to fully benefit from this book.
+--------------------------------------------------
+
+Book 09:
+Title: Azure Data Engineer Associate Certification Guide
+Author(s): Giacinto Palmieri, Surendra Mettapalli, Newton Alex
+---
+ISBN-10: 1805127918 - ISBN-13: 9781805127918 - ASIN: 1805124684
+Published Date: 2024-05-23
+---
+HB Blurb: Key Features:Prepare for the DP-203 exam with expert insights, real-world examples, and practice resourcesGain up-to-date skills to thrive in the dynamic world of cloud data engineeringBuild secure and sustainable data solutions using Azure servicesWho this book is for:This book is for data engineers who want to take the Azure Data Engineer Associate (DP-203) exam and delve deep into the Azure cloud stack. Engineers and product managers new to Azure or preparing for interviews with companies working on Azure technologies will find invaluable hands-on experience with Azure data technologies through this book.A basic understanding of cloud technologies, ETL, and databases will assist with understanding the concepts covered.
+--------------------------------------------------
+
+Book 10:
+Title: Developing Solutions for Microsoft Azure AZ-204 Exam Guide
+Author(s): Paul Ivey, Alex Ivanov
+---
+ISBN-10: 1835080049 - ISBN-13: 9781835080047 - ASIN: 1803237066
+Published Date: 2024-05-16
+---
+HB Blurb: Key Features:Written by Microsoft technical trainers, to help you explore exam topics in a structured wayUnderstand the "why", and not just "how" behind design and solution decisionsLearn Azure development principles with online exam preparation materialsPurchase of this book unlocks access to web-based exam prep resources including mock exams, flashcards, exam tips, and the eBook pdfWho this book is for:Whether you're looking to validate your existing skills or enhance your Azure knowledge, this comprehensive guide offers a structured approach to mastering key concepts and passing the AZ-204 certification exam. It will be beneficial to have at least one year of Azure development experience and proficiency in at least one Azure-supported programming language to get the most out of this book. Additionally, familiarity with Azure CLI and PowerShell will also be helpful.
+--------------------------------------------------
+
+Book 11:
+Title: Databricks Certified Associate Developer for Apache Spark Using Python
+Author(s): Saba Shah, Rod Waltermann
+---
+ISBN-10: 1804616206 - ISBN-13: 9781804616208 - ASIN: 1804619787
+Published Date: 2024-06-14
+---
+HB Blurb: Key Features:Understand the fundamentals of Apache Spark to help you design robust and fast Spark applicationsDelve into various data manipulation components for each phase of your data engineering projectPrepare for the certification exam with sample questions and mock exams, and get closer to your goalPurchase of the print or Kindle book includes a free PDF eBookWho this book is for:This book is for you if you’re a professional looking to venture into the world of big data and data engineering, a data professional who wants to endorse your knowledge of Spark, or a student. Although working knowledge of Python is required, no prior Spark knowledge is needed. Additionally, experience with Pyspark will be beneficial.
+--------------------------------------------------
+
+Book 12:
+Title: HashiCorp Terraform Associate (003) Exam Guide
+Author(s): Chandra Mohan Dhanasekaran, Manjunath H. Gowda
+---
+ISBN-10: 1804613304 - ISBN-13: 9781804613306 - ASIN: 1804618845
+Published Date: 2024-05-31
+---
+HB Blurb: Key Features:Familiarize yourself with every aspect of the latest Terraform Associate (003) exam objectivesLearn essential topics with detailed explanations and real-world examplesFocus on best practices for Infrastructure as Code (IaC) and TerraformPurchase of this book unlocks access to web-based exam prep resources, including mock exams, flashcards, exam tips, and the eBook PDFWho this book is for:This HashiCorp Terraform Associate (003) preparation guide is tailored to individuals preparing for the latest Terraform Associate Certification (003) exam by HashiCorp. Cloud engineers specializing in automated provisioning of cloud infrastructure and related operations will also benefit significantly from this book.
+--------------------------------------------------
+
+Book 13:
+Title: CCSP (ISC)2 Certified Cloud Security Professional Exam Guide
+Author(s): Omar A. Turner, Navya Lakshmana
+---
+ISBN-10: 1838984356 - ISBN-13: 9781838984359 - ASIN: 1838987665
+Published Date: 2024-06-21
+---
+HB Blurb: Key Features:Gain confidence to pass the CCSP exam with tricks, techniques, and mock testsBreak down complex technical topics with the help of two experienced CCSP bootcamp educatorsLearn all you need to know about cloud security to excel in your career beyond the examWho this book is for:This CCSP book is for IT professionals, security analysts, and professionals who want to pursue a career in cloud security, aiming to demonstrate real-world skills. It also caters to existing IT and security professionals looking to acquire practical cloud security expertise and validate their proficiency through the CCSP certification. To get started with this book, a solid understanding of cloud technologies and cybersecurity basics is necessary.
+--------------------------------------------------
+
+Book 14:
+Title: Tableau Certified Data Analyst Certification Guide
+Author(s): Harry Cooney, Daisy Jones
+---
+ISBN-10: 1803249854 - ISBN-13: 9781803249858 - ASIN: 1803243465
+Published Date: 2024-06-25
+---
+HB Blurb: Key Features:Benefit from a team of expert authors guiding you through complex topics with clarity and precisionComprehensive coverage of the syllabus, ensuring thorough preparation for all exam objectivesAdditional exam resources to reinforce your understanding of Tableau concepts and boost exam readinessWho this book is for:This book is for anyone interested in harnessing the power of Tableau for data exploration and analysis, regardless of prior experience. Whether you’re looking to enhance your existing skills or start from scratch, this book provides the guidance and resources necessary to succeed in mastering Tableau and achieving certification. The book caters to readers with varying levels of Tableau proficiency, from beginners to advanced users.
+--------------------------------------------------
+
+Book 15:
+Title: ISACA Certified in Risk and Information Systems Control (CRISC(r)) Exam Guide
+Author(s): Shobhit Mehta, Vikas Yadav
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1803236906
+Published Date: 
+---
+HB Blurb: Key Features:Gain end-to-end coverage of all the topics assessed in the ISACA CRISC examApply and embed your learning with the help of practice quizzes and self-assessment questionsHave an in-depth guide handy as you progress in your enterprise IT risk management careerPurchase of the print or Kindle book includes a free PDF eBookWho this book is for:If you are a GRC or a risk management professional with experience in the management of IT audits or in the design, implementation, monitoring, and maintenance of IS controls, or are gearing up to take the CRISC exam, then this CRISC book is for you. Security analysts, penetration testers, SOC analysts, PMs, and other security or management professionals and executives will also benefit from this book. The book assumes prior experience of security concepts.
+--------------------------------------------------
+
+Book 16:
+Title: Microsoft 365 Certified Fundamentals MS-900 Exam Guide
+Author(s): Aaron Guilmette, Yura Lee, Marcos Zanre
+---
+ISBN-10: 9781803231167 - ISBN-13: 1803231165 - ASIN: 1838982175
+Published Date: 2021-12-30
+---
+HB Blurb: Key Features:Practice with exam-style questions based on the latest certification exam syllabusReview the security considerations and benefits of adopting different types of cloud servicesVerify your knowledge of key concepts through chapter assessments, insider tips, and practice questionsPurchase of this book unlocks access to web-based exam prep resources including practice questions, flashcards, and exam tipsWho this book is for:This book is for entry as well as mid-level experienced administrators and individuals aspiring to pass the latest MS-900 exam and achieve Microsoft 365 certification. Basic knowledge of Microsoft services and cloud concepts is necessary to get the most out of this book.
+--------------------------------------------------
+
+Book 17:
+Title: Becoming a Salesforce Certified Technical Architect
+Author(s): Tameem Bahri
+---
+ISBN-10: 1800565283 - ISBN-13: 9781800565289 - ASIN: B0C3R9M957
+Published Date: 2021-02-12
+---
+HB Blurb: Key Features:Master each knowledge domain by applying key concepts to a real-world scenarioPut all the skills covered in the book into action with two full mock scenariosGain access to additional online assets including flashcards and exam tipsWho this book is for:This book is for Salesforce architects who want to design secure, performant, and scalable technical solutions for their organizations and ultimately become Salesforce Certified Technical Architects. A solid understanding of the Salesforce platform is required, ideally combined with three to five years of practical experience as an application architect, system architect, enterprise architect, or solution architect.
+--------------------------------------------------
+
+Book 18:
+Title: CompTIA CASP+ CAS-004 Certification Guide
+Author(s): Mark Birch
+---
+ISBN-10: 1801814481 - ISBN-13: 9781801814485 - ASIN: 1801816778
+Published Date: 2022-03-03
+---
+HB Blurb: Key Features:Learn how to apply industry best practices and earn the CASP+ certificationExplore over 400 CASP+ questions to test your understanding of key concepts and help you prepare for the examDiscover over 300 illustrations and diagrams that will assist you in understanding advanced CASP+ conceptsWho this book is for:This CompTIA book is for CASP+ CAS-004 exam candidates who want to achieve CASP+ certification to advance their career. Security architects, senior security engineers, SOC managers, security analysts, IT cybersecurity specialists/INFOSEC specialists, and cyber risk analysts will benefit from this book. Experience in an IT technical role or CompTIA Security+ certification or equivalent is assumed.
+--------------------------------------------------
+
+Book 19:
+Title: Certified Information Security Manager Exam Prep Guide
+Author(s): Hemang Doshi
+---
+ISBN-10: 1801076227 - ISBN-13: 9781801076227 - ASIN: 1804610631
+Published Date: 2021-11-26
+---
+HB Blurb: Key Features:Use this comprehensive resource to prepare for ISACA’s CISM certificationUnlock free online tools including interactive practice questions, exam tips, and flashcards to effectively prepare for the CISM examUnderstand the theory behind information security program development and managementWho this book is for:If you’re an IT professional, IT security officer, or risk management executive looking to upgrade your career by passing the CISM exam, this book is for you. Basic familiarity with information security concepts is required to make the most of this book.
+--------------------------------------------------
+
+Book 20:
+Title: Certified Ethical Hacker (CEH) v12 312-50 Exam Guide
+Author(s): Dale Meredith, Chistopher Rees
+---
+ISBN-10: 1801815453 - ISBN-13: 9781801815451 - ASIN: 1801813094
+Published Date: 2022-07-08
+---
+HB Blurb: Key Features:Learn how to look at technology from the standpoint of an attackerUnderstand the methods that attackers use to infiltrate networksPrepare to take and pass the exam in one attempt with the help of hands-on examples and mock testsWho this book is for:This ethical hacking book is for security professionals, site admins, developers, auditors, security officers, analysts, security consultants, and network engineers. Basic networking knowledge (Network+) and at least two years of experience working within the InfoSec domain are expected.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - CISA - Certified Information Systems Auditor Study Guide
+https://www.amazon.com/CISA-Certified-Information-Systems-information/dp/1838989587
+https://www.amazon.co.uk/CISA-Certified-Information-Systems-information/dp/1838989587
+http://books.google.co.uk/books?id=w-nIEAAAQBAJ&printsec=frontcover&dq=intitle:CISA+-+Certified+Information+Systems+Auditor+Study+Guide%2Binauthor:Hemang+Doshi&hl=&cd=1&source=gbs_api
+
+Book 02 - Microsoft Azure Fundamentals Certification and Beyond
+https://www.amazon.com/Microsoft-Azure-Fundamentals-Certification-Beyond/dp/1801073309
+https://www.amazon.co.uk/Microsoft-Azure-Fundamentals-Certification-Beyond/dp/1801073309
+http://books.google.co.uk/books?id=ijJREAAAQBAJ&printsec=frontcover&dq=intitle:Microsoft+Azure+Fundamentals+Certification+and+Beyond%2Binauthor:Steve+Miles,+Peter+De+Tender&hl=&cd=1&source=gbs_api
+
+Book 03 - AWS Certified Solutions Architect - Professional Exam Guide (SAP-C02)
+No Amazon.com URL found
+https://www.amazon.co.uk/AWS-Certified-Solutions-Architect-Professional/dp/1801813132
+http://books.google.co.uk/books?id=jBb5EAAAQBAJ&printsec=frontcover&dq=intitle:AWS+Certified+Solutions+Architect+-+Professional+Exam+Guide+(SAP-C02)%2Binauthor:Patrick+Sard,+Yohan+Wadia&hl=&cd=1&source=gbs_api
+
+Book 04 - Microsoft 365 Administrator MS-102 Exam Guide
+https://www.amazon.com/Microsoft-Administrator-MS-102-Exam-Guide/dp/183508396X
+https://www.amazon.co.uk/Microsoft-Administrator-MS-102-Exam-Guide/dp/183508396X
+http://books.google.co.uk/books?id=E_zsEAAAQBAJ&printsec=frontcover&dq=intitle:Microsoft+365+Administrator+MS-102+Exam+Guide%2Binauthor:Aaron+Guilmette&hl=&cd=1&source=gbs_api
+
+Book 05 - Official Google Cloud Certified Professional Cloud Security Engineer Exam Guide
+No Amazon.com URL found
+https://www.amazon.co.uk/Official-Certified-Professional-Security-Engineer/dp/1835468861
+http://books.google.co.uk/books?id=67rSEAAAQBAJ&printsec=frontcover&dq=intitle:Official+Google+Cloud+Certified+Professional+Cloud+Security+Engineer+Exam+Guide%2Binauthor:Ankush+Chowdhary,+Prashant+Kulkarni,+Phil+Venables&hl=&cd=1&source=gbs_api
+
+Book 06 - CompTIA A+ Practice Tests Core 1 (220-1101) and Core 2 (220-1102)
+https://www.amazon.com/CompTIA-Practice-Tests-220-1101-220-1102/dp/1837633185
+https://www.amazon.co.uk/CompTIA-Practice-Tests-220-1101-questions/dp/1837633185
+http://books.google.co.uk/books?id=7nTkEAAAQBAJ&printsec=frontcover&dq=intitle:CompTIA+A%2B+Practice+Tests+Core+1+(220-1101)+and+Core+2+(220-1102)%2Binauthor:Ian+Neil,+Mark+Birch&hl=&cd=1&source=gbs_api
+
+Book 07 - AWS Certified Security - Specialty (SCS-C02) Exam Guide
+https://www.amazon.com/AWS-Certified-Security-Specialty-guidance/dp/1837633983
+https://www.amazon.co.uk/AWS-Certified-Security-Specialty-guidance/dp/1837633983
+http://books.google.co.uk/books?id=YbICEQAAQBAJ&printsec=frontcover&dq=intitle:AWS+Certified+Security+-+Specialty+(SCS-C02)+Exam+Guide%2Binauthor:Adam+Book,+Stuart+Scott&hl=&cd=1&source=gbs_api
+
+Book 08 - AWS Certified Machine Learning - Specialty (MLS-C01) Certification Guide
+No Amazon.com URL found
+https://www.amazon.co.uk/AWS-Certified-Machine-Learning-Certification/dp/1835082203
+http://books.google.co.uk/books?id=ICIlEAAAQBAJ&printsec=frontcover&dq=intitle:AWS+Certified+Machine+Learning+-+Specialty+(MLS-C01)+Certification+Guide%2Binauthor:Somanath+Nanda,+Weslley+Moura&hl=&cd=1&source=gbs_api
+
+Book 09 - Azure Data Engineer Associate Certification Guide
+https://www.amazon.com/Azure-Engineer-Associate-Certification-Guide/dp/1805124684
+https://www.amazon.co.uk/Azure-Engineer-Associate-Certification-Guide/dp/1805124684
+http://books.google.co.uk/books?id=Q_wJEQAAQBAJ&printsec=frontcover&dq=intitle:Azure+Data+Engineer+Associate+Certification+Guide%2Binauthor:Giacinto+Palmieri,+Surendra+Mettapalli,+Newton+Alex&hl=&cd=1&source=gbs_api
+
+Book 10 - Developing Solutions for Microsoft Azure AZ-204 Exam Guide
+https://www.amazon.com/Developing-Solutions-Microsoft-Azure-AZ-204/dp/1803237066
+https://www.amazon.co.uk/Developing-Solutions-Microsoft-Azure-AZ-204/dp/1835085296
+http://books.google.co.uk/books?id=vNIREQAAQBAJ&printsec=frontcover&dq=intitle:Developing+Solutions+for+Microsoft+Azure+AZ-204+Exam+Guide%2Binauthor:Paul+Ivey,+Alex+Ivanov&hl=&cd=1&source=gbs_api
+
+Book 11 - Databricks Certified Associate Developer for Apache Spark Using Python
+https://www.amazon.com/Databricks-Certified-Associate-Developer-Apache/dp/1804619787
+https://www.amazon.co.uk/Databricks-Certified-Associate-Developer-Apache/dp/1804619787
+http://books.google.co.uk/books?id=1gYJEQAAQBAJ&printsec=frontcover&dq=intitle:Databricks+Certified+Associate+Developer+for+Apache+Spark+Using+Python%2Binauthor:Saba+Shah,+Rod+Waltermann&hl=&cd=1&source=gbs_api
+
+Book 12 - HashiCorp Terraform Associate (003) Exam Guide
+https://www.amazon.com/HashiCorp-Terraform-Associate-Exam-Guide/dp/1804618845
+https://www.amazon.co.uk/HashiCorp-Terraform-Associate-Exam-Guide/dp/1804618845
+http://books.google.co.uk/books?id=0BUMEQAAQBAJ&printsec=frontcover&dq=intitle:HashiCorp+Terraform+Associate+(003)+Exam+Guide%2Binauthor:Chandra+Mohan+Dhanasekaran,+Manjunath+H.+Gowda&hl=&cd=1&source=gbs_api
+
+Book 13 - CCSP (ISC)2 Certified Cloud Security Professional Exam Guide
+https://www.amazon.com/Certified-Cloud-Security-Professional-Guide/dp/1838987665
+https://www.amazon.co.uk/Certified-Cloud-Security-Professional-Guide/dp/1838987665
+http://books.google.co.uk/books?id=aV4QEQAAQBAJ&printsec=frontcover&dq=intitle:CCSP+(ISC)2+Certified+Cloud+Security+Professional+Exam+Guide%2Binauthor:Omar+A.+Turner,+Navya+Lakshmana&hl=&cd=1&source=gbs_api
+
+Book 14 - Tableau Certified Data Analyst Certification Guide
+https://www.amazon.com/Tableau-Certified-Analyst-Certification-Guide/dp/1803243465
+https://www.amazon.co.uk/Tableau-Certified-Analyst-Certification-Guide/dp/1803243465
+http://books.google.co.uk/books?id=IJwQEQAAQBAJ&printsec=frontcover&dq=intitle:Tableau+Certified+Data+Analyst+Certification+Guide%2Binauthor:Harry+Cooney,+Daisy+Jones&hl=&cd=1&source=gbs_api
+
+Book 15 - ISACA Certified in Risk and Information Systems Control (CRISC(r)) Exam Guide
+https://www.amazon.com/Certified-Information-Systems-Control-Certification/dp/1803236906
+No Amazon.co.uk URL found
+No Google Books URL found.
+
+Book 16 - Microsoft 365 Certified Fundamentals MS-900 Exam Guide
+No Amazon.com URL found
+https://www.amazon.co.uk/Microsoft-Certified-Fundamentals-MS-900-Guide/dp/1838982175
+http://books.google.co.uk/books?id=8a6-zgEACAAJ&dq=intitle:Microsoft+365+Certified+Fundamentals+MS-900+Exam+Guide%2Binauthor:Aaron+Guilmette,+Yura+Lee,+Marcos+Zanre&hl=&cd=1&source=gbs_api
+
+Book 17 - Becoming a Salesforce Certified Technical Architect
+https://www.amazon.com/Becoming-Salesforce-Certified-Technical-Architect-ebook/dp/B0C3R9M957
+https://www.amazon.co.uk/Becoming-Salesforce-Certified-Technical-Architect-ebook/dp/B08NXV3H15
+http://books.google.co.uk/books?id=zhceEAAAQBAJ&printsec=frontcover&dq=intitle:Becoming+a+Salesforce+Certified+Technical+Architect%2Binauthor:Tameem+Bahri&hl=&cd=1&source=gbs_api
+
+Book 18 - CompTIA CASP+ CAS-004 Certification Guide
+https://www.amazon.com/CompTIA-CASP-CAS-004-Certification-Guide/dp/1801816778
+https://www.amazon.co.uk/CompTIA-CASP-CAS-004-Certification-Guide-ebook/dp/B09F3RFTWK
+http://books.google.co.uk/books?id=I7NZEAAAQBAJ&printsec=frontcover&dq=intitle:CompTIA+CASP%2B+CAS-004+Certification+Guide%2Binauthor:Mark+Birch&hl=&cd=1&source=gbs_api
+
+Book 19 - Certified Information Security Manager Exam Prep Guide
+https://www.amazon.com/Certified-Information-Security-Manager-Guide/dp/1804610631
+https://www.amazon.co.uk/Certified-Information-Security-Manager-Guide/dp/1801074100
+http://books.google.co.uk/books?id=l51REAAAQBAJ&printsec=frontcover&dq=intitle:Certified+Information+Security+Manager+Exam+Prep+Guide%2Binauthor:Hemang+Doshi&hl=&cd=1&source=gbs_api
+
+Book 20 - Certified Ethical Hacker (CEH) v12 312-50 Exam Guide
+https://www.amazon.com/Certified-Ethical-Hacker-312-50-hands/dp/1801813094
+https://www.amazon.co.uk/Certified-Ethical-Hacker-312-50-hands-ebook/dp/B09ZYHTXRX
+http://books.google.co.uk/books?id=f9JyEAAAQBAJ&printsec=frontcover&dq=intitle:Certified+Ethical+Hacker+(CEH)+v12+312-50+Exam+Guide%2Binauthor:Dale+Meredith,+Chistopher+Rees&hl=&cd=1&source=gbs_api
+
