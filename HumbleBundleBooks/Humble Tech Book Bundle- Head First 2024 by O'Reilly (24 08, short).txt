@@ -1,0 +1,252 @@
+Humble Tech Book Bundle- Head First 2024 by O'Reilly - O'Reilly
+Processing date: 2024-08-13
+Data retrieved from: https://www.humblebundle.com/books/head-first-2024-oreilly-books?
+
+Book 01 - Head First Software Architecture - Raju Gandhi, Mark Richards, Neal Ford - 4.8 out of 5 (8 reviews)
+Book 02 - Head First Android Development, 3rd Edition - Dawn Griffiths, David Griffiths - 4.6 out of 5 (50 reviews)
+Book 03 - Head First Agile - Andrew Stellman, Jennifer Greene - 4.5 out of 5 (220 reviews)
+Book 04 - Head First PMP, 4th Edition - Jennifer Greene, Andrew Stellman - 4.6 out of 5 (619 reviews)
+Book 05 - Head First Statistics - Dawn Griffiths - 4.4 out of 5 (247 reviews)
+Book 06 - Head First Java, 3rd Edition - Kathy Sierra, Bert Bates, Trisha Gee - 0 out of 5 (261 reviews)
+Book 07 - Head First Swift - Paris Buttfield-Addison, Jon Manning - 3.9 out of 5 (19 reviews)
+Book 08 - Head First Git - Raju Gandhi - 4.5 out of 5 (55 reviews)
+Book 09 - Head First C - David Griffiths, Dawn Griffiths - 4.5 out of 5 (None found reviews)
+Book 10 - Head First Kotlin - Dawn Griffiths, David Griffiths - 4.3 out of 5 (156 reviews)
+Book 11 - Head First Learn to Code - Eric Freeman - 4.6 out of 5 (None found reviews)
+Book 12 - Head First HTML and CSS, 2nd Edition - Elisabeth Robson, Eric Freeman - 4.6 out of 5 (None found reviews)
+Book 13 - Head First Python, 3rd Edition - Paul Barry - 4.2 out of 5 (26 reviews)
+Book 14 - Head First Go - Jay McGavren - 4.6 out of 5 (198 reviews)
+Book 15 - Head First Design Patterns, 2nd Edition - Eric Freeman, Elisabeth Robson - None found out of 5 (None found reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: Head First Software Architecture
+Author(s): Raju Gandhi, Mark Richards, Neal Ford
+---
+ISBN-10: 109813432X - ISBN-13: 9781098134327 - ASIN: 1098134354
+Published Date: 2024-03-06
+---
+HB Blurb: What will you learn from this book?If you're a software developer looking for a quick on-ramp to software architecture, this handy guide is a great place to start. From the authors of Fundamentals of Software Architecture, Head First Software Architecture teaches you how to think architecturally and explores the unique challenges of software architecture. You'll learn the distinction between architecture and design and the relationship between code, components, and architectural styles. You'll also learn how to work with some common architectural styles through vivid, fun examples. Quick, easy, and entertaining, this book is a valuable introduction to the world of software architecture.  Why does this book look so different?Based on the latest research in cognitive science and learning theory, Head First Software Architecture uses a visually rich format to engage your mind, rather than a text-heavy approach that puts you to sleep. Why waste your time struggling with new concepts? This multisensory learning experience is designed for the way your brain really works.
+--------------------------------------------------
+
+Book 02:
+Title: Head First Android Development, 3rd Edition
+Author(s): Dawn Griffiths, David Griffiths
+---
+ISBN-10: 149207649X - ISBN-13: 9781492076490 - ASIN: 149207652X
+Published Date: 2021-11-10
+---
+HB Blurb: What will you learn from this book?If you have an idea for a killer Android app, this fully revised and updated edition will get you up and running in a jiffy. You'll go beyond syntax and how-to manuals and learn how to think like a great Android developer. This hands-on book teaches you everything from designing user interfaces to building multi-screen apps that persist data in a database. It covers the latest features of Android Jetpack, including Jetpack Compose. It's like having an experienced Android developer sitting right next to you! If you have some Kotlin know-how, you're ready to get started.Why does this book look so different?Based on the latest research in cognitive science and learning theory, Head First Android Development uses a visually rich format to engage your mind rather than a text-heavy approach that puts you to sleep. Why waste your time struggling with new concepts? This multisensory learning experience is designed for the way your brain really works.
+--------------------------------------------------
+
+Book 03:
+Title: Head First Agile
+Author(s): Andrew Stellman, Jennifer Greene
+---
+ISBN-10: 1491950447 - ISBN-13: 9781491950449 - ASIN: B075SNHSQH
+Published Date: 2017-09-18
+---
+HB Blurb: Head First Agile is a complete guide to learning real-world agile ideas, practices, principles. What will you learn from this book?In Head First Agile, you'll learn all about the ideas behind agile and the straightforward practices that drive it. You'll take deep dives into Scrum, XP, Lean, and Kanban, the most common real-world agile approaches today. You'll learn how to use agile to help your teams plan better, work better together, write better code, and improve as a team‚Äîbecause agile not only leads to great results, but agile teams say they also have a much better time at work. Head First Agile will help you get agile into your brain... and onto your team!Preparing for your PMI-ACP¬Æ certification?This book also has everything you need to get certified, with 100% coverage of the PMI-ACP exam. Luckily, the most effective way to prepare for the exam is to get agile into your brain‚ instead of cramming, you're learning.Why does this book look so different?Based on the latest research in cognitive science and learning theory, Head First Agile uses a visually rich format to engage your mind, rather than a text-heavy approach that puts you to sleep. Why waste your time struggling with new concepts? This multi-sensory learning experience is designed for the way your brain really works.
+--------------------------------------------------
+
+Book 04:
+Title: Head First PMP, 4th Edition
+Author(s): Jennifer Greene, Andrew Stellman
+---
+ISBN-10: 1449364896 - ISBN-13: 9781449364892 - ASIN: 1492029645
+Published Date: 2013-12-18
+---
+HB Blurb: Now updated for the 2021 PMP ExamWhat will you learn from this book?Head First PMP teaches you the latest principles and certification objectives in The PMBOK¬Æ Guide in a unique and inspiring way. This updated fourth edition takes you beyond specific questions and answers with a unique visual format that helps you grasp the big picture of project management. By putting PMP concepts into context, you'll be able to understand, remember, and apply them--not just on the exam, but on the job. No wonder so many people have used Head First PMP as their sole source for passing the PMP exam. This book will help you:Learn PMP's underlying concepts to help you understand the PMBOK principles and pass the certification exam with flying colorsGet 100% coverage of the latest principles and certification objectives in The PMBOK¬Æ Guide, Sixth EditionMake use of a thorough and effective preparation guide with hundreds of practice questions and exam strategiesExplore the material through puzzles, games, problems, and exercises that make learning easy and entertainingWhy does this book look so different?Based on the latest research in cognitive science and learning theory, Head First PMP uses a visually rich format to engage your mind, rather than a text-heavy approach that puts you to sleep. Why waste your time struggling with new concepts? This multi-sensory learning experience is designed for the way your brain really works.
+--------------------------------------------------
+
+Book 05:
+Title: Head First Statistics
+Author(s): Dawn Griffiths
+---
+ISBN-10: 0596527586 - ISBN-13: 9780596527587 - ASIN: B0064U8FIE
+Published Date: 2008-08-26
+---
+HB Blurb: Wouldn't it be great if there were a statistics book that made histograms, probability distributions, and chi square analysis more enjoyable than going to the dentist? Head First Statistics brings this typically dry subject to life, teaching you everything you want and need to know about statistics through engaging, interactive, and thought-provoking material, full of puzzles, stories, quizzes, visual aids, and real-world examples.Whether you're a student, a professional, or just curious about statistical analysis, Head First's brain-friendly formula helps you get a firm grasp of statistics so you can understand key points and actually use them. Learn to present data visually with charts and plots; discover the difference between taking the average with mean, median, and mode, and why it's important; learn how to calculate probability and expectation; and much more.Head First Statistics is ideal for high school and college students taking statistics and satisfies the requirements for passing the College Board's Advanced Placement (AP) Statistics Exam. With this book, you'll:Study the full range of topics covered in first-year statisticsTackle tough statistical concepts using Head First's dynamic, visually rich format proven to stimulate learning and help you retain knowledge Explore real-world scenarios, ranging from casino gambling to prescription drug testing, to bring statistical principles to lifeDiscover how to measure spread, calculate odds through probability, and understand the normal, binomial, geometric, and Poisson distributionsConduct sampling, use correlation and regression, do hypothesis testing, perform chi square analysis, and moreBefore you know it, you'll not only have mastered statistics, you'll also see how they work in the real world. Head First Statistics will help you pass your statistics course, and give you a firm understanding of the subject so you can apply the knowledge throughout your life.
+--------------------------------------------------
+
+Book 06:
+Title: Head First Java, 3rd Edition
+Author(s): Kathy Sierra, Bert Bates, Trisha Gee
+---
+ISBN-10: 9781491910771 - ISBN-13: 1491910771 - ASIN: 
+Published Date: 2022-07-31
+---
+HB Blurb: What will you learn from this book?Head First Java is a complete learning experience in Java and object-oriented programming. With this book, you'll learn the Java language with a unique method that goes beyond how-to manuals and helps you become a great programmer. Through puzzles, mysteries, and soul-searching interviews with famous Java objects, you'll quickly get up to speed on Java's fundamentals and advanced topics including lambdas, streams, generics, threading, networking, and the dreaded desktop GUI. If you have experience with another programming language, Head First Java will engage your brain with more modern approaches to coding--the sleeker, faster, and easier to read, write, and maintain Java of today.What's so special about this book?If you've read a Head First book, you know what to expect--a visually rich format designed for the way your brain works. If you haven't, you're in for a treat. With Head First Java, you'll learn Java through a multisensory experience that engages your mind, rather than by means of a text-heavy approach that puts you to sleep.
+--------------------------------------------------
+
+Book 07:
+Title: Head First Swift
+Author(s): Paris Buttfield-Addison, Jon Manning
+---
+ISBN-10: 1491923210 - ISBN-13: 9781491923214 - ASIN: B09NP13VF5
+Published Date: 2021-11-18
+---
+HB Blurb: What will you learn from this book?Swift is best known as Apple's programming language of choice for developing apps on iOS, iPadOS, macOS, watchOS, and tvOS. But it's far more versatile than that. Open source Swift is also gaining ground as a language for systems programming and server-side code, and it runs on Linux and Windows. So where do you start? With Head First Swift, you'll explore from the ground up: from collecting and controlling data to reusing code, producing custom data types, and structuring programs and user interfaces with SwiftUI by building safe, protocol-driven code. With Swift under your belt, you'll be ready to build everything from mobile and web apps to games, frameworks, command-line tools, and beyond.  What's so special about this book?If you've read a Head First book, you know what to expect--a visually rich format designed for the way your brain works. If you haven't, you're in for a treat. With this book, you'll learn Swift through a multisensory experience that engages your mind rather than a text-heavy approach that puts you to sleep.
+--------------------------------------------------
+
+Book 08:
+Title: Head First Git
+Author(s): Raju Gandhi
+---
+ISBN-10: 9781492092506 - ISBN-13: 1492092509 - ASIN: B09R3RW4VF
+Published Date: 2022
+---
+HB Blurb: What will you learn from this book?Many people who use Git rely on "recipes"--copying and pasting commands they find on the internet without really understanding how Git actually works. But what do you do if you find yourself in a tight spot? You can't simply wing it. With this unique hands-on guide, you'll learn the ways of Git and have fun while doing it. Raju Gandhi peels back the layers to reveal the simple yet powerful engine that powers Git, so you'll understand not just the how but the why. You'll master branches, merges, commit messages, search, utilities, and more; learn best practices for collaborative work; and unlock the full potential of Git. What's so special about this book?If you've read a Head First book, you know what to expect--a visually rich format designed for the way your brain works. If you haven't, you're in for a treat. With this book, you'll learn Git through a multisensory experience that engages your mind rather than a text-heavy approach that puts you to sleep.
+--------------------------------------------------
+
+Book 09:
+Title: Head First C
+Author(s): David Griffiths, Dawn Griffiths
+---
+ISBN-10: 1449399916 - ISBN-13: 9781449399917 - ASIN: B009166ZYE
+Published Date: 2012-04-12
+---
+HB Blurb: Ever wished you could learn C from a book? Head First C provides a complete learning experience for C and structured imperative programming. With a unique method that goes beyond syntax and how-to manuals, this guide not only teaches you the language, it helps you understand how to be a great programmer. You'll learn key areas such as language basics, pointers and pointer arithmetic, and dynamic memory management. Advanced topics include multi-threading and network programming‚ topics typically covered on a college-level course.This book also features labs: in-depth projects intended to stretch your abilities, test your new skills, and build confidence. Head First C mimics the style of college-level C courses, making it ideal as an accessible textbook for students.We think your time is too valuable to waste struggling with new concepts. Using the latest research in cognitive science and learning theory to craft a multi-sensory learning experience, Head First C uses a visually rich format designed for the way your brain works, not a text-heavy approach that puts you to sleep.
+--------------------------------------------------
+
+Book 10:
+Title: Head First Kotlin
+Author(s): Dawn Griffiths, David Griffiths
+---
+ISBN-10: 1491996668 - ISBN-13: 9781491996669 - ASIN: B07NPZ21QP
+Published Date: 2019-02-13
+---
+HB Blurb: What will you learn from this book?Head First Kotlin is a complete introduction to coding in Kotlin. This hands-on book helps you learn the Kotlin language with a unique method that goes beyond syntax and how-to manuals and teaches you how to think like a great Kotlin developer. You√¢??ll learn everything from language fundamentals to collections, generics, lambdas, and higher-order functions. Along the way, you√¢??ll get to play with both object-oriented and functional programming. If you want to really understand Kotlin, this is the book for you.   Why does this book look so different? Based on the latest research in cognitive science and learning theory, Head First Kotlin uses a visually rich format to engage your mind rather than a text-heavy approach that puts you to sleep. Why waste your time struggling with new concepts? This multisensory learning experience is designed for the way your brain really works.
+--------------------------------------------------
+
+Book 11:
+Title: Head First Learn to Code
+Author(s): Eric Freeman
+---
+ISBN-10: 1491958839 - ISBN-13: 9781491958834 - ASIN: 1491958863
+Published Date: 2018-01-02
+---
+HB Blurb: What will you learn from this book?It’s no secret the world around you is becoming more connected, more configurable, more programmable, more computational. You can remain a passive participant, or you can learn to code. With Head First Learn to Code you’ll learn how to think computationally and how to write code to make your computer, mobile device, or anything with a CPU do things for you. Using the Python programming language, you’ll learn step by step the core concepts of programming as well as many fundamental topics from computer science, such as data structures, storage, abstraction, recursion, and modularity. Why does this book look so different?Based on the latest research in cognitive science and learning theory, Head First Learn to Code uses a visually rich format to engage your mind, rather than a text-heavy approach that puts you to sleep. Why waste your time struggling with new concepts? This multi-sensory learning experience is designed for the way your brain really works.
+--------------------------------------------------
+
+Book 12:
+Title: Head First HTML and CSS, 2nd Edition
+Author(s): Elisabeth Robson, Eric Freeman
+---
+ISBN-10: 0596159900 - ISBN-13: 9780596159900 - ASIN: 
+Published Date: 2012
+---
+HB Blurb: Tired of reading HTML books that only make sense after you're an expert? Then it's about time you picked up Head First HTML and really learned HTML. You want to learn HTML so you can finally create those web pages you've always wanted, so you can communicate more effectively with friends, family, fans, and fanatic customers. You also want to do it right so you can actually maintain and expand your web pages over time so they work in all browsers and mobile devices. Oh, and if you've never heard of CSS, that's okay--we won't tell anyone you're still partying like it's 1999--but if you're going to create web pages in the 21st century then you'll want to know and understand CSS.Learn the real secrets of creating web pages, and why everything your boss told you about HTML tables is probably wrong (and what to do instead). Most importantly, hold your own with your co-worker (and impress cocktail party guests) when he casually mentions how his HTML is now strict, and his CSS is in an external style sheet.With Head First HTML, you'll avoid the embarrassment of thinking web-safe colors still matter, and the foolishness of slipping a font tag into your pages. Best of all, you'll learn HTML and CSS in a way that won't put you to sleep. If you've read a Head First book, you know what to expect: a visually-rich format designed for the way your brain works. Using the latest research in neurobiology, cognitive science, and learning theory, this book will load HTML and CSS into your brain in a way that sticks.So what are you waiting for? Leave those other dusty books behind and come join us in Webville. Your tour is about to begin.
+--------------------------------------------------
+
+Book 13:
+Title: Head First Python, 3rd Edition
+Author(s): Paul Barry
+---
+ISBN-10: 1492051268 - ISBN-13: 9781492051268 - ASIN: B0CGKWXLV6
+Published Date: 2023-08-16
+---
+HB Blurb: What will you learn from this book?Want to learn the Python language without slogging your way through how-to manuals? With Head First Python, you'll quickly grasp Python's fundamentals by working with built-in data structures and functions. You'll build your very own web app, which—once it's ready for prime time—runs in the cloud. You'll learn how to wrangle data with Python, scrape data from the web, feed data to pandas, and interact with databases. This third edition is a complete learning experience that will help you become a bona fide Python programmer in no time.What's so special about this book? If you've read a Head First book, you know what to expect: a visually rich format designed for the way your brain works. If you haven't, you're in for a treat. With this book, you'll learn Python through a multisensory experience that engages your mind—rather than a text-heavy approach that puts you to sleep.
+--------------------------------------------------
+
+Book 14:
+Title: Head First Go
+Author(s): Jay McGavren
+---
+ISBN-10: 1491969520 - ISBN-13: 9781491969526 - ASIN: B07QFCC7MH
+Published Date: 2019-04-04
+---
+HB Blurb: What will you learn from this book?Go makes it easy to build software that‚Äôs simple, reliable, and efficient. Andthis book makes it easy for programmers like you to get started. Googledesigned Go for high-performance networking and multiprocessing, but‚Äîlike Python and JavaScript‚Äîthe language is easy to read and use. With thispractical hands-on guide, you‚Äôll learn how to write Go code using clearexamples that demonstrate the language in action. Best of all, you‚Äôll understandthe conventions and techniques that employers want entry-level Godevelopers to know.Why does this book look so different?Based on the latest research in cognitive science and learning theory, HeadFirst Go uses a visually rich format to engage your mind rather than a textheavyapproach that puts you to sleep. Why waste your time struggling withnew concepts? This multisensory learning experience is designed for theway your brain really works.
+--------------------------------------------------
+
+Book 15:
+Title: Head First Design Patterns, 2nd Edition
+Author(s): Eric Freeman, Elisabeth Robson
+---
+ISBN-10: 0596007124 - ISBN-13: 9780596007126 - ASIN: 149207800X
+Published Date: 2004-10-25
+---
+HB Blurb: What will you learn from this book?You know you don't want to reinvent the wheel, so you look to Design Patterns: the lessons learned by those who've faced the same software design problems. With Design Patterns, you get to take advantage of the best practices and experience of others so you can spend your time on something more challenging. Something more fun. This book shows you the patterns that matter, when to use them and why, how to apply them to your own designs, and the object-oriented design principles on which they're based. Join hundreds of thousands of developers who've improved their object-oriented design skills through Head First Design Patterns.What's so special about this book? If you've read a Head First book, you know what to expect: a visually rich format designed for the way your brain works. With Head First Design Patterns, 2E you'll learn design principles and patterns in a way that won't put you to sleep, so you can get out there to solve software design problems and speak the language of patterns with others on your team.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Head First Software Architecture
+https://www.amazon.com/Head-First-Software-Architecture-Architectural/dp/1098134354
+https://www.amazon.co.uk/Head-First-Software-Architecture-Gandhi-ebook/dp/B0CW1JMNF2
+http://books.google.co.uk/books?id=Whj9EAAAQBAJ&printsec=frontcover&dq=intitle:Head+First+Software+Architecture%2Binauthor:Raju+Gandhi,+Mark+Richards,+Neal+Ford&hl=&cd=1&source=gbs_api
+
+Book 02 - Head First Android Development, 3rd Edition
+https://www.amazon.com/Head-First-Android-Development-Learners/dp/149207652X
+https://www.amazon.co.uk/Head-First-Android-Development-Griffiths-ebook/dp/B09M5SJ62X
+http://books.google.co.uk/books?id=LDpPEAAAQBAJ&printsec=frontcover&dq=intitle:Head+First+Android+Development,+3rd+Edition%2Binauthor:Dawn+Griffiths,+David+Griffiths&hl=&cd=1&source=gbs_api
+
+Book 03 - Head First Agile
+https://www.amazon.com/Head-First-Agile-Brain-Friendly-Principles-ebook/dp/B075SNHSQH
+https://www.amazon.co.uk/Head-First-Agile-Brain-Friendly-Principles/dp/1449314333
+http://books.google.co.uk/books?id=xK42DwAAQBAJ&printsec=frontcover&dq=intitle:Head+First+Agile%2Binauthor:Andrew+Stellman,+Jennifer+Greene&hl=&cd=1&source=gbs_api
+
+Book 04 - Head First PMP, 4th Edition
+https://www.amazon.com/Head-First-PMP-Management-Professional/dp/1492029645
+https://www.amazon.co.uk/Head-First-PMP-Management-Professional/dp/1492029645
+http://books.google.co.uk/books?id=-N9eAgAAQBAJ&printsec=frontcover&dq=intitle:Head+First+PMP,+4th+Edition%2Binauthor:Jennifer+Greene,+Andrew+Stellman&hl=&cd=1&source=gbs_api
+
+Book 05 - Head First Statistics
+https://www.amazon.com/Head-First-Statistics-Dawn-Griffiths-ebook/dp/B0064U8FIE
+https://www.amazon.co.uk/Head-First-Statistics-Dawn-Griffiths/dp/0596527586
+http://books.google.co.uk/books?id=XzVb4Yz6DBcC&printsec=frontcover&dq=intitle:Head+First+Statistics%2Binauthor:Dawn+Griffiths&hl=&cd=1&source=gbs_api
+
+Book 06 - Head First Java, 3rd Edition
+https://www.amazon.com/Head-First-Java-Brain-Friendly-Guide/dp/1491910771
+https://www.amazon.co.uk/Head-First-Java-3rd-Brain-Friendly/dp/1491910771
+http://books.google.co.uk/books?id=mvt4zgEACAAJ&dq=intitle:Head+First+Java,+3rd+Edition%2Binauthor:Kathy+Sierra,+Bert+Bates,+Trisha+Gee&hl=&cd=1&source=gbs_api
+
+Book 07 - Head First Swift
+https://www.amazon.com/Head-First-Swift-Paris-Buttfield-Addison-ebook/dp/B09NP13VF5
+https://www.amazon.co.uk/Head-First-Swift-Paris-Buttfield-Addison-ebook/dp/B09NP13VF5
+http://books.google.co.uk/books?id=y_FUEAAAQBAJ&printsec=frontcover&dq=intitle:Head+First+Swift%2Binauthor:Paris+Buttfield-Addison,+Jon+Manning&hl=&cd=1&source=gbs_api
+
+Book 08 - Head First Git
+https://www.amazon.com/Head-First-Git-Raju-Gandhi-ebook/dp/B09R3RW4VF
+https://www.amazon.co.uk/Head-First-Git-Raju-Gandhi-ebook/dp/B09R3RW4VF
+http://books.google.co.uk/books?id=lRZ2zgEACAAJ&dq=intitle:Head+First+Git%2Binauthor:Raju+Gandhi&hl=&cd=1&source=gbs_api
+
+Book 09 - Head First C
+https://www.amazon.com/Head-First-C-Brain-Friendly-Guide-ebook/dp/B009166ZYE
+https://www.amazon.co.uk/Head-First-C-Brain-Friendly-Guide-ebook/dp/B009166ZYE
+http://books.google.co.uk/books?id=WaYatLKywDYC&printsec=frontcover&dq=intitle:Head+First+C%2Binauthor:David+Griffiths,+Dawn+Griffiths&hl=&cd=1&source=gbs_api
+
+Book 10 - Head First Kotlin
+https://www.amazon.com/Head-First-Kotlin-Brain-Friendly-Guide-ebook/dp/B07NPZ21QP
+https://www.amazon.co.uk/Head-First-Kotlin-Brain-Friendly-Guide-ebook/dp/B07NPZ21QP
+http://books.google.co.uk/books?id=NcuHDwAAQBAJ&printsec=frontcover&dq=intitle:Head+First+Kotlin%2Binauthor:Dawn+Griffiths,+David+Griffiths&hl=&cd=1&source=gbs_api
+
+Book 11 - Head First Learn to Code
+https://www.amazon.com/Head-First-Learn-Code-Computational/dp/1491958863
+https://www.amazon.co.uk/Head-First-Learn-Code-Computational-ebook/dp/B0792LM8Q9
+http://books.google.co.uk/books?id=kytHDwAAQBAJ&printsec=frontcover&dq=intitle:Head+First+Learn+to+Code%2Binauthor:Eric+Freeman&hl=&cd=1&source=gbs_api
+
+Book 12 - Head First HTML and CSS, 2nd Edition
+https://www.amazon.com/Head-First-HTML-CSS-Standards-Based/dp/0596159900
+No Amazon.co.uk URL found
+http://books.google.co.uk/books?id=BZIYQtV6yKsC&printsec=frontcover&dq=intitle:Head+First+HTML+and+CSS,+2nd+Edition%2Binauthor:Elisabeth+Robson,+Eric+Freeman&hl=&cd=1&source=gbs_api
+
+Book 13 - Head First Python, 3rd Edition
+https://www.amazon.com/Head-First-Python-Paul-Barry-ebook/dp/B0CGKWXLV6
+https://www.amazon.co.uk/Head-First-Python-Paul-Barry-ebook/dp/B0CGKWXLV6
+http://books.google.co.uk/books?id=z8nSEAAAQBAJ&printsec=frontcover&dq=intitle:Head+First+Python,+3rd+Edition%2Binauthor:Paul+Barry&hl=&cd=1&source=gbs_api
+
+Book 14 - Head First Go
+https://www.amazon.com/Head-First-Go-Jay-McGavren-ebook/dp/B07QFCC7MH
+https://www.amazon.co.uk/Head-First-Go-Jay-McGavren-ebook/dp/B07QFCC7MH
+http://books.google.co.uk/books?id=8DaQDwAAQBAJ&printsec=frontcover&dq=intitle:Head+First+Go%2Binauthor:Jay+McGavren&hl=&cd=1&source=gbs_api
+
+Book 15 - Head First Design Patterns, 2nd Edition
+No Amazon.com URL found
+https://www.amazon.co.uk/Head-First-Design-Patterns-Object-Oriented/dp/149207800X
+http://books.google.co.uk/books?id=GGpXN9SMELMC&printsec=frontcover&dq=intitle:Head+First+Design+Patterns,+2nd+Edition%2Binauthor:Eric+Freeman,+Elisabeth+Robson&hl=&cd=1&source=gbs_api
+
