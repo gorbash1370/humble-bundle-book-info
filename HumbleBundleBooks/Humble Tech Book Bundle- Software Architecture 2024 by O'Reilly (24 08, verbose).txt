@@ -1,0 +1,703 @@
+Humble Tech Book Bundle- Software Architecture 2024 by O'Reilly - O'Reilly
+Processing date: 2024-08-29
+Data retrieved from: https://www.humblebundle.com/books/software-architecture-2024-oreilly-books
+
+Book 01 - Learning Systems Thinking - Unknown - None found out of 5 (None found reviews)
+Book 02 - Building Multi-Tenant SaaS Architectures - Unknown - 4 out of 5 (4 reviews)
+Book 03 - Head First Software Architecture - Raju Gandhi, Mark Richards, Neal Ford - 4.8 out of 5 (9 reviews)
+Book 04 - Enabling Microservice Success - Unknown - 0 out of 5 (3 reviews)
+Book 05 - Serverless Development on AWS - Unknown - None found out of 5 (None found reviews)
+Book 06 - Communication Patterns - Unknown - 5 out of 5 (5 reviews)
+Book 07 - Building an Event-Driven Data Mesh - Adam Bellemare - 4.4 out of 5 (7 reviews)
+Book 08 - Building Evolutionary Architectures, 2nd Edition - Neal Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage - 4.3 out of 5 (32 reviews)
+Book 09 - Mastering API Architecture - James Gough, Daniel Bryant, Matthew Auburn - 4.4 out of 5 (23 reviews)
+Book 10 - RESTful Web API Patterns and Practices Cookbook - Mike Amundsen - 3 out of 5 (2 reviews)
+Book 11 - Software Architecture Patterns, 2nd Edition - Unknown - 5 out of 5 (14 reviews)
+Book 12 - Foundations of Scalable Systems - Ian Gorton - 4.6 out of 5 (30 reviews)
+Book 13 - Software Architecture Metrics - Christian Ciceri, Dave Farley, Neal Ford, Andrew Harmel-Law, Michael Keeling, Carola Lilienthal, João Rosa, Alexander von Zitzewitz, Rene Weiss, Eoin Woods - 4.2 out of 5 (33 reviews)
+Book 14 - Software Architecture: The Hard Parts - Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani - 4.5 out of 5 (523 reviews)
+Book 15 - Learning Domain-Driven Design - Vlad Khononov - 4.7 out of 5 (298 reviews)
+Book 16 - Building Microservices, 2nd Edition - Unknown - 4.7 out of 5 (631 reviews)
+Book 17 - Practical Process Automation - Unknown - 4.7 out of 5 (35 reviews)
+Book 18 - Flow Architectures - James Urquhart - 3.8 out of 5 (55 reviews)
+Book 19 - Building Event-Driven Microservices - Adam Bellemare - 4.4 out of 5 (278 reviews)
+Book 20 - The Software Architect Elevator - Gregor Hohpe - 4.7 out of 5 (341 reviews)
+Book 21 - Fundamentals of Software Architecture - Mark Richards, Neal Ford - 4.6 out of 5 (None found reviews)
+Book 22 - Monolith to Microservices - Sam Newman - 4.6 out of 5 (615 reviews)
+Book 23 - Technology Strategy Patterns - Eben Hewitt - 4.2 out of 5 (235 reviews)
+Book 24 - Designing Distributed Systems - Unknown - 4.2 out of 5 (297 reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Learning Systems Thinking
+Author(s): Unknown
+---
+ISBN-10:  - ISBN-13:  - ASIN: B0D9KWZRT2
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Learning-Systems-Thinking-Essential-Professionals-ebook/dp/B0D9KWZRT2
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learning-Systems-Thinking-Diana-Montalion-ebook/dp/B0D9KWZRT2
+---
+HB Blurb: Welcome to the systems age, where software professionals are no longer building software; we're building systems of software. Change is continuously deployed across software ecosystems coordinated by responsive infrastructure. In this world of increasing relational complexity, we need to think differently. Many of our challenges are systemic. This book shows you how systems thinking can guide you through the complexity of modern systems. Rather than relying on traditional reductionistic approaches, author Diana Montalion shows you how to expand your skill set so we can think, communicate, and act as healthy systems.Systems thinking is a practice that improves your effectiveness and enables you to lead impactful change. Through a series of practices and real-world scenarios, you'll learn to shift your perspective in order to design, develop, and deliver better outcomes.You'll learn:How linear thinking limits your ability to solve system challenges Common obstacles to systems thinking and how to move past themNew skills and practices that will transform how you think, learn, and leadMethods for thinking well with others and creating sound recommendationsHow to measure success in the midst of complexity and uncertainty
+--------------------------------------------------
+
+Book 02:
+Title: Building Multi-Tenant SaaS Architectures
+Author(s): Unknown
+---
+ISBN-10:  - ISBN-13:  - ASIN: B0CW1HLHSP
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: $54.74Save $13.25 (19%)
+Amazon.com Reviews: 4 of 5 (4 reviews)
+Amazon.com URL: https://www.amazon.com/Building-Multi-Tenant-SaaS-Architectures-Golding-ebook/dp/B0CW1HLHSP
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4 of 5 (4 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Building-Multi-Tenant-SaaS-Architectures-Golding-ebook/dp/B0CW1HLHSP
+---
+HB Blurb: Software as a service (SaaS) is on the path to becoming the de facto model for building, delivering, and operating software solutions. Adopting a multi-tenant SaaS model requires builders to take on a broad range of new architecture, implementation, and operational challenges. How data is partitioned, how resources are isolated, how tenants are authenticated, how microservices are built—these are just a few of the many areas that need to be on your radar when you're designing and creating SaaS offerings.In this book, Tod Golding, a global SaaS technical lead at AWS, provides an end-to-end view of the SaaS architectural landscape, outlining the practical techniques, strategies, and patterns that every architect must navigate as part of building a SaaS environment.Describe, classify, and characterize core SaaS patterns and strategiesIdentify the key building blocks, trade-offs, and considerations that will shape the design and implementation of your multi-tenant solutionExamine essential multi-tenant architecture strategies, including tenant isolation, noisy neighbor, data partitioning, onboarding, identity, and multi-tenant DevOpsExplore how multi-tenancy influences the design and implementation of microservicesLearn how multi-tenancy shapes the operational footprint of your SaaS environment
+--------------------------------------------------
+
+Book 03:
+Title: Head First Software Architecture
+Author(s): Raju Gandhi, Mark Richards, Neal Ford
+---
+ISBN-10: 1098134311 - ISBN-13: 9781098134310 - ASIN: 1098134354
+Published Date: 2024-03-06
+Page Count: 814
+---
+Google Books Price: GBP 47.99
+Google Books URL: http://books.google.co.uk/books?id=Vhj9EAAAQBAJ&printsec=frontcover&dq=intitle:Head+First+Software+Architecture%2Binauthor:Raju+Gandhi,+Mark+Richards,+Neal+Ford&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.8 of 5 (9 reviews)
+Amazon.com URL: https://www.amazon.com/Head-First-Software-Architecture-Architectural/dp/1098134354
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (8 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Head-First-Software-Architecture-Gandhi-ebook/dp/B0CW1JMNF2
+---
+HB Blurb: What will you learn from this book?If you're a software developer looking for a quick on-ramp to software architecture, this handy guide is a great place to start. From the authors of Fundamentals of Software Architecture, Head First Software Architecture teaches you how to think architecturally and explores the unique challenges of software architecture. You'll learn the distinction between architecture and design and the relationship between code, components, and architectural styles. You'll also learn how to work with some common architectural styles through vivid, fun examples. Quick, easy, and entertaining, this book is a valuable introduction to the world of software architecture. Why does this book look so different?Based on the latest research in cognitive science and learning theory, Head First Software Architecture uses a visually rich format to engage your mind, rather than a text-heavy approach that puts you to sleep. Why waste your time struggling with new concepts? This multisensory learning experience is designed for the way your brain really works.
+--------------------------------------------------
+
+Book 04:
+Title: Enabling Microservice Success
+Author(s): Unknown
+---
+ISBN-10:  - ISBN-13:  - ASIN: B0CZ4ZKMP3
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 0 of 5 (3 reviews)
+Amazon.com URL: https://www.amazon.com/Enabling-Microservice-Success-Organizational-Challenges-ebook/dp/B0CZ4ZKMP3
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (4 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Enabling-Microservice-Success-Sarah-Wells-ebook/dp/B0CZ4ZKMP3
+---
+HB Blurb: Microservices can be a very effective approach for delivering value to your organization and to your customers. If you get them right, microservices help you to move fast by making changes to small parts of your system hundreds of times a day. But if you get them wrong, microservices will just make everything more complicated.In this book, technical engineering leader Sarah Wells provides practical, in-depth advice for moving to microservices. Having built her first microservice architecture in 2013 for the Financial Times, Sarah discusses the approaches you need to take from the start and explains the potential problems most likely to trip you up. You'll also learn how to maintain the architecture as your systems mature while minimizing the time you spend on support and maintenance. With this book, you will:Learn the impact of microservices on software development patterns and practices Identify the organizational changes you need to make to successfully build and operate this architectureDetermine the steps you must take before you move to microservices Understand the traps to avoid when you create a microservices architecture—and learn how to recover if you fall into one
+--------------------------------------------------
+
+Book 05:
+Title: Serverless Development on AWS
+Author(s): Unknown
+---
+ISBN-10:  - ISBN-13:  - ASIN: B0CT4MVJHT
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: $41.99Save $15.00 (26%)
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Serverless-Development-AWS-Sheen-Brisals-ebook/dp/B0CT4MVJHT
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.9 of 5 (9 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Serverless-Development-AWS-Sheen-Brisals-ebook/dp/B0CT4MVJHT
+---
+HB Blurb: The adoption of serverless is on the rise, but until now, little guidance has been available for development teams that want to apply this technology on AWS. This definitive guide is packed with architectural, security, and data best practices and patterns for architects and engineers who want to build reliable enterprise-scale serverless solutions. Sheen Brisals, an AWS Serverless Hero, and Luke Hedger, an AWS Community Builder, outline the serverless adoption requirements for an enterprise, examine the development tools your team needs, and explain in depth the nuances of testing event-driven and distributed serverless services. You'll gain practical guidance for keeping up with change and learn how to build serverless solutions with sustainability in mind.Examine the serverless technology ecosystem and AWS services needed to develop serverless applicationsLearn the approach and preparation required for a successful serverless adoption in an enterpriseLearn serverless architectures and implementation patternsDesign, develop, and test distributed serverless microservices on AWS cloudApply security best practices while building serverless solutionsIdentify and adapt the implementation patterns for your particular use caseIncorporate the necessary measures for observable serverless applicationsImplement sustainable serverless applications in the cloud
+--------------------------------------------------
+
+Book 06:
+Title: Communication Patterns
+Author(s): Unknown
+---
+ISBN-10:  - ISBN-13:  - ASIN: B0CKM8L13H
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: $41.99Save $15.00 (26%)
+Amazon.com Reviews: 5 of 5 (5 reviews)
+Amazon.com URL: https://www.amazon.com/Communication-Patterns-Jacqui-Read-ebook/dp/B0CKM8L13H
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (4 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Communication-Patterns-Jacqui-Read-ebook/dp/B0CKM8L13H
+---
+HB Blurb: Having a great idea or design is not enough to make your software project succeed. If you want stakeholders to buy into your design and teams to collaborate and contribute to the vision, you also need to communicate effectively. In this practical book, author Jacqui Read shows you how to successfully present your architecture and get stakeholders to jump on board. Misunderstanding and lack of buy-in leads to increasing costs, unmet requirements, and an architecture that is not what you intended. Through constructive examples and patterns, this book shows you how to create documentation and diagrams that actually get the message across to the different audiences you'll face. This book shows you how to:Design diagrams and documentation appropriate to your expected audience, intended message, and project stageCreate documentation and diagrams that are accessible to those with varying roles, needs, or disabilitiesMaster written, verbal, and nonverbal communication to succeed in technical settingsApply the communication patterns presented in this book in real-world projects and software designsCommunicate and collaborate with distributed teams to successfully design and document software and technical projects
+--------------------------------------------------
+
+Book 07:
+Title: Building an Event-Driven Data Mesh
+Author(s): Adam Bellemare
+---
+ISBN-10: 1098127560 - ISBN-13: 9781098127565 - ASIN: B0C1HY3734
+Published Date: 2023-04-04
+Page Count: 260
+---
+Google Books Price: GBP 40.99
+Google Books URL: http://books.google.co.uk/books?id=dH-3EAAAQBAJ&printsec=frontcover&dq=intitle:Building+an+Event-Driven+Data+Mesh%2Binauthor:Adam+Bellemare&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $41.99Save $15.00 (26%)
+Amazon.com Reviews: 4.4 of 5 (7 reviews)
+Amazon.com URL: https://www.amazon.com/Building-Event-Driven-Data-Mesh-Bellemare-ebook/dp/B0C1HY3734
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (7 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Building-Event-Driven-Data-Mesh-Bellemare-ebook/dp/B0C1HY3734
+---
+HB Blurb: The exponential growth of data combined with the need to derive real-time business value is a critical issue today. An event-driven data mesh can power real-time operational and analytical workloads, all from a single set of data product streams. With practical real-world examples, this book shows you how to successfully design and build an event-driven data mesh.Building an Event-Driven Data Mesh provides:Practical tips for iteratively building your own event-driven data mesh, including hurdles you'll experience, possible solutions, and how to obtain real value as soon as possibleSolutions to pitfalls you may encounter when moving your organization from monoliths to event-driven architecturesA clear understanding of how events relate to systems and other events in the same stream and across streamsA realistic look at event modeling options, such as fact, delta, and command type events, including how these choices will impact your data productsBest practices for handling events at scale, privacy, and regulatory complianceAdvice on asynchronous communication and handling eventual consistency
+--------------------------------------------------
+
+Book 08:
+Title: Building Evolutionary Architectures, 2nd Edition
+Author(s): Neal Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage
+---
+ISBN-10: 1492097519 - ISBN-13: 9781492097518 - ASIN: 1492097543
+Published Date: 2022-11-22
+Page Count: 265
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=BmudEAAAQBAJ&pg=PP2&dq=intitle:Building+Evolutionary+Architectures,+2nd+Edition%2Binauthor:Neal+Ford,+Rebecca+Parsons,+Patrick+Kua,+Pramod+Sadalage&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.3 of 5 (32 reviews)
+Amazon.com URL: https://www.amazon.com/Building-Evolutionary-Architectures-Automated-Governance/dp/1492097543
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (25 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Building-Evolutionary-Architectures-Automated-Governance/dp/1492097543
+---
+HB Blurb: The software development ecosystem is constantly changing, providing a constant stream of new tools, frameworks, techniques, and paradigms. Over the past few years, incremental developments in core engineering practices for software development have created the foundations for rethinking how architecture changes over time, along with ways to protect important architectural characteristics as it evolves. This practical guide ties those parts together with a new way to think about architecture and time.
+--------------------------------------------------
+
+Book 09:
+Title: Mastering API Architecture
+Author(s): James Gough, Daniel Bryant, Matthew Auburn
+---
+ISBN-10: 1492090603 - ISBN-13: 9781492090601 - ASIN: 1492090638
+Published Date: 2021-03-19
+Page Count: 289
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=dsSVEAAAQBAJ&printsec=frontcover&dq=intitle:Mastering+API+Architecture%2Binauthor:James+Gough,+Daniel+Bryant,+Matthew+Auburn&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.4 of 5 (23 reviews)
+Amazon.com URL: https://www.amazon.com/Mastering-API-Architecture-Operate-API-Based/dp/1492090638
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (24 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Mastering-API-Architecture-James-Gough-ebook/dp/B0BJMWNT4C
+---
+HB Blurb: Most organizations with a web presence build and operate APIs; the doorway for customers to interact with the company's services. Designing, building, and managing these critical programs affect everyone in the organization, from engineers and product owners to C-suite executives. But the real challenge for developers and solution architects is creating an API platform from the ground up. With this practical book, you'll learn strategies for building and testing REST APIs that use API gateways to combine offerings at the microservice level. Authors James Gough, Daniel Bryant, and Matthew Auburn demonstrate how simple additions to this infrastructure can help engineers and organizations migrate to the cloud; and open the opportunity to connect internal services using technologies like a service mesh. Learn API fundamentals and architectural patterns for building an API platformUse practical examples to understand how to design, build, and test API-based systemsDeploy, operate, and configure key components of an API platformUse API gateways and service meshes appropriately, based on case studiesUnderstand core security and common vulnerabilities in API architectureSecure data and APIs using threat modeling and technologies like OAuth2 and TLSLearn how to evolve existing systems toward API- and cloud-based architectures
+--------------------------------------------------
+
+Book 10:
+Title: RESTful Web API Patterns and Practices Cookbook
+Author(s): Mike Amundsen
+---
+ISBN-10: 1098106717 - ISBN-13: 9781098106713 - ASIN: 1098106741
+Published Date: 2022-10-17
+Page Count: 469
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=xIyVEAAAQBAJ&printsec=frontcover&dq=intitle:RESTful+Web+API+Patterns+and+Practices+Cookbook%2Binauthor:Mike+Amundsen&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 3 of 5 (2 reviews)
+Amazon.com URL: https://www.amazon.com/RESTful-Patterns-Practices-Cookbook-Orchestrating/dp/1098106741
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/RESTful-Web-Patterns-Practices-Cookbook-ebook/dp/B0BJHD41JQ
+---
+HB Blurb: Many organizations today orchestrate and maintain apps that rely on other people's services. Software designers, developers, and architects in those companies often work to coordinate and maintain apps based on existing microservices, including third-party services that run outside their ecosystem. This cookbook provides proven recipes to help you get those many disparate parts to work together in your network.Author Mike Amundsen provides step-by-step solutions for finding, connecting, and maintaining applications designed and built by people outside the organization. Whether you're working on human-centric mobile apps or creating high-powered machine-to-machine solutions, this guide shows you the rules, routines, commands, and protocols—the glue—that integrates individual microservices so they can function together in a safe, scalable, and reliable way.Design and build individual microservices that can successfully interact on the open webIncrease interoperability by designing services that share a common understandingBuild client applications that can adapt to evolving services without breakingCreate resilient and reliable microservices that support peer-to-peer interactions on the webUse web-based service registries to support runtime "find-and-bind" operations that manage external dependencies in real timeImplement stable workflows to accomplish complex, multiservice tasks consistently
+--------------------------------------------------
+
+Book 11:
+Title: Software Architecture Patterns, 2nd Edition
+Author(s): Unknown
+---
+ISBN-10:  - ISBN-13:  - ASIN: B0CHMJYJYQ
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: $46.99
+Amazon.com Reviews: 5 of 5 (14 reviews)
+Amazon.com URL: https://www.amazon.com/Software-Architecture-Patterns-Serverless-Systems-ebook/dp/B0CHMJYJYQ
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/software-architecture-patterns/s?k=software+architecture+patterns
+---
+HB Blurb: The success of any software application or system depends on the architecture style you use. This updated report presents several common architecture styles to guide designers and developers on how to design components and to help you determine the ways in which those components should interact. Author Mark Richards takes a deep dive into many common software architecture styles. Each chapter includes a full explanation of how a particular style works, outlines its benefits and considerations, and describes the circumstances and conditions the style was designed to address. This report also presents an analysis of and scorecard for each style based on several architecture and software development quality attributes.Architecture styles include:Layered architecture Microkernel architecture Event-driven architecture Microservices architecture Space-based architecture This second edition includes new techniques and advances that have appeared for each architecture style over the past seven years. Guidelines in each chapter also reveal when--and when not--to use the style described. This edition introduces new topics such as the difference between architecture patterns and styles, monolithic versus distributed architectures, and technical versus domain partitioning.About the author:Mark Richards is a software architect with significant experience and expertise in application, integration, and enterprise architecture. Active in the software industry since 1983, he's the author of several O'Reilly books and videos, including Software Architecture: The Hard Parts, Software Architecture Fundamentals, Enterprise Messaging, Java Message Service, second edition, and 97 Things Every Software Architect Should Know.
+--------------------------------------------------
+
+Book 12:
+Title: Foundations of Scalable Systems
+Author(s): Ian Gorton
+---
+ISBN-10: 1098106016 - ISBN-13: 9781098106010 - ASIN: B0B5JZVFSB
+Published Date: 2022-06-30
+Page Count: 339
+---
+Google Books Price: GBP 47.99
+Google Books URL: http://books.google.co.uk/books?id=aCt4EAAAQBAJ&printsec=frontcover&dq=intitle:Foundations+of+Scalable+Systems%2Binauthor:Ian+Gorton&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (30 reviews)
+Amazon.com URL: https://www.amazon.com/Foundations-Scalable-Systems-Ian-Gorton-ebook/dp/B0B5JZVFSB
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (23 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Foundations-Scalable-Systems-Ian-Gorton-ebook/dp/B0B5JZVFSB
+---
+HB Blurb: In many systems, scalability becomes the primary driver as the user base grows. Attractive features and high utility breed success, which brings more requests to handle and more data to manage. But organizations reach a tipping point when design decisions that made sense under light loads suddenly become technical debt. This practical book covers design approaches and technologies that make it possible to scale an application quickly and cost-effectively.Author Ian Gorton takes software architects and developers through the foundational principles of distributed systems. You'll explore the essential ingredients of scalable solutions, including replication, state management, load balancing, and caching. Specific chapters focus on the implications of scalability for databases, microservices, and event-based streaming systems.You will focus on:Foundations of scalable systems: Learn basic design principles of scalability, its costs, and architectural tradeoffs Designing scalable services: Dive into service design, caching, asynchronous messaging, serverless processing, and microservicesDesigning scalable data systems: Learn data system fundamentals, NoSQL databases, and eventual consistency versus strong consistency Designing scalable streaming systems: Explore stream processing systems and scalable event-driven processing
+--------------------------------------------------
+
+Book 13:
+Title: Software Architecture Metrics
+Author(s): Christian Ciceri, Dave Farley, Neal Ford, Andrew Harmel-Law, Michael Keeling, Carola Lilienthal, João Rosa, Alexander von Zitzewitz, Rene Weiss, Eoin Woods
+---
+ISBN-10: 1098112202 - ISBN-13: 9781098112202 - ASIN: B0B1NZ8Z5V
+Published Date: 2022-05-18
+Page Count: 218
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=LmNwEAAAQBAJ&printsec=frontcover&dq=intitle:Software+Architecture+Metrics%2Binauthor:Christian+Ciceri,+Dave+Farley,+Neal+Ford,+Andrew+Harmel-Law,+Michael+Keeling,+Carola+Lilienthal,+Jo%C3%A3o+Rosa,+Alexander+von+Zitzewitz,+Rene+Weiss,+Eoin+Woods&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.2 of 5 (33 reviews)
+Amazon.com URL: https://www.amazon.com/Software-Architecture-Metrics-Christian-Ciceri-ebook/dp/B0B1NZ8Z5V
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.2 of 5 (33 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Software-Architecture-Metrics-Christian-Ciceri-ebook/dp/B0B1NZ8Z5V
+---
+HB Blurb: Software architecture metrics are key to the maintainability and architectural quality of a software project and they can warn you about dangerous accumulations of architectural and technical debt early in the process. In this practical book, leading hands-on software architects share case studies to introduce metrics that every software architect should know. This isn't a book about theory. It's more about practice and implementation, about what has already been tried and worked. Detecting software architectural issues early is crucial for the success of your software: it helps mitigate the risk of poor performance and lowers the cost of repairing those issues. Written by practitioners for software architects and software developers eager to explore successful case studies, this guide will help you learn more about decision and measurement effectiveness. Through contributions from 10 prominent practitioners, this book shares key software architecture metrics to help you set the right KPIs and measure the results. You'll learn how to:Measure how well your software architecture is meeting your goalsChoose the right metrics to track (and skip the ones you don't need)Improve observability, testability, and deployabilityPrioritize software architecture projectsBuild insightful and relevant dashboards
+--------------------------------------------------
+
+Book 14:
+Title: Software Architecture: The Hard Parts
+Author(s): Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani
+---
+ISBN-10: 149208686X - ISBN-13: 9781492086864 - ASIN: 1492086894
+Published Date: 2021-09-23
+Page Count: 462
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=OX1EEAAAQBAJ&printsec=frontcover&dq=intitle:Software+Architecture:+The+Hard+Parts%2Binauthor:Neal+Ford,+Mark+Richards,+Pramod+Sadalage,+Zhamak+Dehghani&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.5 of 5 (523 reviews)
+Amazon.com URL: https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (386 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Software-Architecture-Parts-Neal-Ford-ebook/dp/B09H2H5QKC
+---
+HB Blurb: There are no easy decisions in software architecture. Instead, there are many hard parts--difficult problems or issues with no best practices--that force you to choose among various compromises. With this book, you'll learn how to think critically about the trade-offs involved with distributed architectures.Architecture veterans and practicing consultants Neal Ford, Mark Richards, Pramod Sadalage, and Zhamak Dehghani discuss strategies for choosing an appropriate architecture. By interweaving a story about a fictional group of technology professionals--the Sysops Squad--they examine everything from how to determine service granularity, manage workflows and orchestration, manage and decouple contracts, and manage distributed transactions to how to optimize operational characteristics, such as scalability, elasticity, and performance. By focusing on commonly asked questions, this book provides techniques to help you discover and weigh the trade-offs as you confront the issues you face as an architect. Analyze trade-offs and effectively document your decisionsMake better decisions regarding service granularityUnderstand the complexities of breaking apart monolithic applicationsManage and decouple contracts between servicesHandle data in a highly distributed architectureLearn patterns to manage workflow and transactions when breaking apart applications
+--------------------------------------------------
+
+Book 15:
+Title: Learning Domain-Driven Design
+Author(s): Vlad Khononov
+---
+ISBN-10: 1098100107 - ISBN-13: 9781098100100 - ASIN: B09J2CMJZY
+Published Date: 2021-10-08
+Page Count: 342
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=qAtHEAAAQBAJ&printsec=frontcover&dq=intitle:Learning+Domain-Driven+Design%2Binauthor:Vlad+Khononov&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (298 reviews)
+Amazon.com URL: https://www.amazon.com/Learning-Domain-Driven-Design-Vlad-Khononov-ebook/dp/B09J2CMJZY
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (274 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learning-Domain-Driven-Design-Vlad-Khononov-ebook/dp/B09J2CMJZY
+---
+HB Blurb: Building software is harder than ever. As a developer, you not only have to chase ever-changing technological trends but also need to understand the business domains behind the software. This practical book provides you with a set of core patterns, principles, and practices for analyzing business domains, understanding business strategy, and, most importantly, aligning software design with its business needs.Author Vlad Khononov shows you how these practices lead to robust implementation of business logic and help to future-proof software design and architecture. You'll examine the relationship between domain-driven design (DDD) and other methodologies to ensure you make architectural decisions that meet business requirements. You'll also explore the real-life story of implementing DDD in a startup company.With this book, you'll learn how to:Analyze a company's business domain to learn how the system you're building fits its competitive strategyUse DDD's strategic and tactical tools to architect effective software solutions that address business needsBuild a shared understanding of the business domains you encounterDecompose a system into bounded contextsCoordinate the work of multiple teams Gradually introduce DDD to brownfield projects
+--------------------------------------------------
+
+Book 16:
+Title: Building Microservices, 2nd Edition
+Author(s): Unknown
+---
+ISBN-10:  - ISBN-13:  - ASIN: B09B5L4NVT
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: $30.65Save $37.34 (55%)
+Amazon.com Reviews: 4.7 of 5 (631 reviews)
+Amazon.com URL: https://www.amazon.com/Building-Microservices-Sam-Newman-ebook/dp/B09B5L4NVT
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (503 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Building-Microservices-Sam-Newman-ebook/dp/B09B5L4NVT
+---
+HB Blurb: As organizations shift from monolithic applications to smaller, self-contained microservices, distributed systems have become more fine-grained. But developing these new systems brings its own host of problems. This expanded second edition takes a holistic view of topics that you need to consider when building, managing, and scaling microservices architectures.Through clear examples and practical advice, author Sam Newman gives everyone from architects and developers to testers and IT operators a firm grounding in the concepts. You'll dive into the latest solutions for modeling, integrating, testing, deploying, and monitoring your own autonomous services. Real-world cases reveal how organizations today manage to get the most out of these architectures. Microservices technologies continue to move quickly. This book brings you up to speed.Get new information on user interfaces, container orchestration, and serverless Align system design with your organization's goalsExplore options for integrating a service with your systemUnderstand how to independently deploy microservicesExamine the complexities of testing and monitoring distributed servicesManage security with expanded content around user-to-service and service-to-service models
+--------------------------------------------------
+
+Book 17:
+Title: Practical Process Automation
+Author(s): Unknown
+---
+ISBN-10:  - ISBN-13:  - ASIN: B09123T93N
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: $31.34Save $25.65 (45%)
+Amazon.com Reviews: 4.7 of 5 (35 reviews)
+Amazon.com URL: https://www.amazon.com/Practical-Process-Automation-Orchestration-Microservices-ebook/dp/B09123T93N
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (37 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Practical-Process-Automation-Orchestration-Microservices-ebook/dp/B09123T93N
+---
+HB Blurb: In today's IT architectures, microservices and serverless functions play increasingly important roles in process automation. But how do you create meaningful, comprehensive, and connected business solutions when the individual components are decoupled and independent by design? Targeted at developers and architects, this book presents a framework through examples, practical advice, and use cases to help you design and automate complex processes.As systems are more distributed, asynchronous, and reactive, process automation requires state handling to deal with long-running interactions. Author Bernd Ruecker demonstrates how to leverage process automation technology like workflow engines to orchestrate software, humans, decisions, or bots.  Learn how modern process automation compares to business process management, service-oriented architecture, batch processing, event streaming, and data pipeline solutionsUnderstand how to use workflow engines and executable process models with BPMN Understand the difference between orchestration and choreography and how to balance both
+--------------------------------------------------
+
+Book 18:
+Title: Flow Architectures
+Author(s): James Urquhart
+---
+ISBN-10: 1492075868 - ISBN-13: 9781492075868 - ASIN: B08SC4QYNV
+Published Date: 2021-01-06
+Page Count: 255
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=3X4SEAAAQBAJ&printsec=frontcover&dq=intitle:Flow+Architectures%2Binauthor:James+Urquhart&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $27.08Save $20.91 (44%)
+Amazon.com Reviews: 3.8 of 5 (55 reviews)
+Amazon.com URL: https://www.amazon.com/Flow-Architectures-Streaming-Event-Driven-Integration-ebook/dp/B08SC4QYNV
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.9 of 5 (55 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Flow-Architectures-Streaming-Event-Driven-Integration-ebook/dp/B08SC4QYNV
+---
+HB Blurb: Software development today is embracing events and streaming data, which optimizes not only how technology interacts but also how businesses integrate with one another to meet customer needs. This phenomenon, called flow, consists of patterns and standards that determine which activity and related data is communicated between parties over the internet.This book explores critical implications of that evolution: What happens when events and data streams help you discover new activity sources to enhance existing businesses or drive new markets? What technologies and architectural patterns can position your company for opportunities enabled by flow? James Urquhart, global field CTO at VMware, guides enterprise architects, software developers, and product managers through the process.Learn the benefits of flow dynamics when businesses, governments, and other institutions integrate via events and data streamsUnderstand the value chain for flow integration through Wardley mapping visualization and promise theory modelingWalk through basic concepts behind today's event-driven systems marketplaceLearn how today's integration patterns will influence the real-time events flow in the future Explore why companies should architect and build software today to take advantage of flow in coming years
+--------------------------------------------------
+
+Book 19:
+Title: Building Event-Driven Microservices
+Author(s): Adam Bellemare
+---
+ISBN-10: 149205786X - ISBN-13: 9781492057864 - ASIN: B08C9V1FC9
+Published Date: 2020-07-02
+Page Count: 324
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=6-ruDwAAQBAJ&printsec=frontcover&dq=intitle:Building+Event-Driven+Microservices%2Binauthor:Adam+Bellemare&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $34.67Save $22.32 (39%)
+Amazon.com Reviews: 4.4 of 5 (278 reviews)
+Amazon.com URL: https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational-ebook/dp/B08C9V1FC9
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (238 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894
+---
+HB Blurb: Organizations today often struggle to balance business requirements with ever-increasing volumes of data. Additionally, the demand for leveraging large-scale, real-time data is growing rapidly among the most competitive digital industries. Conventional system architectures may not be up to the task. With this practical guide, you'll learn how to leverage large-scale data usage across the business units in your organization using the principles of event-driven microservices. Author Adam Bellemare takes you through the process of building an event-driven microservice-powered organization. You'll reconsider how data is produced, accessed, and propagated across your organization. Learn powerful yet simple patterns for unlocking the value of this data. Incorporate event-driven design and architectural principles into your own systems. And completely rethink how your organization delivers value by unlocking near-real-time access to data at scale. You'll learn:
+
+How to leverage event-driven architectures to deliver exceptional business value
+The role of microservices in supporting event-driven designs
+Architectural patterns to ensure success both within and between teams in your organization
+Application patterns for developing powerful event-driven microservices
+Components and tooling required to get your microservice ecosystem off the ground
+--------------------------------------------------
+
+Book 20:
+Title: The Software Architect Elevator
+Author(s): Gregor Hohpe
+---
+ISBN-10: 1492077518 - ISBN-13: 9781492077510 - ASIN: B086WQ9XL1
+Published Date: 2020-04-08
+Page Count: 367
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=X-_bDwAAQBAJ&printsec=frontcover&dq=intitle:The+Software+Architect+Elevator%2Binauthor:Gregor+Hohpe&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (341 reviews)
+Amazon.com URL: https://www.amazon.com/Software-Architect-Elevator-Redefining-Architects-ebook/dp/B086WQ9XL1
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (345 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Software-Architect-Elevator-Redefining-Architects-ebook/dp/B086WQ9XL1
+---
+HB Blurb: As the digital economy changes the rules of the game for enterprises, the role of software and IT architects is also transforming. Rather than focus on technical decisions alone, architects and senior technologists need to combine organizational and technical knowledge to effect change in their company structure and processes. To accomplish that, they need to connect the IT engine room to the penthouse, where the business strategy is defined.In this guide, author Gregor Hohpe shares real-world advice and hard-learned lessons from actual IT transformations. His anecdotes help architects, senior developers, and other IT professionals prepare for a more complex but rewarding role in the enterprise.This book is ideal for:
+
+Software architects and senior developers looking to shape the company technology direction or assist in an organizational transformation
+Enterprise architects and senior technologists searching for practical advice on how to navigate technical and organizational topics
+CTOs and senior technical architects who are devising an IT strategy that impacts the way the organization works
+IT managers who want to learn what worked and what hasn't in large-scale transformation
+--------------------------------------------------
+
+Book 21:
+Title: Fundamentals of Software Architecture
+Author(s): Mark Richards, Neal Ford
+---
+ISBN-10: 1492043400 - ISBN-13: 9781492043409 - ASIN: 1492043451
+Published Date: 2020-01-28
+Page Count: 466
+---
+Google Books Price: GBP 47.99
+Google Books URL: http://books.google.co.uk/books?id=wa7MDwAAQBAJ&printsec=frontcover&dq=intitle:Fundamentals+of+Software+Architecture%2Binauthor:Mark+Richards,+Neal+Ford&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $41.79Save $26.20 (39%)
+Amazon.com Reviews: 4.6 of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (938 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Fundamentals-Software-Architecture-Engineering-Approach-ebook/dp/B0849MPK73
+---
+HB Blurb: Salary surveys worldwide regularly place software architect in the top 10 best jobs, yet no real guide exists to help developers become architects. Until now. This book provides the first comprehensive overview of software architecture many aspects. Aspiring and existing architects alike will examine architectural characteristics, architectural patterns, component determination, diagramming and presenting architecture, evolutionary architecture, and many other topics.
+Mark Richards and Neal Ford hands-on practitioners who have taught software architecture classes professionally for years focus on architecture principles that apply across all technology stacks. You'll explore software architecture in a modern light, taking into account all the innovations of the past decade.
+This book examines:
+
+Architecture patterns: The technical basis for many architectural decisions
+Components: Identification, coupling, cohesion, partitioning, and granularity
+Soft skills: Effective team management, meetings, negotiation, presentations, and more
+Modernity: Engineering practices and operational approaches that have changed radically in the past few years
+Architecture as an engineering discipline: Repeatable results, metrics, and concrete valuations that add rigor to software architecture
+--------------------------------------------------
+
+Book 22:
+Title: Monolith to Microservices
+Author(s): Sam Newman
+---
+ISBN-10: 1492047813 - ISBN-13: 9781492047810 - ASIN: B081TKSSNN
+Published Date: 2019-11-14
+Page Count: 272
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=nNa_DwAAQBAJ&printsec=frontcover&dq=intitle:Monolith+to+Microservices%2Binauthor:Sam+Newman&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $28.49Save $19.50 (41%)
+Amazon.com Reviews: 4.6 of 5 (615 reviews)
+Amazon.com URL: https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform-ebook/dp/B081TKSSNN
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (578 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Monolith-Microservices-Evolutionary-Patterns-Transform-ebook/dp/B081TKSSNN
+---
+HB Blurb: How do you detangle a monolithic system and migrate it to a microservice architecture? How do you do it while maintaining business-as-usual? As a companion to Sam Newman‚Äôs extremely popular Building Microservices, this new book details a proven method for transitioning an existing monolithic system to a microservice architecture. With many illustrative examples, insightful migration patterns, and a bevy of practical advice to transition your monolith enterprise into a microservice operation, this practical guide covers multiple scenarios and strategies for a successful migration, from initial planning all the way through application and database decomposition. You‚Äôll learn several tried and tested patterns and techniques that you can use as you migrate your existing architecture.Ideal for organizations looking to transition to microservices, rather than rebuildHelps companies determine whether to migrate, when to migrate, and where to beginAddresses communication, integration, and the migration of legacy systemsDiscusses multiple migration patterns and where they applyProvides database migration examples, along with synchronization strategiesExplores application decomposition, including several architectural refactoring patternsDelves into details of database decomposition, including the impact of breaking referential and transactional integrity, new failure modes, and more
+--------------------------------------------------
+
+Book 23:
+Title: Technology Strategy Patterns
+Author(s): Eben Hewitt
+---
+ISBN-10: 1492040843 - ISBN-13: 9781492040842 - ASIN: B07JJNSP92
+Published Date: 2018-10-29
+Page Count: 302
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=_OtzDwAAQBAJ&printsec=frontcover&dq=intitle:Technology+Strategy+Patterns%2Binauthor:Eben+Hewitt&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $34.99Save $13.00 (27%)
+Amazon.com Reviews: 4.2 of 5 (235 reviews)
+Amazon.com URL: https://www.amazon.com/Technology-Strategy-Patterns-Architecture-ebook/dp/B07JJNSP92
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (225 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Technology-Strategy-Patterns-Architecture-ebook/dp/B07JJNSP92
+---
+HB Blurb: Technologists who want their ideas heard, understood, and funded are often told to speak the language of business√¢??without really knowing what that is. This book√¢??s toolkit provides architects, product managers, technology managers, and executives with a shared language√¢??in the form of repeatable, practical patterns and templates√¢??to produce great technology strategies.Author Eben Hewitt developed 39 patterns over the course of a decade in his work as CTO, CIO, and chief architect for several global tech companies. With these proven tools, you can define, create, elaborate, refine, and communicate your architecture goals, plans, and approach in a way that executives can readily understand, approve, and execute. This book covers:Architecture and strategy: Adopt a strategic architectural mindset to make a meaningful material impactCreating your strategy: Define the components of your technology strategy using proven patterns Communicating the strategy: Convey your technology strategy in a compelling way to a variety of audiences Bringing it all together: Employ patterns individually or in clusters for specific problems; use the complete framework for a comprehensive strategy
+--------------------------------------------------
+
+Book 24:
+Title: Designing Distributed Systems
+Author(s): Unknown
+---
+ISBN-10:  - ISBN-13:  - ASIN: B079YTM4FC
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.2 of 5 (297 reviews)
+Amazon.com URL: https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms-ebook/dp/B079YTM4FC
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.2 of 5 (291 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Designing-Distributed-Systems-Patterns-Paradigms-ebook/dp/B079YTM4FC
+---
+HB Blurb: Without established design patterns to guide them, developers have had to build distributed systems from scratch, and most of these systems are very unique indeed. Today, the increasing use of containers has paved the way for core distributed system patterns and reusable containerized components. This practical guide presents a collection of repeatable, generic patterns to help make the development of reliable distributed systems far more approachable and efficient.Author Brendan Burns‚ÄîDirector of Engineering at Microsoft Azure‚Äîdemonstrates how you can adapt existing software design patterns for designing and building reliable distributed applications. Systems engineers and application developers will learn how these long-established patterns provide a common language and framework for dramatically increasing the quality of your system.Understand how patterns and reusable components enable the rapid development of reliable distributed systemsUse the side-car, adapter, and ambassador patterns to split your application into a group of containers on a single machine Explore loosely coupled multi-node distributed patterns for replication, scaling, and communication between the componentsLearn distributed system patterns for large-scale batch data processing covering work-queues, event-based processing, and coordinated workflows
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Learning Systems Thinking
+https://www.amazon.com/Learning-Systems-Thinking-Essential-Professionals-ebook/dp/B0D9KWZRT2
+https://www.amazon.co.uk/Learning-Systems-Thinking-Diana-Montalion-ebook/dp/B0D9KWZRT2
+No Google Books URL found.
+
+Book 02 - Building Multi-Tenant SaaS Architectures
+https://www.amazon.com/Building-Multi-Tenant-SaaS-Architectures-Golding-ebook/dp/B0CW1HLHSP
+https://www.amazon.co.uk/Building-Multi-Tenant-SaaS-Architectures-Golding-ebook/dp/B0CW1HLHSP
+No Google Books URL found.
+
+Book 03 - Head First Software Architecture
+https://www.amazon.com/Head-First-Software-Architecture-Architectural/dp/1098134354
+https://www.amazon.co.uk/Head-First-Software-Architecture-Gandhi-ebook/dp/B0CW1JMNF2
+http://books.google.co.uk/books?id=Vhj9EAAAQBAJ&printsec=frontcover&dq=intitle:Head+First+Software+Architecture%2Binauthor:Raju+Gandhi,+Mark+Richards,+Neal+Ford&hl=&cd=1&source=gbs_api
+
+Book 04 - Enabling Microservice Success
+https://www.amazon.com/Enabling-Microservice-Success-Organizational-Challenges-ebook/dp/B0CZ4ZKMP3
+https://www.amazon.co.uk/Enabling-Microservice-Success-Sarah-Wells-ebook/dp/B0CZ4ZKMP3
+No Google Books URL found.
+
+Book 05 - Serverless Development on AWS
+https://www.amazon.com/Serverless-Development-AWS-Sheen-Brisals-ebook/dp/B0CT4MVJHT
+https://www.amazon.co.uk/Serverless-Development-AWS-Sheen-Brisals-ebook/dp/B0CT4MVJHT
+No Google Books URL found.
+
+Book 06 - Communication Patterns
+https://www.amazon.com/Communication-Patterns-Jacqui-Read-ebook/dp/B0CKM8L13H
+https://www.amazon.co.uk/Communication-Patterns-Jacqui-Read-ebook/dp/B0CKM8L13H
+No Google Books URL found.
+
+Book 07 - Building an Event-Driven Data Mesh
+https://www.amazon.com/Building-Event-Driven-Data-Mesh-Bellemare-ebook/dp/B0C1HY3734
+https://www.amazon.co.uk/Building-Event-Driven-Data-Mesh-Bellemare-ebook/dp/B0C1HY3734
+http://books.google.co.uk/books?id=dH-3EAAAQBAJ&printsec=frontcover&dq=intitle:Building+an+Event-Driven+Data+Mesh%2Binauthor:Adam+Bellemare&hl=&cd=1&source=gbs_api
+
+Book 08 - Building Evolutionary Architectures, 2nd Edition
+https://www.amazon.com/Building-Evolutionary-Architectures-Automated-Governance/dp/1492097543
+https://www.amazon.co.uk/Building-Evolutionary-Architectures-Automated-Governance/dp/1492097543
+http://books.google.co.uk/books?id=BmudEAAAQBAJ&pg=PP2&dq=intitle:Building+Evolutionary+Architectures,+2nd+Edition%2Binauthor:Neal+Ford,+Rebecca+Parsons,+Patrick+Kua,+Pramod+Sadalage&hl=&cd=1&source=gbs_api
+
+Book 09 - Mastering API Architecture
+https://www.amazon.com/Mastering-API-Architecture-Operate-API-Based/dp/1492090638
+https://www.amazon.co.uk/Mastering-API-Architecture-James-Gough-ebook/dp/B0BJMWNT4C
+http://books.google.co.uk/books?id=dsSVEAAAQBAJ&printsec=frontcover&dq=intitle:Mastering+API+Architecture%2Binauthor:James+Gough,+Daniel+Bryant,+Matthew+Auburn&hl=&cd=1&source=gbs_api
+
+Book 10 - RESTful Web API Patterns and Practices Cookbook
+https://www.amazon.com/RESTful-Patterns-Practices-Cookbook-Orchestrating/dp/1098106741
+https://www.amazon.co.uk/RESTful-Web-Patterns-Practices-Cookbook-ebook/dp/B0BJHD41JQ
+http://books.google.co.uk/books?id=xIyVEAAAQBAJ&printsec=frontcover&dq=intitle:RESTful+Web+API+Patterns+and+Practices+Cookbook%2Binauthor:Mike+Amundsen&hl=&cd=1&source=gbs_api
+
+Book 11 - Software Architecture Patterns, 2nd Edition
+https://www.amazon.com/Software-Architecture-Patterns-Serverless-Systems-ebook/dp/B0CHMJYJYQ
+https://www.amazon.co.uk/software-architecture-patterns/s?k=software+architecture+patterns
+No Google Books URL found.
+
+Book 12 - Foundations of Scalable Systems
+https://www.amazon.com/Foundations-Scalable-Systems-Ian-Gorton-ebook/dp/B0B5JZVFSB
+https://www.amazon.co.uk/Foundations-Scalable-Systems-Ian-Gorton-ebook/dp/B0B5JZVFSB
+http://books.google.co.uk/books?id=aCt4EAAAQBAJ&printsec=frontcover&dq=intitle:Foundations+of+Scalable+Systems%2Binauthor:Ian+Gorton&hl=&cd=1&source=gbs_api
+
+Book 13 - Software Architecture Metrics
+https://www.amazon.com/Software-Architecture-Metrics-Christian-Ciceri-ebook/dp/B0B1NZ8Z5V
+https://www.amazon.co.uk/Software-Architecture-Metrics-Christian-Ciceri-ebook/dp/B0B1NZ8Z5V
+http://books.google.co.uk/books?id=LmNwEAAAQBAJ&printsec=frontcover&dq=intitle:Software+Architecture+Metrics%2Binauthor:Christian+Ciceri,+Dave+Farley,+Neal+Ford,+Andrew+Harmel-Law,+Michael+Keeling,+Carola+Lilienthal,+Jo%C3%A3o+Rosa,+Alexander+von+Zitzewitz,+Rene+Weiss,+Eoin+Woods&hl=&cd=1&source=gbs_api
+
+Book 14 - Software Architecture: The Hard Parts
+https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894
+https://www.amazon.co.uk/Software-Architecture-Parts-Neal-Ford-ebook/dp/B09H2H5QKC
+http://books.google.co.uk/books?id=OX1EEAAAQBAJ&printsec=frontcover&dq=intitle:Software+Architecture:+The+Hard+Parts%2Binauthor:Neal+Ford,+Mark+Richards,+Pramod+Sadalage,+Zhamak+Dehghani&hl=&cd=1&source=gbs_api
+
+Book 15 - Learning Domain-Driven Design
+https://www.amazon.com/Learning-Domain-Driven-Design-Vlad-Khononov-ebook/dp/B09J2CMJZY
+https://www.amazon.co.uk/Learning-Domain-Driven-Design-Vlad-Khononov-ebook/dp/B09J2CMJZY
+http://books.google.co.uk/books?id=qAtHEAAAQBAJ&printsec=frontcover&dq=intitle:Learning+Domain-Driven+Design%2Binauthor:Vlad+Khononov&hl=&cd=1&source=gbs_api
+
+Book 16 - Building Microservices, 2nd Edition
+https://www.amazon.com/Building-Microservices-Sam-Newman-ebook/dp/B09B5L4NVT
+https://www.amazon.co.uk/Building-Microservices-Sam-Newman-ebook/dp/B09B5L4NVT
+No Google Books URL found.
+
+Book 17 - Practical Process Automation
+https://www.amazon.com/Practical-Process-Automation-Orchestration-Microservices-ebook/dp/B09123T93N
+https://www.amazon.co.uk/Practical-Process-Automation-Orchestration-Microservices-ebook/dp/B09123T93N
+No Google Books URL found.
+
+Book 18 - Flow Architectures
+https://www.amazon.com/Flow-Architectures-Streaming-Event-Driven-Integration-ebook/dp/B08SC4QYNV
+https://www.amazon.co.uk/Flow-Architectures-Streaming-Event-Driven-Integration-ebook/dp/B08SC4QYNV
+http://books.google.co.uk/books?id=3X4SEAAAQBAJ&printsec=frontcover&dq=intitle:Flow+Architectures%2Binauthor:James+Urquhart&hl=&cd=1&source=gbs_api
+
+Book 19 - Building Event-Driven Microservices
+https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational-ebook/dp/B08C9V1FC9
+https://www.amazon.co.uk/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894
+http://books.google.co.uk/books?id=6-ruDwAAQBAJ&printsec=frontcover&dq=intitle:Building+Event-Driven+Microservices%2Binauthor:Adam+Bellemare&hl=&cd=1&source=gbs_api
+
+Book 20 - The Software Architect Elevator
+https://www.amazon.com/Software-Architect-Elevator-Redefining-Architects-ebook/dp/B086WQ9XL1
+https://www.amazon.co.uk/Software-Architect-Elevator-Redefining-Architects-ebook/dp/B086WQ9XL1
+http://books.google.co.uk/books?id=X-_bDwAAQBAJ&printsec=frontcover&dq=intitle:The+Software+Architect+Elevator%2Binauthor:Gregor+Hohpe&hl=&cd=1&source=gbs_api
+
+Book 21 - Fundamentals of Software Architecture
+https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451
+https://www.amazon.co.uk/Fundamentals-Software-Architecture-Engineering-Approach-ebook/dp/B0849MPK73
+http://books.google.co.uk/books?id=wa7MDwAAQBAJ&printsec=frontcover&dq=intitle:Fundamentals+of+Software+Architecture%2Binauthor:Mark+Richards,+Neal+Ford&hl=&cd=1&source=gbs_api
+
+Book 22 - Monolith to Microservices
+https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform-ebook/dp/B081TKSSNN
+https://www.amazon.co.uk/Monolith-Microservices-Evolutionary-Patterns-Transform-ebook/dp/B081TKSSNN
+http://books.google.co.uk/books?id=nNa_DwAAQBAJ&printsec=frontcover&dq=intitle:Monolith+to+Microservices%2Binauthor:Sam+Newman&hl=&cd=1&source=gbs_api
+
+Book 23 - Technology Strategy Patterns
+https://www.amazon.com/Technology-Strategy-Patterns-Architecture-ebook/dp/B07JJNSP92
+https://www.amazon.co.uk/Technology-Strategy-Patterns-Architecture-ebook/dp/B07JJNSP92
+http://books.google.co.uk/books?id=_OtzDwAAQBAJ&printsec=frontcover&dq=intitle:Technology+Strategy+Patterns%2Binauthor:Eben+Hewitt&hl=&cd=1&source=gbs_api
+
+Book 24 - Designing Distributed Systems
+https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms-ebook/dp/B079YTM4FC
+https://www.amazon.co.uk/Designing-Distributed-Systems-Patterns-Paradigms-ebook/dp/B079YTM4FC
+No Google Books URL found.
+
