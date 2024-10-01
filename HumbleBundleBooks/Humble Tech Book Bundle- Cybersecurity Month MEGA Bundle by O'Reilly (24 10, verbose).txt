@@ -1,0 +1,636 @@
+Humble Tech Book Bundle- Cybersecurity Month MEGA Bundle by O'Reilly - O'Reilly
+Processing date: 2024-10-01
+Data retrieved from: https://www.humblebundle.com/books/cybersecurity-month-mega-bundle-2024-oreilly-books
+
+Book 01 - Practical Cloud Security, 2nd Edition - Chris Dotson - None found out of 5 (None found reviews)
+Book 02 - Web Application Security, 2e - Andrew Hoffman - 5 out of 5 (4 reviews)
+Book 03 - Building a Cyber Risk Management Program - Brian Allen, Brandon Bapst, Terry Allan Hicks - 4.6 out of 5 (5 reviews)
+Book 04 - Software Supply Chain Security - Cassie Crossley - None found out of 5 (None found reviews)
+Book 05 - Security Architecture for Hybrid Cloud - Mark Buckwell, Stefaan Van daele, Carsten Horst - None found out of 5 (None found reviews)
+Book 06 - The Developer's Playbook for Large Language Model Security - Steve Wilson - 0 out of 5 (13 reviews)
+Book 07 - Zero Trust Networks, 2nd Edition - Razi Rais, Christina Morillo, Evan Gilman, Doug Barth - 4.4 out of 5 (4 reviews)
+Book 08 - Learning DevSecOps - Steve Suehring - None found out of 5 (None found reviews)
+Book 09 - Practical Data Privacy - Katharine Jarmul - 4.1 out of 5 (15 reviews)
+Book 10 - Policy as Code - Jimmy Ray - None found out of 5 (None found reviews)
+Book 11 - Adversary Emulation with MITRE ATT&CK - Drinor Selmanaj - None found out of 5 (None found reviews)
+Book 12 - Network Programmability and Automation, 2nd Edition - Matt Oswalt, Christian Adell, Scott S. Lowe, Jason Edelman - None found out of 5 (None found reviews)
+Book 13 - Inside Cyber Warfare, 3rd Edition - Jeffrey Caruso - 4.4 out of 5 (67 reviews)
+Book 14 - Security and Microservice Architecture on AWS - Gaurav Raje - 4.5 out of 5 (47 reviews)
+Book 15 - Cybersecurity Ops with bash - Paul Troncone, Carl Albing Ph.D. - 4.7 out of 5 (122 reviews)
+Book 16 - Cloud Native Security Cookbook - Josh Armitage - 3.8 out of 5 (8 reviews)
+Book 17 - The Cybersecurity Manager's Guide - Todd Barnum - 4.5 out of 5 (11 reviews)
+Book 18 - Practicing Trustworthy Machine Learning - Yada Pruksachatkun, Matthew Mcateer, Subho Majumdar - 5 out of 5 (7 reviews)
+Book 19 - Hacker Culture A to Z - Kim Crawley - 5 out of 5 (1 reviews)
+Book 20 - Intelligence-Driven Incident Response, 2nd Edition - Rebekah Brown (Author), Scott J. Roberts - 4.7 out of 5 (5 reviews)
+Book 21 - 97 Things Every Application Security Professional Should Know - Christina Morillo - 4.5 out of 5 (49 reviews)
+Book 22 - Defensive Security Handbook, 2nd Edition - Amanda Berlin, Lee Brotherston, William Reyor III - 0 out of 5 (1 reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Practical Cloud Security, 2nd Edition
+Author(s): Chris Dotson
+---
+ISBN-10: 1098148134 - ISBN-13: 9781098148133 - ASIN: B0CKM7YMHJ
+Published Date: 2023-10-06
+Page Count: 231
+---
+Google Books Price: GBP 34.5
+Google Books URL: http://books.google.co.uk/books?id=3GTbEAAAQBAJ&printsec=frontcover&dq=intitle:Practical+Cloud+Security,+2nd+Edition%2Binauthor:Chris+Dotson&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4 of 5 (3 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Practical-Cloud-Security-Chris-Dotson-ebook/dp/B0CKM7YMHJ
+---
+HB Blurb: With rapidly changing architecture and API-driven automation, cloud platforms come with unique security challenges and opportunities. In this updated second edition, you'll examine security best practices for multivendor cloud environments, whether your company plans to move legacy on-premises projects to the cloud or build a new infrastructure from the ground up.Developers, IT architects, and security professionals will learn cloud-specific techniques for securing popular cloud platforms such as Amazon Web Services, Microsoft Azure, and IBM Cloud. IBM Distinguished Engineer Chris Dotson shows you how to establish data asset management, identity and access management (IAM), vulnerability management, network security, and incident response in your cloud environment.Learn the latest threats and challenges in the cloud security spaceManage cloud providers that store or process data or deliver administrative controlLearn how standard principles and concepts—such as least privilege and defense in depth—apply in the cloudUnderstand the critical role played by IAM in the cloudUse best tactics for detecting, responding, and recovering from the most common security incidentsManage various types of vulnerabilities, especially those common in multicloud or hybrid cloud architecturesExamine privileged access management in cloud environments
+--------------------------------------------------
+
+Book 02:
+Title: Web Application Security, 2e
+Author(s): Andrew Hoffman
+---
+ISBN-10: 9781098143930 - ISBN-13: 1098143930 - ASIN: B0CSMGRLRR
+Published Date: 2024-02-27
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=LeZV0AEACAAJ&dq=intitle:Web+Application+Security,+2e%2Binauthor:Andrew+Hoffman&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $41.99Save $15.00 (26%)
+Amazon.com Reviews: 5 of 5 (4 reviews)
+Amazon.com URL: https://www.amazon.com/Web-Application-Security-Andrew-Hoffman-ebook/dp/B0CSMGRLRR
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (5 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Web-Application-Security-Exploitation-Countermeasures/dp/1098143930
+---
+HB Blurb: In the first edition of this critically acclaimed book, Andrew Hoffman defined the three pillars of application security: reconnaissance, offense, and defense. In this revised and updated second edition, he examines dozens of related topics, from the latest types of attacks and mitigations to threat modeling, the secure software development lifecycle (SSDL/SDLC), and more.Hoffman, senior staff security engineer at Ripple, also provides information regarding exploits and mitigations for several additional web application technologies such as GraphQL, cloud-based deployments, content delivery networks (CDN) and server-side rendering (SSR). Following the curriculum from the first book, this second edition is split into three distinct pillars comprising three separate skill sets:Pillar 1: Recon—Learn techniques for mapping and documenting web applications remotely, including procedures for working with web applicationsPillar 2: Offense—Explore methods for attacking web applications using a number of highly effective exploits that have been proven by the best hackers in the world. These skills are valuable when used alongside the skills from Pillar 3.Pillar 3: Defense—Build on skills acquired in the first two parts to construct effective and long-lived mitigations for each of the attacks described in Pillar 2.
+--------------------------------------------------
+
+Book 03:
+Title: Building a Cyber Risk Management Program
+Author(s): Brian Allen, Brandon Bapst, Terry Allan Hicks
+---
+ISBN-10: 1098147766 - ISBN-13: 9781098147761 - ASIN: 1098147790
+Published Date: 2023-12-04
+Page Count: 223
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=ZnrnEAAAQBAJ&printsec=frontcover&dq=intitle:Building+a+Cyber+Risk+Management+Program%2Binauthor:Brian+Allen,+Brandon+Bapst,+Terry+Allan+Hicks&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (5 reviews)
+Amazon.com URL: https://www.amazon.com/Building-Cyber-Risk-Management-Program/dp/1098147790
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (5 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Building-Cyber-Risk-Management-Program-ebook/dp/B0CPH335ZH
+---
+HB Blurb: Cyber risk management is one of the most urgent issues facing enterprises today. This book presents a detailed framework for designing, developing, and implementing a cyber risk management program that addresses your company's specific needs. Ideal for corporate directors, senior executives, security risk practitioners, and auditors at many levels, this guide offers both the strategic insight and tactical guidance you're looking for.You'll learn how to define and establish a sustainable, defendable, cyber risk management program, and the benefits associated with proper implementation. Cyber risk management experts Brian Allen and Brandon Bapst, working with writer Terry Allan Hicks, also provide advice that goes beyond risk management. You'll discover ways to address your company's oversight obligations as defined by international standards, case law, regulation, and board-level guidance. This book helps you:Understand the transformational changes digitalization is introducing, and new cyber risks that come with it Learn the key legal and regulatory drivers that make cyber risk management a mission-critical priority for enterprisesGain a complete understanding of four components that make up a formal cyber risk management programImplement or provide guidance for a cyber risk management program within your enterprise
+--------------------------------------------------
+
+Book 04:
+Title: Software Supply Chain Security
+Author(s): Cassie Crossley
+---
+ISBN-10: 9781098133702 - ISBN-13: 1098133706 - ASIN: B0CTWFSB2K
+Published Date: 2024-03-05
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=P3sH0AEACAAJ&dq=intitle:Software+Supply+Chain+Security%2Binauthor:Cassie+Crossley&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (4 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Software-Supply-Security-Cassie-Crossley-ebook/dp/B0CTWFSB2K
+---
+HB Blurb: Trillions of lines of code help us in our lives, companies, and organizations. But just a single software cybersecurity vulnerability can stop entire companies from doing business and cause billions of dollars in revenue loss and business recovery. Securing the creation and deployment of software, also known as software supply chain security, goes well beyond the software development process. This practical book gives you a comprehensive look at security risks and identifies the practical controls you need to incorporate into your end-to-end software supply chain. Author Cassie Crossley demonstrates how and why everyone involved in the supply chain needs to participate if your organization is to improve the security posture of its software, firmware, and hardware. With this book, you'll learn how to: Pinpoint the cybersecurity risks in each part of your organization's software supply chainIdentify the roles that participate in the supply chain—including IT, development, operations, manufacturing, and procurementDesign initiatives and controls for each part of the supply chain using existing frameworks and referencesImplement secure development lifecycle, source code security, software build management, and software transparency practicesEvaluate third-party risk in your supply chain
+--------------------------------------------------
+
+Book 05:
+Title: Security Architecture for Hybrid Cloud
+Author(s): Mark Buckwell, Stefaan Van daele, Carsten Horst
+---
+ISBN-10: 1098157745 - ISBN-13: 9781098157746 - ASIN: 109815777X
+Published Date: 2024-07-25
+Page Count: 477
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=XmkWEQAAQBAJ&printsec=frontcover&dq=intitle:Security+Architecture+for+Hybrid+Cloud%2Binauthor:Mark+Buckwell,+Stefaan+Van+daele,+Carsten+Horst&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Security-Architecture-Hybrid-Cloud-Principles/dp/109815777X
+---
+HB Blurb: As the transformation to hybrid multicloud accelerates, businesses require a structured approach to securing their workloads. Adopting zero trust principles demands a systematic set of practices to deliver secure solutions. Regulated businesses, in particular, demand rigor in the architectural process to ensure the effectiveness of security controls and continued protection.This book provides the first comprehensive method for hybrid multicloud security, integrating proven architectural techniques to deliver a comprehensive end-to-end security method with compliance, threat modeling, and zero trust practices. This method ensures repeatability and consistency in the development of secure solution architectures. Architects will learn how to effectively identify threats and implement countermeasures through a combination of techniques, work products, and a demonstrative case study to reinforce learning. You'll examine:The importance of developing a solution architecture that integrates security for clear communicationRoles that security architects perform and how the techniques relate to nonsecurity subject matter expertsHow security solution architecture is related to design thinking, enterprise security architecture, and engineeringHow architects can integrate security into a solution architecture for applications and infrastructure using a consistent end-to-end set of practicesHow to apply architectural thinking to the development of new security solutionsAbout the authorsMark Buckwell is a cloud security architect at IBM with 30 years of information security experience. Carsten Horst with more than 20 years of experience in Cybersecurity is a certified security architect and Associate Partner at IBM.Stefaan Van daele has 25 years experience in Cybersecurity and is a Level 3 certified security architect at IBM.
+--------------------------------------------------
+
+Book 06:
+Title: The Developer's Playbook for Large Language Model Security
+Author(s): Steve Wilson
+---
+ISBN-10: 109816217X - ISBN-13: 9781098162177 - ASIN: B0DGYSB8LG
+Published Date: 2024-09-03
+Page Count: 200
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=MkshEQAAQBAJ&printsec=frontcover&dq=intitle:The+Developer%27s+Playbook+for+Large+Language+Model+Security%2Binauthor:Steve+Wilson&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 0 of 5 (13 reviews)
+Amazon.com URL: https://www.amazon.com/Developers-Playbook-Large-Language-Security-ebook/dp/B0DGYSB8LG
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Developers-Playbook-Large-Language-Security/dp/109816220X
+---
+HB Blurb: Large language models (LLMs) are not just shaping the trajectory of AI, they're also unveiling a new era of security challenges. This practical book takes you straight to the heart of these threats. Author Steve Wilson, chief product officer at Exabeam, focuses exclusively on LLMs, eschewing generalized AI security to delve into the unique characteristics and vulnerabilities inherent in these models. Complete with collective wisdom gained from the creation of the OWASP Top 10 for LLMs list—a feat accomplished by more than 400 industry experts—this guide delivers real-world guidance and practical strategies to help developers and security teams grapple with the realities of LLM applications. Whether you're architecting a new application or adding AI features to an existing one, this book is your go-to resource for mastering the security landscape of the next frontier in AI.You'll learn:Why LLMs present unique security challengesHow to navigate the many risk conditions associated with using LLM technology The threat landscape pertaining to LLMs and the critical trust boundaries that must be maintainedHow to identify the top risks and vulnerabilities associated with LLMsMethods for deploying defenses to protect against attacks on top vulnerabilities Ways to actively manage critical trust boundaries on your systems to ensure secure execution and risk minimization
+--------------------------------------------------
+
+Book 07:
+Title: Zero Trust Networks, 2nd Edition
+Author(s): Razi Rais, Christina Morillo, Evan Gilman, Doug Barth
+---
+ISBN-10: 1492096555 - ISBN-13: 9781492096559 - ASIN: 1492096598
+Published Date: 2024-02-23
+Page Count: 349
+---
+Google Books Price: GBP 40.99
+Google Books URL: http://books.google.co.uk/books?id=6RT3EAAAQBAJ&printsec=frontcover&dq=intitle:Zero+Trust+Networks,+2nd+Edition%2Binauthor:Razi+Rais,+Christina+Morillo,+Evan+Gilman,+Doug+Barth&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $41.99Save $15.00 (26%)
+Amazon.com Reviews: 4.4 of 5 (4 reviews)
+Amazon.com URL: https://www.amazon.com/Zero-Trust-Networks/dp/1492096598
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (5 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Zero-Trust-Networks/dp/1492096598
+---
+HB Blurb: This practical book provides a detailed explanation of the zero trust security model. Zero trust is a security paradigm shift that eliminates the concept of traditional perimeter-based security and requires you to "always assume breach" and "never trust but always verify." The updated edition offers more scenarios, real-world examples, and in-depth explanations of key concepts to help you fully comprehend the zero trust security architecture.Examine fundamental concepts of zero trust security model, including trust engine, policy engine, and context aware agents Understand how this model embeds security within the system's operation, with guided scenarios at the end of each chapter Migrate from a perimeter-based network to a zero trust network in productionExplore case studies that provide insights into organizations' zero trust journeysLearn about the various zero trust architectures, standards, and frameworks developed by NIST, CISA, DoD, and others
+--------------------------------------------------
+
+Book 08:
+Title: Learning DevSecOps
+Author(s): Steve Suehring
+---
+ISBN-10: 1098144821 - ISBN-13: 9781098144821 - ASIN: B0D4F4YH66
+Published Date: 2024-05-17
+Page Count: 197
+---
+Google Books Price: GBP 34.5
+Google Books URL: http://books.google.co.uk/books?id=x7oIEQAAQBAJ&printsec=frontcover&dq=intitle:Learning+DevSecOps%2Binauthor:Steve+Suehring&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $47.99
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Learning-DevSecOps-Steve-Suehring-ebook/dp/B0D4F4YH66
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learning-DevSecOps-Steve-Suehring-ebook/dp/B0D4F4YH66
+---
+HB Blurb: How do some organizations maintain 24-7 internet-scale operations? How can organizations integrate security while continuously deploying new features? How do organizations increase security within their DevOps processes?This practical guide helps you answer those questions and more. Author Steve Suehring provides unique content to help practitioners and leadership successfully implement DevOps and DevSecOps. Learning DevSecOps emphasizes prerequisites that lead to success through best practices and then takes you through some of the tools and software used by successful DevSecOps-enabled organizations.You'll learn how DevOps and DevSecOps can eliminate the walls that stand between development, operations, and security so that you can tackle the needs of other teams early in the development lifecycle. With this book, you will:Learn why DevSecOps is about culture and processes, with tools to support the processes Understand why DevSecOps practices are key elements to deploying software in a 24-7 environmentDeploy software using a DevSecOps toolchain and create scripts to assist Integrate processes from other teams earlier in the software development lifecycleHelp team members learn the processes important for successful software development
+--------------------------------------------------
+
+Book 09:
+Title: Practical Data Privacy
+Author(s): Katharine Jarmul
+---
+ISBN-10: 9781098129460 - ISBN-13: 1098129466 - ASIN: B0C31N51RY
+Published Date: 2023-07-31
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=HnSSzwEACAAJ&dq=intitle:Practical+Data+Privacy%2Binauthor:Katharine+Jarmul&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $29.54Save $27.45 (48%)
+Amazon.com Reviews: 4.1 of 5 (15 reviews)
+Amazon.com URL: https://www.amazon.com/Practical-Data-Privacy-Katharine-Jarmul-ebook/dp/B0C31N51RY
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.1 of 5 (14 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Practical-Data-Privacy-Katharine-Jarmul-ebook/dp/B0C31N51RY
+---
+HB Blurb: Between major privacy regulations like the GDPR and CCPA and expensive and notorious data breaches, there has never been so much pressure to ensure data privacy. Unfortunately, integrating privacy into data systems is still complicated. This essential guide will give you a fundamental understanding of modern privacy building blocks, like differential privacy, federated learning, and encrypted computation. Based on hard-won lessons, this book provides solid advice and best practices for integrating breakthrough privacy-enhancing technologies into production systems. Practical Data Privacy answers important questions such as:What do privacy regulations like GDPR and CCPA mean for my data workflows and data science use cases?What does "anonymized data" really mean? How do I actually anonymize data?How does federated learning and analysis work? Homomorphic encryption sounds great, but is it ready for use?How do I compare and choose the best privacy-preserving technologies and methods? Are there open-source libraries that can help?How do I ensure that my data science projects are secure by default and private by design?How do I work with governance and infosec teams to implement internal policies appropriately?
+--------------------------------------------------
+
+Book 10:
+Title: Policy as Code
+Author(s): Jimmy Ray
+---
+ISBN-10: 1098139151 - ISBN-13: 9781098139155 - ASIN: 1098139186
+Published Date: 2024-07-02
+Page Count: 557
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=pNwREQAAQBAJ&printsec=frontcover&dq=intitle:Policy+as+Code%2Binauthor:Jimmy+Ray&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Policy-Code-Improving-Cloud-Native-Security/dp/1098139186
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Policy-as-Code-Jimmy-Ray-ebook/dp/B0D8L3PTC5
+---
+HB Blurb: In today's cloud native world, where we automate as much as possible, everything is code. With this practical guide, you'll learn how Policy as Code (PaC) provides the means to manage the policies, related data, and responses to events that occur within the systems we maintain—Kubernetes, cloud security, software supply chain security, infrastructure as code, and microservices authorization, among others. Author Jimmy Ray provides a practical approach to integrating PaC solutions into your systems, with plenty of real-world examples and important hands-on guidance. DevOps and DevSecOps engineers, Kubernetes developers, and cloud engineers will understand how to choose and then implement the most appropriate solutions.Understand PaC theory, best practices, and use cases for security Learn how to choose and use the correct PaC solution for your needsExplore PaC tooling and deployment options for writing and managing PaC policiesApply PaC to DevOps, IaC, Kubernetes, and AuthN/AuthZExamine how you can use PaC to implement security controlsVerify that your PaC solution is providing the desired resultCreate auditable artifacts to satisfy internal and external regulatory requirements
+--------------------------------------------------
+
+Book 11:
+Title: Adversary Emulation with MITRE ATT&CK
+Author(s): Drinor Selmanaj
+---
+ISBN-10: 9781098143763 - ISBN-13: 1098143760 - ASIN: 
+Published Date: 2024-07-30
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=knFc0AEACAAJ&dq=intitle:Adversary+Emulation+with+MITRE+ATT%26CK%2Binauthor:Drinor+Selmanaj&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Adversary-Emulation-MITRE-ATT-CK/dp/1098143760
+---
+HB Blurb: By incorporating cyber threat intelligence, adversary emulation provides a form of cybersecurity assessment that mimics advanced persistent threat (APT) tactics, techniques, and procedures (TTPs). This comprehensive guide introduces an empirical approach with strategies and processes collected over a decade of experience in the cybersecurity field. You'll learn to assess resilience against coordinated and stealthy threat actors capable of harming an organization. Author Drinor Selmanaj demonstrates adversary emulation for offensive operators and defenders using practical examples and exercises that actively model adversary behavior. Each emulation plan includes different hands-on scenarios, such as smash-and-grab or slow-and-deliberate. This book uses the MITRE ATT&CK knowledge base as a foundation to describe and categorize TTPs based on real-world observations, and provides a common language that's standardized and accessible to everyone. You'll learn how to:Map Cyber Threat Intelligence to ATT&CKDefine Adversary Emulation goals and objectivesResearch Adversary Emulation TTPs using ATT&CK knowledge basePlan Adversary Emulation activityImplement Adversary tradecraftConduct Adversary EmulationCommunicate Adversary Emulation findingsAutomate Adversary Emulation to support repeatable testingExecute FIN6, APT3, and APT29 emulation plans
+--------------------------------------------------
+
+Book 12:
+Title: Network Programmability and Automation, 2nd Edition
+Author(s): Matt Oswalt, Christian Adell, Scott S. Lowe, Jason Edelman
+---
+ISBN-10: 1098110803 - ISBN-13: 9781098110802 - ASIN: 1098110838
+Published Date: 2022-06-23
+Page Count: 828
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=bEnREAAAQBAJ&printsec=frontcover&dq=intitle:Network+Programmability+and+Automation,+2nd+Edition%2Binauthor:Matt+Oswalt,+Christian+Adell,+Scott+S.+Lowe,+Jason+Edelman&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Network-Programmability-Automation-Next-Generation-Engineer/dp/1098110838
+---
+HB Blurb: Network engineers are finding it harder than ever to rely solely on manual processes to get their jobs done. New protocols, technologies, delivery models, and the need for businesses to become more agile and flexible have made network automation essential. The updated second edition of this practical guide shows network engineers how to use a range of technologies and tools, including Linux, Python, APIs, and Git, to automate systems through code. This edition also includes brand new topics such as network development environments, cloud, programming with Go, and a reference network automation architecture.Network Programmability and Automation will help you automate tasks involved in configuring, managing, and operating network equipment, topologies, services, and connectivity. Through the course of the book, you'll learn the basic skills and tools you need to make this critical transition.You'll learn:Programming skills with Python and Go: data types, conditionals, loops, functions, and moreNew Linux-based networking technologies and cloud native environments, and how to use them to bootstrap development environments for your network projectsData formats and models: JSON, XML, YAML, Protobuf, and YANGJinja templating for creating network device configurationsA holistic approach to architecting network automation servicesThe role of application programming interfaces (APIs) in network automationSource control with Git to manage code changes during the automation processCloud-native technologies like Docker and KubernetesHow to automate network devices and services using Ansible, Nornir, and TerraformTools and technologies for developing and continuously integrating network automation
+--------------------------------------------------
+
+Book 13:
+Title: Inside Cyber Warfare, 3rd Edition
+Author(s): Jeffrey Caruso
+---
+ISBN-10: 1098138473 - ISBN-13: 9781098138479 - ASIN: B006LM62W6
+Published Date: 2024-09-16
+Page Count: 161
+---
+Google Books Price: GBP 40.99
+Google Books URL: http://books.google.co.uk/books?id=BfEhEQAAQBAJ&printsec=frontcover&dq=intitle:Inside+Cyber+Warfare,+3rd+Edition%2Binauthor:Jeffrey+Caruso&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.4 of 5 (67 reviews)
+Amazon.com URL: https://www.amazon.com/Inside-Cyber-Warfare-Mapping-Underworld-ebook/dp/B006LM62W6
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Inside-Cyber-Warfare-Mapping-Underworld/dp/1098138511
+---
+HB Blurb: Get a fascinating and disturbing look into how state and nonstate actors throughout the world use cyber attacks to gain military, political, and economic advantages. In the third edition of this book, cyber warfare researcher Jeffrey Caruso explores the latest advances in cyber espionage and warfare that have emerged on the battlefields of Ukraine and the Middle East, including cyber attacks that result in the physical destruction of the target and the pairing of cognitive with maneuver warfare.
+
+Inside Cyber Warfare features an exclusive deep dive into the wartime operations of an offensive cyber unit of Ukraine's Ministry of Defense as it works to defend the nation against Russian forces, particularly since the 2022 invasion:
+
+See what happened when a Ukrainian cyber and special operations team worked together to destroy a secret missile laboratoryExplore the legal status of cyber warfare and civilian hackers Discover how a cyber team with little money and limited resources learned to create fire from the manipulation of code in automated systemsDistinguish reality from fiction regarding AI safety and existential riskLearn new strategies for keeping you and your loved ones safe in an increasingly complex and insecure world
+--------------------------------------------------
+
+Book 14:
+Title: Security and Microservice Architecture on AWS
+Author(s): Gaurav Raje
+---
+ISBN-10: 1098101421 - ISBN-13: 9781098101428 - ASIN: B09FX2R7L2
+Published Date: 2021-09-08
+Page Count: 396
+---
+Google Books Price: GBP 40.99
+Google Books URL: http://books.google.co.uk/books?id=ijhCEAAAQBAJ&printsec=frontcover&dq=intitle:Security+and+Microservice+Architecture+on+AWS%2Binauthor:Gaurav+Raje&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $37.52Save $19.47 (34%)
+Amazon.com Reviews: 4.5 of 5 (47 reviews)
+Amazon.com URL: https://www.amazon.com/Security-Microservice-Architecture-Gaurav-Raje-ebook/dp/B09FX2R7L2
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (33 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Security-Microservice-Architecture-Gaurav-Raje-ebook/dp/B09FX2R7L2
+---
+HB Blurb: Security is usually an afterthought when organizations design microservices for cloud systems. Most companies today are exposed to potential security threats, but their responses are often more reactive than proactive. This leads to unnecessarily complicated systems that are hard to implement and even harder to manage and scale. Author Gaurav Raje shows you how to build highly secure systems on AWS without increasing overhead.Ideal for cloud solution architects and software developers with AWS experience, this practical book starts with a high-level architecture and design discussion, then explains how to implement your solution in the cloud while ensuring that the development and operational experience isn't compromised. By leveraging the AWS Shared Responsibility Model, you'll be able to:Develop a modular architecture using microservices that aims to simplify compliance with various regulations in finance, medicine, and legal servicesIntroduce various AWS-based security controls to help protect your microservices from malicious actorsLeverage the modularity of the architecture to independently scale security mechanisms on individual microservices Improve the security posture without compromising the autonomy or efficiency of software development teams
+--------------------------------------------------
+
+Book 15:
+Title: Cybersecurity Ops with bash
+Author(s): Paul Troncone, Carl Albing Ph.D.
+---
+ISBN-10: 1492041289 - ISBN-13: 9781492041283 - ASIN: B07Q63J3WP
+Published Date: 2019-04-02
+Page Count: 306
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=xPKPDwAAQBAJ&printsec=frontcover&dq=intitle:Cybersecurity+Ops+with+bash%2Binauthor:Paul+Troncone,+Carl+Albing+Ph.D.&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $36.81Save $20.18 (35%)
+Amazon.com Reviews: 4.7 of 5 (122 reviews)
+Amazon.com URL: https://www.amazon.com/Cybersecurity-Ops-bash-Analyze-Command-ebook/dp/B07Q63J3WP
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (118 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Cybersecurity-Ops-bash-Analyze-Command-ebook/dp/B07Q63J3WP
+---
+HB Blurb: If you hope to outmaneuver threat actors, speed and efficiency need to be key components of your cybersecurity operations. Mastery of the standard command-line interface (CLI) is an invaluable skill in times of crisis because no other software application can match the CLI‚Äôs availability, flexibility, and agility. This practical guide shows you how to use the CLI with the bash shell to perform tasks such as data collection and analysis, intrusion detection, reverse engineering, and administration.Authors Paul Troncone, founder of Digadel Corporation, and Carl Albing, coauthor of bash Cookbook (O‚ÄôReilly), provide insight into command-line tools and techniques to help defensive operators collect data, analyze logs, and monitor networks. Penetration testers will learn how to leverage the enormous amount of functionality built into nearly every version of Linux to enable offensive operations.In four parts, security practitioners, administrators, and students will examine:Foundations: Principles of defense and offense, command-line and bash basics, and regular expressionsDefensive security operations: Data collection and analysis, real-time log monitoring, and malware analysisPenetration testing: Script obfuscation and tools for command-line fuzzing and remote accessSecurity administration: Users, groups, and permissions; device and software inventory
+--------------------------------------------------
+
+Book 16:
+Title: Cloud Native Security Cookbook
+Author(s): Josh Armitage
+---
+ISBN-10: 109810627X - ISBN-13: 9781098106270 - ASIN: B09YLB1FY7
+Published Date: 2022-04-21
+Page Count: 516
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=Ey5sEAAAQBAJ&printsec=frontcover&dq=intitle:Cloud+Native+Security+Cookbook%2Binauthor:Josh+Armitage&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $28.37Save $28.62 (50%)
+Amazon.com Reviews: 3.8 of 5 (8 reviews)
+Amazon.com URL: https://www.amazon.com/Cloud-Native-Security-Cookbook-Armitage-ebook/dp/B09YLB1FY7
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.8 of 5 (8 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Cloud-Native-Security-Cookbook-Armitage-ebook/dp/B09YLB1FY7
+---
+HB Blurb: With the rise of the cloud, every aspect of IT has been shaken to its core. The fundamentals for building systems are changing, and although many of the principles that underpin security still ring true, their implementation has become unrecognizable. This practical book provides recipes for AWS, Azure, and GCP to help you enhance the security of your own cloud native systems. Based on his hard-earned experience working with some of the world's biggest enterprises and rapidly iterating startups, consultant Josh Armitage covers the trade-offs that security professionals, developers, and infrastructure gurus need to make when working with different cloud providers. Each recipe discusses these inherent compromises, as well as where clouds have similarities and where they're fundamentally different. Learn how the cloud provides security superior to what was achievable in an on-premises worldUnderstand the principles and mental models that enable you to make optimal trade-offs as part of your solutionLearn how to implement existing solutions that are robust and secure, and devise design solutions to new and interesting problemsDeal with security challenges and solutions both horizontally and vertically within your business
+--------------------------------------------------
+
+Book 17:
+Title: The Cybersecurity Manager's Guide
+Author(s): Todd Barnum
+---
+ISBN-10: 149207618X - ISBN-13: 9781492076186 - ASIN: 149207621X
+Published Date: 2021-03-18
+Page Count: 179
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=VrIlEAAAQBAJ&printsec=frontcover&dq=intitle:The+Cybersecurity+Manager%27s+Guide%2Binauthor:Todd+Barnum&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.5 of 5 (11 reviews)
+Amazon.com URL: https://www.amazon.com/Managers-Guide-Information-Security-Domain/dp/149207621X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.9 of 5 (9 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Cybersecurity-Managers-Guide-Building-Security-ebook/dp/B0912DXB2S
+---
+HB Blurb: If you're a cybersecurity professional, then you know how it often seems that no one cares about (or understands) information security. InfoSec professionals frequently struggle to integrate security into their companies' processes. Many are at odds with their organizations. Most are under-resourced. There must be a better way. This essential manager's guide offers a new approach to building and maintaining an information security program that's both effective and easy to follow.Author and longtime chief information security officer (CISO) Todd Barnum upends the assumptions security professionals take for granted. CISOs, chief security officers, chief information officers, and IT security professionals will learn a simple seven-step process for building a new program or improving a current one. Build better relationships across the organizationAlign your role with your company's values, culture, and tolerance for information lossLay the groundwork for your security programCreate a communications program to share your team's contributions and educate your coworkersTransition security functions and responsibilities to other teamsOrganize and build an effective InfoSec teamMeasure your company's ability to recognize and report security policy violations and phishing emails
+--------------------------------------------------
+
+Book 18:
+Title: Practicing Trustworthy Machine Learning
+Author(s): Yada Pruksachatkun, Matthew Mcateer, Subho Majumdar
+---
+ISBN-10: 109812023X - ISBN-13: 9781098120238 - ASIN: 1098120272
+Published Date: 2023-01-03
+Page Count: 304
+---
+Google Books Price: GBP 47.99
+Google Books URL: http://books.google.co.uk/books?id=lAqmEAAAQBAJ&printsec=frontcover&dq=intitle:Practicing+Trustworthy+Machine+Learning%2Binauthor:Yada+Pruksachatkun,+Matthew+Mcateer,+Subho+Majumdar&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $41.79Save $26.20 (39%)
+Amazon.com Reviews: 5 of 5 (7 reviews)
+Amazon.com URL: https://www.amazon.com/Practicing-Trustworthy-Machine-Learning-Transparent/dp/1098120272
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (5 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Practicing-Trustworthy-Machine-Learning-Transparent/dp/1098120272
+---
+HB Blurb: With the increasing use of AI in high-stakes domains such as medicine, law, and defense, organizations spend a lot of time and money to make ML models trustworthy. Many books on the subject offer deep dives into theories and concepts. This guide provides a practical starting point to help development teams produce models that are secure, more robust, less biased, and more explainable.Authors Yada Pruksachatkun, Matthew McAteer, and Subhabrata Majumdar translate best practices in the academic literature for curating datasets and building models into a blueprint for building industry-grade trusted ML systems. With this book, engineers and data scientists will gain a much-needed foundation for releasing trustworthy ML applications into a noisy, messy, and often hostile world.You'll learn:Methods to explain ML models and their outputs to stakeholdersHow to recognize and fix fairness concerns and privacy leaks in an ML pipelineHow to develop ML systems that are robust and secure against malicious attacksImportant systemic considerations, like how to manage trust debt and which ML obstacles require human intervention
+--------------------------------------------------
+
+Book 19:
+Title: Hacker Culture A to Z
+Author(s): Kim Crawley
+---
+ISBN-10: 109814564X - ISBN-13: 9781098145644 - ASIN: B0CLKZ71B4
+Published Date: 2023-11-06
+Page Count: 289
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=YJHhEAAAQBAJ&printsec=frontcover&dq=intitle:Hacker+Culture+A+to+Z%2Binauthor:Kim+Crawley&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $28.99Save $11.00 (28%)
+Amazon.com Reviews: 5 of 5 (1 reviews)
+Amazon.com URL: https://www.amazon.com/Hacker-Culture-Z-Kim-Crawley-ebook/dp/B0CLKZ71B4
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Hacker-Culture-Fundamentals-Cybersecurity-Hacking/dp/1098145674
+---
+HB Blurb: Hacker culture can be esoteric, but this entertaining reference is here to help. Written by longtime cybersecurity researcher and writer Kim Crawley, this fun reference introduces you to key people and companies, fundamental ideas, and milestone films, games, and magazines in the annals of hacking. From airgapping to phreaking to zombie malware, grasping the terminology is crucial to understanding hacker culture and history.If you're just getting started on your hacker journey, you'll find plenty here to guide your learning and help you understand the references and cultural allusions you come across. More experienced hackers will find historical depth, wry humor, and surprising facts about familiar cultural touchstones.Understand the relationship between hacker culture and cybersecurityGet to know the ideas behind the hacker ethos, like "knowledge should be free"√Ç¬ùExplore topics and publications central to hacker culture, including 2600 MagazineAppreciate the history of cybersecurityLearn about key figures in the history of hacker cultureUnderstand the difference between hackers and cybercriminals
+--------------------------------------------------
+
+Book 20:
+Title: Intelligence-Driven Incident Response, 2nd Edition
+Author(s): Rebekah Brown (Author), Scott J. Roberts
+---
+ISBN-10: 9781491935187 - ISBN-13: 1491935189 - ASIN: B0C7Y9V2ZS
+Published Date: 2017
+Page Count: None
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=HDJKswEACAAJ&dq=intitle:Intelligence-Driven+Incident+Response,+2nd+Edition%2Binauthor:Rebekah+Brown+(Author),+Scott+J.+Roberts&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $42.99Save $14.00 (25%)
+Amazon.com Reviews: 4.7 of 5 (5 reviews)
+Amazon.com URL: https://www.amazon.com/Intelligence-Driven-Incident-Response-Rebekah-Brown-ebook/dp/B0C7Y9V2ZS
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (5 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Intelligence-Driven-Incident-Response-Outwitting-Adversary/dp/109812068X
+---
+HB Blurb: Using a well-conceived incident response plan in the aftermath of an online security breach enables your team to identify attackers and learn how they operate. But only when you approach incident response with a cyber threat intelligence mindset will you truly understand the value of that information. In this updated second edition, you'll learn the fundamentals of intelligence analysis as well as the best ways to incorporate these techniques into your incident response process.Each method reinforces the other: threat intelligence supports and augments incident response, while incident response generates useful threat intelligence. This practical guide helps incident managers, malware analysts, reverse engineers, digital forensics specialists, and intelligence analysts understand, implement, and benefit from this relationship.In three parts, this in-depth book includes:The fundamentals: Get an introduction to cyberthreat intelligence, the intelligence process, the incident response process, and how they all work togetherPractical application: Walk through the intelligence-driven incident response (IDIR) process using the F3EAD process: Find, Fix, Finish, Exploit, Analyze, and DisseminateThe way forward: Explore big-picture aspects of IDIR that go beyond individual incident response investigations, including intelligence team building
+--------------------------------------------------
+
+Book 21:
+Title: 97 Things Every Application Security Professional Should Know
+Author(s): Christina Morillo
+---
+ISBN-10: 1098101359 - ISBN-13: 9781098101350 - ASIN: B09G9D8NPZ
+Published Date: 2021-09-14
+Page Count: 266
+---
+Google Books Price: GBP 30.99
+Google Books URL: http://books.google.co.uk/books?id=Hd9CEAAAQBAJ&printsec=frontcover&dq=intitle:97+Things+Every+Application+Security+Professional+Should+Know%2Binauthor:Christina+Morillo&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $23.41Save $19.58 (46%)
+Amazon.com Reviews: 4.5 of 5 (49 reviews)
+Amazon.com URL: https://www.amazon.com/Things-Information-Security-Professional-Should-ebook/dp/B09G9D8NPZ
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (46 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Things-Information-Security-Professional-Should/dp/1098101391
+---
+HB Blurb: As technology continues to advance and more business is conducted online, the potential attack surface increases exponentially and the need for strong application security measures become more and more crucial. This goes double for any organization that handles sensitive personal or financial information which is usually subject to government regulation. The consequences of a successful attack at the application level can be devastating for an organization, ranging from loss of revenue, to damaged reputation, to potential fines and other penalties.This book also introduces you to: What's considered application security and what security professionals should know What developers or software engineers should know about common application vulnerabilities How to design, develop, and test applications so that the application or software is able to defend against exploits and attacksWays to provide readers with fresh perspectives, various insights, and many practical ways to address cyber security related to application development This advice can be applied in development for web, mobile, APIs or other software development, in different development languages, in waterfall and agile software development lifecycle (SDLC), and in the cloud.
+--------------------------------------------------
+
+Book 22:
+Title: Defensive Security Handbook, 2nd Edition
+Author(s): Amanda Berlin, Lee Brotherston, William Reyor III
+---
+ISBN-10: 1098127218 - ISBN-13: 9781098127213 - ASIN: 1098127242
+Published Date: 2024-06-26
+Page Count: 363
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=efoQEQAAQBAJ&printsec=frontcover&dq=intitle:Defensive+Security+Handbook,+2nd+Edition%2Binauthor:Amanda+Berlin,+Lee+Brotherston,+William+Reyor+III&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 0 of 5 (1 reviews)
+Amazon.com URL: https://www.amazon.com/Defensive-Security-Handbook-Practices-Infrastructure/dp/1098127242
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Defensive-Security-Handbook-Practices-Infrastructure/dp/1098127242
+---
+HB Blurb: Despite the increase of high-profile hacks, record-breaking data leaks, and ransomware attacks, many organizations don't have the budget for an information security (InfoSec) program. If you're forced to protect yourself by improvising on the job, this pragmatic guide provides a security-101 handbook with steps, tools, processes, and ideas to help you drive maximum-security improvement at little or no cost.
+
+Each chapter in this book provides step-by-step instructions for dealing with issues such as breaches and disasters, compliance, network infrastructure, password management, vulnerability scanning, penetration testing, and more. Network engineers, system administrators, and security professionals will learn how to use frameworks, tools, and techniques to build and improve their cybersecurity programs. 
+
+This book will help you:Plan and design incident response, disaster recovery, compliance, and physical securityLearn and apply basic penetration-testing concepts through purple teamingConduct vulnerability management using automated processes and toolsUse IDS, IPS, SOC, logging, and monitoringBolster Microsoft and Unix systems, network infrastructure, and password managementUse segmentation practices and designs to compartmentalize your networkReduce exploitable errors by developing code securely
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Practical Cloud Security, 2nd Edition
+No Amazon.com URL found
+https://www.amazon.co.uk/Practical-Cloud-Security-Chris-Dotson-ebook/dp/B0CKM7YMHJ
+http://books.google.co.uk/books?id=3GTbEAAAQBAJ&printsec=frontcover&dq=intitle:Practical+Cloud+Security,+2nd+Edition%2Binauthor:Chris+Dotson&hl=&cd=1&source=gbs_api
+
+Book 02 - Web Application Security, 2e
+https://www.amazon.com/Web-Application-Security-Andrew-Hoffman-ebook/dp/B0CSMGRLRR
+https://www.amazon.co.uk/Web-Application-Security-Exploitation-Countermeasures/dp/1098143930
+http://books.google.co.uk/books?id=LeZV0AEACAAJ&dq=intitle:Web+Application+Security,+2e%2Binauthor:Andrew+Hoffman&hl=&cd=1&source=gbs_api
+
+Book 03 - Building a Cyber Risk Management Program
+https://www.amazon.com/Building-Cyber-Risk-Management-Program/dp/1098147790
+https://www.amazon.co.uk/Building-Cyber-Risk-Management-Program-ebook/dp/B0CPH335ZH
+http://books.google.co.uk/books?id=ZnrnEAAAQBAJ&printsec=frontcover&dq=intitle:Building+a+Cyber+Risk+Management+Program%2Binauthor:Brian+Allen,+Brandon+Bapst,+Terry+Allan+Hicks&hl=&cd=1&source=gbs_api
+
+Book 04 - Software Supply Chain Security
+No Amazon.com URL found
+https://www.amazon.co.uk/Software-Supply-Security-Cassie-Crossley-ebook/dp/B0CTWFSB2K
+http://books.google.co.uk/books?id=P3sH0AEACAAJ&dq=intitle:Software+Supply+Chain+Security%2Binauthor:Cassie+Crossley&hl=&cd=1&source=gbs_api
+
+Book 05 - Security Architecture for Hybrid Cloud
+No Amazon.com URL found
+https://www.amazon.co.uk/Security-Architecture-Hybrid-Cloud-Principles/dp/109815777X
+http://books.google.co.uk/books?id=XmkWEQAAQBAJ&printsec=frontcover&dq=intitle:Security+Architecture+for+Hybrid+Cloud%2Binauthor:Mark+Buckwell,+Stefaan+Van+daele,+Carsten+Horst&hl=&cd=1&source=gbs_api
+
+Book 06 - The Developer's Playbook for Large Language Model Security
+https://www.amazon.com/Developers-Playbook-Large-Language-Security-ebook/dp/B0DGYSB8LG
+https://www.amazon.co.uk/Developers-Playbook-Large-Language-Security/dp/109816220X
+http://books.google.co.uk/books?id=MkshEQAAQBAJ&printsec=frontcover&dq=intitle:The+Developer%27s+Playbook+for+Large+Language+Model+Security%2Binauthor:Steve+Wilson&hl=&cd=1&source=gbs_api
+
+Book 07 - Zero Trust Networks, 2nd Edition
+https://www.amazon.com/Zero-Trust-Networks/dp/1492096598
+https://www.amazon.co.uk/Zero-Trust-Networks/dp/1492096598
+http://books.google.co.uk/books?id=6RT3EAAAQBAJ&printsec=frontcover&dq=intitle:Zero+Trust+Networks,+2nd+Edition%2Binauthor:Razi+Rais,+Christina+Morillo,+Evan+Gilman,+Doug+Barth&hl=&cd=1&source=gbs_api
+
+Book 08 - Learning DevSecOps
+https://www.amazon.com/Learning-DevSecOps-Steve-Suehring-ebook/dp/B0D4F4YH66
+https://www.amazon.co.uk/Learning-DevSecOps-Steve-Suehring-ebook/dp/B0D4F4YH66
+http://books.google.co.uk/books?id=x7oIEQAAQBAJ&printsec=frontcover&dq=intitle:Learning+DevSecOps%2Binauthor:Steve+Suehring&hl=&cd=1&source=gbs_api
+
+Book 09 - Practical Data Privacy
+https://www.amazon.com/Practical-Data-Privacy-Katharine-Jarmul-ebook/dp/B0C31N51RY
+https://www.amazon.co.uk/Practical-Data-Privacy-Katharine-Jarmul-ebook/dp/B0C31N51RY
+http://books.google.co.uk/books?id=HnSSzwEACAAJ&dq=intitle:Practical+Data+Privacy%2Binauthor:Katharine+Jarmul&hl=&cd=1&source=gbs_api
+
+Book 10 - Policy as Code
+https://www.amazon.com/Policy-Code-Improving-Cloud-Native-Security/dp/1098139186
+https://www.amazon.co.uk/Policy-as-Code-Jimmy-Ray-ebook/dp/B0D8L3PTC5
+http://books.google.co.uk/books?id=pNwREQAAQBAJ&printsec=frontcover&dq=intitle:Policy+as+Code%2Binauthor:Jimmy+Ray&hl=&cd=1&source=gbs_api
+
+Book 11 - Adversary Emulation with MITRE ATT&CK
+No Amazon.com URL found
+https://www.amazon.co.uk/Adversary-Emulation-MITRE-ATT-CK/dp/1098143760
+http://books.google.co.uk/books?id=knFc0AEACAAJ&dq=intitle:Adversary+Emulation+with+MITRE+ATT%26CK%2Binauthor:Drinor+Selmanaj&hl=&cd=1&source=gbs_api
+
+Book 12 - Network Programmability and Automation, 2nd Edition
+No Amazon.com URL found
+https://www.amazon.co.uk/Network-Programmability-Automation-Next-Generation-Engineer/dp/1098110838
+http://books.google.co.uk/books?id=bEnREAAAQBAJ&printsec=frontcover&dq=intitle:Network+Programmability+and+Automation,+2nd+Edition%2Binauthor:Matt+Oswalt,+Christian+Adell,+Scott+S.+Lowe,+Jason+Edelman&hl=&cd=1&source=gbs_api
+
+Book 13 - Inside Cyber Warfare, 3rd Edition
+https://www.amazon.com/Inside-Cyber-Warfare-Mapping-Underworld-ebook/dp/B006LM62W6
+https://www.amazon.co.uk/Inside-Cyber-Warfare-Mapping-Underworld/dp/1098138511
+http://books.google.co.uk/books?id=BfEhEQAAQBAJ&printsec=frontcover&dq=intitle:Inside+Cyber+Warfare,+3rd+Edition%2Binauthor:Jeffrey+Caruso&hl=&cd=1&source=gbs_api
+
+Book 14 - Security and Microservice Architecture on AWS
+https://www.amazon.com/Security-Microservice-Architecture-Gaurav-Raje-ebook/dp/B09FX2R7L2
+https://www.amazon.co.uk/Security-Microservice-Architecture-Gaurav-Raje-ebook/dp/B09FX2R7L2
+http://books.google.co.uk/books?id=ijhCEAAAQBAJ&printsec=frontcover&dq=intitle:Security+and+Microservice+Architecture+on+AWS%2Binauthor:Gaurav+Raje&hl=&cd=1&source=gbs_api
+
+Book 15 - Cybersecurity Ops with bash
+https://www.amazon.com/Cybersecurity-Ops-bash-Analyze-Command-ebook/dp/B07Q63J3WP
+https://www.amazon.co.uk/Cybersecurity-Ops-bash-Analyze-Command-ebook/dp/B07Q63J3WP
+http://books.google.co.uk/books?id=xPKPDwAAQBAJ&printsec=frontcover&dq=intitle:Cybersecurity+Ops+with+bash%2Binauthor:Paul+Troncone,+Carl+Albing+Ph.D.&hl=&cd=1&source=gbs_api
+
+Book 16 - Cloud Native Security Cookbook
+https://www.amazon.com/Cloud-Native-Security-Cookbook-Armitage-ebook/dp/B09YLB1FY7
+https://www.amazon.co.uk/Cloud-Native-Security-Cookbook-Armitage-ebook/dp/B09YLB1FY7
+http://books.google.co.uk/books?id=Ey5sEAAAQBAJ&printsec=frontcover&dq=intitle:Cloud+Native+Security+Cookbook%2Binauthor:Josh+Armitage&hl=&cd=1&source=gbs_api
+
+Book 17 - The Cybersecurity Manager's Guide
+https://www.amazon.com/Managers-Guide-Information-Security-Domain/dp/149207621X
+https://www.amazon.co.uk/Cybersecurity-Managers-Guide-Building-Security-ebook/dp/B0912DXB2S
+http://books.google.co.uk/books?id=VrIlEAAAQBAJ&printsec=frontcover&dq=intitle:The+Cybersecurity+Manager%27s+Guide%2Binauthor:Todd+Barnum&hl=&cd=1&source=gbs_api
+
+Book 18 - Practicing Trustworthy Machine Learning
+https://www.amazon.com/Practicing-Trustworthy-Machine-Learning-Transparent/dp/1098120272
+https://www.amazon.co.uk/Practicing-Trustworthy-Machine-Learning-Transparent/dp/1098120272
+http://books.google.co.uk/books?id=lAqmEAAAQBAJ&printsec=frontcover&dq=intitle:Practicing+Trustworthy+Machine+Learning%2Binauthor:Yada+Pruksachatkun,+Matthew+Mcateer,+Subho+Majumdar&hl=&cd=1&source=gbs_api
+
+Book 19 - Hacker Culture A to Z
+https://www.amazon.com/Hacker-Culture-Z-Kim-Crawley-ebook/dp/B0CLKZ71B4
+https://www.amazon.co.uk/Hacker-Culture-Fundamentals-Cybersecurity-Hacking/dp/1098145674
+http://books.google.co.uk/books?id=YJHhEAAAQBAJ&printsec=frontcover&dq=intitle:Hacker+Culture+A+to+Z%2Binauthor:Kim+Crawley&hl=&cd=1&source=gbs_api
+
+Book 20 - Intelligence-Driven Incident Response, 2nd Edition
+https://www.amazon.com/Intelligence-Driven-Incident-Response-Rebekah-Brown-ebook/dp/B0C7Y9V2ZS
+https://www.amazon.co.uk/Intelligence-Driven-Incident-Response-Outwitting-Adversary/dp/109812068X
+http://books.google.co.uk/books?id=HDJKswEACAAJ&dq=intitle:Intelligence-Driven+Incident+Response,+2nd+Edition%2Binauthor:Rebekah+Brown+(Author),+Scott+J.+Roberts&hl=&cd=1&source=gbs_api
+
+Book 21 - 97 Things Every Application Security Professional Should Know
+https://www.amazon.com/Things-Information-Security-Professional-Should-ebook/dp/B09G9D8NPZ
+https://www.amazon.co.uk/Things-Information-Security-Professional-Should/dp/1098101391
+http://books.google.co.uk/books?id=Hd9CEAAAQBAJ&printsec=frontcover&dq=intitle:97+Things+Every+Application+Security+Professional+Should+Know%2Binauthor:Christina+Morillo&hl=&cd=1&source=gbs_api
+
+Book 22 - Defensive Security Handbook, 2nd Edition
+https://www.amazon.com/Defensive-Security-Handbook-Practices-Infrastructure/dp/1098127242
+https://www.amazon.co.uk/Defensive-Security-Handbook-Practices-Infrastructure/dp/1098127242
+http://books.google.co.uk/books?id=efoQEQAAQBAJ&printsec=frontcover&dq=intitle:Defensive+Security+Handbook,+2nd+Edition%2Binauthor:Amanda+Berlin,+Lee+Brotherston,+William+Reyor+III&hl=&cd=1&source=gbs_api
+
