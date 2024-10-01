@@ -1,0 +1,236 @@
+Humble Tech Book Bundle- Raspberry Pi and Retro Gaming by Raspberry Pi Press - Raspberry Pi Press
+Processing date: 2024-09-16
+Data retrieved from: https://www.humblebundle.com/books/raspberry-pi-and-retro-gaming-by-raspberry-pi-press-books
+
+Book 01 - The Official Raspberry Pi Handbook 2025 - The Makers of The MagPi magazine - None found out of 5 (None found reviews)
+Book 02 - Retro Gaming with Raspberry Pi - The Makers of The MagPi magazine - 4.5 out of 5 (2 reviews)
+Book 03 - Design an RP2040 board with KiCad - Jo Hinchliffe - None found out of 5 (None found reviews)
+Book 04 - The Book of Making - The Makers of HackSpace magazine - None found out of 5 (None found reviews)
+Book 05 - Code the Classics Volume I, 2nd Edition - David Crookes, Andrew Gillett, Liz Upton, Eben Upton - None found out of 5 (None found reviews)
+Book 06 - Code the Classics Volume II - David Crookes, Andrew Gillett, Liz Upton, Eben Upton - None found out of 5 (None found reviews)
+Book 07 - The Official Raspberry Pi Handbook 2024 - The Makers of The MagPi magazine - None found out of 5 (None found reviews)
+Book 08 - Get started with MicroPython on Raspberry Pi Pico, 2nd Edition - Gareth Halfacree, Ben Everard - None found out of 5 (None found reviews)
+Book 09 - The Official Raspberry Pi Beginner's Guide, 5th Edition - Gareth Halfacree - 4.7 out of 5 (21 reviews)
+Book 10 - La guia oficial de Raspberry Pi para principiantes (Spanish Beginner's Guide) - Gareth Halfacree - None found out of 5 (None found reviews)
+Book 11 - Das offizielle Raspberry Pi-Handbuch fur Einsteiger (German Beginner's Guide) - Gareth Halfacree - None found out of 5 (None found reviews)
+Book 12 - Le guide officiel du debutant Raspberry Pi (French Beginner's Guide) - Gareth Halfacree - None found out of 5 (None found reviews)
+Book 13 - An Introduction to C & GUI Programming - Simon Long - 4.5 out of 5 (28 reviews)
+Book 14 - The Computers That Made Britain - Tim Danton - 4.7 out of 5 (131 reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: The Official Raspberry Pi Handbook 2025
+Author(s): The Makers of The MagPi magazine
+---
+ISBN-10: 9781916868250 - ISBN-13: 1916868258 - ASIN: 
+Published Date: 2024-11-05
+---
+HB Blurb: Take inspiration from the golden age of video games and learn how to write your own modern classicsCode the Classics Volume 1 not only tells the stories of some of the seminal video games of the 1970s and 1980s, but shows you how to create your own games inspired by them, following examples programmed by Raspberry Pi founder Eben Upton. In this book, you'll learn how to run and edit the games in this book by installing Python, Pygame Zero, and an IDE. You'll also:Get game design tips and tricks from the mastersLearn how to code your own games with Pygame ZeroExplore the code listings and find out how they workYou'll meet these vintage-inspired games, and learn from their code in between rounds of play:Boing!: all it took was a couple of lines and a dot, and gamers would be queuing up to play.Cavern: Enduringly popular, the platform game genre is still packed with creative possibilities.Infinite Bunner: Play around with the benefits that a top-down perspective can lend to the classic platform genre.Myriapod: Some shooters confine the gameplay to a single screen while limiting the player's movement. Restrictions can build challenge and difficulty, making for truly addictive gaming.Substitute Soccer: Top-down games of pinball-style soccer built a huge cult following and kicked off a sports genre that's still going strong.
+--------------------------------------------------
+
+Book 02:
+Title: Retro Gaming with Raspberry Pi
+Author(s): The Makers of The MagPi magazine
+---
+ISBN-10: 1916868282 - ISBN-13: 9781916868281 - ASIN: B0CZGH43C7
+Published Date: 2024-02-20
+---
+HB Blurb: The 1980s and 1990s were a glorious era for gaming! In just twelve short years (1982-1994) we had the Sinclair Spectrum, Commodore 64, Amiga, and Atari ST; NES, SNES, Sega Master System, Sega Genesis/Mega Drive, and Saturn right up to the Sony PlayStation. The pace of change from bitmapped graphics, through to sprite scaling and eventually 3D polygon graphics was breathtaking. We're still nursing sore thumbs from endless button-bashing.This book shows you, step-by-step, how to turn Raspberry Pi into several classic consoles and computers. Discover where to get brand new games from, and even how to start coding games. If you're brave, we'll show you how to build a full-sized arcade machine.This book will help you to:Write a classic text adventureCreate a Pong-style video gameEmulate classic computers and consoles on Raspberry Pi or Raspberry Pi PicoCreate authentic-looking replicas of classic machines right down to their casesDiscover controllers and other retro gaming hardware to enhance your experiencesConnect Raspberry Pi to a cathode-ray tube (CRT) displayRediscovering retro games is a fantastic hobby. You get all the thrill of nostalgia, and replay classic games that still hold up today, and you learn how computers and consoles work in the process.
+--------------------------------------------------
+
+Book 03:
+Title: Design an RP2040 board with KiCad
+Author(s): Jo Hinchliffe
+---
+ISBN-10: 9781916868137 - ISBN-13: 1916868134 - ASIN: 
+Published Date: 2024-08-13
+---
+HB Blurb: Design and make your own microcontroller board using the same chip that powers the popular Raspberry Pi PicoKiCad is an amazing piece of free and open-source software that allows anyone, with some time and effort, to make high-quality PCB designs. Couple this amazing software with numerous PCB fabrication companies and even PCBA services (companies that will make and assemble your PCB designs) and there's never been a better time to get into this aspect of making.This book provides a gentle introduction to PCB design using the RP2040 microcontroller chip (the same chip that's at the heart of the Raspberry Pi Pico). You'll learn how to create a schematic for a microcontroller board using the RP2040, from assigning schematic symbols to creating a footprint for individual components. You'll quickly move on to laying out the PCB design and preparing it for manufacture!That's right--after your board is designed, this book will show you how to send it off to be manufactured and assembled. You'll find out about the various materials (or substrates) you can choose for your board, and learn how to pick the right manufacturer. Once you have your board in hand, you'll also learn what you can do (and make!) with it, and there will be plenty of ideas for expansions, such as motor drivers.
+--------------------------------------------------
+
+Book 04:
+Title: The Book of Making
+Author(s): The Makers of HackSpace magazine
+---
+ISBN-10: 9781912047543 - ISBN-13: 1912047543 - ASIN: B0D29KS4VQ
+Published Date: 2019-12
+---
+HB Blurb: Find inspiration for makers in this collection from a year of HackSpace magazineHackSpace magazine is filled with the best projects, tutorials, and articles for makers and hackers. Each year, that amounts to over 1500 pages! The Book of Making 2025 distills the latest  year of HackSpace magazine down to our favourite maker projects. We don't discriminate between different styles of making: HackSpace magazine covers food makers, hobbyists, and even digital fabrication technologies like 3d printing.Step into the wonderful world of making with this book from the Makers of HackSpace magazine. Be inspired by the amazing community projects you'll find in these pages and make your own creations with step-by-step guides. This book is full of the perfect projects for an hour, afternoon, or weekend. Here's a small sampling of what you'll find in this book. You'll learn how to:Work with microcontrollers and electronic circuits.Design for 2d and 3d fabrication methods and make them a reality.Create amazing things with everyday items.Hackspaces and makerspaces have exploded in popularity the world over, as more and more people want to make things and learn. Written by makers for makers, this book features a diverse range of projects to build. Grab some duct tape, fire up a microcontroller, ready a 3D printer, and hack the world around you!
+--------------------------------------------------
+
+Book 05:
+Title: Code the Classics Volume I, 2nd Edition
+Author(s): David Crookes, Andrew Gillett, Liz Upton, Eben Upton
+---
+ISBN-10: 1916868207 - ISBN-13: 9781916868205 - ASIN: 1916868193
+Published Date: 2024-07-27
+---
+HB Blurb: Take inspiration from the golden age of video games and learn how to write your own modern classicsCode the Classics Volume 1 not only tells the stories of some of the seminal video games of the 1970s and 1980s, but shows you how to create your own games inspired by them, following examples programmed by Raspberry Pi founder Eben Upton. In this book, you'll learn how to run and edit the games in this book by installing Python, Pygame Zero, and an IDE. You'll also:Get game design tips and tricks from the mastersLearn how to code your own games with Pygame ZeroExplore the code listings and find out how they workYou'll meet these vintage-inspired games, and learn from their code in between rounds of play:Boing!: all it took was a couple of lines and a dot, and gamers would be queuing up to play.Cavern: Enduringly popular, the platform game genre is still packed with creative possibilities.Infinite Bunner: Play around with the benefits that a top-down perspective can lend to the classic platform genre.Myriapod: Some shooters confine the gameplay to a single screen while limiting the player's movement. Restrictions can build challenge and difficulty, making for truly addictive gaming.Substitute Soccer: Top-down games of pinball-style soccer built a huge cult following and kicked off a sports genre that's still going strong.
+--------------------------------------------------
+
+Book 06:
+Title: Code the Classics Volume II
+Author(s): David Crookes, Andrew Gillett, Liz Upton, Eben Upton
+---
+ISBN-10: 1916868053 - ISBN-13: 9781916868052 - ASIN: 1916868045
+Published Date: 2024-08-28
+---
+HB Blurb: Take inspiration from the some of the greatest video games of the 1980s and learn how to write your own modern classicsCode the Classics Volume II not only tells the stories of some of the seminal video games of the 1980s, but shows you how to create your own games inspired by them, following examples programmed by Raspberry Pi founder Eben Upton. In this book, you'll learn how to run and edit the games in this book by installing Python, Pygame Zero, and an IDE. You'll also:Get game design tips and tricks from the masters.Understand the fundamental tasks needed for every game: display images, play sound effects and receive inputs from the keyboard or a game controller.Learn how to code your own games with Pygame Zero, a library that helps automate those tasks.Explore the code listings and find out how they work.You'll meet these vintage-inspired games, and learn from their code in between rounds of play:Avenger: fly across a scrolling landscape while you save humans from malevolent aliens.Beat Streets: fight your way through a level, and defeat a notorious crime boss.Eggzy: collect gems and survive as long as possible before time runs out.Leading Edge: Race a car on a pseudo-3d race track.Kinetix: Break bricks with your paddle, and use powerups to avoid various menaces.
+--------------------------------------------------
+
+Book 07:
+Title: The Official Raspberry Pi Handbook 2024
+Author(s): The Makers of The MagPi magazine
+---
+ISBN-10: 1912047349 - ISBN-13: 9781912047345 - ASIN: B0CZG6FJ2Z
+Published Date: 2024-05-07
+---
+HB Blurb: The Official Raspberry Pi Handbook 2024 is packed with all the information beginners need to use their new Raspberry Pi computer. Inside, you'll also find the best projects from the past year for long-term Raspberry Pi enthusiasts.With a special section on Raspberry Pi 5, the latest and greatest in the Raspberry Pi microcomputer line, you'll learn how to code and make with this incredible computer. We've also got plenty of tutorials and projects for the Raspberry Pi Pico and Pico W, the smallest members of the Raspberry Pi family.In this 2024 handbook, you'll find:A getting started guide for every Raspberry Pi model.Everything you need to know about the brand new Raspberry Pi 5.Inspiring projects for your next build idea.Tips on having some serious fun with electronics.Our super-simple robotics tutorial to get you started with your own robots.A guide to playing retro games with the diminutive Raspberry Pi Pico.We also have plenty of things you can do with Raspberry Pi 4, Raspberry Pi Zero 2 W, and Raspberry Pi Pico W squeezed into these 200 pages. With the latest reviews, tutorials, project showcases, guides, and much more, this is your ultimate resource for Raspberry Pi!
+--------------------------------------------------
+
+Book 08:
+Title: Get started with MicroPython on Raspberry Pi Pico, 2nd Edition
+Author(s): Gareth Halfacree, Ben Everard
+---
+ISBN-10: 1912047306 - ISBN-13: 9781912047307 - ASIN: 1912047292
+Published Date: 2024-06-18
+---
+HB Blurb: Microcontrollers, like the RP2040 chip at the heart of Raspberry Pi Pico, are computers stripped back to their bare essentials. You don't use monitors or keyboards with them — instead, you program them over USB to take their input from (and send their output to) on-board input/output pins.Using these programmable connections, you can light LEDs, make noises, send text to screens, and much more. In Get started with MicroPython on Raspberry Pi Pico 2nd Edition, you will learn how to use the beginner-friendly MicroPython language to write programs, and you’ll connect up hardware to make your Raspberry Pi Pico interact with the world around it. Using these skills, you can create your own electromechanical projects, whether for fun or to make your life easier.Fully updated for Raspberry Pi Pico W and the latest version of MicroPython, this book shows you how to:Get started with Raspberry Pi Pico and Pico WWork with various electronic componentsCreate your own programmable electronic contraptionsTurn Raspberry Pi Pico W into a network-connected node for the Internet of ThingsLink your Pico W to your smartphone, tablet, or another Pico W with Bluetooth Low Energy (BLE)Whether you’re using Raspberry Pi Pico for a home project, industrial automation, or learning (or teaching!) electronics and programming, this book will show you how.Chapter 1: Get to know your Raspberry Pi PicoChapter 2: Programming with MicroPythonChapter 3: Physical computingChapter 4: Physical computing with Raspberry Pi PicoChapter 5: Traffic light controllerChapter 6: Reaction gameChapter 7: Burglar alarmChapter 8: Temperature gaugeChapter 9: Data loggerChapter 10: Digital communication protocols: I2C and SPIChapter 11: Wi-Fi connectivity with Pico WChapter 12: Bluetooth connectivity with Pico WAppendix A: Raspberry Pi Pico specificationsAppendix B: Pinout guideAppendix C: Programmable I/O
+--------------------------------------------------
+
+Book 09:
+Title: The Official Raspberry Pi Beginner's Guide, 5th Edition
+Author(s): Gareth Halfacree
+---
+ISBN-10: 1912047276 - ISBN-13: 9781912047277 - ASIN: 1912047268
+Published Date: 2023-10-31
+---
+HB Blurb: Raspberry Pi is a small, clever, British-built computer that's packed with potential. Made using a desktop-class, energy-efficient processor, Raspberry Pi is designed to help you learn coding, discover how computers work, and build your own amazing things. This book was written to show you just how easy it is to get started. Learn how to:Set up your Raspberry Pi, install its operating system, and start using this fully functional computer.Start coding projects, with step-by-step guides using the Scratch 3, Python, and MicroPython programming languages. Experiment with connecting electronic components, and have fun creating amazing projects.This revised edition is updated for the latest Raspberry Pi computers: Raspberry Pi 5 and Raspberry Pi Zero 2 W as well as the latest Raspberry Pi OS. It also includes a new chapter on the Raspberry Pi Pico!Whichever model you have, a standard Raspberry Pi board; the compact Raspberry Pi Zero 2 W; or the Raspberry Pi 400 with integrated keyboard, this affordable computer can be used to learn coding, build robots, and create all kinds of weird and wonderful projects. If you want to make games, build robots, or hack a variety of amazing projects, then this book is here to help you get started.
+--------------------------------------------------
+
+Book 10:
+Title: La guia oficial de Raspberry Pi para principiantes (Spanish Beginner's Guide)
+Author(s): Gareth Halfacree
+---
+ISBN-10: 1912047276 - ISBN-13: 9781912047277 - ASIN: 1912047373
+Published Date: 2023-10-31
+---
+HB Blurb: Raspberry Pi es un ordenador pequeño e inteligente de fabricación británica con un gran potencial. Creado con un procesador de sobremesa de bajo consumo, Raspberry Pi se ha diseñado para ayudarte a aprender a programar, descubrir cómo funcionan los ordenadores y crear cosas maravillosas. Esta guía tiene el propósito de demostrar lo fácil que es empezar.Aprenderás a:Configurar tu Raspberry Pi, instalar el sistema operativo y usar este ordenador totalmente funcional.Programar proyectos sencillos paso a paso, usando los lenguajes de programación Scratch 3, Python y MicroPython.Experimentar con la conexión de componentes electrónicos y divertirte creando proyectos estupendos.Novedades en la 5a edición:Actualización para los ordenadores Raspberry Pi más recientes: Raspberry Pi 5 y Raspberry Pi Zero 2 W.Trata el Raspberry Pi OS más reciente.¡Incluye un nuevo capítulo sobre Raspberry Pi Pico!Raspberry Pi es un dispositivo excepcional: un ordenador totalmente funcional en un formato pequeño y de bajo coste. Tanto si quieres un dispositivo para navegar en Internet como si es para jugar, o si quieres aprender a escribir tus propios programas o crear tus propios circuitos y dispositivos físicos, Raspberry Pi (y su increíble comunidad) te ayuda en cada paso.Sea cual sea tu modelo — la placa Raspberry Pi estándar, el compacto Raspberry Pi Zero 2 W o el Raspberry Pi 400 con teclado integrado — tendrás un asequible ordenador que puedes usar para aprender a programar, construir robots y crear todo tipo de proyectos maravillosos.
+--------------------------------------------------
+
+Book 11:
+Title: Das offizielle Raspberry Pi-Handbuch fur Einsteiger (German Beginner's Guide)
+Author(s): Gareth Halfacree
+---
+ISBN-10: 1912047276 - ISBN-13: 9781912047277 - ASIN: 1912047365
+Published Date: 2023-10-31
+---
+HB Blurb: Der Raspberry Pi ist ein kompakter, cleverer Computer, der in Großbritannien hergestellt wird und großes Potenzial birgt. Mit einem energieeffizienten Prozessor der Desktop-Klasse ausgestattet, wurde der Raspberry Pi entwickelt, um dir beim Erlernen des Programmierens zu helfen. Tauche in die Funktionsweise von Computern ein und baue dabei einzigartige Dinge. Dieses Buch zeigt dir, wie mühelos der Einstieg sein kann. Erfahre, wie du:Deinen Raspberry Pi einrichten, das Betriebssystem installieren und diesen voll funktionsfähigen Computer effektiv nutzen kannst.Deine Programmier-Projekte beginnen kannst, unterstützt durch leicht verständliche Schritt-für-Schritt-Anleitungen für die Programmiersprachen Scratch 3, Python und MicroPython.Mit dem Anschluss zusätzlicher elektronischer Komponenten experimentieren kannst. Entdecke, wie viel Spaß es macht, außergewöhnliche Projekte zu erstellen.Neu in der 5. Auflage:Aktualisiert für die neuesten Raspberry Pi Computer: Raspberry Pi 5 und Raspberry  Pi Zero 2 WDeckt das neueste Raspberry Pi OS abEin Kapitel über den Raspberry Pi PicoMenschen jeden Alters nutzen den Raspberry Pi für spannende Projekte: von Retro-Spielkonsolen bis hin zu Wetterstationen mit Internetanschluss.Wir sind davon überzeugt, dass du deinen Raspberry Pi lieben wirst. Egal, welches Modell du hast – eine Standard-Raspberry Pi-Leiterplatte, den kompakten Raspberry Pi Zero 2 W, oder den Raspberry Pi 400 mit integrierter Tastatur – mit diesem erschwinglichen Computer kannst du Programmieren lernen, Roboter bauen und alle möglichen fantastischen und faszinierenden Projekte umsetzen.
+--------------------------------------------------
+
+Book 12:
+Title: Le guide officiel du debutant Raspberry Pi (French Beginner's Guide)
+Author(s): Gareth Halfacree
+---
+ISBN-10: 1912047276 - ISBN-13: 9781912047277 - ASIN: 1912047381
+Published Date: 2023-10-31
+---
+HB Blurb: Raspberry Pi 5 est un petit ordinateur intelligent, de construction britannique qui regorge de potentiel. Fabriqué à l'aide d'un processeur économe en énergie, le Raspberry Pi est conçu pour vous aider à apprendre le codage, découvrir comment fonctionne un ordinateur et construire vos propres projets uniques et incroyables. Ce guide est conçu pour vous montrer à quel point il est facile de démarrer.Apprendre à :Configurez votre Raspberry Pi, installez son système d'exploitation, et commencez à utiliser cet ordinateur entièrement fonctionnel.Commencez à coder des projets, avec des guides étape par étape utilisant les langages de programmation Scratch 3, Python et MicroPython.Expérimentez en connectant des composants électroniques, et amusez-vous à créer des projets incroyables.Nouveauté de la 5ème édition :Mise à jour pour les derniers ordinateurs Raspberry Pi : Raspberry Pi 5 et Raspberry Pi Zéro 2 W.Couvre le dernier système d'exploitation Raspberry Pi.Comprend un nouveau chapitre sur le Raspberry Pi Pico !Avec Raspberry Pi, des personnes de tous âges créent des projets passionnants, qui vont des consoles de jeu rétro aux stations météo connectées à Internet.Quel que soit le modèle que tu possèdes (une carte Raspberry Pi standard, le Raspberry Pi Zero 2 W compact ou le Raspberry Pi 400 avec clavier intégré), cet ordinateur abordable peut être utilisé pour apprendre à coder, construire des robots et créer toutes sortes de projets à la fois bizarres et merveilleux.
+--------------------------------------------------
+
+Book 13:
+Title: An Introduction to C & GUI Programming
+Author(s): Simon Long
+---
+ISBN-10: 1916868290 - ISBN-13: 9781916868298 - ASIN: 1912047659
+Published Date: 2022-12-18
+---
+HB Blurb: The popular C programming language is used for a huge range of applications, from the tiny microcontrollers used in toasters and watches up to complete operating systems. The first half of this book is an introduction to C, and covers the basics of writing simple command-line programs. The second half of the book shows how to use the GTK user interface toolkit with C to create feature-rich GUI applications which can be run on the desktop. No previous experience of C or GTK is required - even if you are an absolute beginner, this book will teach you all you need to know.In this book, you'll learn how to:Create simple command-line C programs.Control flow with conditions and loops.Handle variables, strings, and files.Design graphical user interface applications in C.Handle user input with buttons and menus.Use advanced UI features such as data stores and dialogs.Updated for GTK3, this book will teach you all you need to know to write simple programs in C and start creating GUIs. Although the examples in this book were developed on a Raspberry Pi running, Raspberry Pi OS, you can follow along on other operating systems, including Linux, macOS, and Windows with the Windows Subsystem for Linux.
+--------------------------------------------------
+
+Book 14:
+Title: The Computers That Made Britain
+Author(s): Tim Danton
+---
+ISBN-10: 1912047470 - ISBN-13: 9781912047475 - ASIN: B0CZG7X53M
+Published Date: 2021-05-28
+---
+HB Blurb: The home computer boom of the 1980s brought with it now-iconic machines such as the ZX Spectrum, BBC Micro, and Commodore 64. Those machines would inspire a generation and foster the creation of a booming British software industry that continues to this day.With the help of hefty government discounts, computers worked their way into primary and secondary schools around the country. Millions more computers appeared in living rooms and bedrooms around the country. For once, Britain was ahead of the world, helping to create a golden generation of British programmers.The Computers That Made Britain tells the story of 19 of those computers, and what happened behind the scenes. This book is as much a story about each computer's creation as it is about the people that created them.Through dozens of interviews with the people who were there, discover the tales of missed deadlines, technical faults, business interference, and the unheralded geniuses who brought to the UK everything from the Dragon 32 and ZX81, to the Amstrad CPC 464 and Commodore Amiga. This book closes with the story of the Acorn Archimedes, which introduced the revolutionary ARM processor that powers smart watches, laptops, routers, mobile phones, and the Raspberry Pi to this day.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - The Official Raspberry Pi Handbook 2025
+https://www.amazon.com/Official-Raspberry-Handbook-2025-Astounding/dp/1916868258
+https://www.amazon.co.uk/Official-Raspberry-Handbook-2025-Astounding/dp/1916868258
+http://books.google.co.uk/books?id=8x2t0AEACAAJ&dq=intitle:The+Official+Raspberry+Pi+Handbook+2025%2Binauthor:The+Makers+of+The+MagPi+magazine&hl=&cd=1&source=gbs_api
+
+Book 02 - Retro Gaming with Raspberry Pi
+https://www.amazon.com/Retro-Gaming-Raspberry-Pi-Projects-ebook/dp/B0CZGH43C7
+https://www.amazon.co.uk/Retro-Gaming-Raspberry-Pi-projects/dp/1916868177
+http://books.google.co.uk/books?id=D58QEQAAQBAJ&printsec=frontcover&dq=intitle:Retro+Gaming+with+Raspberry+Pi%2Binauthor:The+Makers+of+The+MagPi+magazine&hl=&cd=1&source=gbs_api
+
+Book 03 - Design an RP2040 board with KiCad
+https://www.amazon.com/Design-RP2040-Board-KiCad-Pico-compatible/dp/1916868134
+https://www.amazon.co.uk/Design-Rp2040-Board-Kicad-Pico-Compatible/dp/1916868134
+http://books.google.co.uk/books?id=8pyp0AEACAAJ&dq=intitle:Design+an+RP2040+board+with+KiCad%2Binauthor:Jo+Hinchliffe&hl=&cd=1&source=gbs_api
+
+Book 04 - The Book of Making
+https://www.amazon.com/Book-Making-2025-Projects-Hackers-ebook/dp/B0D29KS4VQ
+https://www.amazon.co.uk/Book-Making-2-HackSpace-Team/dp/1912047543
+http://books.google.co.uk/books?id=OOS00AEACAAJ&dq=intitle:The+Book+of+Making%2Binauthor:The+Makers+of+HackSpace+magazine&hl=&cd=1&source=gbs_api
+
+Book 05 - Code the Classics Volume I, 2nd Edition
+https://www.amazon.com/Code-Classics-I-David-Crookes/dp/1916868193
+https://www.amazon.co.uk/Code-Classics-I-David-Crookes/dp/1916868193
+http://books.google.co.uk/books?id=mPUQEQAAQBAJ&pg=PT235&dq=intitle:Code+the+Classics+Volume+I,+2nd+Edition%2Binauthor:David+Crookes,+Andrew+Gillett,+Liz+Upton,+Eben+Upton&hl=&cd=1&source=gbs_api
+
+Book 06 - Code the Classics Volume II
+https://www.amazon.com/Code-Classics-II-Simon-Brew/dp/1916868045
+https://www.amazon.co.uk/Code-Classics-II-David-Crookes/dp/1916868045
+http://books.google.co.uk/books?id=jvUQEQAAQBAJ&printsec=frontcover&dq=intitle:Code+the+Classics+Volume+II%2Binauthor:David+Crookes,+Andrew+Gillett,+Liz+Upton,+Eben+Upton&hl=&cd=1&source=gbs_api
+
+Book 07 - The Official Raspberry Pi Handbook 2024
+No Amazon.com URL found
+https://www.amazon.co.uk/Official-Raspberry-Handbook-2024-Astounding-ebook/dp/B0CZG6FJ2Z
+http://books.google.co.uk/books?id=B58QEQAAQBAJ&printsec=frontcover&dq=intitle:The+Official+Raspberry+Pi+Handbook+2024%2Binauthor:The+Makers+of+The+MagPi+magazine&hl=&cd=1&source=gbs_api
+
+Book 08 - Get started with MicroPython on Raspberry Pi Pico, 2nd Edition
+No Amazon.com URL found
+https://www.amazon.co.uk/Get-Started-MicroPython-Raspberry-Pico/dp/1912047292
+http://books.google.co.uk/books?id=BZ8QEQAAQBAJ&printsec=frontcover&dq=intitle:Get+started+with+MicroPython+on+Raspberry+Pi+Pico,+2nd+Edition%2Binauthor:Gareth+Halfacree,+Ben+Everard&hl=&cd=1&source=gbs_api
+
+Book 09 - The Official Raspberry Pi Beginner's Guide, 5th Edition
+https://www.amazon.com/Official-Raspberry-Pi-Beginners-Guide/dp/1912047268
+https://www.amazon.co.uk/Official-Raspberry-Pi-Beginners-Guide/dp/1912047268
+http://books.google.co.uk/books?id=A58QEQAAQBAJ&printsec=frontcover&dq=intitle:The+Official+Raspberry+Pi+Beginner%27s+Guide,+5th+Edition%2Binauthor:Gareth+Halfacree&hl=&cd=1&source=gbs_api
+
+Book 10 - La guia oficial de Raspberry Pi para principiantes (Spanish Beginner's Guide)
+No Amazon.com URL found
+https://www.amazon.co.uk/oficial-Raspberry-para-principiantes-Edicin/dp/1912047373
+http://books.google.co.uk/books?id=A58QEQAAQBAJ&printsec=frontcover&dq=intitle:La+guia+oficial+de+Raspberry+Pi+para+principiantes+(Spanish+Beginner%27s+Guide)%2Binauthor:Gareth+Halfacree&hl=&cd=1&source=gbs_api
+
+Book 11 - Das offizielle Raspberry Pi-Handbuch fur Einsteiger (German Beginner's Guide)
+No Amazon.com URL found
+https://www.amazon.co.uk/Das-Offizielle-Raspberry-Pi-Handbuch-Einsteiger/dp/1912047365
+http://books.google.co.uk/books?id=A58QEQAAQBAJ&printsec=frontcover&dq=intitle:Das+offizielle+Raspberry+Pi-Handbuch+fur+Einsteiger+(German+Beginner%27s+Guide)%2Binauthor:Gareth+Halfacree&hl=&cd=1&source=gbs_api
+
+Book 12 - Le guide officiel du debutant Raspberry Pi (French Beginner's Guide)
+https://www.amazon.com/guide-officiel-d%C3%A9butant-Raspberry-%C3%A9dition/dp/1912047381
+https://www.amazon.co.uk/Guide-Officiel-D%C3%A9butant-Raspberry-Ordinateur/dp/1912047381
+http://books.google.co.uk/books?id=A58QEQAAQBAJ&printsec=frontcover&dq=intitle:Le+guide+officiel+du+debutant+Raspberry+Pi+(French+Beginner%27s+Guide)%2Binauthor:Gareth+Halfacree&hl=&cd=1&source=gbs_api
+
+Book 13 - An Introduction to C & GUI Programming
+https://www.amazon.com/Introduction-GUI-Programming-Simon-Long/dp/1912047659
+https://www.amazon.co.uk/Introduction-GUI-Programming-Simon-Long/dp/1912047659
+http://books.google.co.uk/books?id=EZ8QEQAAQBAJ&printsec=frontcover&dq=intitle:An+Introduction+to+C+%26+GUI+Programming%2Binauthor:Simon+Long&hl=&cd=1&source=gbs_api
+
+Book 14 - The Computers That Made Britain
+https://www.amazon.com/Computers-That-Made-Britain-Revolution-ebook/dp/B0CZG7X53M
+https://www.amazon.co.uk/Computers-That-Made-Britain-Revolution-ebook/dp/B0CZG7X53M
+http://books.google.co.uk/books?id=CZ8QEQAAQBAJ&printsec=frontcover&dq=intitle:The+Computers+That+Made+Britain%2Binauthor:Tim+Danton&hl=&cd=1&source=gbs_api
+
