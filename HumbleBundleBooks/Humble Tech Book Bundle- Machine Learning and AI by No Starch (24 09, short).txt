@@ -1,0 +1,316 @@
+Humble Tech Book Bundle- Machine Learning and AI by No Starch - No Starch Press
+Processing date: 2024-09-16
+Data retrieved from: https://www.humblebundle.com/books/machine-learning-and-ai-no-starch-books
+
+Book 01 - Deep Learning - Andrew Glassner - 4.7 out of 5 (138 reviews)
+Book 02 - Math for Deep Learning - Ronald T. Kneusel - 4.5 out of 5 (46 reviews)
+Book 03 - Algorithmic Thinking, 2nd Edition - Daniel Zingaro - 4.4 out of 5 (7 reviews)
+Book 04 - Practical Deep Learning - Ronald T. Kneusel - 4.7 out of 5 (45 reviews)
+Book 05 - The Art of Machine Learning - Norman Matloff - 4.5 out of 5 (2 reviews)
+Book 06 - The Art of Randomness - Ronald T. Kneusel - None found out of 5 (None found reviews)
+Book 07 - Machine Learning Q and AI - Sebastian Raschka - 4.7 out of 5 (19 reviews)
+Book 08 - How AI Works - Ronald T. Kneusel - None found out of 5 (None found reviews)
+Book 09 - The Book of R - Tilman M. Davies - 4.6 out of 5 (407 reviews)
+Book 10 - Practical Julia - Lee Phillips - 3.9 out of 5 (9 reviews)
+Book 11 - Dive Into Data Science - Bradford Tuckfield - 4.5 out of 5 (12 reviews)
+Book 12 - Dive Into Algorithms - Bradford Tuckfield - 4.6 out of 5 (115 reviews)
+Book 13 - The Shape of Data - Colleen M. Farrelly and Yaé Ulrich Gaba - None found out of 5 (None found reviews)
+Book 14 - Bayesian Statistics the Fun Way - Will Kurt - 4.6 out of 5 (562 reviews)
+Book 15 - Land of Lisp - Conrad Barski - 4.4 out of 5 (147 reviews)
+Book 16 - The Art of R Programming - Norman Matloff - 4.4 out of 5 (342 reviews)
+Book 17 - Real World Python - Lee Vaughan - None found out of 5 (None found reviews)
+Book 18 - Impractical Python Projects - Lee Vaughan - 4.7 out of 5 (350 reviews)
+Book 19 - Learn You a Haskell for Great Good! - Miran Lipovača - 4.6 out of 5 (342 reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: Deep Learning
+Author(s): Andrew Glassner
+---
+ISBN-10: 1718500734 - ISBN-13: 9781718500730 - ASIN: 1718500726
+Published Date: 2021-06-22
+---
+HB Blurb: Ever since computers began beating us at chess, they’ve been getting better at a wide range of human activities, from writing songs and generating news articles to helping doctors provide healthcare.Deep learning is the source of many of these breakthroughs, and its remarkable ability to find patterns hiding in data has made it the fastest growing field in artificial intelligence (AI). Digital assistants on our phones use deep learning to understand and respond intelligently to voice commands; automotive systems use it to safely navigate road hazards; online platforms use it to deliver personalized suggestions for movies and books—the possibilities are endless.Deep Learning: A Visual Approach is for anyone who wants to understand this fascinating field in depth, but without any of the advanced math and programming usually required to grasp its internals. If you want to know how these tools work, and use them yourself, the answers are all within these pages. And, if you’re ready to write your own programs, there are also plenty of supplemental Python notebooks in the accompanying GitHub repository to get you going.The book’s conversational style, extensive color illustrations, illuminating analogies, and real-world examples expertly explain the key concepts in deep learning, including:How text generators create novel stories and articlesHow deep learning systems learn to play and win at human gamesHow image classification systems identify objects or people in a photoHow to think about probabilities in a way that’s useful to everyday lifeHow to use the machine learning techniques that form the core of modern AIIntellectual adventurers of all kinds can use the powerful ideas covered in Deep Learning: A Visual Approach to build intelligent systems that help us better understand the world and everyone who lives in it. It’s the future of AI, and this book allows you to fully envision it.Get every figure in the book, dozens of Python notebooks, and three bonus chapters, all for free and for you to use any way you like, at the book’s GitHub page.
+--------------------------------------------------
+
+Book 02:
+Title: Math for Deep Learning
+Author(s): Ronald T. Kneusel
+---
+ISBN-10: 1718501919 - ISBN-13: 9781718501911 - ASIN: B096JXMQLM
+Published Date: 2021-11-23
+---
+HB Blurb: Deep learning is everywhere, making this powerful driver of artificial intelligence something more STEM professionals need to know. Learning which library commands to use is one thing, but to truly understand the discipline, you need to grasp the mathematical concepts that make it tick. This book will give you a working knowledge of topics in probability, statistics, linear algebra, and differential calculus—the essential math needed to make deep learning comprehensible, which is key to practicing it successfully.Each of the four subfields are contextualized with Python code and hands-on, real-world examples that bridge the gap between pure mathematics and its applications in deep learning. Chapters build upon one another, with foundational topics such as Bayes’ theorem followed by more advanced concepts, like training neural networks using vectors, matrices, and derivatives of functions. You’ll ultimately put all this math to use as you explore and implement deep learning algorithms, including backpropagation and gradient descent – the foundational algorithms that have enabled the AI revolution.You’ll learn:The rules of probability, probability distributions, and Bayesian probabilityThe use of statistics for understanding datasets and evaluating modelsHow to manipulate vectors and matrices, and use both to move data through a neural networkHow to use linear algebra to implement principal component analysis and singular value decompositionHow to apply improved versions of gradient descent, like RMSprop, Adagrad, and AdadeltaOnce you understand the core math concepts presented throughout this book through the lens of AI programming, you’ll have foundational know-how to easily follow and work with deep learning.
+--------------------------------------------------
+
+Book 03:
+Title: Algorithmic Thinking, 2nd Edition
+Author(s): Daniel Zingaro
+---
+ISBN-10: 1718503237 - ISBN-13: 9781718503236 - ASIN: B0BZGZHK3B
+Published Date: 2024-01-23
+---
+HB Blurb: Are you hitting a wall with data structures and algorithms? Whether you’re a student prepping for coding interviews or an independent learner, this book is your essential guide to efficient problem-solving in programming.UNLOCK THE POWER OF DATA STRUCTURES & ALGORITHMS:Learn the intricacies of hash tables, recursion, dynamic programming, trees, graphs, and heaps. Become proficient in choosing and implementing the best solutions for any coding challenge.REAL-WORLD, COMPETITION-PROVEN CODE EXAMPLES:The programs and challenges in this book aren’t just theoretical—they’re drawn from real programming competitions. Train with problems that have tested and honed the skills of coders around the world.GET INTERVIEW-READY:Prepare yourself for coding interviews with practice exercises that help you think algorithmically, weigh different solutions, and implement the best choices efficiently.WRITTEN IN C, USEFUL ACROSS LANGUAGES:The code examples are written in C and designed for clarity and accessibility to those familiar with languages like C++, Java, or Python. If you need help with the C code, no problem: We’ve got recommended reading, too.Algorithmic Thinking is the complete package, providing the solid foundation you need to elevate your coding skills to the next level.
+--------------------------------------------------
+
+Book 04:
+Title: Practical Deep Learning
+Author(s): Ronald T. Kneusel
+---
+ISBN-10: 1718500750 - ISBN-13: 9781718500754 - ASIN: B085BVZ9CK
+Published Date: 2021-03-16
+---
+HB Blurb: If you’ve been curious about artificial intelligence and machine learning but didn’t know where to start, this is the book you’ve been waiting for. Focusing on the subfield of machine learning known as deep learning, it explains core concepts and gives you the foundation you need to start building your own models. Rather than simply outlining recipes for using existing toolkits, Practical Deep Learning teaches you the why of deep learning and will inspire you to explore further.All you need is basic familiarity with computer programming and high school math—the book will cover the rest. After an introduction to Python, you’ll move through key topics like how to build a good training dataset, work with the scikit-learn and Keras libraries, and evaluate your models’ performance.You’ll also learn:How to use classic machine learning models like k-Nearest Neighbors, Random Forests, and Support Vector MachinesHow neural networks work and how they’re trainedHow to use convolutional neural networksHow to develop a successful deep learning model from scratchYou’ll conduct experiments along the way, building to a final case study that incorporates everything you’ve learned. All of the code you’ll use is available here: https://github.com/rkneusel9/PracticalDeepLearningPython/The perfect introduction to this dynamic, ever-expanding field, Practical Deep Learning will give you the skills and confidence to dive into your own machine learning projects.
+--------------------------------------------------
+
+Book 05:
+Title: The Art of Machine Learning
+Author(s): Norman Matloff
+---
+ISBN-10: 1718502109 - ISBN-13: 9781718502109 - ASIN: B09BKK9K48
+Published Date: 2024-01-09
+---
+HB Blurb: Machine learning without advanced math! This book presents a serious, practical look at machine learning, preparing you for valuable insights on your own data. The Art of Machine Learning is packed with real dataset examples and sophisticated advice on how to make full use of powerful machine learning methods. Readers will need only an intuitive grasp of charts, graphs, and the slope of a line, as well as familiarity with the R programming language. You’ll become skilled in a range of machine learning methods, starting with the simple k-Nearest Neighbors method (k-NN), then on to random forests, gradient boosting, linear/logistic models, support vector machines, the LASSO, and neural networks. Final chapters introduce text and image classification, as well as time series. You’ll learn not only how to use machine learning methods, but also why these methods work, providing the strong foundational background you’ll need in practice. Additional features:How to avoid common problems, such as dealing with “dirty” data and factor variables with large numbers of levelsA look at typical misconceptions, such as dealing with unbalanced dataExploration of the famous Bias-Variance Tradeoff, central to machine learning, and how it plays out in practice for each machine learning methodDozens of illustrative examples involving real datasets of varying size and field of applicationStandard R packages are used throughout, with a simple wrapper interface to provide convenient access.After finishing this book, you will be well equipped to start applying machine learning techniques to your own datasets.
+--------------------------------------------------
+
+Book 06:
+Title: The Art of Randomness
+Author(s): Ronald T. Kneusel
+---
+ISBN-10: 1718503253 - ISBN-13: 9781718503250 - ASIN: B0BZGYSQJS
+Published Date: 2024-03-05
+---
+HB Blurb: The Art of Randomness is a hands-on guide to mastering the many ways you can use randomized algorithms to solve real programming and scientific problems. You’ll learn how to use randomness to run simulations, hide information, design experiments, and even create art and music. All you need is some Python, basic high school math, and a roll of the dice.Author Ronald T. Kneusel focuses on helping you build your intuition so that you’ll know when and how to use random processes to get things done. You’ll develop a randomness engine (a Python class that supplies random values from your chosen source), then explore how to leverage randomness to:Simulate Darwinian evolution and optimize with swarm-based search algorithmsDesign scientific experiments to produce more meaningful results by making them truly randomImplement machine learning algorithms like neural networks and random forestsUse Markov Chain Monte Carlo methods to sample from complex distributionsHide information in audio files and images, generate art, and create musicReconstruct original signals and images from only randomly sampled dataScientific anecdotes and code examples throughout illustrate how randomness plays into areas like optimization, machine learning, and audio signals. End-of-chapter exercises encourage further exploration.Whether you’re a programmer, scientist, engineer, mathematician, or artist, you’ll find The Art of Randomness to be your ticket to discovering the hidden power of applied randomness and the ways it can transform your approach to solving problems, from the technical to the artistic.
+--------------------------------------------------
+
+Book 07:
+Title: Machine Learning Q and AI
+Author(s): Sebastian Raschka
+---
+ISBN-10: 1718503776 - ISBN-13: 9781718503779 - ASIN: 1718503768
+Published Date: 2024-04-16
+---
+HB Blurb: Deep learning and AI can be daunting, but the question-and-answer format of Machine Learning Q and AI will make things fast and easy for you, without a lot of mucking about.Born out of questions often fielded by author Sebastian Raschka, the direct, no-nonsense approach of this book makes advanced topics more accessible and genuinely engaging. Each brief, self-contained chapter journeys through a fundamental question in AI, unraveling it with clear explanations, diagrams, and hands-on exercises.WHAT’S INSIDE:FOCUSED CHAPTERS: Key questions in AI are answered concisely, and complex ideas are broken down into easily digestible parts.WIDE RANGE OF TOPICS: Raschka covers topics ranging from neural network architectures and model evaluation to computer vision and natural language processing.PRACTICAL APPLICATIONS: Learn techniques for enhancing model performance, fine-tuning large models, and more.You’ll also explore how to:Manage the various sources of randomness in neural network trainingDifferentiate between encoder and decoder architectures in large language modelsReduce overfitting through data and model modificationsConstruct confidence intervals for classifiers and optimize models with limited labeled dataChoose between different multi-GPU training paradigms and different types of generative AI modelsUnderstand performance metrics for natural language processingMake sense of the inductive biases in vision transformersIf you’ve been on the hunt for the perfect resource to elevate your understanding of machine learning, Machine Learning Q and AI will make it easy for you to painlessly advance your knowledge beyond the basics.
+--------------------------------------------------
+
+Book 08:
+Title: How AI Works
+Author(s): Ronald T. Kneusel
+---
+ISBN-10: 1718503733 - ISBN-13: 9781718503731 - ASIN: B0CDB7WHJD
+Published Date: 2023-10-24
+---
+HB Blurb: Artificial intelligence is everywhere—from self-driving cars, to image generation from text, to the unexpected power of language systems like ChatGPT—yet few people seem to know how it all really works. How AI Works unravels the mysteries of artificial intelligence, without the complex math and unnecessary jargon.You’ll learn:The relationship between artificial intelligence, machine learning, and deep learningThe history behind AI and why the artificial intelligence revolution is happening nowHow decades of work in symbolic AI failed and opened the door for the emergence of neural networksWhat neural networks are, how they are trained, and why all the wonder of modern AI boils down to a simple, repeated unit that knows how to multiply input numbers to produce an output number.The implications of large language models, like ChatGPT and Bard, on our society—nothing will be the same againAI isn’t magic. If you’ve ever wondered how it works, what it can do, or why there’s so much hype, How AI Works will teach you everything you want to know.
+--------------------------------------------------
+
+Book 09:
+Title: The Book of R
+Author(s): Tilman M. Davies
+---
+ISBN-10: 1593276516 - ISBN-13: 9781593276515 - ASIN: B01J92NR22
+Published Date: 2016-07-16
+---
+HB Blurb: The Book of R is a comprehensive, beginner-friendly guide to R, the world’s most popular programming language for statistical analysis. Even if you have no programming experience and little more than a grounding in the basics of mathematics, you’ll find everything you need to begin using R effectively for statistical analysis.You’ll start with the basics, like how to handle data and write simple programs, before moving on to more advanced topics, like producing statistical summaries of your data and performing statistical tests and modeling. You’ll even learn how to create impressive data visualizations with R’s basic graphics tools and contributed packages, like ggplot2 and ggvis, as well as interactive 3D visualizations using the rgl package.Dozens of hands-on exercises (with downloadable solutions) take you from theory to practice, as you learn:The fundamentals of programming in R, including how to write data frames, create functions, and use variables, statements, and loopsStatistical concepts like exploratory data analysis, probabilities, hypothesis tests, and regression modeling, and how to execute them in RHow to access R’s thousands of functions, libraries, and data setsHow to draw valid and useful conclusions from your dataHow to create publication-quality graphics of your resultsCombining detailed explanations with real-world examples and exercises, this book will provide you with a solid understanding of both statistics and the depth of R’s functionality. Make The Book of R your doorway into the growing world of data analysis.
+--------------------------------------------------
+
+Book 10:
+Title: Practical Julia
+Author(s): Lee Phillips
+---
+ISBN-10: 1718502761 - ISBN-13: 9781718502765 - ASIN: B0B7R1QGRY
+Published Date: 2023-10-31
+---
+HB Blurb: The Julia programming language is acclaimed in scientific circles for its unparalleled ease, interactivity, and speed. Practical Julia is a comprehensive introduction to the language, making it accessible even if you’re new to programming.Dive in with a thorough guide to Julia’s syntax, data types, and best practices, then transition to craft solutions for challenges in physics, statistics, biology, mathematics, scientific machine learning, and more. Whether you’re solving computational problems, visualizing data, writing simulations, or developing specialized tools, Practical Julia will show you how.As you work through the book, you’ll:Use comprehensions and generators, higher-level functions, array initialization and manipulation, and perform operations on Unicode textCreate new syntax and generate code with metaprogramming and macros, and control the error system to manipulate program executionVisualize everything from mathematical constructs and experimental designs to algorithm flowchartsElevate performance using Julia’s unique type system with multiple dispatchDelve into scientific packages tailored for diverse fields like fluid dynamics, agent-based modeling, and image processingWhether your interest is in scientific research, statistics, mathematics, or just the fun of programming with Julia, Practical Julia will have you writing high-performance code that can do real work in no time.Online Resources: Ready-to-run code samples, illustrations, and supplemental animations available at https://julia.lee-phillips.org.
+--------------------------------------------------
+
+Book 11:
+Title: Dive Into Data Science
+Author(s): Bradford Tuckfield
+---
+ISBN-10: 1718502885 - ISBN-13: 9781718502888 - ASIN: B09WJY5P99
+Published Date: 2023-07-04
+---
+HB Blurb: Dive into the exciting world of data science with this practical introduction. Packed with essential skills and useful examples, Dive Into Data Science will show you how to obtain, analyze, and visualize data so you can leverage its power to solve common business challenges.With only a basic understanding of Python and high school math, you’ll be able to effortlessly work through the book and start implementing data science in your day-to-day work. From improving a bike sharing company to extracting data from websites and creating recommendation systems, you’ll discover how to find and use data-driven solutions to make business decisions.Topics covered include conducting exploratory data analysis, running A/B tests, performing binary classification using logistic regression models, and using machine learning algorithms.You’ll also learn how to:Forecast consumer demandOptimize marketing campaignsReduce customer attritionPredict website trafficBuild recommendation systemsWith this practical guide at your fingertips, harness the power of programming, mathematical theory, and good old common sense to find data-driven solutions that make a difference. Don’t wait; dive right in!
+--------------------------------------------------
+
+Book 12:
+Title: Dive Into Algorithms
+Author(s): Bradford Tuckfield
+---
+ISBN-10: 1718500696 - ISBN-13: 9781718500693 - ASIN: B084FLBDV7
+Published Date: 2021-01-05
+---
+HB Blurb: Dive Into Algorithms is a wide-ranging, Pythonic tour of many of the world’s most interesting algorithms. With little more than a bit of computer programming experience and basic high-school math, you’ll explore standard computer science algorithms for searching, sorting, and optimization; human-based algorithms that help us determine how to catch a baseball or eat the right amount at a buffet; and advanced algorithms like ones used in machine learning and artificial intelligence. You’ll even explore how ancient Egyptians and Russian peasants used algorithms to multiply numbers, how the ancient Greeks used them to find greatest common divisors, and how Japanese scholars in the age of samurai designed algorithms capable of generating magic squares.You’ll explore algorithms that are useful in pure mathematics and learn how mathematical ideas can improve algorithms. You’ll learn about an algorithm for generating continued fractions, one for quick calculations of square roots, and another for generating seemingly random sets of numbers.You’ll also learn how to:Use algorithms to debug code, maximize revenue, schedule tasks, and create decision treesMeasure the efficiency and speed of algorithmsGenerate Voronoi diagrams for use in various geometric applicationsUse algorithms to build a simple chatbot, win at board games, or solve sudoku puzzlesWrite code for gradient ascent and descent algorithms that can find the maxima and minima of functionsUse simulated annealing to perform global optimizationBuild a decision tree to predict happiness based on a person’s characteristicsOnce you’ve finished this book you’ll understand how to code and implement important algorithms as well as how to measure and optimize their performance, all while learning the nitty-gritty details of today’s most powerful algorithms.
+--------------------------------------------------
+
+Book 13:
+Title: The Shape of Data
+Author(s): Colleen M. Farrelly and Yaé Ulrich Gaba
+---
+ISBN-10: 1718503083 - ISBN-13: 9781718503083 - ASIN: 
+Published Date: 2023-09-12
+---
+HB Blurb: Whether you’re a mathematician, seasoned data scientist, or marketing professional, you’ll find The Shape of Data to be the perfect introduction to the critical interplay between the geometry of data structures and machine learning.This book’s extensive collection of case studies (drawn from medicine, education, sociology, linguistics, and more) and gentle explanations of the math behind dozens of algorithms provide a comprehensive yet accessible look at how geometry shapes the algorithms that drive data analysis.In addition to gaining a deeper understanding of how to implement geometry-based algorithms with code, you’ll explore:Supervised and unsupervised learning algorithms and their application to network data analysisThe way distance metrics and dimensionality reduction impact machine learningHow to visualize, embed, and analyze survey and text data with topology-based algorithmsNew approaches to computational solutions, including distributed computing and quantum algorithms
+--------------------------------------------------
+
+Book 14:
+Title: Bayesian Statistics the Fun Way
+Author(s): Will Kurt
+---
+ISBN-10: 1593279574 - ISBN-13: 9781593279578 - ASIN: B07J461Q2K
+Published Date: 2019-07-16
+---
+HB Blurb: Bayesian Statistics the Fun Way is a book that makes probability and statistics engaging and accessible. It emphasizes Bayesian statistics and aims to provide a complete understanding of this topic through simple explanations and entertaining examples.With examples like calculating the probability of UFOs landing in your garden, predicting Han Solo’s survival through an asteroid belt, debunking conspiracy theories, and investigating burglaries, this book takes an unconventional approach to teaching statistics. The author uses these offbeat examples to make learning statistics enjoyable and fun while imparting practical skills.By reading this book, you’ll learn:How to measure your own level of uncertainty in a conclusion or beliefHow to calculate Bayes’ theorem and understand its applicationsHow to work with posterior, likelihood, and prior probabilities to assess the accuracy of your conclusionsHow to calculate probability distributions to analyze the range of your dataHow to compare hypotheses and draw reliable conclusions from themNext time you’re faced with survey results and feel unsure about how to analyze them effectively, turn to Bayesian Statistics the Fun Way to unlock the full potential of your data.
+--------------------------------------------------
+
+Book 15:
+Title: Land of Lisp
+Author(s): Conrad Barski
+---
+ISBN-10: 1593272812 - ISBN-13: 9781593272814 - ASIN: B004AE3P4K
+Published Date: 2010-10-15
+---
+HB Blurb: Lisp has been hailed as the world’s most powerful programming language, but its cryptic syntax and academic reputation can be enough to scare off even experienced programmers. Those dark days are finally over—Land of Lisp brings the power of functional programming to the people!With his brilliantly quirky comics and out-of-this-world games, longtime Lisper Conrad Barski teaches you the mysteries of Common Lisp. You’ll start with the basics, like list manipulation, I/O, and recursion, then move on to more complex topics like macros, higher order programming, and domain-specific languages. Then, when your brain overheats, you can kick back with an action-packed comic book interlude!Along the way you’ll create (and play) games like Wizard Adventure, a text adventure with a whiskey-soaked twist, and Grand Theft Wumpus, the most violent version of Hunt the Wumpus the world has ever seen.You’ll learn to:Master the quirks of Lisp’s syntax and semanticsWrite concise and elegant functional programsUse macros, create domain-specific languages, and learn other advanced Lisp techniquesCreate your own web server, and use it to play browser-based gamesPut your Lisp skills to the test by writing brain-melting games like Dice of Doom and Orc BattleWith Land of Lisp, the power of functional programming is yours to wield.
+--------------------------------------------------
+
+Book 16:
+Title: The Art of R Programming
+Author(s): Norman Matloff
+---
+ISBN-10: 1593274106 - ISBN-13: 9781593274108 - ASIN: 1593273843
+Published Date: 2011-10-11
+---
+HB Blurb: The Art of R Programming is the world’s most popular language for developing statistical software: Archaeologists use it to track the spread of ancient civilizations, drug companies use it to discover which medications are safe and effective, and actuaries use it to assess financial risks and keep economies running smoothly.The Art of R Programming takes you on a guided tour of software development with R, from basic types and data structures to advanced topics like closures, recursion, and anonymous functions. No statistical knowledge is required, and your programming skills can range from hobbyist to pro.Along the way, you’ll learn about functional and object-oriented programming, running mathematical simulations, and rearranging complex data into simpler, more useful formats. You’ll also learn to:Create artful graphs to visualize complex data sets and functionsWrite more efficient code using parallel R and vectorizationInterface R with C/C++ and Python for increased speed or functionalityFind new R packages for text analysis, image manipulation, and moreSquash annoying bugs with advanced debugging techniquesWhether you’re designing aircraft, forecasting the weather, or you just need to tame your data, The Art of R Programming is your guide to harnessing the power of statistical computing.
+--------------------------------------------------
+
+Book 17:
+Title: Real World Python
+Author(s): Lee Vaughan
+---
+ISBN-10: 1718500637 - ISBN-13: 9781718500631 - ASIN: B0852P29NJ
+Published Date: 2020-11-10
+---
+HB Blurb: With its emphasis on project-based practice, Real World Python will take you from playing with syntax to writing complete programs in no time. You’ll conduct experiments, explore statistical concepts, and solve novel problems that have frustrated geniuses throughout history, like detecting distant exoplanets, as you continue to build your Python skills.Chapters begin with a clearly defined project goal and a discussion of ways to attack the problem, followed by a mission designed to make you think like a programmer. You’ll direct a Coast Guard search-and-rescue effort, plot and execute a NASA flight to the moon, protect access to a secure lab using facial recognition, and more. Along the way you’ll learn how to:Use libraries like matplotlib, NumPy, Bokeh, pandas, Requests, Beautiful Soup, and turtleWork with Natural Language Processing and computer vision modules like NLTK and OpenCVWrite a program to detect and track objects moving across a starfieldScrape speeches from the internet and autosummarize themUse the Mars Orbiter Laser Altimeter (MOLA) map to select spacecraft landing sitesSurvive a zombie apocalypse with the aid of data-plotting and visualization toolsThe book’s programs are beginner-friendly, but as you progress you’ll learn more sophisticated techniques to help you grow your coding capabilities. Once your missions are accomplished, you’ll be ready to solve real-world problems with Python on your own.
+--------------------------------------------------
+
+Book 18:
+Title: Impractical Python Projects
+Author(s): Lee Vaughan
+---
+ISBN-10: 1593278918 - ISBN-13: 9781593278915 - ASIN: 159327890X
+Published Date: 2018-11-27
+---
+HB Blurb: Impractical Python Projects picks up where the complete beginner books leave off, expanding on existing concepts and introducing new tools that you’ll use every day. And to keep things interesting, each project includes a zany twist featuring historical incidents, pop culture references, and literary allusions.You’ll flex your problem-solving skills and employ Python’s many useful libraries to do things like:Help James Bond crack a high-tech safe with a hill-climbing algorithmWrite haiku poems using Markov Chain AnalysisUse genetic algorithms to breed a race of gigantic ratsCrack the world’s most successful military cipher using cryptanalysisFoil corporate security with invisible electronic inkDerive the anagram, “I am Lord Voldemort” using linguistical sievesPlan your parents’ secure retirement with Monte Carlo simulationSave the sorceress Zatanna from a stabby death using palingramsModel the Milky Way and calculate our odds of detecting alien civilizationsHelp the world’s smartest woman win the Monty Hall problem argumentReveal Jupiter’s Great Red Spot using optical stackingSave the head of Mary, Queen of Scots with steganographySimulate volcanoes, map Mars, and more, all while gaining valuable experience using free modules like Tkinter, matplotlib, Cprofile, Pylint, Pygame, Pillow, and Python-Docx.Whether you’re looking to pick up some new Python skills or just need a pick-me-up, you’ll find endless educational, geeky fun with Impractical Python Projects.
+--------------------------------------------------
+
+Book 19:
+Title: Learn You a Haskell for Great Good!
+Author(s): Miran Lipovača
+---
+ISBN-10: 1593272952 - ISBN-13: 9781593272951 - ASIN: B004VB3V0K
+Published Date: 2011-04-15
+---
+HB Blurb: It’s all in the name: Learn You a Haskell for Great Good! is a hilarious, illustrated guide to this complex functional language. Packed with the author’s original artwork, pop culture references, and most importantly, useful example code, this book teaches functional fundamentals in a way you never thought possible.You’ll start with the kid stuff: basic syntax, recursion, types and type classes. Then once you’ve got the basics down, the real black belt master-class begins: you’ll learn to use applicative functors, monads, zippers, and all the other mythical Haskell constructs you’ve only read about in storybooks.As you work your way through the author’s imaginative (and occasionally insane) examples, you’ll learn to:Laugh in the face of side effects as you wield purely functional programming techniquesUse the magic of Haskell’s “laziness” to play with infinite sets of dataOrganize your programs by creating your own types, type classes, and modulesUse Haskell’s elegant input/output system to share the genius of your programs with the outside worldShort of eating the author’s brain, you will not find a better way to learn this powerful language than reading Learn You a Haskell for Great Good!Bonus: ebook is in color!
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Deep Learning
+https://www.amazon.com/Deep-Learning-Approach-Andrew-Glassner/dp/1718500726
+https://www.amazon.co.uk/Deep-Learning-Approach-Andrew-Glassner-ebook/dp/B085BVWXNS
+http://books.google.co.uk/books?id=NgTyDwAAQBAJ&printsec=frontcover&dq=intitle:Deep+Learning%2Binauthor:Andrew+Glassner&hl=&cd=1&source=gbs_api
+
+Book 02 - Math for Deep Learning
+https://www.amazon.com/Math-Deep-Learning-Understand-Networks-ebook/dp/B096JXMQLM
+https://www.amazon.co.uk/Math-Deep-Learning-Understand-Networks/dp/1718501900
+http://books.google.co.uk/books?id=bEQxEAAAQBAJ&printsec=frontcover&dq=intitle:Math+for+Deep+Learning%2Binauthor:Ronald+T.+Kneusel&hl=&cd=1&source=gbs_api
+
+Book 03 - Algorithmic Thinking, 2nd Edition
+https://www.amazon.com/Algorithmic-Thinking-2nd-Problem-Based-Introduction-ebook/dp/B0BZGZHK3B
+https://www.amazon.co.uk/Algorithmic-Thinking-2nd-Problem-Based-Introduction-ebook/dp/B0BZGZHK3B
+http://books.google.co.uk/books?id=VWy1EAAAQBAJ&printsec=frontcover&dq=intitle:Algorithmic+Thinking,+2nd+Edition%2Binauthor:Daniel+Zingaro&hl=&cd=1&source=gbs_api
+
+Book 04 - Practical Deep Learning
+https://www.amazon.com/Deep-Learning-Beginners-Python-Based-Introduction-ebook/dp/B085BVZ9CK
+https://www.amazon.co.uk/Deep-Learning-Beginners-Python-Based-Introduction-ebook/dp/B085BVZ9CK
+http://books.google.co.uk/books?id=BKPTDwAAQBAJ&printsec=frontcover&dq=intitle:Practical+Deep+Learning%2Binauthor:Ronald+T.+Kneusel&hl=&cd=1&source=gbs_api
+
+Book 05 - The Art of Machine Learning
+https://www.amazon.com/Art-Machine-Learning-Algorithms-Data-ebook/dp/B09BKK9K48
+https://www.amazon.co.uk/Art-Machine-Learning-Algorithms-Data-ebook/dp/B09BKK9K48
+http://books.google.co.uk/books?id=BxZOEAAAQBAJ&printsec=frontcover&dq=intitle:The+Art+of+Machine+Learning%2Binauthor:Norman+Matloff&hl=&cd=1&source=gbs_api
+
+Book 06 - The Art of Randomness
+No Amazon.com URL found
+https://www.amazon.co.uk/Art-Randomness-Using-Randomized-Algorithms-ebook/dp/B0BZGYSQJS
+http://books.google.co.uk/books?id=S2y1EAAAQBAJ&printsec=frontcover&dq=intitle:The+Art+of+Randomness%2Binauthor:Ronald+T.+Kneusel&hl=&cd=1&source=gbs_api
+
+Book 07 - Machine Learning Q and AI
+https://www.amazon.com/Machine-Learning-AI-Essential-Questions/dp/1718503768
+https://www.amazon.co.uk/Machine-Learning-AI-Essential-Questions-ebook/dp/B0CKKXCK3T
+http://books.google.co.uk/books?id=kkXbEAAAQBAJ&printsec=frontcover&dq=intitle:Machine+Learning+Q+and+AI%2Binauthor:Sebastian+Raschka&hl=&cd=1&source=gbs_api
+
+Book 08 - How AI Works
+No Amazon.com URL found
+https://www.amazon.co.uk/How-AI-Works-Sorcery-Science-ebook/dp/B0CDB7WHJD
+http://books.google.co.uk/books?id=lE7OEAAAQBAJ&printsec=frontcover&dq=intitle:How+AI+Works%2Binauthor:Ronald+T.+Kneusel&hl=&cd=1&source=gbs_api
+
+Book 09 - The Book of R
+https://www.amazon.com/Book-First-Course-Programming-Statistics-ebook/dp/B01J92NR22
+https://www.amazon.co.uk/Book-First-Course-Programming-Statistics-ebook/dp/B01J92NR22
+http://books.google.co.uk/books?id=N4G7DQAAQBAJ&printsec=frontcover&dq=intitle:The+Book+of+R%2Binauthor:Tilman+M.+Davies&hl=&cd=1&source=gbs_api
+
+Book 10 - Practical Julia
+https://www.amazon.com/Practical-Julia-Lee-Phillips-ebook/dp/B0B7R1QGRY
+https://www.amazon.co.uk/Practical-Julia-Lee-Phillips-ebook/dp/B0B7R1QGRY
+http://books.google.co.uk/books?id=c9GVEAAAQBAJ&printsec=frontcover&dq=intitle:Practical+Julia%2Binauthor:Lee+Phillips&hl=&cd=1&source=gbs_api
+
+Book 11 - Dive Into Data Science
+https://www.amazon.com/Science-Business-People-Bradford-Tuckfield-ebook/dp/B09WJY5P99
+https://www.amazon.co.uk/Science-Business-People-Bradford-Tuckfield-ebook/dp/B09WJY5P99
+http://books.google.co.uk/books?id=sTpxEAAAQBAJ&printsec=frontcover&dq=intitle:Dive+Into+Data+Science%2Binauthor:Bradford+Tuckfield&hl=&cd=1&source=gbs_api
+
+Book 12 - Dive Into Algorithms
+https://www.amazon.com/Algorithms-Adventurous-Bradford-Tuckfield-ebook/dp/B084FLBDV7
+https://www.amazon.co.uk/Algorithms-Adventurous-Bradford-Tuckfield-ebook/dp/B084FLBDV7
+http://books.google.co.uk/books?id=m7fNDwAAQBAJ&printsec=frontcover&dq=intitle:Dive+Into+Algorithms%2Binauthor:Bradford+Tuckfield&hl=&cd=1&source=gbs_api
+
+Book 13 - The Shape of Data
+No Amazon.com URL found
+https://www.amazon.co.uk/Shape-Data-Geometry-Based-Learning-Topological/dp/1718503083
+http://books.google.co.uk/books?id=5W-uEAAAQBAJ&printsec=frontcover&dq=intitle:The+Shape+of+Data%2Binauthor:Colleen+M.+Farrelly+and+Ya%C3%A9+Ulrich+Gaba&hl=&cd=1&source=gbs_api
+
+Book 14 - Bayesian Statistics the Fun Way
+https://www.amazon.com/Bayesian-Statistics-Fun-Will-Kurt-ebook/dp/B07J461Q2K
+https://www.amazon.co.uk/Bayesian-Statistics-Fun-Will-Kurt-ebook/dp/B07J461Q2K
+http://books.google.co.uk/books?id=foBxDwAAQBAJ&printsec=frontcover&dq=intitle:Bayesian+Statistics+the+Fun+Way%2Binauthor:Will+Kurt&hl=&cd=1&source=gbs_api
+
+Book 15 - Land of Lisp
+https://www.amazon.com/Land-Lisp-Learn-Program-Game-ebook/dp/B004AE3P4K
+https://www.amazon.co.uk/Land-Lisp-Learn-Program-Game-ebook/dp/B004AE3P4K
+http://books.google.co.uk/books?id=9apQfCRhvm0C&printsec=frontcover&dq=intitle:Land+of+Lisp%2Binauthor:Conrad+Barski&hl=&cd=1&source=gbs_api
+
+Book 16 - The Art of R Programming
+https://www.amazon.com/Art-Programming-Statistical-Software-Design/dp/1593273843
+https://www.amazon.co.uk/Art-Programming-Statistical-Software-Design-ebook/dp/B00683GXUO
+http://books.google.co.uk/books?id=4jL3sfmP1l8C&printsec=frontcover&dq=intitle:The+Art+of+R+Programming%2Binauthor:Norman+Matloff&hl=&cd=1&source=gbs_api
+
+Book 17 - Real World Python
+No Amazon.com URL found
+https://www.amazon.co.uk/Real-World-Python-Hackers-Solving-Problems-ebook/dp/B0852P29NJ
+http://books.google.co.uk/books?id=hwfhDwAAQBAJ&printsec=frontcover&dq=intitle:Real+World+Python%2Binauthor:Lee+Vaughan&hl=&cd=1&source=gbs_api
+
+Book 18 - Impractical Python Projects
+https://www.amazon.com/Impractical-Python-Projects-Programming-Activities/dp/159327890X
+https://www.amazon.co.uk/Impractical-Python-Projects-Programming-Activities-ebook/dp/B077WZ43P2
+http://books.google.co.uk/books?id=kURBDwAAQBAJ&printsec=frontcover&dq=intitle:Impractical+Python+Projects%2Binauthor:Lee+Vaughan&hl=&cd=1&source=gbs_api
+
+Book 19 - Learn You a Haskell for Great Good!
+https://www.amazon.com/Learn-You-Haskell-Great-Good-ebook/dp/B004VB3V0K
+https://www.amazon.co.uk/Learn-You-Haskell-Great-Good/dp/1593272839
+http://books.google.co.uk/books?id=QesxXj_ecD0C&printsec=frontcover&dq=intitle:Learn+You+a+Haskell+for+Great+Good!%2Binauthor:Miran+Lipova%C4%8Da&hl=&cd=1&source=gbs_api
+
