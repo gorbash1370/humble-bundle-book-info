@@ -1,0 +1,572 @@
+Humble Tech Book Bundle- Unreal 5 by Packt - Packt
+Processing date: 2024-09-16
+Data retrieved from: https://www.humblebundle.com/books/unreal-5-packt-books
+
+Book 01 - Cinematic Photoreal Environments in Unreal Engine 5 - Giovanni Visai - 4.8 out of 5 (11 reviews)
+Book 02 - Architectural Visualization in Unreal Engine 5 - Ludovico Palmeri - 4.2 out of 5 (7 reviews)
+Book 03 - Virtual Filmmaking with Unreal Engine 5 - Hussin Khan - 4.4 out of 5 (18 reviews)
+Book 04 - Game Development Patterns with Unreal Engine 5 - Stuart Butler, Tom Oliver - 4.4 out of 5 (16 reviews)
+Book 05 - Multiplayer Game Development with Unreal Engine 5 - Marco Secchi - 4.6 out of 5 (20 reviews)
+Book 06 - Unreal Engine 5 Game Development with C++ Scripting - ZHENYU GEORGE LI - 4.4 out of 5 (37 reviews)
+Book 07 - Elevating Game Experiences with Unreal Engine 5 - Gonçalo Marques, Devin Sherry, David Pereira, Hammad Fozi - 3.9 out of 5 (29 reviews)
+Book 08 - Unreal Engine 5 Character Creation, Animation, and Cinematics - Henk Venter, Wilhelm Ogterop - None found out of 5 (None found reviews)
+Book 09 - Blueprints Visual Scripting for Unreal Engine 5 - Marcos Romero, Brenden Sewell - 4.3 out of 5 (101 reviews)
+Book 10 - Mathematics for Game Programming and Computer Graphics - Penny de Byl - 4.7 out of 5 (22 reviews)
+Book 11 - Unity 2022 by Example - Scott H. Cameron - 4.8 out of 5 (8 reviews)
+Book 12 - Mastering Unity Game Development with C# - Mohamed Essam - 4.8 out of 5 (11 reviews)
+Book 13 - Godot 4 Game Development Projects - Chris Bradfield - 4.4 out of 5 (19 reviews)
+Book 14 - Learning GDScript by Developing a Game with Godot 4 - Sander Vanhove - 4.7 out of 5 (12 reviews)
+Book 15 - Unreal Engine 5 Shaders and Effects Cookbook - Brais Brenlla Ramos - 4.7 out of 5 (21 reviews)
+Book 16 - Build Stunning Real-time VFX with Unreal Engine 5 - Hrishikesh Andurlekar - 4.7 out of 5 (27 reviews)
+Book 17 - The Essential Guide to Creating Multiplayer Games with Godot 4.0 - Henrique Campos - 4.4 out of 5 (17 reviews)
+Book 18 - Reimagining Characters with Unreal Engine's MetaHuman Creator - Brian Rossney, Ciaran Kavanagh - 5 out of 5 (10 reviews)
+Book 19 - Become a Unity Shaders Guru - Mina Pêcheux - 4.8 out of 5 (17 reviews)
+Book 20 - XR Development with Unity - Anna Braun, Raffael Rizzo - 4.9 out of 5 (11 reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Cinematic Photoreal Environments in Unreal Engine 5
+Author(s): Giovanni Visai
+---
+ISBN-10: 1803236884 - ISBN-13: 9781803236889 - ASIN: 1803244119
+Published Date: 2024-05-17
+Page Count: 548
+---
+Google Books Price: GBP 21.44
+Google Books URL: http://books.google.co.uk/books?id=czIDEQAAQBAJ&printsec=frontcover&dq=intitle:Cinematic+Photoreal+Environments+in+Unreal+Engine+5%2Binauthor:Giovanni+Visai&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.8 of 5 (11 reviews)
+Amazon.com URL: https://www.amazon.com/Cinematic-Photoreal-Environments-Unreal-Engine/dp/1803244119
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (3 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Cinematic-Photoreal-Environments-Unreal-Engine/dp/1803244119
+---
+HB Blurb: Key FeaturesImplement advanced shaders, effects, and post-processing to make your environment look cinematicExplore techniques for achieving realistic graphic complexity with incredible performanceCreate your own materials and enhance the visuals of your gaming environmentPurchase of the print or Kindle book includes a free PDF eBookWho this book is forIf you are a creative director, designer, or creator with a passion for technology and CGI, this UE 5 book is for you. Game developers and tech artists will also benefit from this book as it can help them understand an environment artist’s workflow and how to optimize performance.
+--------------------------------------------------
+
+Book 02:
+Title: Architectural Visualization in Unreal Engine 5
+Author(s): Ludovico Palmeri
+---
+ISBN-10: 1837633975 - ISBN-13: 9781837633975 - ASIN: 1837639760
+Published Date: 2024-02-16
+Page Count: 496
+---
+Google Books Price: GBP 19.49
+Google Books URL: http://books.google.co.uk/books?id=QxHwEAAAQBAJ&printsec=frontcover&dq=intitle:Architectural+Visualization+in+Unreal+Engine+5%2Binauthor:Ludovico+Palmeri&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.2 of 5 (7 reviews)
+Amazon.com URL: https://www.amazon.com/Architectural-Visualization-Unreal-Engine-photorealistic/dp/1837639760
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Architectural-Visualization-Unreal-Engine-photorealistic/dp/1837639760
+---
+HB Blurb: Key FeaturesSet up your Unreal project and organize your assets to create an effective workflowLearn best practices for creating realistic and immersive 3D environments using UE5Explore Unreal's advanced lighting and material tools to produce photorealistic architectural visualizationsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forWhether you’re a CG-ArchViz artist, architect, or an environment artist looking to take your real-time visualization skills to the next level with Unreal Engine 5, this book is for you. Ideal for solidifying your understanding of architectural visualization, this book is perfect for you if you have some experience modeling simple architectural scenes in your software of choice. Familiarity with the Unreal Engine’s interface and basic operations is assumed.
+--------------------------------------------------
+
+Book 03:
+Title: Virtual Filmmaking with Unreal Engine 5
+Author(s): Hussin Khan
+---
+ISBN-10: 1801816336 - ISBN-13: 9781801816335 - ASIN: B0C9D42618
+Published Date: 2024-02-16
+Page Count: 480
+---
+Google Books Price: GBP 21.44
+Google Books URL: http://books.google.co.uk/books?id=u-XvEAAAQBAJ&printsec=frontcover&dq=intitle:Virtual+Filmmaking+with+Unreal+Engine+5%2Binauthor:Hussin+Khan&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.4 of 5 (18 reviews)
+Amazon.com URL: https://www.amazon.com/Virtual-Filmmaking-Unreal-Engine-step-ebook/dp/B0C9D42618
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4 of 5 (7 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Virtual-Filmmaking-Unreal-Engine-step/dp/1801813809
+---
+HB Blurb: Key FeaturesLearn in detail about filmmaking techniques and understand how to tie that into your Unreal Engine workflowGenerate and animate near-photorealistic actors using the innovative MetaHuman technologyBuild expansive worlds with Nanite and Lumen Global Illumination and Reflections technologyPurchase of the print or Kindle book includes a free PDF eBookWho this book is forWhether you’re a beginner or intermediate filmmaker, 3D artist, animator, visual effects artist, or virtual production professional with just basic knowledge of the Unreal Engine, this book is designed to help you enter the world of virtual films and animations.While prior experience with the Unreal Engine would be beneficial, a deep working knowledge is not essential, as the book introduces the relevant tools and features needed throughout the activities.
+--------------------------------------------------
+
+Book 04:
+Title: Game Development Patterns with Unreal Engine 5
+Author(s): Stuart Butler, Tom Oliver
+---
+ISBN-10: 1803246189 - ISBN-13: 9781803246185 - ASIN: 1803243252
+Published Date: 2024-01-05
+Page Count: 254
+---
+Google Books Price: GBP 20.79
+Google Books URL: http://books.google.co.uk/books?id=a6zoEAAAQBAJ&printsec=frontcover&dq=intitle:Game+Development+Patterns+with+Unreal+Engine+5%2Binauthor:Stuart+Butler,+Tom+Oliver&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.4 of 5 (16 reviews)
+Amazon.com URL: https://www.amazon.com/Game-Development-Patterns-Unreal-Engine/dp/1803243252
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.9 of 5 (7 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Game-Development-Patterns-Unreal-Engine/dp/1803243252
+---
+HB Blurb: Key FeaturesExplore programming patterns, structures, and principles and their applications in Unreal Engine 5 game developmentTranslate code from Blueprint to C++ to implement performant solutions in game developmentBuild a decoupled communications hierarchy and become a better game developerPurchase of the print or Kindle book includes a free PDF eBookWho this book is forIf you are a beginner or intermediate game developer working with Unreal Engine and looking to improve your C++ coding practices, this book is tailor-made to help you produce clean, reusable code through the application of design patterns.While this book will cover introductory tasks to show the fundamentals of Unreal Engine 5, its primary purpose is not to teach Unreal Engine from scratch. Prior experience with Unreal Engine will be beneficial, but don’t fret if your knowledge isn’t in-depth; the book will introduce tools and features as needed.
+--------------------------------------------------
+
+Book 05:
+Title: Multiplayer Game Development with Unreal Engine 5
+Author(s): Marco Secchi
+---
+ISBN-10: 1803243554 - ISBN-13: 9781803243559 - ASIN: 1803232870
+Published Date: 2023-10-06
+Page Count: 395
+---
+Google Books Price: GBP 18.84
+Google Books URL: http://books.google.co.uk/books?id=pJrVEAAAQBAJ&printsec=frontcover&dq=intitle:Multiplayer+Game+Development+with+Unreal+Engine+5%2Binauthor:Marco+Secchi&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (20 reviews)
+Amazon.com URL: https://www.amazon.com/Multiplayer-Game-Development-Unreal-Engine/dp/1803232870
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (6 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Multiplayer-Game-Development-Unreal-Engine-ebook/dp/B0C85W64H2
+---
+HB Blurb: Key FeaturesDesign a captivating multiplayer game using networking techniques from this illustrated guideUnderstand how to use the Unreal Engine networking system with C++ and BlueprintsCarefully plan and develop an online experience from start to finishPurchase of the print or Kindle book includes a free PDF eBookWho this book is forIf you are a game programmer, particularly an Unreal Engine developer, with little or no knowledge of video game networking systems and a passion for multiplayer games, this book will help you explore the subject in depth.Developers skilled in other game engines will find this book useful for understanding the principles of the Unreal multiplayer system, however, basic knowledge of Unreal Engine and C++ is strongly recommended.
+--------------------------------------------------
+
+Book 06:
+Title: Unreal Engine 5 Game Development with C++ Scripting
+Author(s): ZHENYU GEORGE LI
+---
+ISBN-10: 1804615269 - ISBN-13: 9781804615263 - ASIN: 1804613932
+Published Date: 2023-08-30
+Page Count: 384
+---
+Google Books Price: GBP 22.74
+Google Books URL: http://books.google.co.uk/books?id=Mj_VEAAAQBAJ&printsec=frontcover&dq=intitle:Unreal+Engine+5+Game+Development+with+C%2B%2B+Scripting%2Binauthor:ZHENYU+GEORGE+LI&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $29.99Save $10.00 (25%)
+Amazon.com Reviews: 4.4 of 5 (37 reviews)
+Amazon.com URL: https://www.amazon.com/Unreal-Engine-Game-Development-Scripting/dp/1804613932
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4 of 5 (10 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Unreal-Engine-Game-Development-Scripting/dp/1804613932
+---
+HB Blurb: Key FeaturesLearn C++ programming as well as C++ scripting for Unreal Engine 5Practice the UE5 scripting APIs through a game project to improve your knowledge and skillsExplore essential techniques and development cycles including design, implementation, optimization, and publishingWho this book is forThis book is for game designers, artists, software engineers, and students with some experience in using Unreal Engine and looking to explore the enigmatic C++ scripting. Basic experience with the UE editor is expected and blueprint scripting is a must. Familiarity with game concepts such as game level, lights, camera, actor/pawn/character, transformation, animation, and player control will be beneficial.
+--------------------------------------------------
+
+Book 07:
+Title: Elevating Game Experiences with Unreal Engine 5
+Author(s): Gonçalo Marques, Devin Sherry, David Pereira, Hammad Fozi
+---
+ISBN-10: 1803248092 - ISBN-13: 9781803248097 - ASIN: 1803239867
+Published Date: 2022-09-23
+Page Count: 760
+---
+Google Books Price: GBP 31.19
+Google Books URL: http://books.google.co.uk/books?id=az6HEAAAQBAJ&printsec=frontcover&dq=intitle:Elevating+Game+Experiences+with+Unreal+Engine+5%2Binauthor:Gon%C3%A7alo+Marques,+Devin+Sherry,+David+Pereira,+Hammad+Fozi&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 3.9 of 5 (29 reviews)
+Amazon.com URL: https://www.amazon.com/Elevating-Game-Experiences-Unreal-Engine/dp/1803239867
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.9 of 5 (26 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Elevating-Game-Experiences-Unreal-Engine/dp/1803239867
+---
+HB Blurb: Key FeaturesKickstart your career or develop a new hobby by learning game development with Unreal Engine 5 and C++Learn techniques to prototype and develop your own ideas with key images printed in colorReinforce your skills with project-based learning by building a series of games from scratchWho this book is forThis book is for game developers looking to get started with using Unreal Engine 5 for their game development projects. Anyone who has used Unreal Engine before and wants to consolidate, improve, and apply their skills will find this book useful. To better grasp the concepts explained in this book, prior knowledge of C++ basics such as variables, functions, classes, polymorphism, and pointers is required. For full compatibility with the IDE used in this book, a Windows system is recommended
+--------------------------------------------------
+
+Book 08:
+Title: Unreal Engine 5 Character Creation, Animation, and Cinematics
+Author(s): Henk Venter, Wilhelm Ogterop
+---
+ISBN-10: 1801819483 - ISBN-13: 9781801819480 - ASIN: 1801812446
+Published Date: 2022-06-30
+Page Count: 608
+---
+Google Books Price: GBP 34.44
+Google Books URL: http://books.google.co.uk/books?id=F954EAAAQBAJ&printsec=frontcover&dq=intitle:Unreal+Engine+5+Character+Creation,+Animation,+and+Cinematics%2Binauthor:Henk+Venter,+Wilhelm+Ogterop&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (56 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Unreal-Character-Creation-Animation-Cinematics/dp/1801812446
+---
+HB Blurb: Key FeaturesPerform your entire rigging and animation workflow inside Unreal Engine 5 using Control Rig toolsCreate hand-keyed animations and clean up motion capture natively in Unreal EngineLearn the basics of creating 3D assets and customizing a MetaHuman for your movie needsWho this book is forThis book is for beginners to Unreal Engine or 3D animation and art in general who want to learn the entire process of creating 3D movies with Unreal Engine 5. Experienced 3D artists and animators new to UE5 will also find this book invaluable as it covers cutting-edge techniques for making real-time 3D movies using Unreal Engine, Blender, Quixel Mixer, and Quixel Bridge. Although prior experience with 3D software is not necessary, it will be helpful in understanding the concepts more easily.
+--------------------------------------------------
+
+Book 09:
+Title: Blueprints Visual Scripting for Unreal Engine 5
+Author(s): Marcos Romero, Brenden Sewell
+---
+ISBN-10: 1789348420 - ISBN-13: 9781789348422 - ASIN: 180181158X
+Published Date: 2019-08-23
+Page Count: 366
+---
+Google Books Price: GBP 25.99
+Google Books URL: http://books.google.co.uk/books?id=XyisDwAAQBAJ&printsec=frontcover&dq=intitle:Blueprints+Visual+Scripting+for+Unreal+Engine+5%2Binauthor:Marcos+Romero,+Brenden+Sewell&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.3 of 5 (101 reviews)
+Amazon.com URL: https://www.amazon.com/Blueprints-Visual-Scripting-Unreal-Engine/dp/180181158X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (79 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Blueprints-Visual-Scripting-Unreal-Engine/dp/180181158X
+---
+HB Blurb: Key FeaturesDesign a fully functional game in UE5 without writing a single line of codeImplement visual scripting to develop gameplay mechanics, UI, visual effects, VR, and artificial intelligenceDeploy your game on multiple platforms and share it with the worldWho this book is forThis book is for anyone interested in developing games or applications with UE5. Although basic knowledge of Windows OS is required, experience in programming or UE5 is not necessary.
+--------------------------------------------------
+
+Book 10:
+Title: Mathematics for Game Programming and Computer Graphics
+Author(s): Penny de Byl
+---
+ISBN-10: 1801077495 - ISBN-13: 9781801077491 - ASIN: B0B6P9WHNW
+Published Date: 2022-11-30
+Page Count: 445
+---
+Google Books Price: GBP 21.44
+Google Books URL: http://books.google.co.uk/books?id=61SbEAAAQBAJ&printsec=frontcover&dq=intitle:Mathematics+for+Game+Programming+and+Computer+Graphics%2Binauthor:Penny+de+Byl&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $31.72Save $12.27 (28%)
+Amazon.com Reviews: 4.7 of 5 (22 reviews)
+Amazon.com URL: https://www.amazon.com/Mathematics-Game-Programming-Computer-Graphics-ebook/dp/B0B6P9WHNW
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (20 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Mathematics-Game-Programming-Computer-Graphics-ebook/dp/B0B6P9WHNW
+---
+HB Blurb: Key FeaturesGet acquainted with the essential mathematics needed to describe, simulate, and render 3D creationsConstruct and manipulate 3D animated environments using Python, Pygame, and PyOpenGLDevelop vertex and fragment shaders in OpenGL shader language to speed up renderingWho this book is forThis book is for programmers who want to enhance their 3D mathematics skills relating to computer graphics and computer games. Knowledge of high school–level mathematics and a working understanding in an object-orientated language is needed to grasp the contents present in this book.
+--------------------------------------------------
+
+Book 11:
+Title: Unity 2022 by Example
+Author(s): Scott H. Cameron
+---
+ISBN-10: 1803237953 - ISBN-13: 9781803237954 - ASIN: B0B25BQ291
+Published Date: 2024-06-07
+Page Count: 596
+---
+Google Books Price: GBP 19.49
+Google Books URL: http://books.google.co.uk/books?id=qO4GEQAAQBAJ&printsec=frontcover&dq=intitle:Unity+2022+by+Example%2Binauthor:Scott+H.+Cameron&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $39.99Save $10.00 (20%)
+Amazon.com Reviews: 4.8 of 5 (8 reviews)
+Amazon.com URL: https://www.amazon.com/Unity-2022-Example-project-based-augmented-ebook/dp/B0B25BQ291
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Unity-2022-Example-project-based-augmented-ebook/dp/B0B25BQ291
+---
+HB Blurb: Key FeaturesCreate game apps, including a 2D adventure game, a 3D first-person shooter, and moreGet up to speed with Unity Gaming Services available for creating commercially viable gamesFollow steps for publishing, marketing, and maintaining your games effectivelyPurchase of the print or Kindle book includes a free PDF eBookWho this book is forIf you find yourself struggling with completing game projects in Unity and want to follow best practices while maintaining a good coding structure, then this book is for you. This book is also for aspiring game developers and hobbyists with some experience in developing games, who want to design basic playable and commercial games in Unity with a core loop, player verbs, simple mechanics, and win/lose conditions. Experience with the Unity Editor interface and implementing functionality by creating C# scripts is required to get the most out of this book.
+--------------------------------------------------
+
+Book 12:
+Title: Mastering Unity Game Development with C#
+Author(s): Mohamed Essam
+---
+ISBN-10: 1835465943 - ISBN-13: 9781835465943 - ASIN: B0CZX7G4YT
+Published Date: 2024-07-05
+Page Count: 356
+---
+Google Books Price: GBP 15.59
+Google Books URL: http://books.google.co.uk/books?id=r5gNEQAAQBAJ&printsec=frontcover&dq=intitle:Mastering+Unity+Game+Development+with+C%23%2Binauthor:Mohamed+Essam&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.8 of 5 (11 reviews)
+Amazon.com URL: https://www.amazon.com/Mastering-Unity-Game-Development-development-ebook/dp/B0CZX7G4YT
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Mastering-Unity-Game-Development-development/dp/1835466362
+---
+HB Blurb: Key FeaturesProgress from basics to advanced Unity techniques effortlesslyWrite clean, efficient C# code to deliver seamless and engaging gameplay experiencesCraft captivating game mechanics and optimize the UI to develop standout gamesPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is designed for game developers, professional gamers, and game development enthusiasts who have prior experience with Unity and are comfortable with C# programming. If you have a basic understanding of Unity's core functionalities such as creating scenes, scripting, and manipulating objects, this book will help you gain the skills needed to master Unity game development.
+--------------------------------------------------
+
+Book 13:
+Title: Godot 4 Game Development Projects
+Author(s): Chris Bradfield
+---
+ISBN-10: 1788836421 - ISBN-13: 9781788836425 - ASIN: B0BVZVV67H
+Published Date: 2018-06-29
+Page Count: 292
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=KMNiDwAAQBAJ&printsec=frontcover&dq=intitle:Godot+4+Game+Development+Projects%2Binauthor:Chris+Bradfield&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $19.79Save $12.20 (38%)
+Amazon.com Reviews: 4.4 of 5 (19 reviews)
+Amazon.com URL: https://www.amazon.com/Godot-Game-Development-Projects-cross-platform-ebook/dp/B0BVZVV67H
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4 of 5 (22 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Godot-Game-Development-Projects-cross-platform-ebook/dp/B0BVZVV67H
+---
+HB Blurb: Key FeaturesMaster the art of developing cross-platform gamesHarness the power of Godot's node and scene system to design robust and reusable game objectsEffortlessly and effectively integrate Blender into Godot to create powerful 3D gamesPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for game developers at all levels, from beginners seeking an introduction to experienced programmers aiming to delve into the intricacies of Godot Engine 4.0. It is a valuable resource for newcomers and a treasure trove of insights for experienced developers. Prior programming experience is a prerequisite.
+--------------------------------------------------
+
+Book 14:
+Title: Learning GDScript by Developing a Game with Godot 4
+Author(s): Sander Vanhove
+---
+ISBN-10: 1801812497 - ISBN-13: 9781801812498 - ASIN: B0CTYNDSNB
+Published Date: 2024-05-17
+Page Count: 378
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=x_0CEQAAQBAJ&printsec=frontcover&dq=intitle:Learning+GDScript+by+Developing+a+Game+with+Godot+4%2Binauthor:Sander+Vanhove&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (12 reviews)
+Amazon.com URL: https://www.amazon.com/Learning-GDScript-Developing-Game-Godot-ebook/dp/B0CTYNDSNB
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (6 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learning-GDScript-Developing-Game-Godot/dp/1804616982
+---
+HB Blurb: Key FeaturesLearn the fundamentals of programming as you write GDScript 2.0Explore the world of GDScript 2.0 with this comprehensive introduction to the languageWork with Godot 4’s robust features and built-in tools to create captivating 2D and 3D games, simulations, and interactive applicationsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for programmers, game designers, game developers, and game artists who want to start creating games in Godot 4. If you’re new to coding or game development, looking for a new creative outlet, and want to give Godot 4 and GDScript 2.0 a try, this book is for you. While no prior knowledge of programming or Godot is required, this book gradually introduces more complex concepts as you advance through the chapters.
+--------------------------------------------------
+
+Book 15:
+Title: Unreal Engine 5 Shaders and Effects Cookbook
+Author(s): Brais Brenlla Ramos
+---
+ISBN-10: 1837635560 - ISBN-13: 9781837635566 - ASIN: B0BNNVZVQR
+Published Date: 2023-05-31
+Page Count: 402
+---
+Google Books Price: GBP 20.79
+Google Books URL: http://books.google.co.uk/books?id=OkHAEAAAQBAJ&printsec=frontcover&dq=intitle:Unreal+Engine+5+Shaders+and+Effects+Cookbook%2Binauthor:Brais+Brenlla+Ramos&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $40.97Save $1.02 (2%)
+Amazon.com Reviews: 4.7 of 5 (21 reviews)
+Amazon.com URL: https://www.amazon.com/Unreal-Engine-Shaders-Effects-Cookbook-ebook/dp/B0BNNVZVQR
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (4 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Unreal-Engine-Shaders-Effects-Cookbook/dp/1837633088
+---
+HB Blurb: Key FeaturesCreate spectacular visual effects for use in both games and virtual productionsDesign efficient shaders for any real-time platform without sacrificing realismLeverage Unreal Engine’s rendering pipeline and the innards of the material graphWho this book is forThis comprehensive guide is designed for anyone who is passionate about rendering, real-time graphics, and creating visually stunning experiences with Unreal Engine. Whether you're a beginner or a seasoned professional, this book offers a gentle learning curve that takes you from the fundamentals of the rendering pipeline to the most advanced techniques in the field. With a wealth of information and expert guidance, you'll quickly become proficient in the art of material creation, regardless of your background knowledge.
+--------------------------------------------------
+
+Book 16:
+Title: Build Stunning Real-time VFX with Unreal Engine 5
+Author(s): Hrishikesh Andurlekar
+---
+ISBN-10: 1801078726 - ISBN-13: 9781801078726 - ASIN: 1801072418
+Published Date: 2023-05-30
+Page Count: 313
+---
+Google Books Price: GBP 20.79
+Google Books URL: http://books.google.co.uk/books?id=GkG8EAAAQBAJ&printsec=frontcover&dq=intitle:Build+Stunning+Real-time+VFX+with+Unreal+Engine+5%2Binauthor:Hrishikesh+Andurlekar&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (27 reviews)
+Amazon.com URL: https://www.amazon.com/Build-Stunning-Real-time-Unreal-Engine/dp/1801072418
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (11 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Build-Stunning-Real-time-Unreal-Engine/dp/1801072418
+---
+HB Blurb: Key FeaturesExplore how Niagara can make your games pop by creating stunning particle systems in Unreal Engine 5Level up your VFX skills and enhance your employability in a competitive marketBuild various particle system projects to reinforce your learning and put your new knowledge into practiceWho this book is forThis book is for visual effects artists transitioning to real-time virtual production workflow as well as beginners looking to learn Niagara for games and other real-time applications. Game programmers, 3D generalists, and game designers interested in adding VFX for their game and metaverse projects will also find this book useful. A basic understanding of Unreal Engine 5, blueprints, as well as layout, materials, and lighting in Unreal Engine is expected.
+--------------------------------------------------
+
+Book 17:
+Title: The Essential Guide to Creating Multiplayer Games with Godot 4.0
+Author(s): Henrique Campos
+---
+ISBN-10: 1803238364 - ISBN-13: 9781803238364 - ASIN: 1803232617
+Published Date: 2023-12-22
+Page Count: 326
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=YLjmEAAAQBAJ&printsec=frontcover&dq=intitle:The+Essential+Guide+to+Creating+Multiplayer+Games+with+Godot+4.0%2Binauthor:Henrique+Campos&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.4 of 5 (17 reviews)
+Amazon.com URL: https://www.amazon.com/Essential-Guide-Creating-Multiplayer-Games/dp/1803232617
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.1 of 5 (5 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Essential-Guide-Creating-Multiplayer-Games-ebook/dp/B0C8TGXWXR
+---
+HB Blurb: Key FeaturesEnsure player synchronization and coexistence in a game worldMitigate latency in your multiplayer games to design a seamless shared experienceOptimize and debug your games using profilers and monitors to visualize performancePurchase of the print or Kindle book includes a free PDF eBookWho this book is forIf you’re involved in game development with Godot and want to add multiplayer capabilities to enrich the shared gaming experience, then this book is for you. You’ll also find this book useful if you’re a network engineer looking to gain hands-on experience with practical projects. To get the most out of this book, a prior understanding of the Godot Engine design philosophy, the GDScript programming language, the SceneTree structure, and how nodes work is essential.
+--------------------------------------------------
+
+Book 18:
+Title: Reimagining Characters with Unreal Engine's MetaHuman Creator
+Author(s): Brian Rossney, Ciaran Kavanagh
+---
+ISBN-10: 1801819149 - ISBN-13: 9781801819145 - ASIN: 1801817723
+Published Date: 2022-12-29
+Page Count: 356
+---
+Google Books Price: GBP 23.39
+Google Books URL: http://books.google.co.uk/books?id=u9OgEAAAQBAJ&pg=PR5&dq=intitle:Reimagining+Characters+with+Unreal+Engine%27s+MetaHuman+Creator%2Binauthor:Brian+Rossney,+Ciaran+Kavanagh&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $37.99Save $10.00 (21%)
+Amazon.com Reviews: 5 of 5 (10 reviews)
+Amazon.com URL: https://www.amazon.com/Reimagining-characters-Unreal-MetaHuman-Creator/dp/1801817723
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (7 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Reimagining-characters-Unreal-MetaHuman-Creator/dp/1801817723
+---
+HB Blurb: Key FeaturesCreate realistic characters using the MetaHuman Creator using a mixture of preset and custom toolsImport your character into Unreal Engine 5 to access more editing options and begin animating itCombine face and body motion capturing to fully animate your digital humansWho this book is forThis book is for filmmakers and hobbyists who are planning to make a film using Unreal Engine for the first time, having worked in live action or purely digital media previously, either professionally or as a hobby. No experience with Unreal Engine is required, however it is useful to have some knowledge of 3D development applications and concepts like wireframes, skin weights, transform tools, and motion capture. It is recommended that you have access to an iPhone X (or a later model). Alternatively, you can use a free or paid version of Faceware, along with a basic webcam.
+--------------------------------------------------
+
+Book 19:
+Title: Become a Unity Shaders Guru
+Author(s): Mina Pêcheux
+---
+ISBN-10: 1837636583 - ISBN-13: 9781837636587 - ASIN: B0BJKNRCDN
+Published Date: 2023-07-14
+Page Count: 492
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=b2HFEAAAQBAJ&printsec=frontcover&dq=intitle:Become+a+Unity+Shaders+Guru%2Binauthor:Mina+P%C3%AAcheux&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $22.39Save $13.60 (38%)
+Amazon.com Reviews: 4.8 of 5 (17 reviews)
+Amazon.com URL: https://www.amazon.com/Become-Unity-Shaders-Guru-advanced-ebook/dp/B0BJKNRCDN
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Become-Unity-Shaders-Guru-advanced-ebook/dp/B0BJKNRCDN
+---
+HB Blurb: Key FeaturesDiscover the new shader tools such as URP and Shader Graph to work in HLSL code or with visual node-based editingLearn advanced tricks to optimize your rendering pipelineExplore various concepts to create a variety of 2D and 3D game shadersPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for technical artists who have worked with Unity and want to get a deeper understanding of Unity’s render pipelines and its visual node-based editing tool. Seasoned game developers who are looking for reference shaders using the recent URP render pipeline will also find this book useful. A basic level of programming experience in HLSL, Unity, its layout, and its basic usage is a must.
+--------------------------------------------------
+
+Book 20:
+Title: XR Development with Unity
+Author(s): Anna Braun, Raffael Rizzo
+---
+ISBN-10: 1805120042 - ISBN-13: 9781805120049 - ASIN: 1805128124
+Published Date: 2023-11-30
+Page Count: 284
+---
+Google Books Price: GBP 14.94
+Google Books URL: http://books.google.co.uk/books?id=Yw_iEAAAQBAJ&printsec=frontcover&dq=intitle:XR+Development+with+Unity%2Binauthor:Anna+Braun,+Raffael+Rizzo&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.9 of 5 (11 reviews)
+Amazon.com URL: https://www.amazon.com/Development-Unity-beginners-augmented-experiences/dp/1805128124
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Development-Unity-beginners-augmented-experiences/dp/1805128124
+---
+HB Blurb: Key FeaturesCreate impressive XR projects without the need to own expensive VR headsetsExplore Unity XR features and techniques such as hand-tracking and plane detection using the XR Interaction Toolkit and AR FoundationBring your XR projects to life with step-by-step explanations along with practical examplesPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for students, developers, researchers, and professionals with a background in computer science. Business analysts, PMs, and other management professionals and executives will also benefit from this book. If you have basic knowledge of programming and are looking to gain expertise in creating virtual reality and augmented reality applications in Unity, then this book is for you. While having experience as a VR game player with basic programming knowledge can enhance your understanding of the content, it is not a prerequisite.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Cinematic Photoreal Environments in Unreal Engine 5
+https://www.amazon.com/Cinematic-Photoreal-Environments-Unreal-Engine/dp/1803244119
+https://www.amazon.co.uk/Cinematic-Photoreal-Environments-Unreal-Engine/dp/1803244119
+http://books.google.co.uk/books?id=czIDEQAAQBAJ&printsec=frontcover&dq=intitle:Cinematic+Photoreal+Environments+in+Unreal+Engine+5%2Binauthor:Giovanni+Visai&hl=&cd=1&source=gbs_api
+
+Book 02 - Architectural Visualization in Unreal Engine 5
+https://www.amazon.com/Architectural-Visualization-Unreal-Engine-photorealistic/dp/1837639760
+https://www.amazon.co.uk/Architectural-Visualization-Unreal-Engine-photorealistic/dp/1837639760
+http://books.google.co.uk/books?id=QxHwEAAAQBAJ&printsec=frontcover&dq=intitle:Architectural+Visualization+in+Unreal+Engine+5%2Binauthor:Ludovico+Palmeri&hl=&cd=1&source=gbs_api
+
+Book 03 - Virtual Filmmaking with Unreal Engine 5
+https://www.amazon.com/Virtual-Filmmaking-Unreal-Engine-step-ebook/dp/B0C9D42618
+https://www.amazon.co.uk/Virtual-Filmmaking-Unreal-Engine-step/dp/1801813809
+http://books.google.co.uk/books?id=u-XvEAAAQBAJ&printsec=frontcover&dq=intitle:Virtual+Filmmaking+with+Unreal+Engine+5%2Binauthor:Hussin+Khan&hl=&cd=1&source=gbs_api
+
+Book 04 - Game Development Patterns with Unreal Engine 5
+https://www.amazon.com/Game-Development-Patterns-Unreal-Engine/dp/1803243252
+https://www.amazon.co.uk/Game-Development-Patterns-Unreal-Engine/dp/1803243252
+http://books.google.co.uk/books?id=a6zoEAAAQBAJ&printsec=frontcover&dq=intitle:Game+Development+Patterns+with+Unreal+Engine+5%2Binauthor:Stuart+Butler,+Tom+Oliver&hl=&cd=1&source=gbs_api
+
+Book 05 - Multiplayer Game Development with Unreal Engine 5
+https://www.amazon.com/Multiplayer-Game-Development-Unreal-Engine/dp/1803232870
+https://www.amazon.co.uk/Multiplayer-Game-Development-Unreal-Engine-ebook/dp/B0C85W64H2
+http://books.google.co.uk/books?id=pJrVEAAAQBAJ&printsec=frontcover&dq=intitle:Multiplayer+Game+Development+with+Unreal+Engine+5%2Binauthor:Marco+Secchi&hl=&cd=1&source=gbs_api
+
+Book 06 - Unreal Engine 5 Game Development with C++ Scripting
+https://www.amazon.com/Unreal-Engine-Game-Development-Scripting/dp/1804613932
+https://www.amazon.co.uk/Unreal-Engine-Game-Development-Scripting/dp/1804613932
+http://books.google.co.uk/books?id=Mj_VEAAAQBAJ&printsec=frontcover&dq=intitle:Unreal+Engine+5+Game+Development+with+C%2B%2B+Scripting%2Binauthor:ZHENYU+GEORGE+LI&hl=&cd=1&source=gbs_api
+
+Book 07 - Elevating Game Experiences with Unreal Engine 5
+https://www.amazon.com/Elevating-Game-Experiences-Unreal-Engine/dp/1803239867
+https://www.amazon.co.uk/Elevating-Game-Experiences-Unreal-Engine/dp/1803239867
+http://books.google.co.uk/books?id=az6HEAAAQBAJ&printsec=frontcover&dq=intitle:Elevating+Game+Experiences+with+Unreal+Engine+5%2Binauthor:Gon%C3%A7alo+Marques,+Devin+Sherry,+David+Pereira,+Hammad+Fozi&hl=&cd=1&source=gbs_api
+
+Book 08 - Unreal Engine 5 Character Creation, Animation, and Cinematics
+No Amazon.com URL found
+https://www.amazon.co.uk/Unreal-Character-Creation-Animation-Cinematics/dp/1801812446
+http://books.google.co.uk/books?id=F954EAAAQBAJ&printsec=frontcover&dq=intitle:Unreal+Engine+5+Character+Creation,+Animation,+and+Cinematics%2Binauthor:Henk+Venter,+Wilhelm+Ogterop&hl=&cd=1&source=gbs_api
+
+Book 09 - Blueprints Visual Scripting for Unreal Engine 5
+https://www.amazon.com/Blueprints-Visual-Scripting-Unreal-Engine/dp/180181158X
+https://www.amazon.co.uk/Blueprints-Visual-Scripting-Unreal-Engine/dp/180181158X
+http://books.google.co.uk/books?id=XyisDwAAQBAJ&printsec=frontcover&dq=intitle:Blueprints+Visual+Scripting+for+Unreal+Engine+5%2Binauthor:Marcos+Romero,+Brenden+Sewell&hl=&cd=1&source=gbs_api
+
+Book 10 - Mathematics for Game Programming and Computer Graphics
+https://www.amazon.com/Mathematics-Game-Programming-Computer-Graphics-ebook/dp/B0B6P9WHNW
+https://www.amazon.co.uk/Mathematics-Game-Programming-Computer-Graphics-ebook/dp/B0B6P9WHNW
+http://books.google.co.uk/books?id=61SbEAAAQBAJ&printsec=frontcover&dq=intitle:Mathematics+for+Game+Programming+and+Computer+Graphics%2Binauthor:Penny+de+Byl&hl=&cd=1&source=gbs_api
+
+Book 11 - Unity 2022 by Example
+https://www.amazon.com/Unity-2022-Example-project-based-augmented-ebook/dp/B0B25BQ291
+https://www.amazon.co.uk/Unity-2022-Example-project-based-augmented-ebook/dp/B0B25BQ291
+http://books.google.co.uk/books?id=qO4GEQAAQBAJ&printsec=frontcover&dq=intitle:Unity+2022+by+Example%2Binauthor:Scott+H.+Cameron&hl=&cd=1&source=gbs_api
+
+Book 12 - Mastering Unity Game Development with C#
+https://www.amazon.com/Mastering-Unity-Game-Development-development-ebook/dp/B0CZX7G4YT
+https://www.amazon.co.uk/Mastering-Unity-Game-Development-development/dp/1835466362
+http://books.google.co.uk/books?id=r5gNEQAAQBAJ&printsec=frontcover&dq=intitle:Mastering+Unity+Game+Development+with+C%23%2Binauthor:Mohamed+Essam&hl=&cd=1&source=gbs_api
+
+Book 13 - Godot 4 Game Development Projects
+https://www.amazon.com/Godot-Game-Development-Projects-cross-platform-ebook/dp/B0BVZVV67H
+https://www.amazon.co.uk/Godot-Game-Development-Projects-cross-platform-ebook/dp/B0BVZVV67H
+http://books.google.co.uk/books?id=KMNiDwAAQBAJ&printsec=frontcover&dq=intitle:Godot+4+Game+Development+Projects%2Binauthor:Chris+Bradfield&hl=&cd=1&source=gbs_api
+
+Book 14 - Learning GDScript by Developing a Game with Godot 4
+https://www.amazon.com/Learning-GDScript-Developing-Game-Godot-ebook/dp/B0CTYNDSNB
+https://www.amazon.co.uk/Learning-GDScript-Developing-Game-Godot/dp/1804616982
+http://books.google.co.uk/books?id=x_0CEQAAQBAJ&printsec=frontcover&dq=intitle:Learning+GDScript+by+Developing+a+Game+with+Godot+4%2Binauthor:Sander+Vanhove&hl=&cd=1&source=gbs_api
+
+Book 15 - Unreal Engine 5 Shaders and Effects Cookbook
+https://www.amazon.com/Unreal-Engine-Shaders-Effects-Cookbook-ebook/dp/B0BNNVZVQR
+https://www.amazon.co.uk/Unreal-Engine-Shaders-Effects-Cookbook/dp/1837633088
+http://books.google.co.uk/books?id=OkHAEAAAQBAJ&printsec=frontcover&dq=intitle:Unreal+Engine+5+Shaders+and+Effects+Cookbook%2Binauthor:Brais+Brenlla+Ramos&hl=&cd=1&source=gbs_api
+
+Book 16 - Build Stunning Real-time VFX with Unreal Engine 5
+https://www.amazon.com/Build-Stunning-Real-time-Unreal-Engine/dp/1801072418
+https://www.amazon.co.uk/Build-Stunning-Real-time-Unreal-Engine/dp/1801072418
+http://books.google.co.uk/books?id=GkG8EAAAQBAJ&printsec=frontcover&dq=intitle:Build+Stunning+Real-time+VFX+with+Unreal+Engine+5%2Binauthor:Hrishikesh+Andurlekar&hl=&cd=1&source=gbs_api
+
+Book 17 - The Essential Guide to Creating Multiplayer Games with Godot 4.0
+https://www.amazon.com/Essential-Guide-Creating-Multiplayer-Games/dp/1803232617
+https://www.amazon.co.uk/Essential-Guide-Creating-Multiplayer-Games-ebook/dp/B0C8TGXWXR
+http://books.google.co.uk/books?id=YLjmEAAAQBAJ&printsec=frontcover&dq=intitle:The+Essential+Guide+to+Creating+Multiplayer+Games+with+Godot+4.0%2Binauthor:Henrique+Campos&hl=&cd=1&source=gbs_api
+
+Book 18 - Reimagining Characters with Unreal Engine's MetaHuman Creator
+https://www.amazon.com/Reimagining-characters-Unreal-MetaHuman-Creator/dp/1801817723
+https://www.amazon.co.uk/Reimagining-characters-Unreal-MetaHuman-Creator/dp/1801817723
+http://books.google.co.uk/books?id=u9OgEAAAQBAJ&pg=PR5&dq=intitle:Reimagining+Characters+with+Unreal+Engine%27s+MetaHuman+Creator%2Binauthor:Brian+Rossney,+Ciaran+Kavanagh&hl=&cd=1&source=gbs_api
+
+Book 19 - Become a Unity Shaders Guru
+https://www.amazon.com/Become-Unity-Shaders-Guru-advanced-ebook/dp/B0BJKNRCDN
+https://www.amazon.co.uk/Become-Unity-Shaders-Guru-advanced-ebook/dp/B0BJKNRCDN
+http://books.google.co.uk/books?id=b2HFEAAAQBAJ&printsec=frontcover&dq=intitle:Become+a+Unity+Shaders+Guru%2Binauthor:Mina+P%C3%AAcheux&hl=&cd=1&source=gbs_api
+
+Book 20 - XR Development with Unity
+https://www.amazon.com/Development-Unity-beginners-augmented-experiences/dp/1805128124
+https://www.amazon.co.uk/Development-Unity-beginners-augmented-experiences/dp/1805128124
+http://books.google.co.uk/books?id=Yw_iEAAAQBAJ&printsec=frontcover&dq=intitle:XR+Development+with+Unity%2Binauthor:Anna+Braun,+Raffael+Rizzo&hl=&cd=1&source=gbs_api
+
