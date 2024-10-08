@@ -1,0 +1,364 @@
+Humble Tech Book Bundle- Microsoft and .NET Development for Professionals by Apress - Springer
+Processing date: 2024-10-08
+Data retrieved from: https://www.humblebundle.com/books/microsoft-and-net-development-for-professionals-apress-books
+
+Book 01 - Mastering Microsoft Fabric - Debananda Ghosh - 2.5 out of 5 (2 reviews)
+Book 02 - Azure Data Factory by Example, 2e - Richard Swinbank - 0 out of 5 (1 reviews)
+Book 03 - Mastering Knowledge Management Using Microsoft Technologies - Tori Reddy Dodla - 5 out of 5 (4 reviews)
+Book 04 - BUILDING THE MODERN WORKPLACE WITH SHAREPOINT ONLINE - Hari Narayn - 4 out of 5 (1 reviews)
+Book 05 - Web API Development for the Absolute Beginner - Irina Dominte - None found out of 5 (None found reviews)
+Book 06 - Deep Dive Into Power Automate - Goloknath Mishra - 5 out of 5 (1 reviews)
+Book 07 - Up Up and Array! - Abbott Ira Katz - 4.6 out of 5 (3 reviews)
+Book 08 - Windows Forensics - Chuck Easttom - None found out of 5 (None found reviews)
+Book 09 - Mastering Microsoft Dynamics 365 Business Central - Dr. Gomathi S - None found out of 5 (None found reviews)
+Book 10 - Transitioning to Microsoft Power Platform - David Ding - 5 out of 5 (2 reviews)
+Book 11 - Introducing Microsoft Copilot for Managers - Adeel Khan - None found out of 5 (None found reviews)
+Book 12 - The Art of Immutable Architecture, 2nd edition - Michael L. Perry - 4.4 out of 5 (42 reviews)
+Book 13 - Understanding Microsoft Teams Administration, 2e - Balu N Ilag - 5 out of 5 (1 reviews)
+Book 14 - Azure Arc Systems Management - Ramona Maxwell - None found out of 5 (None found reviews)
+Book 15 - Learn Data Mining Through Excel, 2nd edition - Hong Zhou - 4.4 out of 5 (55 reviews)
+Book 16 - Getting Started with Microsoft Viva - D'arce Hess - None found out of 5 (None found reviews)
+Book 17 - Leveling Up with SQL - Mark Simon - None found out of 5 (None found reviews)
+Book 18 - Getting Started with Containers in Azure, 2e - Shimon Ifrah - None found out of 5 (None found reviews)
+Book 19 - Simple and Efficient Programming with C#, 2e - Vaskaran Sarcar - 5 out of 5 (1 reviews)
+Book 20 - SQL Server Analytical Toolkit - Angelo Bobak - None found out of 5 (None found reviews)
+Book 21 - A Power BI Compendium - Alison Box - None found out of 5 (None found reviews)
+Book 22 - Income Statement Semantic Models with Power BI - Chris Barber - None found out of 5 (None found reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: Mastering Microsoft Fabric
+Author(s): Debananda Ghosh
+---
+ISBN-10: None - ISBN-13: 9798868801310 - ASIN: B0CS91D215
+Published Date: None
+---
+HB Blurb: Learn and explore the capabilities of Microsoft Fabric, the latest evolution in cloud analytics suites. This book will help you understand how users can leverage Microsoft Office equivalent experience for performing data management and advanced analytics activity. The book starts with an overview of the analytics evolution from on premises to cloud infrastructure as a service (IaaS), platform as a service (PaaS), and now software as a service (SaaS version) and provides an introduction to Microsoft Fabric. You will learn how to provision Microsoft Fabric in your tenant along with the key capabilities of SaaS analytics products and the advantage of using Fabric in the enterprise analytics platform. OneLake and Lakehouse for data engineering is discussed as well as OneLake for data science. Author Ghosh teaches you about data warehouse offerings inside Microsoft Fabric and the new data integration experience which brings Azure Data Factory and Power Query Editor of Power BI together in a single platform. Also demonstrated is Real-Time Analytics in Fabric, including capabilities such as Kusto query and database. You will understand how the new event stream feature integrates with OneLake and other computations. You also will know how to configure the real-time alert capability in a zero code manner and go through the Power BI experience in the Fabric workspace. Fabric pricing and its licensing is also covered. After reading this book, you will understand the capabilities of Microsoft Fabric and its Integration with current and upcoming Azure OpenAI capabilities. What You Will LearnBuild OneLake for all data like OneDrive for Microsoft OfficeLeverage shortcuts for cross-cloud data virtualization in Azure and AWSUnderstand upcoming OpenAI integrationDiscover new event streaming and Kusto query inside Fabric real-time analyticsUtilize seamless tooling for machine learning and data science Who This Book Is ForCitizen users and experts in the data engineering and data science fields, along with chief AI officers
+--------------------------------------------------
+
+Book 02:
+Title: Azure Data Factory by Example, 2e
+Author(s): Richard Swinbank
+---
+ISBN-10: None - ISBN-13: 9798868802188 - ASIN: B0CS8XGSB5
+Published Date: None
+---
+HB Blurb: Data engineers who need to hit the ground running will use this book to build skills in Azure Data Factory v2 (ADF). The tutorial-first approach to ADF taken in this book gets you working from the first chapter, explaining key ideas naturally as you encounter them. From creating your first data factory to building complex, metadata-driven nested pipelines, the book guides you through essential concepts in Microsoft’s cloud-based ETL/ELT platform. It introduces components indispensable for the movement and transformation of data in the cloud. Then it demonstrates the tools necessary to orchestrate, monitor, and manage those components. This edition, updated for 2024, includes the latest developments to the Azure Data Factory service:Enhancements to existing pipeline activities such as Execute Pipeline, along with the introduction of new activities such as Script, and activities designed specifically to interact with Azure Synapse Analytics.Improvements to flow control provided by activity deactivation and the Fail activity.The introduction of reusable data flow components such as user-defined functions and flowlets.Extensions to integration runtime capabilities including Managed VNet support.The ability to trigger pipelines in response to custom events.Tools for implementing boilerplate processes such as change data capture and metadata-driven data copying. What You Will LearnCreate pipelines, activities, datasets, and linked servicesBuild reusable components using variables, parameters, and expressionsMove data into and around Azure services automaticallyTransform data natively using ADF data flows and Power Query data wranglingMaster flow-of-control and triggers for tightly orchestrated pipeline executionPublish and monitor pipelines easily and with confidence Who This Book Is For Data engineers and ETL developers taking their first steps in Azure Data Factory, SQL Server Integration Services users making the transition toward doing ETL in Microsoft’s Azure cloud, and SQL Server database administrators involved in data warehousing and ETL operations
+--------------------------------------------------
+
+Book 03:
+Title: Mastering Knowledge Management Using Microsoft Technologies
+Author(s): Tori Reddy Dodla
+---
+ISBN-10: None - ISBN-13: 9798868803710 - ASIN: B0CZHP23LF
+Published Date: 2024-06-22
+---
+HB Blurb: For companies and individuals already using Microsoft365 and other Microsoft technologies, this book is designed to reveal how to fully utilize these platforms for effective Knowledge Management without needing to rely on additional third-party tools. It addresses a common issue where organizations find themselves with overlapping technology capabilities for managing knowledge. This situation arises because many companies are not fully aware of the capabilities they already possess within their existing Microsoft tools. Knowledge management firms capitalize on this gap by offering white-labeled, branded applications with user-friendly interfaces, selling them to companies that could achieve the same results with what they already own, if only they knew how to use them properly. By mastering the use of Microsoft technologies for Knowledge Management, organizations can save significant amounts of money that would otherwise be spent on unnecessary external solutions. Whether your objective is to optimize Knowledge Management processes or align these tools with your organization's business processes, this book is designed to serve as a valuable resource, offering practical guidance and strategies to empower your endeavors. By the end of this book, readers will be equipped with the knowledge and skills necessary to make informed decisions regarding the utilization of Microsoft technologies for Knowledge Management and organizational design.   What You Will Learn The components of a Microsoft Knowledge Base How PowerPlatfom can support Knowledge Management activities How Microsoft tools fit into the Knowledge Management Landscape How to integrate AI using Microsoft Co-Pilot   Who This Book Is For Chief Technology Officers, Chief Information Officers, Chief Knowledge Officers, Chief Digital Officers, Directors of Knowledge Management, Knowledge Managers, SharePoint Administrators, Digital Transformation Consultants
+--------------------------------------------------
+
+Book 04:
+Title: BUILDING THE MODERN WORKPLACE WITH SHAREPOINT ONLINE
+Author(s): Hari Narayn
+---
+ISBN-10: 9781484297254 - ISBN-13: 1484297253 - ASIN: B0CDR3D5RZ
+Published Date: 2023-10-04
+---
+HB Blurb: This book is a comprehensive guide that will empower you to create robust digital workplace solutions from scratch using SharePoint Online and Microsoft’s Power Platform. This revised edition incorporates the latest features of SharePoint Online, including Advanced JSON formatting, Power Automate updates, and SPFx updates. Author Hari Narayn kicks things off with an overview of the fundamentals of SharePoint Online, followed by tutorials covering how to analyze business requirements, design solutions, and leverage SharePoint Online's extensive functionalities. The book covers essential topics such as creating basic artifacts, building SharePoint forms using out-of-the-box forms, and mastering JSON formatting through practical examples. You’ll explore the basics of Power Apps and how to integrate it with SharePoint Online before diving into advanced Power Automate and discovering how to automate processes and streamline workflows. Additionally, you’ll gain insight into SharePoint Framework (SPFx) customization, empowering you to tailor SharePoint Online sites to suit specific needs. Configuration and customization of PnP modern search are also detailed, so that you can optimize search capabilities within SharePoint Online. You will also learn how to integrate Microsoft Teams, MS Graph, and Power Virtual Agents with SharePoint Online  to enhance collaboration. After completing this book, you will have the skills and knowledge to build powerful SharePoint Online sites that align with your business requirements. You will also be equipped to seamlessly integrate SharePoint Online with other Microsoft services, creating a cohesive and efficient digital workplace. What You Will Learn Leverage advanced JSON formattingUtilize Power Apps, SPFx using React, and modern searchCreate Advanced Power Automate workflowsDevelop Teams solutions and chatbotsUse Microsoft Graph and PnP JS with SharePoint Online  Who This Book Is For All SharePoint developers and power users.
+--------------------------------------------------
+
+Book 05:
+Title: Web API Development for the Absolute Beginner
+Author(s): Irina Dominte
+---
+ISBN-10: 9781484293478 - ISBN-13: 1484293479 - ASIN: 
+Published Date: 2023-09-25
+---
+HB Blurb: If you are a developer who wants to learn the basic skills of web and application programming interfaces (APIs) with .NET, this book is your complete introduction. The book takes a learn-by-experience approach. You will hit the ground running with a sample project that has everything you need to be wired up. As you follow along, you will learn simple and intuitive conventions that will free you from some of the more tedious decisions and work, in order to allow you to focus on the business requirements required by your team. Certain components of the framework should always appear in certain folders in the solution to speed up development while others need a name that follows particular conventions. You will learn the building blocks of Web API and how to leverage them to have a well-rounded API. Understanding these small but important tricks will make development faster, easier, and more pleasant, and will prevent time-consuming errors. Part I introduces you to the basics of Web. Part II gets you started creating an API that you will use and build upon throughout the book until you have a complete project. All companion code is available via GitHub. Part III covers more advanced concepts, including how to override out-of-the-box conventions to customize an API to meet your specific business needs. By the end of the book you will have a fully functional API, and you will be better prepared for an interview for a .NET backend developer job. What You Will Learn Build a start-to-finish Web APIKnow the main concepts of the WebApply best practices in API development to your own projectsKnow the fundamentals of Web API developmentKnow the fundamentals of a RESTful APILeverage Web API constructs to implement a clean and extensible APIGet hands-on experience to unit test a Web APIGain the skills required to apply for a junior or entry-level .NET Web developer job Who This Book Is ForDevelopers who want to learn API development with .NET. It is helpful to have some basic C# programming knowledge because it is used in API development in .NET, but it is not mandatory. Readers should be familiar with a programming language to be able to understand code and examples. Experience with web development is not necessary.
+--------------------------------------------------
+
+Book 06:
+Title: Deep Dive Into Power Automate
+Author(s): Goloknath Mishra
+---
+ISBN-10: 9781484297315 - ISBN-13: 1484297318 - ASIN: B0CJWWDLPJ
+Published Date: 2023-12-23
+---
+HB Blurb: Understand the basics of flow and learn how to implement guidelines in real-life scenarios, including Robotic Process Automation (RPA) capabilities. This book covers the evolution of flow and how it is transformed to a full-fledged RPA (such as Power Automate).The book starts with an introduction to flow and its transformation to Process Automation. You will learn how to create a Power Automate environment and demonstrate different types of flows within it. Author Goloknath Mishra takes you through various types of cloud flows and their best practices. Desktop Flows (RPA) or Power Automate Desktop (PAD) is discussed and the author teaches you its architecture, installation steps, and how to manage, schedule, and share a desktop. You will learn about Business Process Flow, Process Advisors, and AI Builder. You also will go through licensing considerations in Power Automate and AI Builder, and demonstrate all of your learnings through a mini project. After reading thebook, you will have gained expertise in Power Automate and be able to implement its guidelines and solve problems at your organization. What Will You LearnKnow the difference between Intelligent Process Automation (IPA) and Robotic Process Automation (RPA)Understand the different types of flows in Power Automate Create various types of cloud flows, Desktop flows, Business Process flows, and AI Builder modelsStudy common use cases and be aware of Power Automate best practices Who This Book Is ForBusiness executives, citizen developers, IT professionals, and computer scientists who wish to efficiently automate monotonous work
+--------------------------------------------------
+
+Book 07:
+Title: Up Up and Array!
+Author(s): Abbott Ira Katz
+---
+ISBN-10: 9781484289655 - ISBN-13: 148428965X - ASIN: B0BNT1C82Z
+Published Date: 2022-12-02
+---
+HB Blurb: Understand the power of dynamic arrays: a single formula can generate new and vastly more efficient spreadsheet possibilities. This book introduces spreadsheet users to dynamic array functions in Microsoft Excel 365, defines and details the distinctive ways in which they work, and shows how they can be applied to a wide swath of data-analytic tasks.While array formulas and functions have long held a place in the spreadsheet toolbox (although, for many of us, shunted to an obscure corner), the dynamic array engine offers a more user-friendly and intelligible set of means for manipulating spreadsheet data in the array mode. The single-formula, multi-cell capability of dynamic arrays has been extended to nearly all existing spreadsheet functions, offering a new, default way of working. As a result, many tasks can now be executed with dynamic arrays without having to resort to the new functions at all.After defining arrays and dynamic array formulas, this book helps you examine the dynamic array property of lifting and how it impacts the formulas, including those written with existing functions. Plenty of illustrations and formulas along the way help you get comfortable using them. From there, you will learn Excel 365’s new dynamic functions, including the 14 currently in rollout, each accompanied by instructive examples. In many cases, the examples demonstrate how the new functions can work with long-available functions, such as MID, IF, COUNTIF, etc., which now also boast dynamic array functionality.   What You Will LearnUnlock the dynamic array potential in Microsoft ExcelApply dynamic array functions and confidently direct them to real-world spreadsheet tasksKnow the distinctive ways in which arrays work and can be applied to numerous data-analytic tasks Who This Book Is ForUsers of Excel 365 and beyond who are comfortable with, but not necessarily expert in, formula writing, as well as those who are unaware of or not fluent with dynamic arrays. It is also valuable to data journalists and other professionals in need of spreadsheet skills who may unaware of dynamic arrays, and the time they could save by applying them to their work.
+--------------------------------------------------
+
+Book 08:
+Title: Windows Forensics
+Author(s): Chuck Easttom
+---
+ISBN-10: None - ISBN-13: 9798868801938 - ASIN: B0CW2GJS2K
+Published Date: None
+---
+HB Blurb: This book is your comprehensive guide to Windows forensics. It covers the process of conducting or performing a forensic investigation of systems that run on Windows operating systems. It also includes analysis of incident response, recovery, and auditing of equipment used in executing any criminal activity.The book covers Windows registry, architecture, and systems as well as forensic techniques, along with coverage of how to write reports, legal standards, and how to testify. It starts with an introduction to Windows followed by forensic concepts and methods of creating forensic images. You will learn Windows file artefacts along with Windows Registry and Windows Memory forensics. And you will learn to work with PowerShell scripting for forensic applications and Windows email forensics. Microsoft Azure and cloud forensics are discussed and you will learn how to extract from the cloud. By the end of the book you will know data-hiding techniques in Windows and learn about volatility and a Windows Registry cheat sheet. What Will You LearnUnderstand Windows architectureRecover deleted files from Windows and the recycle binUse volatility and PassMark volatility workbenchUtilize Windows PowerShell scripting for forensic applications Who This Book Is ForWindows administrators, forensics practitioners, and those wanting to enter the field of digital forensics
+--------------------------------------------------
+
+Book 09:
+Title: Mastering Microsoft Dynamics 365 Business Central
+Author(s): Dr. Gomathi S
+---
+ISBN-10: None - ISBN-13: 9798868802300 - ASIN: B0CS8T3H74
+Published Date: None
+---
+HB Blurb: Get ready to ace Microsoft Dynamics 365 Business Central and usher in an era of streamlined efficiency, enhanced productivity, and growth. This guide book is your trusty companion on your journey to becoming an ERP implementation pro. The book will take you through the entire implementation process, from initial planning to successful deployment and beyond.The book starts with an introduction to Business Central and the benefits of its implementation. It discusses pre-implementation planning and vendor selection and partnership, and you will learn budgeting and timeline along with evaluating implementation partners. You will go through project management methodologies and learn about resource allocation and team roles. Data migration and cleansing are discussed, along with configuration and customization. You will learn about change management and user adoption, as well as Integration with existing systems. The book takes you through testing and quality assurance, and you will understand how to prepare for Go-Live. You also will learn common implementation challenges and solutions, and future trends in ERP and Business Central. After reading this book, you will be able to discover the full potential and make the most out of Microsoft Dynamics 365 Business Central. What Will You LearnMaster the complete process of Microsoft Dynamics 365 Business Central implementationImplement effective strategies to drive user adoption and overcome resistance to changeStay ahead of the curve by exploring emerging trends in the ERP landscapeUtilize practical tools and checklists to streamline implementation tasksGain insights from case studies for practical implementation strategies Who This Book Is ForProject managers, business analysts, and ERP consultants
+--------------------------------------------------
+
+Book 10:
+Title: Transitioning to Microsoft Power Platform
+Author(s): David Ding
+---
+ISBN-10: 9781484292389 - ISBN-13: 1484292383 - ASIN: B0BWR5V84Q
+Published Date: 2023-05-12
+---
+HB Blurb: Welcome to this step-by-step guide for Excel users, data analysts, and finance specialists. It is designed to take you through practical report and development scenarios, including both the approach and the technical challenges. This book will equip you with an understanding of the overall Power Platform use case for addressing common business challenges. While Power BI continues to be an excellent tool of choice in the BI space, Power Platform is the real game changer. Using an integrated architecture, a small team of citizen developers can build solutions for all kinds of business problems. For small businesses, Power Platform can be used to build bespoke CRM, Finance, and Warehouse management tools. For large businesses, it can be used to build an integration point for existing systems to simplify reporting, operation, and approval processes.The author has drawn on his15 years of hands-on analytics experience to help you pivot from the traditional Excel-based reporting environment. By using different business scenarios, this book provides you with clear reasons why a skill is important before you start to dive into the scenarios. You will use a fast prototyping approach to continue to build exciting reporting, automation, and application solutions and improve them while you acquire new skill sets. The book helps you get started quickly with Power BI. It covers data visualization, collaboration, and governance practices. You will learn about the most practical SQL challenges. And you will learn how to build applications in PowerApps and Power Automate. The book ends with an integrated solution framework that can be adapted to solve a wide range of complex business problems. What You Will Learn Develop reporting solutions and business applicationsUnderstand the Power Platform licensing and development environmentApply Data ETL and modeling in Power BI Use Data Storytelling and dashboard design to better visualize data Carry out data operations with SQL and SharePoint listsDevelop useful applications using Power AppsDevelop automated workflows using Power AutomateIntegrate solutions with Power BI, Power Apps, and Power Automate to build enterprise solutions Who This Book Is ForNext-generation data specialists, including Excel-based users who want to learn Power BI and build internal apps; finance specialists who want to take a different approach to traditional accounting reports; and anyone who wants to enhance their skill set for the future job market.
+--------------------------------------------------
+
+Book 11:
+Title: Introducing Microsoft Copilot for Managers
+Author(s): Adeel Khan
+---
+ISBN-10: None - ISBN-13: 9798868804182 - ASIN: B0D52JVR22
+Published Date: 2024-08-08
+---
+HB Blurb: Embark on an exhilarating journey through the digital landscape with Microsoft Copilots, a suite of AI-powered tools that help you create, edit, and optimize content, code, and data across various Microsoft platforms. This book will be your indispensable guide to harnessing the power of generative AI within the Microsoft ecosystem, introducing you to various copilots and their impact on your business processes. The book will guide you as a manager to leverage Microsoft Copilot to improve your personal productivity, your team's productivity, and achieve your business goals with success. This book is organized into five parts. The first part introduces you to Microsoft Copilot and its features and benefits. In the second part, you will get an overview of the integration of Microsoft Copilot with M365 tools. The third part teaches you about the maker copilot in Power Platform services followed by the business expert copilot for Sales and Service for Business Applications such as Dynamics 365 and Salesforce. The book also introduces you to Copilot Studio to help you extend the copilots or build your own. By the end of this book, you will have a solid understanding of Microsoft Copilot and how to use copilots effectively and efficiently with various transformation platforms. You will also have a collection of tips, tricks, and best practices to help you get the most out of Microsoft Copilot.   What Will You Learn Set up and activate Microsoft Copilot on various Microsoft platforms Use Microsoft Copilot to generate and enhance content, code, and data with M365, Power Platform, and Business Applications tools Understand tips, tricks, and best practices to get the most out of Microsoft Copilot Build your own copilot using your own organization data   Who This Book Is For Managers, team leaders, and business practitioners who want to improve their and their team's productivity and creativity with Microsoft platforms
+--------------------------------------------------
+
+Book 12:
+Title: The Art of Immutable Architecture, 2nd edition
+Author(s): Michael L. Perry
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1484259548
+Published Date: 
+---
+HB Blurb: This book teaches you how to evaluate a distributed system from the perspective of immutable objects. You will understand the problems in existing designs, know how to make small modifications to correct those problems, and learn to apply the principles of immutable architecture to your tools. Most software components focus on the state of objects. They store the current state of a row in a relational database. They track changes to state over time, making several basic assumptions: there is a single latest version of each object, the state of an object changes sequentially, and a system of record exists. This is a challenge when it comes to building distributed systems. Whether dealing with autonomous microservices or disconnected mobile apps, many of the problems we try to solve come down to synchronizing an ever-changing state between isolated components. Distributed systems would be a lot easier to build if objects could not change. After reading The Art of Immutable Architecture, you will come away with an understanding of the benefits of using immutable objects in your own distributed systems. You will learn a set of rules for identifying and exchanging immutable objects, and see a collection of useful theorems that emerges and ensures that the distributed systems you build are eventually consistent. Using patterns, you will find where the truth converges, see how changes are associative, rather than sequential, and come to feel comfortable understanding that there is no longer a single source of truth. Practical hands-on examples reinforce how to build software using the described patterns, techniques, and tools. By the end of the book, you will possess the language and resources needed to analyze and construct distributed systems with confidence.  The assumptions of the past were sufficient for building single-user, single-computer systems. But aswe expand to multiple devices, shared experiences, and cloud computing, they work against us. It is time for a new set of assumptions. Start with immutable objects, and build better distributed systems.  What You Will LearnEvaluate a distributed system from the perspective of immutable objects  Recognize the problems in existing designs, and make small modifications to correct them Start a new system from scratch, applying patternsApply the principles of immutable architecture to your tools, including SQL databases, message queues, and the network protocols that you already use Discover new tools that natively apply these principles  Who This Book Is For Software architects and senior developers. It contains examples in SQL and languages such as JavaScript and C#. Past experience with distributed computing, data modeling, or business analysis is helpful.
+--------------------------------------------------
+
+Book 13:
+Title: Understanding Microsoft Teams Administration, 2e
+Author(s): Balu N Ilag
+---
+ISBN-10: None - ISBN-13: 9798868800139 - ASIN: B0CKSCBY6K
+Published Date: 2024-01-05
+---
+HB Blurb: This book provides solutions, best practices, tips, and workarounds to plan, design, customize, implement, and manage Microsoft Teams in any environment. This revised edition has been updated to reflect all the latest techniques and products, including migration from Skype for Business On-Prem to Microsoft Teams, along with Teams for Education, which includes a range of features and tools that enable teachers and students to collaborate, communicate, and learn in a virtual environment.The book begins with an overview of Microsoft Teams, including its architecture, teams/channels, audio/video meetings, and the phone system. The authors then take you deeper into deployment and management of teams, clients, guests and external access, and live events, followed by a walk-through of network assessment and bandwidth planning for Teams. Here, you will learn about deployment of quality of service and how to configure your phone systems using direct routing and calling plans. Movingforward, you will learn Microsoft Teams administration and policy management along with the migration process of Skype from Business On-Prem to Microsoft Teams. To wrap things up, the authors demonstrate some troubleshooting techniques for call quality issues in Teams, and walk you through various features of Teams for Education and how to utilize them. By the time you turn the last page of Understanding Microsoft Teams Administration, you'll be fully equipped to configure, customize, and control Teams with confidence. Don't just adapt to the future of collaboration—lead it. What You Will Learn Kickstart your journey: Get acquainted with the Teams architecture, from teams and channels to audio/video conferencing and beyondMaster the mechanics: Dive deep into deployment, including crucial aspects like guest access, such as events, and network assessmentElevate call quality: Learn the nuts andbolts of Quality of Service (QoS) and phone systems, including direct routing and calling plansAdmin like a pro: Gain insights into robust policy management, and understand how to navigate the Teams admin portal with finesseGet a grip on network assessment and bandwidth planning tailored specifically for TeamsUnlock secrets of quality of service, direct routing, and customized calling plansMigration simplified: Seamlessly shift from Skype for Business On-Prem to Teams without missing a beatEdu-tech unveiled: Explore Teams for Education and how its myriad features can enrich virtual learning experiences for teachers and students alikeWhat's new: A dedicated chapter exclusively covering Microsoft Teams for Education, focusing on empowering both educators and studentsWho This Book Is For Administrators and technical consultants focused on Microsoft Teams. This book serves as an invaluable resource for those looking to optimize team collaboration and communication within their organizations.
+--------------------------------------------------
+
+Book 14:
+Title: Azure Arc Systems Management
+Author(s): Ramona Maxwell
+---
+ISBN-10: 1484294807 - ISBN-13: 9781484294802 - ASIN: 1484294793
+Published Date: None
+---
+HB Blurb: This book is for enterprise and solution architects, systems integrators, and anyone managing enterprise-scale, multi-cloud or hybrid IT landscapes. The book examines usage of Azure Arc for governance and systems management with security as an overarching theme. It is not an implementation manual but provides high-level guidance on best practices and links to detailed guidance. It offers insight into the types of problems that Azure Arc can solve, and will help you determine whether it is the right choice for your organization. Modern enterprise computing is an astonishing luxury land filled with never-before-seen hosting options on commercial clouds as well as advancements in the areas of private cloud and edge computing. The challenge with this plethora of choices is to manage and coordinate large IT estates which may bridge multiple public clouds and private datacenters. Visibility of operations to achieve security, cost control, and efficiency is often difficult to achieve. Data management is another area which is particularly fraught with complexity and risk. Industry leaders have made serious investments in the design of control plane products to address these gaps with varying approaches and degrees of success. Azure Arc is designed to provide a consolidated view of assets such as databases and Kubernetes installations across major cloud providers, edge locations, and customer-owned datacenters. It facilitates deployment of new infrastructure, patching and upgrades, monitoring, policy, and security controls for assets living on-premises or in competitor clouds as if they were native to Azure. While competitive products exist, at this writing none have the flexibility and reach of Arc to effectively manage very large hybrid estates. Readers will appreciate the author’s approach of walking through typical enterprise computing scenarios while listing industry- or scenario-specific challenges that are difficult to overcome, and then reinforcing understanding by restating the challenges while explaining how Azure Arc can be utilized to remediate them. What You Will LearnDiscover what Azure Arc is, the types of problems it is intended to solve, and how to map your requirements to its capabilitiesStreamline and secure large Arc-enabled Kubernetes deployments via modern GitOps practicesUse Azure Arc to consolidate management across a broad range of hybrid and multi-cloud ecosystems through policy-driven governanceApply monitoring and automation to defend systems against security threats that are beyond the ability of manual administration to deflectUncover practical guidance that is written in a way that makes basic precepts approachable to non-technical stakeholders and then branches out into areas that will offer advanced readers new insights and consolidate a broad topic into a usable directionWho This BookIs For Enterprise and solution architects, systems integrators, and anyone else looking to solve enterprise-scale administration problems across a multi-cloud or hybrid architecture
+--------------------------------------------------
+
+Book 15:
+Title: Learn Data Mining Through Excel, 2nd edition
+Author(s): Hong Zhou
+---
+ISBN-10: 9781484297704 - ISBN-13: 1484297709 - ASIN: 1484259815
+Published Date: 2023-10-25
+---
+HB Blurb: Use popular data mining techniques in Microsoft Excel to better understand machine learning methods. Most software tools and programming language packages take data input and deliver data mining results directly, presenting no insight on working mechanics and creating a chasm between input and output. This is where Excel can help, and this book will show you exactly how.   This updated edition demonstrates how to work with data in a transparent manner using Excel. When you open an Excel file, data is visible immediately and you can work with it directly. You’ll see how to examine intermediate results even as you are still conducting your mining task, offering a deeper understanding of how data is manipulated, and results are obtained. These are critical aspects of the model construction process that are often hidden in software tools and programming language packages.   Over the course of Learn Data Mining Through Excel, you will learn the data mining advantages the application offers when the data sets are not too large. You’ll see how to use Excel’s built-in features to create visual representations of your data, enabling you to present your findings in an accessible format. Author Hong Zhou walks you through each step, offering not only an active learning experience, but teaching you how the mining process works and how to find hidden patterns within the data.   Upon completing this book, you will have a thorough understanding of how to use an application you very likely already have to mine and analyze data, and how to present results in various formats.   What You Will Learn Comprehend data mining using a visual step-by-step approachGain an introduction to the fundamentals of data miningImplement data mining methods in ExcelUnderstand machine learning algorithmsLeverage Excel formulas and functions creativelyObtain hands-on experience with data mining and Excel  Who This Book Is For Anyone who is interested in learning data mining or machine learning, especially data science visual learners and people skilled in Excel who would like to explore data science topics and/or expand their Excel skills. A basic or beginner level understanding of Excel is recommended.
+--------------------------------------------------
+
+Book 16:
+Title: Getting Started with Microsoft Viva
+Author(s): D'arce Hess
+---
+ISBN-10: 9781484285916 - ISBN-13: 1484285913 - ASIN: B0BR75XVF2
+Published Date: 2023
+---
+HB Blurb: Use the power of analytics, knowledge management, and discovery for improved employee retention and insight to the unique collaborative and learning needs of your organization using Viva, Microsoft’s new employee experience platform. This book introduces you to the four central tenets of Microsoft Viva, a platform designed to improve communication, knowledge, learning, and insight within an organization. The authors, all Microsoft MVPs and early users of Viva, share their first-hand experiences and knowledge to teach you how to configure, utilize, and adopt Viva Topics, Viva Connections, Viva Learning, and Viva Insights to drive knowledge management and discovery within an organization. In Part I, you will learn how to classify data and topics within your organization, and learn how the use of AI can bring to life the discovery of knowledge and information related to people and other topics, allowing for better understanding and clarity of the content you see everyday. In Part II, you will learn how to bring the power of SharePoint Syntex and Viva Topics into Microsoft Teams. In Part III, you will learn how to build a shared learning portal in Microsoft Teams using your own training materials, or bringing in third-party resources such as LinkedIn Learning and Skillsoft to connect directly to your employees. Managers will appreciate the ability to assign learning topics to users and gain the skills needed to create a fundamental process around learning consolidation. In Part IV, you will be introduced to Viva Insights, and understand how to discover vital analytics for individuals, managers, and leaders. You will also learn how it supports your company’s greatest asset, your employees. What You Will LearnUnderstand the basics of Viva to get up and running in no timeConfigure each vertical of Microsoft VivaKnow the roles and pre-requisites for installation and configurationOrganize and think about your content for discovery and relationshipsDeliver learning through an optimized experience for managers and usersLeverage the power of SharePoint within Teams using Viva Connections Who This Book Is For Management, end users, and system administrators who want to step up their knowledge management, better train and retain employees, and improve access to internal content. The book is designed for businesses that want to transform the way they learn about content and people within their organization, with the end objective of making their business grow and thrive.
+--------------------------------------------------
+
+Book 17:
+Title: Leveling Up with SQL
+Author(s): Mark Simon
+---
+ISBN-10: 9781484296844 - ISBN-13: 1484296842 - ASIN: B0CBR2999M
+Published Date: 2023-09-30
+---
+HB Blurb: Learn to write SQL queries to select and analyze data, and improve your ability to manipulate data. This book will help you take your existing skills to the next level. Author Mark Simon kicks things off with a quick review of basic SQL knowledge, followed by a demonstration of how efficient SQL databases are designed and how to extract just the right data from them. You’ll then learn about each individual table’s structure and how to work with the relationships between tables. As you progress through the book, you will learn more sophisticated techniques such as using common table expressions and subqueries, analyzing your data using aggregate and windowing functions, and how to save queries in the form of views and other methods. This book employs an accessible approach to work through a realistic sample, enabling you to learn concepts as they arise to improve parts of the database or to work with the data itself. After completing this book, you will have a more thorough understanding of database structure and how to use advanced techniques to extract, manage, and analyze data. What Will You Learn Gain a stronger understanding of database design principles, especially individual tablesUnderstand the relationships between tablesUtilize techniques such as views, subqueries, common table expressions, and windowing functions Who Is This Book For: SQL Databases users who want to improve their knowledge and techniques.
+--------------------------------------------------
+
+Book 18:
+Title: Getting Started with Containers in Azure, 2e
+Author(s): Shimon Ifrah
+---
+ISBN-10: 1484257537 - ISBN-13: 9781484257531 - ASIN: B0CJNBTLZV
+Published Date: 2020-02-28
+---
+HB Blurb: Master the skills needed to deploy container services on Microsoft Azure using Terraform. This book will take you through the entire process of designing, deploying, and managing container services such as Azure Kubernetes Service (AKS), Azure Container Instances (ACI), Azure Container Registry (ACR), and Azure Web App for Containers.   In this fully updated second edition, Author Shimon Ifrah demonstrates how to use Terraform, PowerShell and Azure CLI to provision and manage container services in Azure. As you’ll be using Terraform as the main tool for deployment, a basic knowledge of Terraform is a prerequisite. In addition, you will see how Azure DevOps services can be used to deploy infrastructure and container services with Terraform using Azure Pipelines without using the Azure Portal. The book concludes with a tutorial on how to use Azure Defender for Cloud to safeguard Terraform and infrastructure-as-code against malicious threats, so you can deliver secure applications.  Upon completing this book, you will have a thorough understanding of how to use Terraform to deploy secure and efficient cloud applications on Azure. What You Will Learn Leverage Terraform for the deployment of containerized servicesUnderstand Azure DevOps Pipelines and Repos to deploy infrastructure and container services.Safeguard your infrastructure-as-code and detect vulnerabilities using Azure Defender for the cloud Who This Book Is For  Azure administrators, developers, and architects who want to get started and learn more about containers and containerized applications on Microsoft Azure.
+--------------------------------------------------
+
+Book 19:
+Title: Simple and Efficient Programming with C#, 2e
+Author(s): Vaskaran Sarcar
+---
+ISBN-10: 9781484287361 - ISBN-13: 1484287363 - ASIN: B0BNKKSGTW
+Published Date: 2022-11-29
+---
+HB Blurb: Apply skills and approaches to your programming to build a real-world application in C# 11 using the latest editions of Visual Studio, C#, and Microsoft .NET. This revised edition is updated with C#11 and places more emphasis on the newly introduced top-level statements. Additionally, you will find useful techniques and an explanation of the differences between writing code in two different styles. It also covers the new templates introduced in .NET 6, along with usage of .NET 7 in Windows 10 to write code and generate output.  Each chapter opens with an introduction and original application written in C# 11 so that you can jump right into coding. From there, you are guided through an expected output and taught best practices along the way. Author Vaskaran Sarcar emphasizes extending and maintaining the same program and he demonstrates examples for different scenarios to make your program more efficient and effective. This book is divided into five parts. The first part starts with a detailed discussion of polymorphism. It then shows you how to make proper use of abstract classes and interfaces, and teaches you to discern which technique to use for a specific scenario. Discussions on code comments teach you how to use them effectively, and why you need to be careful with code comments. In the second part you will learn six design principles, including SOLID and DRY principles. These are the foundation of well-known design patterns, and they establish practices for developing software with considerations for maintaining and extending as a project grows. The third part walks you through methods to make efficient applications. You will learn the common use of factories to separate code from its opposite and the alternative of inheritance using object composition and wrappers. This part also demonstrates the use of template methods, hooks, and facades in programming.Hints show you how professional coders develop an enterprise application. Better handling of exceptions and null values is another integral part of professional programming, which the fourth part explores in detail. This will help you become a more professional programmer. In the final part of the book, you will learn about effective memory management techniques and the use and misuse of design patterns. This part also briefly discusses how to decide between a static method and an instance method and other techniques. After reading this book, you will be able to implement best practices to make your programs more effective and reliable. What Will You LearnAnalyze alternative solutions before implementation by comparing pros and consMake polymorphic code perform betterKnow the side effects of bad/redundant commentsUnderstand the significance of the SOLID and DRY principlesAdd features using wrappersRedefine steps without altering the calling sequence of an algorithmUse hooks in your applicationConvert a complex system into a user-friendly system using facades Run your application in .NET 6 Who Is This Book ForDevelopers with a basic knowledge of C#.
+--------------------------------------------------
+
+Book 20:
+Title: SQL Server Analytical Toolkit
+Author(s): Angelo Bobak
+---
+ISBN-10: 9781484286661 - ISBN-13: 1484286669 - ASIN: B0CCKDTLR8
+Published Date: 2023-10-02
+---
+HB Blurb: Learn window function foundational concepts through a cookbook-style approach, beginning with an introduction to the OVER() clause, its various configurations in terms of how partitions and window frames are created, and how data is sorted in the partition so that the window function can operate on the partition data sets. You will build a toolkit based not only on the window functions but also on the performance tuning tools, use of Microsoft Excel to graph results, and future tools you can learn such as PowerBI, SSIS, and SSAS to enhance your data architecture skills.This book goes beyond just showing how each function works. It presents four unique use-case scenarios (sales, financial, engineering, and inventory control) related to statistical analysis, data analysis, and BI. Each section is covered in three chapters, one chapter for each of the window aggregate, ranking, and analytical function categories.Each chapter includes several TSQL code examples and is re-enforced with graphic output plus Microsoft Excel graphs created from the query output. SQL Server estimated query plans are generated and described so you can see how SQL Server processes the query. These together with IO, TIME, and PROFILE statistics are used to performance tune the query. You will know how to use indexes and when not to use indexes.You will learn how to use techniques such as creating report tables, memory enhanced tables, and creating clustered indexes to enhance performance. And you will wrap up your learning with suggested steps related to business intelligence and its relevance to other Microsoft Tools such as Power BI and Analysis Services.All code examples, including code to create and load each of the databases, are available online.What You Will Learn Use SQL Server window functions in the context of statistical and data analysisRe-purpose code so it can be modified for your unique applicationsStudy use-case scenarios that span four critical industriesGet started with statistical data analysis and data mining using TSQL queries to dive deep into dataStudy discussions on statistics, how to use SSMS, SSAS, performance tuning, and TSQL queries using the OVER() clause.Follow prescriptive guidance on good coding standards to improve code legibility Who This Book Is ForIntermediate to advanced SQL Server developers and data architects. Technical and savvy business analysts who need to apply sophisticated data analysis for their business users and clients will also benefit. This book offers critical tools and analysis techniques they can apply to their daily job in the disciplines of data mining, data engineering, and business intelligence.
+--------------------------------------------------
+
+Book 21:
+Title: A Power BI Compendium
+Author(s): Alison Box
+---
+ISBN-10: 9781484297643 - ISBN-13: 1484297644 - ASIN: B0CJTB65XF
+Published Date: 2023-11-17
+---
+HB Blurb: Are you a reasonably competent Power BI user but still struggling to generate reports that truly tell the story of your data?  Or do you simply want to extend your knowledge of Power BI by exploring more complex areas of visualizations, data modelling, DAX, and Power Query?  If so, this book is for you.  This book serves as a comprehensive resource for users to implement more challenging visuals, build better data models, use DAX with more confidence, and execute more complex queries so they can find and share important insights into their data. The contents of the chapters are in a question-and-answer format that explore everyday data analysis scenarios in Power BI. These questions have been generated from the author’s own client base and from commonly sought-for information from the Power BI community. They cover a wide and diverse range of topics that many Power BI users often struggle to get to grips with or don’t fully understand. Examples of suchquestions are: How can I generate dynamic titles for visuals?How can I control subtotals in a Matrix visual?Why do I need a date dimension?How can I show the previous N month’s sales in a column chart?Why do I need a Star Schema?Why aren't my totals correct?How can I bin measures into numeric ranges?Can I import a Word document? Can I dynamically append data from different source files? Solutions to these questions and many more are presented in non-technical and easy-to-follow explanations negating the requirement to perform tiresome and fruitless “google” searches. There are also companion Power BI Desktop files that set out the answers to each question so you can follow along with the examples given in the book.. After working through this book, you will have extended your knowledge of Power BI to an expert level, alleviating your existing frustrations and so enabling you to design Power BI reports where you are no longer limited by your lack of knowledge or experience.  Who is This Book For: Power BI users who can build reports and now want to extend their knowledge of Power BI.
+--------------------------------------------------
+
+Book 22:
+Title: Income Statement Semantic Models with Power BI
+Author(s): Chris Barber
+---
+ISBN-10: None - ISBN-13: 9798868803291 - ASIN: B0D7ZCGWMQ
+Published Date: 2024-11-17
+---
+HB Blurb: This comprehensive guide will teach you how to build an income statement semantic model, also known as the profit and loss (P&L) statement. Author Chris Barber— a business intelligence (BI) consultant, Microsoft MVP, and chartered accountant (ACMA, CGMA)—helps you master everything from designing conceptual models to building semantic models based on these designs. You will learn how to build a re-usable solution based on the trial balance and how to expand upon this to build enterprise-grade solutions. If you want to leverage the Microsoft BI platform to understand profit within your organization, this is the resource you need.   What You Will Learn Modeling and the income statement: Learn what modelling the income statement entails, why it is important, and how income statements are constructed Calculating account balances: Learn how to optimally calculate account balances using a Star Schema Producing external income statement semantic models: Learn how to produce external income statement semantic models as they enable income statements to be analyzed from a range of perspectives and can be explored to reveal the underlying accounts and journal entries Producing internal income statement semantic models: Learn how to create multiple income statement layouts and further contextualize financial information by including percentages and non-financial information, and learn about the various security and self-service considerations   Who This Book Is For Technical users (solution architects, Microsoft Fabric developers, Power BI developers) who require a comprehensive methodology for income statement semantic models because of the modeling complexities and knowledge needed of the accounting process; and finance (management accountants) who have hit the limits of Excel and have started using Power BI, but are unsure how income statement semantic models are built
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Mastering Microsoft Fabric
+https://www.amazon.com/Mastering-Microsoft-Fabric-SAASification-Analytics-ebook/dp/B0CS91D215
+https://www.amazon.co.uk/Mastering-Microsoft-Fabric-SAASification-Analytics-ebook/dp/B0CS91D215
+http://books.google.co.uk/books?id=FeoXEQAAQBAJ&printsec=frontcover&dq=intitle:Mastering+Microsoft+Fabric%2Binauthor:Debananda+Ghosh&hl=&cd=1&source=gbs_api
+
+Book 02 - Azure Data Factory by Example, 2e
+https://www.amazon.com/Azure-Data-Factory-Example-Implementation-ebook/dp/B0CS8XGSB5
+https://www.amazon.co.uk/Azure-Data-Factory-Example-Implementation-ebook/dp/B0CS8XGSB5
+http://books.google.co.uk/books?id=GeoXEQAAQBAJ&printsec=frontcover&dq=intitle:Azure+Data+Factory+by+Example,+2e%2Binauthor:Richard+Swinbank&hl=&cd=1&source=gbs_api
+
+Book 03 - Mastering Knowledge Management Using Microsoft Technologies
+https://www.amazon.com/Mastering-Knowledge-Management-Microsoft-Technologies/dp/B0CZHP23LF
+https://www.amazon.co.uk/Mastering-Knowledge-Management-Microsoft-Technologies-ebook/dp/B0CZPK6Y9W
+http://books.google.co.uk/books?id=pDSp0AEACAAJ&dq=intitle:Mastering+Knowledge+Management+Using+Microsoft+Technologies%2Binauthor:Tori+Reddy+Dodla&hl=&cd=1&source=gbs_api
+
+Book 04 - BUILDING THE MODERN WORKPLACE WITH SHAREPOINT ONLINE
+https://www.amazon.com/Building-Modern-Workplace-SharePoint-Online-ebook/dp/B0CDR3D5RZ
+https://www.amazon.co.uk/Building-Modern-Workplace-SharePoint-Online-ebook/dp/B0CDR3D5RZ
+http://books.google.co.uk/books?id=FcsN0AEACAAJ&dq=intitle:BUILDING+THE+MODERN+WORKPLACE+WITH+SHAREPOINT+ONLINE%2Binauthor:Hari+Narayn&hl=&cd=1&source=gbs_api
+
+Book 05 - Web API Development for the Absolute Beginner
+https://www.amazon.com/Development-Absolute-Beginner-Step-step/dp/1484293479
+https://www.amazon.co.uk/Development-Absolute-Beginner-Step-step/dp/1484293479
+http://books.google.co.uk/books?id=l1urzwEACAAJ&dq=intitle:Web+API+Development+for+the+Absolute+Beginner%2Binauthor:Irina+Dominte&hl=&cd=1&source=gbs_api
+
+Book 06 - Deep Dive Into Power Automate
+https://www.amazon.com/Deep-Dive-into-Power-Automate-ebook/dp/B0CJWWDLPJ
+https://www.amazon.co.uk/Deep-Dive-into-Power-Automate-ebook/dp/B0CJWWDLPJ
+http://books.google.co.uk/books?id=FJwO0AEACAAJ&dq=intitle:Deep+Dive+Into+Power+Automate%2Binauthor:Goloknath+Mishra&hl=&cd=1&source=gbs_api
+
+Book 07 - Up Up and Array!
+https://www.amazon.com/Up-Array-Dynamic-Formulas-Beyond-ebook/dp/B0BNT1C82Z
+https://www.amazon.co.uk/Up-Array-Dynamic-Formulas-Beyond-ebook/dp/B0BNT1C82Z
+http://books.google.co.uk/books?id=p1plzwEACAAJ&dq=intitle:Up+Up+and+Array!%2Binauthor:Abbott+Ira+Katz&hl=&cd=1&source=gbs_api
+
+Book 08 - Windows Forensics
+https://www.amazon.com/Windows-Forensics-Understand-Analysis-Techniques-ebook/dp/B0CW2GJS2K
+https://www.amazon.co.uk/Windows-Forensics-Understand-Analysis-Techniques/dp/B0CQLK93S5
+http://books.google.co.uk/books?id=1-kXEQAAQBAJ&printsec=frontcover&dq=intitle:Windows+Forensics%2Binauthor:Chuck+Easttom&hl=&cd=1&source=gbs_api
+
+Book 09 - Mastering Microsoft Dynamics 365 Business Central
+https://www.amazon.com/Mastering-Microsoft-Dynamics-Business-Central-ebook/dp/B0CS8T3H74
+https://www.amazon.co.uk/Mastering-Microsoft-Dynamics-Business-Central-ebook/dp/B0CS8T3H74
+http://books.google.co.uk/books?id=0-kXEQAAQBAJ&printsec=frontcover&dq=intitle:Mastering+Microsoft+Dynamics+365+Business+Central%2Binauthor:Dr.+Gomathi+S&hl=&cd=1&source=gbs_api
+
+Book 10 - Transitioning to Microsoft Power Platform
+https://www.amazon.com/Transitioning-Microsoft-Power-Platform-Applications-ebook/dp/B0BWR5V84Q
+https://www.amazon.co.uk/Transitioning-Microsoft-Power-Platform-Applications-ebook/dp/B0BWR5V84Q
+http://books.google.co.uk/books?id=zQyTzwEACAAJ&dq=intitle:Transitioning+to+Microsoft+Power+Platform%2Binauthor:David+Ding&hl=&cd=1&source=gbs_api
+
+Book 11 - Introducing Microsoft Copilot for Managers
+No Amazon.com URL found
+https://www.amazon.co.uk/Introducing-Microsoft-Copilot-Managers-Productivity-ebook/dp/B0D52JVR22
+http://books.google.co.uk/books?id=Jga00AEACAAJ&dq=intitle:Introducing+Microsoft+Copilot+for+Managers%2Binauthor:Adeel+Khan&hl=&cd=1&source=gbs_api
+
+Book 12 - The Art of Immutable Architecture, 2nd edition
+https://www.amazon.com/Art-Immutable-Architecture-Management-Distributed/dp/1484259548
+https://www.amazon.co.uk/Art-Immutable-Architecture-Management-Distributed/dp/B0CVDV45CW
+No Google Books URL found.
+
+Book 13 - Understanding Microsoft Teams Administration, 2e
+https://www.amazon.com/Understanding-Microsoft-Teams-Administration-Experience-ebook/dp/B0CKSCBY6K
+https://www.amazon.co.uk/Understanding-Microsoft-Teams-Administration-Experience-ebook/dp/B0CKSCBY6K
+http://books.google.co.uk/books?id=ekso0AEACAAJ&dq=intitle:Understanding+Microsoft+Teams+Administration,+2e%2Binauthor:Balu+N+Ilag&hl=&cd=1&source=gbs_api
+
+Book 14 - Azure Arc Systems Management
+https://www.amazon.com/Azure-Arc-Systems-Management-Administration/dp/1484294793
+https://www.amazon.co.uk/Azure-Arc-Systems-Management-Administration/dp/1484294793
+http://books.google.co.uk/books?id=4ekXEQAAQBAJ&printsec=frontcover&dq=intitle:Azure+Arc+Systems+Management%2Binauthor:Ramona+Maxwell&hl=&cd=1&source=gbs_api
+
+Book 15 - Learn Data Mining Through Excel, 2nd edition
+https://www.amazon.com/Learn-Mining-Through-Excel-Step/dp/1484259815
+https://www.amazon.co.uk/Learn-Mining-Through-Excel-Step/dp/1484297709
+http://books.google.co.uk/books?id=SR4X0AEACAAJ&dq=intitle:Learn+Data+Mining+Through+Excel,+2nd+edition%2Binauthor:Hong+Zhou&hl=&cd=1&source=gbs_api
+
+Book 16 - Getting Started with Microsoft Viva
+https://www.amazon.com/Getting-Started-Microsoft-Viva-Transformation-ebook/dp/B0BR75XVF2
+https://www.amazon.co.uk/Getting-Started-Microsoft-Viva-Transformation-ebook/dp/B0BR75XVF2
+http://books.google.co.uk/books?id=pWEr0AEACAAJ&dq=intitle:Getting+Started+with+Microsoft+Viva%2Binauthor:D%27arce+Hess&hl=&cd=1&source=gbs_api
+
+Book 17 - Leveling Up with SQL
+https://www.amazon.com/Leveling-Up-SQL-Techniques-Transforming-ebook/dp/B0CBR2999M
+https://www.amazon.co.uk/Leveling-Up-SQL-Techniques-Transforming-ebook/dp/B0DFCS7Y9W
+http://books.google.co.uk/books?id=r0AF0AEACAAJ&dq=intitle:Leveling+Up+with+SQL%2Binauthor:Mark+Simon&hl=&cd=1&source=gbs_api
+
+Book 18 - Getting Started with Containers in Azure, 2e
+https://www.amazon.com/Getting-Started-Containers-Azure-Applications-ebook/dp/B0CJNBTLZV
+https://www.amazon.co.uk/Getting-Started-Containers-Azure-Containerized-ebook/dp/B085DKSTT7
+http://books.google.co.uk/books?id=hZHTDwAAQBAJ&printsec=frontcover&dq=intitle:Getting+Started+with+Containers+in+Azure,+2e%2Binauthor:Shimon+Ifrah&hl=&cd=1&source=gbs_api
+
+Book 19 - Simple and Efficient Programming with C#, 2e
+https://www.amazon.com/Simple-Efficient-Programming-Skills-Applications-ebook/dp/B0BNKKSGTW
+https://www.amazon.co.uk/Simple-Efficient-Programming-Skills-Applications/dp/1484287363
+http://books.google.co.uk/books?id=qENMzwEACAAJ&dq=intitle:Simple+and+Efficient+Programming+with+C%23,+2e%2Binauthor:Vaskaran+Sarcar&hl=&cd=1&source=gbs_api
+
+Book 20 - SQL Server Analytical Toolkit
+https://www.amazon.com/SQL-Server-Analytical-Toolkit-Statistical-ebook/dp/B0CCKDTLR8
+https://www.amazon.co.uk/SQL-Server-Analytical-Toolkit-Statistical-ebook/dp/B0DFCBMDF9
+http://books.google.co.uk/books?id=vuBEzwEACAAJ&dq=intitle:SQL+Server+Analytical+Toolkit%2Binauthor:Angelo+Bobak&hl=&cd=1&source=gbs_api
+
+Book 21 - A Power BI Compendium
+https://www.amazon.com/Power-BI-Compendium-Commonly-Questions-ebook/dp/B0CJTB65XF
+https://www.amazon.co.uk/Power-BI-Compendium-Commonly-Questions-ebook/dp/B0CJTB65XF
+http://books.google.co.uk/books?id=4eIQ0AEACAAJ&dq=intitle:A+Power+BI+Compendium%2Binauthor:Alison+Box&hl=&cd=1&source=gbs_api
+
+Book 22 - Income Statement Semantic Models with Power BI
+https://www.amazon.com/Income-Statement-Semantic-Models-Enterprise-Grade-ebook/dp/B0D7ZCGWMQ
+https://www.amazon.co.uk/Income-Statement-Semantic-Models-Enterprise-Grade/dp/B0CW5CZQV6
+http://books.google.co.uk/books?id=--2Y0AEACAAJ&dq=intitle:Income+Statement+Semantic+Models+with+Power+BI%2Binauthor:Chris+Barber&hl=&cd=1&source=gbs_api
+
