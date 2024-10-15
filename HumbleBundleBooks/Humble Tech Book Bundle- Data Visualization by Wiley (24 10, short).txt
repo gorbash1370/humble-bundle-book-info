@@ -1,0 +1,348 @@
+Humble Tech Book Bundle- Data Visualization by Wiley - Wiley
+Processing date: 2024-10-15
+Data retrieved from: https://www.humblebundle.com/books/data-visualization-wiley-books
+
+Book 01 - How to Become a Data Analyst: My Low-Cost, No Code Roadmap for Breaking into Tech - Annie Nelson - 4.3 out of 5 (20 reviews)
+Book 02 - From Data To Profit: How Businesses Leverage Data to Grow Their Top and Bottom Lines - Vin Vashishta - 3 out of 5 (8 reviews)
+Book 03 - Present Beyond Measure: Design, Visualize, and Deliver Data Stories That Inspire Action - Lea Pica - None found out of 5 (None found reviews)
+Book 04 - Python for Data Science For Dummies, 3rd Edition - John Paul Mueller, Luca Massaron - None found out of 5 (None found reviews)
+Book 05 - Data Smart: Using Data Science to Transform Information into Insight, 2nd Edition - Jordan Goldmeier - 4.5 out of 5 (420 reviews)
+Book 06 - Leading in Analytics: The Seven Critical Tasks for Executives to Master in the Age of Big Data - Joseph A. Cazier - 5 out of 5 (8 reviews)
+Book 07 - Enterprise AI in the Cloud: A Practical Guide to Deploying End-to-End Machine Learning and ChatGPT Solutions - Rabi Jay - None found out of 5 (None found reviews)
+Book 08 - Getting Great Results with Excel Pivot Tables, PowerQuery and PowerPivot - Thomas Fragale - None found out of 5 (None found reviews)
+Book 09 - Functional Aesthetics for Data Visualization - Vidya Setlur, Bridget Cogley - 4.5 out of 5 (16 reviews)
+Book 10 - Data Governance For Dummies - Jonathan Reichenta - 4.4 out of 5 (36 reviews)
+Book 11 - Net Zeros and Ones: How Data Erasure Promotes Sustainability, Privacy, and Security - Richard Stiennon, Russ B. Ernst, Fredrik Forslund - 3.4 out of 5 (4 reviews)
+Book 12 - Data Quality: Empowering Businesses with Analytics and AI - Prashanth Southekal - 4.6 out of 5 (15 reviews)
+Book 13 - Beginning Database Design Solutions: Understanding and Implementing Database Design Concepts for the Cloud and Beyond, 2nd Edition - Rod Stephens - 4.5 out of 5 (73 reviews)
+Book 14 - Data Analytics in the AWS Cloud: Building a Data Platform for BI and Predictive Analytics on AWS - Joe Minichino - None found out of 5 (None found reviews)
+Book 15 - Avoiding Data Pitfalls: How to Steer Clear of Common Blunders When Working with Data and Presenting Analysis and Visualizations - Ben Jones - 4.5 out of 5 (73 reviews)
+Book 16 - #MakeoverMonday: Improving How We Visualize and Analyze Data, One Chart at a Time - Andy Kriebel, Eva Murray - 4.6 out of 5 (153 reviews)
+Book 17 - Empowered by Data: How to Build Inspired Analytics Communities - Eva Murray - None found out of 5 (None found reviews)
+Book 18 - Data Lakes For Dummies - Alan R. Simon - 4.1 out of 5 (19 reviews)
+Book 19 - Minding the Machines: Building and Leading Data Science and Analytics Teams - Jeremy Adamson - None found out of 5 (None found reviews)
+Book 20 - Data Science For Dummies, 3rd Edition - Lillian Pierson - 4.5 out of 5 (84 reviews)
+Book 21 - Data Conscience: Algorithmic Siege on our Humanity - Brandeis Hill Marshall, Timnit Gebru - 4.6 out of 5 (16 reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: How to Become a Data Analyst: My Low-Cost, No Code Roadmap for Breaking into Tech
+Author(s): Annie Nelson
+---
+ISBN-10: 9781394202232 - ISBN-13: 1394202237 - ASIN: 
+Published Date: 2024-01-04
+---
+HB Blurb: Self-taught data analyst and analytics consultant Annie Nelson has built a TikTok following at @anniesanalytics where shes shared her own experience moving from a 6-year university education for a career she no longer wanted to a flexible and rewarding new career in data analytics. Her book How to Become a Data Analyst documents the practical steps of her learning journey and career change for all to see. Annie like many job seekers today was looking for a career with more flexibility to work remotely, set her own hours, and even travel while working. Through research she discover a path that suited her persistence and curiosity with low-cost online courses for what she calls a DIY data analyst career. Following her path youll see you dont need to be a math person or a new college degree to break into this lucrative field. Once youve mastered the right classes like Annie did, shell lead you through building the projects and portfolio that will prove your skills to prospective employers better than any degree. With tips on job searching, resume building, and using the increasingly important AI tools to prepare, youll be ready for a new career faster than youd believe.
+--------------------------------------------------
+
+Book 02:
+Title: From Data To Profit: How Businesses Leverage Data to Grow Their Top and Bottom Lines
+Author(s): Vin Vashishta
+---
+ISBN-10: 1394196237 - ISBN-13: 9781394196234 - ASIN: 1394196210
+Published Date: 2023-05-31
+---
+HB Blurb: Businesses need to rethink their relationship with technology in order to remain competitive. The transformation to technology is only accelerating and we will never see a pace of change as slow in the future as we have the last few years. As a result, businesses are in a state of "adapt or die". Companies such as Apple and Amazon are leveraging innovative tools and investments to become market leaders. Microsoft and OpenAI have developed new technologies, such as GPT-4, which have generated a lot of public attention. However, the data science field is still jaded due to past false starts. To unlock the value trapped in data, businesses need to form a partnership between the executive level, strategists, and technical experts, and develop a new top-level technology model. With the new user-technology relationship paradigm, businesses are handing over more autonomy to models for intelligent processes. This book explains how to go from a legacy business to a competitive and profitable business using data and AI. It covers the three pillars of success for data and AI initiatives: frameworks, roadmaps, and technical implementations. To be successful, businesses must align their teams, strategies, and technology, and develop the necessary roles, such as data product managers and data strategists.
+--------------------------------------------------
+
+Book 03:
+Title: Present Beyond Measure: Design, Visualize, and Deliver Data Stories That Inspire Action
+Author(s): Lea Pica
+---
+ISBN-10: 1394202199 - ISBN-13: 9781394202195 - ASIN: 1394202172
+Published Date: 2023-08-22
+---
+HB Blurb: Billions of dollars and thousands of hours are lost every year during ineffective business meetings worldwide. Data practitioners painstakingly present their valuable insights, only to fall flat, inspiring more yawn than yes! Present Beyond Measure provides a 4-phase, step-by-step blueprint for planning, designing, visualizing, and delivering compelling data presentations. Learn how to use neuroscience and cinematic storytelling techniques to galvanize your stakeholders into action. By the final page, youll know exactly how to: - Choose the data that matters most to your decision-makers - Speak to different audience personality types (even the most challenging) - Infuse your presentation with a persuasive narrative storyline - Craft recommendations that get approved and activated - Design simple, stunning slides that communicate without confusing - Transmit your data story with best-practice visualization techniques - Prepare for and deliver your presentation like a professional speaker
+--------------------------------------------------
+
+Book 04:
+Title: Python for Data Science For Dummies, 3rd Edition
+Author(s): John Paul Mueller, Luca Massaron
+---
+ISBN-10: 1119547628 - ISBN-13: 9781119547624 - ASIN: 139421314X
+Published Date: 2019-02-27
+---
+HB Blurb: Learn how Python can further you and your career!  Python for Data Science For Dummies, 3rd Edition opens the door for those looking to get their hands dirty with data using one of the top programming languages. Whether youre just looking to gain a new skill or jump start a career, this beginners guide will take you step by step through how to get started, including performing data analysis, understanding datasets and example code, working with Google Colab, sampling data, and much more. Make your life easier by having Python do the work for you!  Inside Learn about possible careers with Python Consider the online coding difference Perform Multimedia and Graphic Integration Upload, Stream, and Sample Data Manage Data from Relational Databases Contextualize Problems and Data Play with Scikit-learn
+--------------------------------------------------
+
+Book 05:
+Title: Data Smart: Using Data Science to Transform Information into Insight, 2nd Edition
+Author(s): Jordan Goldmeier
+---
+ISBN-10: 1119931398 - ISBN-13: 9781119931393 - ASIN: 111866146X
+Published Date: 2023-09-22
+---
+HB Blurb: The first edition of Data Smart showed how data science doesnt always need Big Data solutions to understand and work with data. When the book came out, the world was still wrestling with how to define Big Data. Today, much of the corporate world has moved beyond understanding data problems through the Big Data lens. However, the same data problems remain. Many people do not fully understand whats happening beneath the algorithms. And they are often mislead into thinking a larger, technology-focused solution will beat what can be done in a simple spreadsheet.Perhaps the single most important distinction in this update will be to show off Excels data science applications. Since the era of the first edition, Microsoft has put in significant effort to place Excel into the data science process. The aim of this update is to also show how Excel can fit into the data science ecosystem using many of its new features while also not competing but rather complementing more dynamic tools, while also attending to data visualization principles as a means of communicating results.  Ultimately, the world still struggles using data the way it did when the first edition came out. While Big Data might be on the way out, its been replaced by an obsession with Artificial Intelligence. But AI isnt easy to implement, and many people still dont understand data science fundamentals. This updated edition will use Excels new features to explain data science (still in a conversational way), introducing readers to complex topics using just Excel as well as introduce readers to AI topics. It will also focus on the top data science problems experienced by todays analysts. Finally, the content of this book will be updated for Windows audiences which reflects the most popular version of the tool.
+--------------------------------------------------
+
+Book 06:
+Title: Leading in Analytics: The Seven Critical Tasks for Executives to Master in the Age of Big Data
+Author(s): Joseph A. Cazier
+---
+ISBN-10: 1119800412 - ISBN-13: 9781119800415 - ASIN: 
+Published Date: 2023-11-07
+---
+HB Blurb: This book will help executives learn to lead and manage analytics initiatives effectively by focusing on the parts of the analytics process leaders can control - the Five Manageable Tasks for impactful analytics. These key tasks come from the concept of the Five Manageable Tasks from the INFORMS Analytics Body of Knowledge and years of experience. Problem - Choosing the right analytics business problem Team - Putting together the right team to address the problem Data - Acquiring and preparing the right data Tools - Selecting the right analytical tools Execution - Executing to produce an actionable result By learning to pay attention to these five critical tasks in every analytics project, non-technical executives can guide their organizations to success by asking the right questions and setting up the right processes to ensure an actionable result. This book presents each of these tasks with an eye for what executives need to know to become an analytics savvy executive that is needed to guide the integration of analytics in businesses.
+--------------------------------------------------
+
+Book 07:
+Title: Enterprise AI in the Cloud: A Practical Guide to Deploying End-to-End Machine Learning and ChatGPT Solutions
+Author(s): Rabi Jay
+---
+ISBN-10: 1394213069 - ISBN-13: 9781394213061 - ASIN: B0CQRXCJ5S
+Published Date: 2023-12-20
+---
+HB Blurb: Enterprise AI in the Cloud: A Practical Guide to Deploying End-to-End Machine Learning Solutions is a helpful resource for professionals and companies wishing to embrace emerging AI (artificial intelligence) trends such as generative AI and ML (machine learning) in the cloud. If you want to set up AI platforms in the cloud quickly and confidently and drive your business forward with the power of AI, this book is the ultimate go-to guide. It offers everything you need to build large-scale, real-world corporate AI systems in the cloud utilizing an AI-First strategy. The book steps you through the process of integrating your operations with cutting-edge AI and ML solutions. The author shows you how to start an enterprise-wide AI transformation effort, all the way through setting up the machine learning end-to-end architecture, with clearly defined steps, numerous examples, and hands-on exercises. Its an indispensable reference, providing: A comprehensive approach to implementing large-scale, real-world corporate AI systems in the cloud, using an AI-First strategy to drive innovation Coverage of emerging AI/ML use cases, such as AI/ML in the edge, ChatGPT, VR/AR, blockchain, metaverse, hyper-automation, democratizing of AI/ML, generative AI, transformer models, Keras, TensorFlow in the cloud, and quantum machine learning Explanations of the machine learning lifecycle, from framing problems to deploying models and beyond, leveraging the full power of Azure, AWS, and Google cloud platforms Practical advice on identifying potential use cases, developing a winning AI strategy and portfolio, and driving an innovation culture Expert guidance on selecting the ideal cloud platform, evaluating AI/ML cloud services, building a robust AI cloud platform, integrating the cloud with apps and systems Leading best practices on optimizing cloud infrastructure for scalability and automated operations through MLOps (Machine Learning Operations) Real-world guidance on deploying AI responsibly and ethically with an AI governance framework that ensures maximum transparency and accountability. Several practical learning and real-world examples to reinforce learning. Review questions and answers at the end of every chapter to help the reader assess their understanding of the concepts. Whether youre a beginner or an experienced AI or MLOps engineer, this comprehensive resource empowers you to confidently build and use AI models in production, bridging the gap between proof-of-concept projects and real-world AI deployments. This book is a must-read for anyone seeking to accelerate AI transformation across their enterprise.
+--------------------------------------------------
+
+Book 08:
+Title: Getting Great Results with Excel Pivot Tables, PowerQuery and PowerPivot
+Author(s): Thomas Fragale
+---
+ISBN-10: 1394243065 - ISBN-13: 9781394243068 - ASIN: 
+Published Date: 2024-04-05
+---
+HB Blurb: There used to be a time when a companys IT team would manage all of the data and create the necessary charts and reports from that data, based on the users needs. But now, for most companies, those days are long gone!  In todays world, we are all overwhelmed by huge amounts of data from many different sources. And on top of that, our co-workers, bosses, vendors, and customers are asking us for all kinds of reports and charts from that data. They also want it to be flexible, so they can change the parameters, and have it produce instant results. Oh, and by the way, they needed it all yesterday! Sort it this way, filter it this way, show it month by month, etc. It is a daunting and time-consuming task, to say the least! Plus, you have all of the other responsibilities for your job as well.  Microsoft Excel has great tools to help you manage your data, and report on it the way you need to. Using Pivot Tables, PowerQuery, PowerPivot, you can pull in data from many sources, clean up and prepare your data, summarize your data in many ways, add to your data with formulas, create visually appealing and interactive dashboards and get real results from your data, all without having to be a programmer. This book will show how to use these tools in an easy-to-follow step by step format, backed up with screen prints and real-life examples.  Pivot Tables, the PowerQuery, and the PowerPivot are very powerful tools, and they can do a lot of different things. They are very popular in the marketplace. But people do not really know how to use them properly and are even intimated by them. There are videos and books that will show people how to use them, but many times the people who make the videos and books talk too technically or with too much jargon, so that these resources are not that helpful for most people out there.  The marketplace needs an easy-to-use guide that will allow them to get quick, meaningful results from their data, without having a degree in computing.
+--------------------------------------------------
+
+Book 09:
+Title: Functional Aesthetics for Data Visualization
+Author(s): Vidya Setlur, Bridget Cogley
+---
+ISBN-10: 1119810078 - ISBN-13: 9781119810070 - ASIN: 1119810086
+Published Date: 2022-05-18
+---
+HB Blurb: This is a visually engaging book with a blend of interdisciplinary ideas for creating data-created interfaces, such as interactive dashboards and visualizations. We refer to this collection of principles as Functional Aesthetics based on cognitive psychology, design, information retrieval, and visualization to explore ways in which information can be presented to humans that is both meaningful and delightful. Supported heavily by practical examples and research, the book showcases how functional aesthetics makes data easier to see and understand. Key topics include: Visual perception including color, movement, and design The importance of semantics and how they are employed as a way to express meaning in visual artifacts Data visualization linguistics The influence of culture and language on semantics What is the intent for seeing and understanding a dataset and how is that intent expressed visually and analytically Bringing together all of the pieces to work with chart sizing for specific views, layout with consideration for order and reading patterns, movement and interaction, visual flow Innovation and whats next in AI and smart interfaces
+--------------------------------------------------
+
+Book 10:
+Title: Data Governance For Dummies
+Author(s): Jonathan Reichenta
+---
+ISBN-10: 1119906792 - ISBN-13: 9781119906797 - ASIN: 1119906776
+Published Date: 2022-11-01
+---
+HB Blurb: Take full control of your organization's dataData is the fuel that powers businesses in the 21st century. Whether using it to evaluate current practices to identify new opportunities, having accurate, reliable, and secure data is essential to business success. You can't just rely on a handy database to deliver on this need. Enter data governance, the practice of building an organization focused on making accurate data readily available and maintaing a secure environment for your data. This book is your step-by-step overview to creating a framework for extracting every ounce of value from your data.Inside... Identifying the impact of data Applying data to decision-making Addressing your business' data needs Creating a data governance strategy Building a governance team Managing a program that delivers results Learning the best practices of data governance
+--------------------------------------------------
+
+Book 11:
+Title: Net Zeros and Ones: How Data Erasure Promotes Sustainability, Privacy, and Security
+Author(s): Richard Stiennon, Russ B. Ernst, Fredrik Forslund
+---
+ISBN-10: 1119866189 - ISBN-13: 9781119866183 - ASIN: 1119866162
+Published Date: 2022-11-22
+---
+HB Blurb: Data Sanitization: A Complete Guide to Managing Data Erasure provides everything an organization needs to put in place a compliant program for data end-of-life, the ultimate protection for your data. There are many technical means for destroying data, some mechanical, some logical. This book will guide you in your decisions: Should you drill a hole through that hard drive? Send it to a shredder? Overwrite all of the partitions? Or simply destroy the encryption keys for an encrypted disk? Beyond the means of ensuring that data cannot be recovered from storage media-even by the most sophisticated forensics-there are the details of managing data and abiding by regulations that require data retention. With thousands of laptops, desktops, mobile devices, and network gear, how do you manage their ultimate fate while ensuring that no data can ever be recovered? The authors will take you through the history of data sanitization. Learn how to be future proof and withstand even quantum computing as a threat to your secret data as well as learn from mistakes and malpractices that others have been guilty of. Get to know the personalities in the Industry at the same time as you become an internal subject matter expert on data sanitization.
+--------------------------------------------------
+
+Book 12:
+Title: Data Quality: Empowering Businesses with Analytics and AI
+Author(s): Prashanth Southekal
+---
+ISBN-10: 1394165234 - ISBN-13: 9781394165230 - ASIN: B0BSSHMYT6
+Published Date: 2023-02-01
+---
+HB Blurb: Quality data is the key for business enterprises to offer improved performance in operations, compliance, and decision making. According to McKinsey, data driven organizations provide EBITDA increases between 15 to 25% than peers. However, to be a data driven organization, data quality is very important. But most companies are plagued with poor data quality. A HBR study found that just 3% of the data in a business enterprise meets quality standards. According to Gartner, 27% of data in the worlds top companies is flawed--so companies are looking for practical guidance to improve data quality. This book examines the four-phase DARS approach (Define-Assess-Realize-Sustain) for companies to manage high quality data in organizations. This approach provides a combination of strategy and tactical elements to deliver the greatest value from data to the business. It is a playbook that offers prescriptive recommendations based on proven best practices to realize and sustain data quality.
+--------------------------------------------------
+
+Book 13:
+Title: Beginning Database Design Solutions: Understanding and Implementing Database Design Concepts for the Cloud and Beyond, 2nd Edition
+Author(s): Rod Stephens
+---
+ISBN-10: 1394155832 - ISBN-13: 9781394155835 - ASIN: 0470385499
+Published Date: 2023-02-28
+---
+HB Blurb: In Beginning Database Design Solutions: Understanding and Implementing Cloud Database Design Concepts, Second Edition, veteran author and award-winning instructor Rod Stephens focuses on helping DBAs and novice database developers understand and implement cloud database design requirements. A cloud database is a database service built and accessed through a cloud platform. It serves many of the same functions as a traditional database with the added flexibility of cloud computing. Users install software on a cloud infrastructure to implement the database. Benefits include: Can be managed by the user or offered as a database as a service (DBaaS) and managed by a provider Can support relational databases (including MySQL and PostgreSQL) and NoSQL databases (including MongoDB and Apache CouchDB) Access through a web interface or vendor-provided API Digital transformation is driving the need for well-designed cloud databases. One of the biggest transformational challenges facing enterprises today is the movement from on-premises computing to cloud computing, enabling people to access data quickly and reliably. Cloud databases need to be designed and developed to include several critical characteristics: global scale, cloud-readiness; mainframe-class consistency and reliability; operational simplicity; flexible development, and uncompromising security. This book provides IT professionals with thorough coverage of database concepts and also clear examples they can apply to their designs for cloud databases. As a bonus, all of the source code used in this book is available for download. As you work through the examples in this book, you may choose either to type in all the code manually or to use the source code files that accompany the book.
+--------------------------------------------------
+
+Book 14:
+Title: Data Analytics in the AWS Cloud: Building a Data Platform for BI and Predictive Analytics on AWS
+Author(s): Joe Minichino
+---
+ISBN-10: 1119909252 - ISBN-13: 9781119909255 - ASIN: 1119909244
+Published Date: 2023-04-06
+---
+HB Blurb: Data Analytics in the AWS Cloud: Using AWS Data Lakes and Warehouses for BI Reporting and Predictive Analytics helps you learn how to store, process, and analyze data on the AWS Cloud platform. The book focuses on data analytics, from data engineering to data analysis to data science, including CI/CD, Devops/ MLOps and Business Intelligence. The scope of the book covers all the aspects of data pipelines, from data acquisition, import and storage, to visualization and reporting, with a particular emphasis on serverless data engineering, which reduces overheads and costs, and improves stability and maintainability. Chapters include: Chapter 1: AWS Data Lakes and Analytics Chapter 2: Setting up a Data Analytics Team Chapter 3: Storage Chapter 4: Managing the Lake Chapter 5: Populating the Lake Chapter 6: Processing and Preparation Chapter 7: Analyzing the Lake Chapter 8: Machine Learning at Scale Chapter 9: Visualization Chapter 10: Example Architectures The book helps you understand the integration of machine learning predictions with analytics engines and visualization tools, provides examples of architectures from real-use cases, and shows you advanced uses of Amazon Athena, a service that is central to the modern AWS data engineering workflow.
+--------------------------------------------------
+
+Book 15:
+Title: Avoiding Data Pitfalls: How to Steer Clear of Common Blunders When Working with Data and Presenting Analysis and Visualizations
+Author(s): Ben Jones
+---
+ISBN-10: 1119278198 - ISBN-13: 9781119278191 - ASIN: B081H61XNH
+Published Date: 2019-11-13
+---
+HB Blurb: Avoiding Data Pitfalls is a useful resource that points out common data viz. mistakes so that users can avoid making them and notice them when they are made by others. Working with data is so common now, but the vast majority of data workers were trained in another technical field like engineering or science. Most were not explicitly taught how to successfully work with todays tools and the types of data at their disposal. This book will provide illustrative examples of common mistakes, first outlining how we often think about data and the "data-reality gap," before walking the reader through each step of successful data visualization, from calculating and analyzing data to eventually presenting it in a way that is both clear and effective. The author will detail common data viz. blunders like cluttered design and ineffective use of color so that the reader can differentiate between a poor presentation and something truly representative and useful.
+--------------------------------------------------
+
+Book 16:
+Title: #MakeoverMonday: Improving How We Visualize and Analyze Data, One Chart at a Time
+Author(s): Andy Kriebel, Eva Murray
+---
+ISBN-10: 1119510775 - ISBN-13: 9781119510772 - ASIN: 
+Published Date: 2018-10-09
+---
+HB Blurb: MakeoverMonday seeks to highlight and celebrate creative approaches to data visualization. Based on the authors' #MakeoverMonday project, where members of the data visualization community edited and reworked existing ineffective charts, this book features hundreds of less-than-stellar charts which the authors provide multiple alternatives for.A reader will flip through this book for inspiration. They might browse randomly and consider a few makeovers from a particular dataset. Doing this, they can compare different approaches to a similar dataset. By having makeovers next to each other, the impact of differences in formatting, layout, colour, font, chart type can be seen. Readers can pick up valuable insights into visualizing different data collections just by thumbing through the pages. The example datasets range from the serious (police violence) to the fun (changes in the cosmetics industry). There is no other book which takes one dataset and presents so many different perspectives on the same data.
+--------------------------------------------------
+
+Book 17:
+Title: Empowered by Data: How to Build Inspired Analytics Communities
+Author(s): Eva Murray
+---
+ISBN-10: 111970569X - ISBN-13: 9781119705697 - ASIN: 1119705657
+Published Date: 2020-10-06
+---
+HB Blurb: The intention behind How to Build a Data Community is to provide readers with a comprehensive, easy-to-understand and practical guide for establishing analytics and data communities in their organizations. This book does not focus on technical details around analytical problems; instead, it will provide insights and case studies from successful communities that have been in operation at a number of different corporations as well as smaller organizations around the world. It will also highlight and explain all the critical elements that make communities great for analysts. To ensure that readers can apply what they learn, practical advice will be included, as well as a step-by-step plan for establishing their own communities. How to Build a Data Community will be structured in a sequential way, establishing ideas and concepts, as well as the Why first, before moving to applying those concepts.  In this book, readers will learn: What analytics communities actually are, that they come in all shapes and sizes and are as unique as the people within them. Why building these communities is an important step for becoming a truly data-driven organization. How selected businesses and nonprofits have applied these concepts successfully and what their journey to a data-driven culture looked like. How they can establish their own communities, following a number of proposed steps and activities. What they can do to ensure their community grows and flourishes as time goes on.
+--------------------------------------------------
+
+Book 18:
+Title: Data Lakes For Dummies
+Author(s): Alan R. Simon
+---
+ISBN-10: 1119786185 - ISBN-13: 9781119786184 - ASIN: B097NGVKC3
+Published Date: 2021-06-16
+---
+HB Blurb: Dive into the world of data lakesData drives business decisions. But the data needed to drive business decisions comes in many forms - some easy to organize and some barely recognizable. Enter data lakes, data repositories designed to take in your most curated data alongside your most chaotic and turn it into information that drives business decisions. This book offers an introduction to data lakes and how they can help any business. Get a grasp on how to define what is a data lake, what it can and can't do, and how to build the best lake for your needs.Inside...* Adding a data lake to your organization* Understanding data lake architecture* Storing raw data* Cleaning up your data* Linking data with business intelligence* Comparing the top vendors* Troubleshooting your data* Executing a data lake migration
+--------------------------------------------------
+
+Book 19:
+Title: Minding the Machines: Building and Leading Data Science and Analytics Teams
+Author(s): Jeremy Adamson
+---
+ISBN-10: 1119785332 - ISBN-13: 9781119785330 - ASIN: 1119785324
+Published Date: 2021-06-25
+---
+HB Blurb: Learn and provide clear insights into how to structure and lead a successful analytics team. This is a deceptively challenging goal since there are no templates to work from. Establishing a project management office, information services, or human resources department is an understood process and does not vary greatly between organizations. Establishing an analytics team, by contrast, requires a significant up-front investment in understanding and contextualizing the initiative. Many organizations have attempted to use operating models and templates from other functions, in particular IT and operations research. This fundamental misunderstanding of where analytics fits within an organization has led to visible failures and has set back the analytical maturity of many organizations. Business leaders need to hire or develop data-centric talent who are able to step back from analysis and project management to view their work through a lens of value-creation. Understand how organizations and practitioners need to structure, build, and lead a successful analytics team - to bridge the gap between business leaders and the analytical function. The analytics job market is very frothy, and the talent pool has swelled in recent years with engineers, actuaries, and scientists up-skilling and re-branding themselves as data scientists. This influx of highly technical specialists with limited leadership experience has had negative consequences for the practice as a whole. Minding the Machines is organized in three key pillars: Strategy, Process, and People. Strategy - How to assess organizational readiness, identify gaps, establish an attainable roadmap, and properly articulate a value proposition and case for change. Process - How to select and manage projects across their lifecycle including design thinking, risk assessment, governance, and operationalization. People - How to structure and engage a team, establish productive and parsimonious conventions, and to lead a distinct practice with unique requirements. Analytical practitioners want to read this book because career progression opportunities for analytical professionals are very limited. Despite reaching senior technical roles they often report to a business focused manager who understands little about the analytical function. Practitioners seek leadership opportunities, but do not have the tools to move into leadership roles or to be successful in them. Business leaders with foundational analytical abilities want to read this book because what they may have learned from other business units is at best not applicable to analytics teams, and at worst counterproductive. There needs to be a resource specific to this unique practice. Students want to read this book because though they are developing strong technical abilities and learning the newest techniques, they are not being instructed in business leadership in an analytics context. This gap in education is amplifying the problem as the profession moves away from long-horizon highly technical solutions and towards a focus on immediate value.
+--------------------------------------------------
+
+Book 20:
+Title: Data Science For Dummies, 3rd Edition
+Author(s): Lillian Pierson
+---
+ISBN-10: 1119327644 - ISBN-13: 9781119327646 - ASIN: 1119811554
+Published Date: 2017-02-21
+---
+HB Blurb: Data Science For Dummies, 3rd Edition is the perfect starting point for IT professionals and students who want a quick primer on the subject. It explores topics in big data, data science, and data engineering, and how these three areas are combined to produce value. Readers will learn from real-world examples and applications. Updates include: An introduction to natural language processing New ways of looking at data science strategy New and emerging careers in data
+--------------------------------------------------
+
+Book 21:
+Title: Data Conscience: Algorithmic Siege on our Humanity
+Author(s): Brandeis Hill Marshall, Timnit Gebru
+---
+ISBN-10: 1119821207 - ISBN-13: 9781119821205 - ASIN: 1119821185
+Published Date: 2022-08-19
+---
+HB Blurb: Data has enjoyed the bystander status in attempts to digitize responsibility and morality in tech, but data units actually carries this discrimination. By deconstructing it into its social, political, economical, racial, gendered ingredients, we can build up ways to curb oppressive practices prior to, during and after digital entry. This book is for the rebel tech talent, those who acknowledge and are ready to address the limitations of software development. They recognize that techs philosophy and practice of move fast break things is inherently problematic, needs to be changed and want to pinpoint the ways discrimination exists in this digital data space. The primary reader for the bookis a junior-level software developer who has worked on least two significant software development projects. Intermediate language concepts of classes, objects, abstraction, encapsulation, and polymorphism from any C-family language such as C, Python, or JavaScript. Fundamental algorithmic design techniques associated with sorting, searching, and graph algorithms. Core relational database system design concepts of entity-relationship modeling, SQL querying using aggregate functions and joins, and data normalization.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - How to Become a Data Analyst: My Low-Cost, No Code Roadmap for Breaking into Tech
+https://www.amazon.com/How-Become-Data-Analyst-Low-Cost/dp/1394202237
+No Amazon.co.uk URL found
+http://books.google.co.uk/books?id=e_36zwEACAAJ&dq=intitle:How+to+Become+a+Data+Analyst:+My+Low-Cost,+No+Code+Roadmap+for+Breaking+into+Tech%2Binauthor:Annie+Nelson&hl=&cd=1&source=gbs_api
+
+Book 02 - From Data To Profit: How Businesses Leverage Data to Grow Their Top and Bottom Lines
+https://www.amazon.com/Data-Profit-Businesses-Leverage-Bottom/dp/1394196210
+https://www.amazon.co.uk/Data-Profit-Businesses-Leverage-Bottom/dp/B0CD2NNBMS
+http://books.google.co.uk/books?id=3TPCEAAAQBAJ&printsec=frontcover&dq=intitle:From+Data+To+Profit:+How+Businesses+Leverage+Data+to+Grow+Their+Top+and+Bottom+Lines%2Binauthor:Vin+Vashishta&hl=&cd=1&source=gbs_api
+
+Book 03 - Present Beyond Measure: Design, Visualize, and Deliver Data Stories That Inspire Action
+No Amazon.com URL found
+https://www.amazon.co.uk/Present-Beyond-Measure-Visualize-Deliver/dp/1394202172
+http://books.google.co.uk/books?id=64XSEAAAQBAJ&printsec=frontcover&dq=intitle:Present+Beyond+Measure:+Design,+Visualize,+and+Deliver+Data+Stories+That+Inspire+Action%2Binauthor:Lea+Pica&hl=&cd=1&source=gbs_api
+
+Book 04 - Python for Data Science For Dummies, 3rd Edition
+No Amazon.com URL found
+https://www.amazon.co.uk/Python-Data-Science-Dummies-Computer/dp/139421314X
+http://books.google.co.uk/books?id=Uh2EDwAAQBAJ&printsec=frontcover&dq=intitle:Python+for+Data+Science+For+Dummies,+3rd+Edition%2Binauthor:John+Paul+Mueller,+Luca+Massaron&hl=&cd=1&source=gbs_api
+
+Book 05 - Data Smart: Using Data Science to Transform Information into Insight, 2nd Edition
+https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X
+https://www.amazon.co.uk/Data-Smart-Science-Transform-Information/dp/111993138X
+http://books.google.co.uk/books?id=ecrYEAAAQBAJ&printsec=frontcover&dq=intitle:Data+Smart:+Using+Data+Science+to+Transform+Information+into+Insight,+2nd+Edition%2Binauthor:Jordan+Goldmeier&hl=&cd=1&source=gbs_api
+
+Book 06 - Leading in Analytics: The Seven Critical Tasks for Executives to Master in the Age of Big Data
+https://www.amazon.com/Leading-Analytics-Critical-Executives-Business/dp/1119800412
+https://www.amazon.co.uk/Leading-Analytics-Critical-Executives-Business/dp/1119800412
+http://books.google.co.uk/books?id=XdPWEAAAQBAJ&printsec=frontcover&dq=intitle:Leading+in+Analytics:+The+Seven+Critical+Tasks+for+Executives+to+Master+in+the+Age+of+Big+Data%2Binauthor:Joseph+A.+Cazier&hl=&cd=1&source=gbs_api
+
+Book 07 - Enterprise AI in the Cloud: A Practical Guide to Deploying End-to-End Machine Learning and ChatGPT Solutions
+No Amazon.com URL found
+https://www.amazon.co.uk/Enterprise-Cloud-Practical-End-End-ebook/dp/B0CQRXCJ5S
+http://books.google.co.uk/books?id=3H_qEAAAQBAJ&printsec=frontcover&dq=intitle:Enterprise+AI+in+the+Cloud:+A+Practical+Guide+to+Deploying+End-to-End+Machine+Learning+and+ChatGPT+Solutions%2Binauthor:Rabi+Jay&hl=&cd=1&source=gbs_api
+
+Book 08 - Getting Great Results with Excel Pivot Tables, PowerQuery and PowerPivot
+No Amazon.com URL found
+No Amazon.co.uk URL found
+http://books.google.co.uk/books?id=_a__EAAAQBAJ&printsec=frontcover&dq=intitle:Getting+Great+Results+with+Excel+Pivot+Tables,+PowerQuery+and+PowerPivot%2Binauthor:Thomas+Fragale&hl=&cd=1&source=gbs_api
+
+Book 09 - Functional Aesthetics for Data Visualization
+https://www.amazon.com/Functional-Aesthetics-Visualization-Vidya-Setlur/dp/1119810086
+https://www.amazon.co.uk/Functional-Aesthetics-Visualization-Vidya-Setlur-ebook/dp/B0B1TRCHZ1
+http://books.google.co.uk/books?id=sJhwEAAAQBAJ&printsec=frontcover&dq=intitle:Functional+Aesthetics+for+Data+Visualization%2Binauthor:Vidya+Setlur,+Bridget+Cogley&hl=&cd=1&source=gbs_api
+
+Book 10 - Data Governance For Dummies
+https://www.amazon.com/Data-Governance-Dummies-Jonathan-Reichental/dp/1119906776
+https://www.amazon.co.uk/Data-Governance-Dummies-Jonathan-Reichental-ebook/dp/B0BL9225XF
+http://books.google.co.uk/books?id=qZaZEAAAQBAJ&printsec=frontcover&dq=intitle:Data+Governance+For+Dummies%2Binauthor:Jonathan+Reichenta&hl=&cd=1&source=gbs_api
+
+Book 11 - Net Zeros and Ones: How Data Erasure Promotes Sustainability, Privacy, and Security
+https://www.amazon.com/Net-Zeros-Ones-Promotes-Sustainability/dp/1119866162
+No Amazon.co.uk URL found
+http://books.google.co.uk/books?id=IY6dEAAAQBAJ&printsec=frontcover&dq=intitle:Net+Zeros+and+Ones:+How+Data+Erasure+Promotes+Sustainability,+Privacy,+and+Security%2Binauthor:Richard+Stiennon,+Russ+B.+Ernst,+Fredrik+Forslund&hl=&cd=1&source=gbs_api
+
+Book 12 - Data Quality: Empowering Businesses with Analytics and AI
+https://www.amazon.com/Data-Quality-Empowering-Businesses-Analytics/dp/1394165234
+https://www.amazon.co.uk/Data-Quality-Empowering-Businesses-Analytics-ebook/dp/B0BSSHMYT6
+http://books.google.co.uk/books?id=SOGfEAAAQBAJ&printsec=frontcover&dq=intitle:Data+Quality:+Empowering+Businesses+with+Analytics+and+AI%2Binauthor:Prashanth+Southekal&hl=&cd=1&source=gbs_api
+
+Book 13 - Beginning Database Design Solutions: Understanding and Implementing Database Design Concepts for the Cloud and Beyond, 2nd Edition
+https://www.amazon.com/Beginning-Database-Design-Solutions-Stephens/dp/0470385499
+https://www.amazon.co.uk/Beginning-Database-Design-Solutions-Understanding-ebook/dp/B0BXBL64HQ
+http://books.google.co.uk/books?id=xnGxEAAAQBAJ&printsec=frontcover&dq=intitle:Beginning+Database+Design+Solutions:+Understanding+and+Implementing+Database+Design+Concepts+for+the+Cloud+and+Beyond,+2nd+Edition%2Binauthor:Rod+Stephens&hl=&cd=1&source=gbs_api
+
+Book 14 - Data Analytics in the AWS Cloud: Building a Data Platform for BI and Predictive Analytics on AWS
+No Amazon.com URL found
+https://www.amazon.co.uk/Data-Analytics-AWS-Cloud-Predictive/dp/1119909244
+http://books.google.co.uk/books?id=Yg-4EAAAQBAJ&printsec=frontcover&dq=intitle:Data+Analytics+in+the+AWS+Cloud:+Building+a+Data+Platform+for+BI+and+Predictive+Analytics+on+AWS%2Binauthor:Joe+Minichino&hl=&cd=1&source=gbs_api
+
+Book 15 - Avoiding Data Pitfalls: How to Steer Clear of Common Blunders When Working with Data and Presenting Analysis and Visualizations
+https://www.amazon.com/Avoiding-Data-Pitfalls-Presenting-Visualizations-ebook/dp/B081H61XNH
+https://www.amazon.co.uk/Avoiding-Data-Pitfalls-presenting-visualizations/dp/1119278163
+http://books.google.co.uk/books?id=6jG-DwAAQBAJ&printsec=frontcover&dq=intitle:Avoiding+Data+Pitfalls:+How+to+Steer+Clear+of+Common+Blunders+When+Working+with+Data+and+Presenting+Analysis+and+Visualizations%2Binauthor:Ben+Jones&hl=&cd=1&source=gbs_api
+
+Book 16 - #MakeoverMonday: Improving How We Visualize and Analyze Data, One Chart at a Time
+https://www.amazon.com/MakeoverMonday-Improving-Visualize-Analyze-Chart/dp/1119510775
+https://www.amazon.co.uk/MakeoverMonday-Improving-Visualize-Analyze-Chart/dp/1119510775
+http://books.google.co.uk/books?id=xaJtDwAAQBAJ&printsec=frontcover&dq=intitle:%23MakeoverMonday:+Improving+How+We+Visualize+and+Analyze+Data,+One+Chart+at+a+Time%2Binauthor:Andy+Kriebel,+Eva+Murray&hl=&cd=1&source=gbs_api
+
+Book 17 - Empowered by Data: How to Build Inspired Analytics Communities
+No Amazon.com URL found
+https://www.amazon.co.uk/Empowered-Data-Inspired-Analytics-Communities/dp/1119705657
+http://books.google.co.uk/books?id=DZIBEAAAQBAJ&printsec=frontcover&dq=intitle:Empowered+by+Data:+How+to+Build+Inspired+Analytics+Communities%2Binauthor:Eva+Murray&hl=&cd=1&source=gbs_api
+
+Book 18 - Data Lakes For Dummies
+https://www.amazon.com/Data-Lakes-Dummies-Alan-Simon-ebook/dp/B097NGVKC3
+https://www.amazon.co.uk/Data-Lakes-Dummies-Alan-Simon-ebook/dp/B097NGVKC3
+http://books.google.co.uk/books?id=lyw0EAAAQBAJ&printsec=frontcover&dq=intitle:Data+Lakes+For+Dummies%2Binauthor:Alan+R.+Simon&hl=&cd=1&source=gbs_api
+
+Book 19 - Minding the Machines: Building and Leading Data Science and Analytics Teams
+No Amazon.com URL found
+https://www.amazon.co.uk/Minding-Machines-Building-Leading-Analytics/dp/1119785324
+http://books.google.co.uk/books?id=pyw1EAAAQBAJ&printsec=frontcover&dq=intitle:Minding+the+Machines:+Building+and+Leading+Data+Science+and+Analytics+Teams%2Binauthor:Jeremy+Adamson&hl=&cd=1&source=gbs_api
+
+Book 20 - Data Science For Dummies, 3rd Edition
+https://www.amazon.com/Data-Science-Dummies-Lillian-Pierson/dp/1119811554
+https://www.amazon.co.uk/Data-Science-Dummies-Lillian-Pierson/dp/1119811554
+http://books.google.co.uk/books?id=X2wvDgAAQBAJ&printsec=frontcover&dq=intitle:Data+Science+For+Dummies,+3rd+Edition%2Binauthor:Lillian+Pierson&hl=&cd=1&source=gbs_api
+
+Book 21 - Data Conscience: Algorithmic Siege on our Humanity
+https://www.amazon.com/Data-Conscience-Algorithmic-Siege-Humanity/dp/1119821185
+https://www.amazon.co.uk/Data-Conscience-Algorithmic-Siege-Humanity/dp/1119821185
+http://books.google.co.uk/books?id=7YqDEAAAQBAJ&printsec=frontcover&dq=intitle:Data+Conscience:+Algorithmic+Siege+on+our+Humanity%2Binauthor:Brandeis+Hill+Marshall,+Timnit+Gebru&hl=&cd=1&source=gbs_api
+
