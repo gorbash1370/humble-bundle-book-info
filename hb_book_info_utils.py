@@ -689,7 +689,7 @@ def book_data_formatted_txt_verbose(books_data, output_directory):
         raise EmptyDictionaryError("Error whilst attempting to write to file: books_data is empty which indicates that no data has been retrieved from even the first interaction with the Humble Bundle Webpage. It is therefore likely that targeted Humble Book Bundle webpage is not in a compatible format for this script, or that the URL is incorrect.")
     
     format_date = books_data[0]["Bundle Date"][2:7].replace('-', ' ')
-    output_filename = f'{books_data[0]["Bundle Name"]} ({format_date}, verbose).txt'
+    output_filename = f'{books_data[0]["Bundle Name"]} -{format_date}, verbose.txt'
 
     try:
         with open(os.path.join(output_directory, output_filename), 'w', encoding='utf-8') as file:
@@ -754,7 +754,7 @@ def book_data_formatted_txt_short(books_data, output_directory):
         raise EmptyDictionaryError("Error whilst attempting to write to file: books_data is empty which indicates that no data has been retrieved from even the first interaction with the Humble Bundle Webpage. It is therefore likely that targeted Humble Book Bundle webpage is not in a compatible format for this script, or that the URL is incorrect.")
 
     format_date = books_data[0]["Bundle Date"][2:7].replace('-', ' ')
-    output_filename = f'{books_data[0]["Bundle Name"]} ({format_date}, short).txt'
+    output_filename = f'{books_data[0]["Bundle Name"]} -{format_date}, short.txt'
 
     try:
         with open(os.path.join(output_directory, output_filename), 'w', encoding='utf-8') as file:
