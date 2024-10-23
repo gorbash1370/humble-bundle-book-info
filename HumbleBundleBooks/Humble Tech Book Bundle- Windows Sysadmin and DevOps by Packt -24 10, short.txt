@@ -1,0 +1,340 @@
+Humble Tech Book Bundle- Windows Sysadmin and DevOps by Packt - Packt
+Processing date: 2024-10-23
+Data retrieved from: https://www.humblebundle.com/books/windows-sysadmin-and-devops-packt-books
+
+Book 01 - Mastering Windows Server 2022 - Jordan Krause - 4.8 out of 5 (46 reviews)
+Book 02 - Security Monitoring with Wazuh - Rajneesh Gupta, Santiago Bassett - 4.8 out of 5 (10 reviews)
+Book 03 - Mastering Windows Security and Hardening - Mark Dunkerley, Matt Tumbarello - 4.5 out of 5 (33 reviews)
+Book 04 - Mastering PowerShell Scripting - Chris Dent - 4.6 out of 5 (15 reviews)
+Book 05 - Mastering Windows 365 - Christiaan Brinkhoff, Sandeep Patnaik, Morten Pedholt, Panos Panay, Ken Pan, Scott Manchester - 4.2 out of 5 (18 reviews)
+Book 06 - Mastering GitHub Actions - Eric Chapman - 4.7 out of 5 (4 reviews)
+Book 07 - Windows Server Automation with PowerShell Cookbook, Fifth Edition - Thomas Lee - 4.5 out of 5 (16 reviews)
+Book 08 - Mastering Prometheus - William Hegedus - 0 out of 5 (4 reviews)
+Book 09 - DevOps Unleashed with Git and GitHub - Yuki Hattori, Isabel Drost-Fromm - 5 out of 5 (2 reviews)
+Book 10 - Implementing DevSecOps Practices - Vandana Verma Sehgal - 5 out of 5 (6 reviews)
+Book 11 - DevSecOps for Azure - David Okeyode, Joylynn Kirui, Scott Hanselman - None found out of 5 (None found reviews)
+Book 12 - Kubernetes Anti-Patterns - Govardhana Miriyala Kannaiah - 4 out of 5 (2 reviews)
+Book 13 - Incident Response for Windows - Anatoly Tykushin, Svetlana Ostrovskaya, Dmitry Volkov - 4.7 out of 5 (8 reviews)
+Book 14 - Pentesting Active Directory and Windows-based Infrastructure - Denis Isakov - 4.4 out of 5 (20 reviews)
+Book 15 - Windows Server 2022 Administration Fundamentals - Bekim Dauti - 4.6 out of 5 (20 reviews)
+Book 16 - Puppet 8 for DevOps Engineers - David Sandilands, Nigel Kersten - None found out of 5 (None found reviews)
+Book 17 - Windows 11 for Enterprise Administrators - Manuel Singer, Jeff Stokes, Steve Miles, Thomas Lee, Richard Diver - 5 out of 5 (3 reviews)
+Book 18 - Learn Wireshark - Lisa Bock - 4.7 out of 5 (25 reviews)
+Book 19 - Network Automation Cookbook - Karim Okasha - 4.5 out of 5 (48 reviews)
+Book 20 - The DevOps Career Handbook - John Knight, Nate Swenson - 4.9 out of 5 (12 reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: Mastering Windows Server 2022
+Author(s): Jordan Krause
+---
+ISBN-10: 1837633428 - ISBN-13: 9781837633425 - ASIN: B0BW11M1DJ
+Published Date: 2023-05-26
+---
+HB Blurb: Key FeaturesDesign and implement Microsoft Server 2022 in an enterprise environment and use Windows Server to create secure and efficient networksConcentrated learning on Windows core infrastructure technologiesDiscover how to harden and secure your Windows Server infrastructureWho this book is forAnyone interested in Windows Server administration will benefit from this book. If you are proficient in Microsoft infrastructure technologies and have worked with prior versions of Windows Server, then there are some focused topics on the aspects that are brand new and only available in Server 2022. On the other hand, if you are currently in a desktop support role looking to advance, or fresh into the IT workforce, care was taken in the pages of this book to ensure that you will receive a rounded understanding of Windows Server core capabilities that translate into any environment
+--------------------------------------------------
+
+Book 02:
+Title: Security Monitoring with Wazuh
+Author(s): Rajneesh Gupta, Santiago Bassett
+---
+ISBN-10: 1837633436 - ISBN-13: 9781837633432 - ASIN: B0CTXL5G49
+Published Date: 2024-04-12
+---
+HB Blurb: Key FeaturesGet a thorough overview of Wazuh’s features and learn how to make the most of themDetect network and host-based intrusion, monitor for known vulnerabilities and exploits, and detect anomalous behaviorBuild a monitoring system for security compliance that adheres to frameworks such as MITRE ATT&CK, PCI DSS, and GDPRPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for SOC analysts, security architects, and security engineers who want to set up open-source SOC with critical capabilities such as file integrity monitoring, security monitoring, threat intelligence automation, and cloud security monitoring. Managed service providers aiming to build a scalable security monitoring system for their clients will also find valuable insights in this book. Familiarity with basic IT, cybersecurity, cloud, and Linux concepts is necessary to get started.
+--------------------------------------------------
+
+Book 03:
+Title: Mastering Windows Security and Hardening
+Author(s): Mark Dunkerley, Matt Tumbarello
+---
+ISBN-10: 1803248742 - ISBN-13: 9781803248745 - ASIN: 180323654X
+Published Date: 2022-08-19
+---
+HB Blurb: Key FeaturesLearn to protect your Windows environment using zero-trust and a multi-layered security approachImplement security controls using Intune, Configuration Manager, Defender for Endpoint, and moreUnderstand how to onboard modern cyber-threat defense solutions for Windows clientsWho this book is forIf you're a cybersecurity or technology professional, solutions architect, systems engineer, systems administrator, or anyone interested in learning how to secure the latest Windows-based systems, this book is for you. A basic understanding of Windows security concepts, Intune, Configuration Manager, Windows PowerShell, and Microsoft Azure will help you get the best out of this book.
+--------------------------------------------------
+
+Book 04:
+Title: Mastering PowerShell Scripting
+Author(s): Chris Dent
+---
+ISBN-10: 180020857X - ISBN-13: 9781800208575 - ASIN: 1805120271
+Published Date: 2021-06-29
+---
+HB Blurb: Key FeaturesExplores PowerShell as a programming languageTake advantage of the features built into the PowerShell language in day-to-day automationAutomation of complex tasks, data manipulation, and environment securityWho this book is forThis book is for system administrators who want to automate and speed up their processes using PowerShell and Windows PowerShell. You'll need to know the basics of operating systems, but beginners with no prior experience with PowerShell will have no trouble following along.
+--------------------------------------------------
+
+Book 05:
+Title: Mastering Windows 365
+Author(s): Christiaan Brinkhoff, Sandeep Patnaik, Morten Pedholt, Panos Panay, Ken Pan, Scott Manchester
+---
+ISBN-10: 1837631581 - ISBN-13: 9781837631582 - ASIN: 1837637962
+Published Date: 2023-09-12
+---
+HB Blurb: Key FeaturesGet unique insights and perspectives from the Microsoft team behind Windows 365Uncover modern cloud end-user experiences with features like Windows 365 switch and bootLearn from the author's experiences and expertise to seamlessly migrate from on-premises and VDI ecosystem to the cloudPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for IT administrators, architects, consultants, and CIOs looking to leverage and design Windows 365 cloud PCs effectively. This book is also for anyone seeking to move their Windows endpoints to the cloud with ease. Basic understanding of modern management based on Microsoft Intune and 365 is required.
+--------------------------------------------------
+
+Book 06:
+Title: Mastering GitHub Actions
+Author(s): Eric Chapman
+---
+ISBN-10: 1805123300 - ISBN-13: 9781805123309 - ASIN: 1805128620
+Published Date: 2024-03-22
+---
+HB Blurb: Key FeaturesMaster GitHub events to foster a self-service mindsetElevate your GitHub Actions knowledge to a whole new level through real-world examplesLearn how to integrate with popular cloud-based products within your workflowsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for developers with a foundation in CI/CD, code quality tools, and team communication keen on exploring GitHub Actions. It’s ideal for DevOps engineers, system administrators, software developers, IT specialists, automation aficionados, and university students focused on software integration and deployment. Those familiar with GitHub's ecosystem will find this content insightful.
+--------------------------------------------------
+
+Book 07:
+Title: Windows Server Automation with PowerShell Cookbook, Fifth Edition
+Author(s): Thomas Lee
+---
+ISBN-10: 1800569696 - ISBN-13: 9781800569690 - ASIN: 1804614238
+Published Date: 2021-07-30
+---
+HB Blurb: Key FeaturesNew edition updated to the latest version of PowerShell 7.2 and Windows Server 2022Discover new ways to optimize your PowerShell code by working through easy-to-follow recipesLearn PowerShell best practices to automate common tasks and manage DHCP in Microsoft Windows Server, objects in Active Directory, Hyper-V, and AzureWho this book is forThis book is for systems administrators, software architects, developers, consultants, and engineers working with Windows Server 2022 who want to automate tasks more effectively with PowerShell 7.2. You’ll need to have conquered the basics of PowerShell and have a rudimentary understanding of PowerShell scripting before you can get started with this book.
+--------------------------------------------------
+
+Book 08:
+Title: Mastering Prometheus
+Author(s): William Hegedus
+---
+ISBN-10: 9781805125662 - ISBN-13: 1805125664 - ASIN: B0CW19LP68
+Published Date: 2024-04-19
+---
+HB Blurb: Key FeaturesAchieve high availability with Prometheus by using ThanosIntegrate Prometheus into your broader observability stack with OpenTelemetryTweak, tune, and debug Prometheus to reliably scale without limitsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThe book is for site reliability engineers (SREs), developers, and platform engineers involved in the monitoring and observability of their team or company’s systems. A background in Prometheus is assumed, so the book dedicates minimal time to the basics of getting Prometheus up and running. Whether you aim to expand monitoring capabilities, streamline configuration management, or enhance integration with existing tools, this book will help you maximize the potential of your Prometheus monitoring stack.
+--------------------------------------------------
+
+Book 09:
+Title: DevOps Unleashed with Git and GitHub
+Author(s): Yuki Hattori, Isabel Drost-Fromm
+---
+ISBN-10: 1835468683 - ISBN-13: 9781835468685 - ASIN: 1835463711
+Published Date: 2024-04-19
+---
+HB Blurb: Key Features
+
+Gain a comprehensive understanding of Git, GitHub, and DevOps with practical implementation tips
+Embark on a holistic exploration of DevOps workflows, scaling, DevSecOps, and GitHub Copilot
+Discover the best practices for optimizing processes and team productivity
+Purchase of the print or Kindle book includes a free PDF eBook
+
+Who this book is for
+If you’re aiming to enhance collaboration, productivity, and DevOps practices to enrich your development experience, this book is for you. Novice DevOps engineers will be able resolve their doubts surrounding Git and GitHub errors, while IT admins and system engineers will be able to effortlessly embrace DevOps principles with pragmatic insights. For infrastructure engineers looking to delve into cloud-based collaboration and optimal management practices, this book provides valuable knowledge to facilitate a seamless transition into the DevOps landscape.
+--------------------------------------------------
+
+Book 10:
+Title: Implementing DevSecOps Practices
+Author(s): Vandana Verma Sehgal
+---
+ISBN-10: 1803234431 - ISBN-13: 9781803234434 - ASIN: 1803231491
+Published Date: 2023-12-22
+---
+HB Blurb: Key FeaturesUnderstand security posture management to maintain a resilient operational environmentMaster DevOps security and blend it with software engineering to create robust security protocolsAdopt the left-shift approach to integrate early-stage security in DevSecOpsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for DevSecOps engineers and application security engineers. Developers, pentesters, and information security analysts will also find plenty of useful information in this book. Prior knowledge of the software development process and programming logic is beneficial, but not required.
+--------------------------------------------------
+
+Book 11:
+Title: DevSecOps for Azure
+Author(s): David Okeyode, Joylynn Kirui, Scott Hanselman
+---
+ISBN-10: 1837633339 - ISBN-13: 9781837633333 - ASIN: B0CW1KNFWP
+Published Date: 2024-08-28
+---
+HB Blurb: Key FeaturesLearn how to integrate security into Azure DevOps workflows for cloud infrastructureFind out how to integrate secure practices across all phases of the Azure DevOps workflow, from planning to monitoringHarden the entire DevOps workflow, from planning and coding to source control, CI, and cloud workload deploymentPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for security professionals and developers transitioning to a public cloud environment or moving towards a DevSecOps paradigm. It's also designed for DevOps engineers, or anyone looking to master the implementation of DevSecOps in a practical manner. Individuals who want to understand how to integrate security checks, testing, and other controls into Azure cloud continuous delivery pipelines will also find this book invaluable. Prior knowledge of DevOps principles and practices, as well as an understanding of security fundamentals will be beneficial.
+--------------------------------------------------
+
+Book 12:
+Title: Kubernetes Anti-Patterns
+Author(s): Govardhana Miriyala Kannaiah
+---
+ISBN-10: 1835463401 - ISBN-13: 9781835463406 - ASIN: 1835460682
+Published Date: 2024-06-21
+---
+HB Blurb: Key FeaturesLearn to recognize common Kubernetes anti-patterns with the guidance of a community expert Discover actionable strategies and best practices to address anti-patterns Explore methods for fostering a culture of continuous improvement in Kubernetes  Purchase of the print or Kindle book includes a free PDF eBook  Who this book is forKubernetes Anti-Patterns is for anyone who is actively working with or planning to work with Kubernetes in their professional roles. DevOps engineers, system administrators, software developers, IT managers, or any other professional responsible for container orchestration and deployment will find this book useful. A foundational understanding of Kubernetes concepts, terminology, and basic operations is assumed. Familiarity with key components like pods, services, deployments, and how Kubernetes manages containerized applications is required.
+--------------------------------------------------
+
+Book 13:
+Title: Incident Response for Windows
+Author(s): Anatoly Tykushin, Svetlana Ostrovskaya, Dmitry Volkov
+---
+ISBN-10: 1804618012 - ISBN-13: 9781804618011 - ASIN: B0D95ZKNT3
+Published Date: 2024-08-23
+---
+HB Blurb: Key FeaturesExplore contemporary sophisticated cyber threats, focusing on their tactics, techniques, and proceduresCraft the most robust enterprise-wide cybersecurity incident response methodology, scalable to any magnitudeMaster the development of efficient incident remediation and prevention strategiesPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for IT professionals, Windows IT administrators, cybersecurity practitioners, and incident response teams, including SOC teams, responsible for managing cybersecurity incidents in Windows-based environments. Specifically, system administrators, security analysts, and network engineers tasked with maintaining the security of Windows systems and networks will find this book indispensable. Basic understanding of Windows systems and cybersecurity concepts is needed to grasp the concepts in this book.
+--------------------------------------------------
+
+Book 14:
+Title: Pentesting Active Directory and Windows-based Infrastructure
+Author(s): Denis Isakov
+---
+ISBN-10: 1804618276 - ISBN-13: 9781804618271 - ASIN: B0C85Y85RB
+Published Date: 2023-11-17
+---
+HB Blurb: Key FeaturesFind out how to attack real-life Microsoft infrastructureDiscover how to detect adversary activities and remediate your environmentApply the knowledge you’ve gained by working on hands-on exercisesPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for pentesters and red teamers, security and IT engineers, as well as blue teamers and incident responders interested in Windows infrastructure security. The book is packed with practical examples, tooling, and attack-defense guidelines to help you assess and improve the security of your real-life environments. To get the most out of this book, you should have basic knowledge of Windows services and Active Directory.
+--------------------------------------------------
+
+Book 15:
+Title: Windows Server 2022 Administration Fundamentals
+Author(s): Bekim Dauti
+---
+ISBN-10: 1803242612 - ISBN-13: 9781803242613 - ASIN: B0B4SMGJ93
+Published Date: 2022-09-16
+---
+HB Blurb: Key FeaturesGet started with server installation, performance monitoring, and server maintenanceDevelop the skills necessary to manage an enterprise environmentImplement networking and security best practices in your Windows Server environmentWho this book is forIf you are an IT professional who wants to deploy and configure Windows Server 2022, then this book is for you. You can also use this book to learn about Microsoft’s role-based certifications if you're planning to enroll in a course. No prior experience with Windows Server operating systems or familiarity with networking concepts is required.
+--------------------------------------------------
+
+Book 16:
+Title: Puppet 8 for DevOps Engineers
+Author(s): David Sandilands, Nigel Kersten
+---
+ISBN-10: 1803235454 - ISBN-13: 9781803235455 - ASIN: 180323170X
+Published Date: 2023-06-28
+---
+HB Blurb: Key FeaturesUnderstand the core concepts and best approaches to the latest version of the Puppet languageLearn the key components of the Puppet platform and see how they deploy and apply Puppet code to infrastructureDiscover approaches to collaborative working by using the right structure of code and deploymentWho this book is forThis book is for DevOps engineers looking to automate infrastructure with Puppet as a configuration management tool. It will allow both beginners and current Puppet users to understand the full power of the Puppet language and platform. A basic understanding of Unix system administration and Windows systems and core development concepts such as revision control tools like git, virtualization, testing, and coding tooling like vi or Visual Studio code is a prerequisite.
+--------------------------------------------------
+
+Book 17:
+Title: Windows 11 for Enterprise Administrators
+Author(s): Manuel Singer, Jeff Stokes, Steve Miles, Thomas Lee, Richard Diver
+---
+ISBN-10: 1804617792 - ISBN-13: 9781804617793 - ASIN: 1804618594
+Published Date: 2023-10-30
+---
+HB Blurb: Key FeaturesEnhance your enterprise administration skills to reap the full potential of Windows 11Configure Azure Active Directory (AD) to enable cloud-based servicesProvide enterprise-level security with ease using the built-in data loss prevention of Windows 11Purchase of the print or Kindle book includes a free PDF eBookWho this book is forIf you’re a system administrator tasked with upgrading to Windows 11, then this book is for you. Having deployed and managed previous versions of Windows in the past will help you follow along this book, but you can also use it as a guide if Windows 11 is your first foray into system administration.
+--------------------------------------------------
+
+Book 18:
+Title: Learn Wireshark
+Author(s): Lisa Bock
+---
+ISBN-10: 1803234911 - ISBN-13: 9781803234915 - ASIN: 180323167X
+Published Date: 2022-08-05
+---
+HB Blurb: Key FeaturesGain a deeper understanding of common protocols so you can easily troubleshoot network issuesExplore ways to examine captures to recognize unusual traffic and possible network attacksLearn advanced techniques, create display and capture filters, and generate IO and stream graphsWho this book is forIf you are a network administrator, security analyst, student, or teacher and want to learn about effective packet analysis using Wireshark, then this book is for you. In order to get the most from this book, you should have basic knowledge of network fundamentals, devices, and protocols along with an understanding of different topologies.
+--------------------------------------------------
+
+Book 19:
+Title: Network Automation Cookbook
+Author(s): Karim Okasha
+---
+ISBN-10: 1789951879 - ISBN-13: 9781789951875 - ASIN: B07YSTPGRC
+Published Date: 2020-04-17
+---
+HB Blurb: Key FeaturesUse Ansible to automate network infrastructure with the help of step-by-step instructionsImplement network automation best practices to save cost, avoid critical errors, and reduce downtimeDeliver a robust automation framework by integrating Ansible with NAPALM, NetBox, and BatfishWho this book is forThis Ansible network automation book is for network and DevOps engineers interested in automating complex network tasks. Prior understanding of networking and basic Linux knowledge is required.
+--------------------------------------------------
+
+Book 20:
+Title: The DevOps Career Handbook
+Author(s): John Knight, Nate Swenson
+---
+ISBN-10: 180323301X - ISBN-13: 9781803233017 - ASIN: 1803230940
+Published Date: 2022-06-17
+---
+HB Blurb: Key FeaturesNavigate the many career opportunities in the field of DevOpsDiscover proven tips and tricks from industry experts for every step of the DevOps interviewSave both time and money by avoiding common mistakes in your interviewsWho this book is forThis book is for DevOps professionals looking to take the next step in their career, engineers looking to make a career switch, technology managers who want to understand the complete picture of the DevOps landscape, and anyone interested in incorporating DevOps into their tech journey.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Mastering Windows Server 2022
+https://www.amazon.com/Mastering-Windows-Server-2022-administration-ebook/dp/B0BW11M1DJ
+No Amazon.co.uk URL found
+http://books.google.co.uk/books?id=w8nAEAAAQBAJ&printsec=frontcover&dq=intitle:Mastering+Windows+Server+2022%2Binauthor:Jordan+Krause&hl=&cd=1&source=gbs_api
+
+Book 02 - Security Monitoring with Wazuh
+https://www.amazon.com/Security-Monitoring-Wazuh-hands-enterprise-ebook/dp/B0CTXL5G49
+https://www.amazon.co.uk/Security-Monitoring-Wazuh-hands-enterprise-ebook/dp/B0CTXL5G49
+http://books.google.co.uk/books?id=hMH7EAAAQBAJ&pg=PP1&dq=intitle:Security+Monitoring+with+Wazuh%2Binauthor:Rajneesh+Gupta,+Santiago+Bassett&hl=&cd=1&source=gbs_api
+
+Book 03 - Mastering Windows Security and Hardening
+https://www.amazon.com/Mastering-Windows-Security-Hardening-environment/dp/180323654X
+https://www.amazon.co.uk/Mastering-Windows-Security-Hardening-environment-ebook/dp/B0B25FJLR2
+http://books.google.co.uk/books?id=WzN7EAAAQBAJ&printsec=frontcover&dq=intitle:Mastering+Windows+Security+and+Hardening%2Binauthor:Mark+Dunkerley,+Matt+Tumbarello&hl=&cd=1&source=gbs_api
+
+Book 04 - Mastering PowerShell Scripting
+https://www.amazon.com/Mastering-PowerShell-Scripting-repetitive-administrative/dp/1805120271
+https://www.amazon.co.uk/Mastering-PowerShell-Scripting-repetitive-administrative/dp/1805120271
+http://books.google.co.uk/books?id=ULg0EAAAQBAJ&printsec=frontcover&dq=intitle:Mastering+PowerShell+Scripting%2Binauthor:Chris+Dent&hl=&cd=1&source=gbs_api
+
+Book 05 - Mastering Windows 365
+https://www.amazon.com/Mastering-Windows-365-delivering-architectures/dp/1837637962
+https://www.amazon.co.uk/Mastering-Windows-365-delivering-architectures/dp/1837637962
+http://books.google.co.uk/books?id=o9bWEAAAQBAJ&pg=PP1&dq=intitle:Mastering+Windows+365%2Binauthor:Christiaan+Brinkhoff,+Sandeep+Patnaik,+Morten+Pedholt,+Panos+Panay,+Ken+Pan,+Scott+Manchester&hl=&cd=1&source=gbs_api
+
+Book 06 - Mastering GitHub Actions
+https://www.amazon.com/Mastering-GitHub-Actions-automation-integration/dp/1805128620
+https://www.amazon.co.uk/Mastering-GitHub-Actions-automation-integration-ebook/dp/B0CW1KXWX8
+http://books.google.co.uk/books?id=9aj4EAAAQBAJ&printsec=frontcover&dq=intitle:Mastering+GitHub+Actions%2Binauthor:Eric+Chapman&hl=&cd=1&source=gbs_api
+
+Book 07 - Windows Server Automation with PowerShell Cookbook, Fifth Edition
+https://www.amazon.com/Windows-Server-Automation-PowerShell-Cookbook/dp/1804614238
+https://www.amazon.co.uk/Windows-Server-Automation-PowerShell-Cookbook/dp/1804614238
+http://books.google.co.uk/books?id=Ky87EAAAQBAJ&printsec=frontcover&dq=intitle:Windows+Server+Automation+with+PowerShell+Cookbook,+Fifth+Edition%2Binauthor:Thomas+Lee&hl=&cd=1&source=gbs_api
+
+Book 08 - Mastering Prometheus
+https://www.amazon.com/Mastering-Prometheus-monitoring-infrastructure-applications-ebook/dp/B0CW19LP68
+https://www.amazon.co.uk/Mastering-Prometheus-monitoring-infrastructure-applications-ebook/dp/B0CW19LP68
+http://books.google.co.uk/books?id=_5Kq0AEACAAJ&dq=intitle:Mastering+Prometheus%2Binauthor:William+Hegedus&hl=&cd=1&source=gbs_api
+
+Book 09 - DevOps Unleashed with Git and GitHub
+https://www.amazon.com/DevOps-Unleashed-Git-GitHub-collaborate/dp/1835463711
+https://www.amazon.co.uk/DevOps-Unleashed-Git-GitHub-collaborate-ebook/dp/B0CW189SNZ
+http://books.google.co.uk/books?id=CqD8EAAAQBAJ&pg=PP1&dq=intitle:DevOps+Unleashed+with+Git+and+GitHub%2Binauthor:Yuki+Hattori,+Isabel+Drost-Fromm&hl=&cd=1&source=gbs_api
+
+Book 10 - Implementing DevSecOps Practices
+https://www.amazon.com/Implementing-DevSecOps-Practices-Supercharge-excellence/dp/1803231491
+https://www.amazon.co.uk/Implementing-DevSecOps-Practices-Supercharge-excellence-ebook/dp/B0CL4TNWVV
+http://books.google.co.uk/books?id=5gHmEAAAQBAJ&printsec=frontcover&dq=intitle:Implementing+DevSecOps+Practices%2Binauthor:Vandana+Verma+Sehgal&hl=&cd=1&source=gbs_api
+
+Book 11 - DevSecOps for Azure
+No Amazon.com URL found
+https://www.amazon.co.uk/DevSecOps-Azure-End-end-security-ebook/dp/B0CW1KNFWP
+http://books.google.co.uk/books?id=CIkXEQAAQBAJ&pg=PP1&dq=intitle:DevSecOps+for+Azure%2Binauthor:David+Okeyode,+Joylynn+Kirui,+Scott+Hanselman&hl=&cd=1&source=gbs_api
+
+Book 12 - Kubernetes Anti-Patterns
+https://www.amazon.com/Kubernetes-Anti-Patterns-Overcome-deployments-ecosystem/dp/1835460682
+https://www.amazon.co.uk/Kubernetes-Anti-Patterns-Overcome-deployments-ecosystem-ebook/dp/B0D49F8BBJ
+http://books.google.co.uk/books?id=SBUMEQAAQBAJ&printsec=frontcover&dq=intitle:Kubernetes+Anti-Patterns%2Binauthor:Govardhana+Miriyala+Kannaiah&hl=&cd=1&source=gbs_api
+
+Book 13 - Incident Response for Windows
+https://www.amazon.com/Incident-Response-Windows-sophisticated-cyberattacks-ebook/dp/B0D95ZKNT3
+https://www.amazon.co.uk/Incident-Response-Windows-sophisticated-cyberattacks-ebook/dp/B0D95ZKNT3
+http://books.google.co.uk/books?id=574WEQAAQBAJ&pg=PR4&dq=intitle:Incident+Response+for+Windows%2Binauthor:Anatoly+Tykushin,+Svetlana+Ostrovskaya,+Dmitry+Volkov&hl=&cd=1&source=gbs_api
+
+Book 14 - Pentesting Active Directory and Windows-based Infrastructure
+https://www.amazon.com/Pentesting-Active-Directory-Windows-based-Infrastructure-ebook/dp/B0C85Y85RB
+https://www.amazon.co.uk/Pentesting-Active-Directory-Windows-based-Infrastructure-ebook/dp/B0C85Y85RB
+http://books.google.co.uk/books?id=z9ffEAAAQBAJ&pg=PA332&dq=intitle:Pentesting+Active+Directory+and+Windows-based+Infrastructure%2Binauthor:Denis+Isakov&hl=&cd=1&source=gbs_api
+
+Book 15 - Windows Server 2022 Administration Fundamentals
+https://www.amazon.com/Windows-Server-2022-Administration-Fundamentals-ebook/dp/B0B4SMGJ93
+https://www.amazon.co.uk/Windows-Server-2022-Administration-Fundamentals/dp/1803232153
+http://books.google.co.uk/books?id=YSiGEAAAQBAJ&printsec=frontcover&dq=intitle:Windows+Server+2022+Administration+Fundamentals%2Binauthor:Bekim+Dauti&hl=&cd=1&source=gbs_api
+
+Book 16 - Puppet 8 for DevOps Engineers
+No Amazon.com URL found
+https://www.amazon.co.uk/Puppet-DevOps-Engineers-infrastructure-enterprise/dp/180323170X
+http://books.google.co.uk/books?id=qezDEAAAQBAJ&printsec=frontcover&dq=intitle:Puppet+8+for+DevOps+Engineers%2Binauthor:David+Sandilands,+Nigel+Kersten&hl=&cd=1&source=gbs_api
+
+Book 17 - Windows 11 for Enterprise Administrators
+https://www.amazon.com/Windows-Enterprise-Administrators-comprehensible-installation/dp/1804618594
+No Amazon.co.uk URL found
+http://books.google.co.uk/books?id=AR3dEAAAQBAJ&printsec=frontcover&dq=intitle:Windows+11+for+Enterprise+Administrators%2Binauthor:Manuel+Singer,+Jeff+Stokes,+Steve+Miles,+Thomas+Lee,+Richard+Diver&hl=&cd=1&source=gbs_api
+
+Book 18 - Learn Wireshark
+https://www.amazon.com/Learn-Wireshark-definitive-analyzing-troubleshooting/dp/180323167X
+https://www.amazon.co.uk/Learn-Wireshark-definitive-analyzing-troubleshooting-ebook/dp/B09W5VP2WK
+http://books.google.co.uk/books?id=4HF5EAAAQBAJ&printsec=frontcover&dq=intitle:Learn+Wireshark%2Binauthor:Lisa+Bock&hl=&cd=1&source=gbs_api
+
+Book 19 - Network Automation Cookbook
+https://www.amazon.com/Network-Automation-Cookbook-actionable-automate-ebook/dp/B07YSTPGRC
+https://www.amazon.co.uk/Network-Automation-Cookbook-actionable-automate-ebook/dp/B07YSTPGRC
+http://books.google.co.uk/books?id=-d_dDwAAQBAJ&printsec=frontcover&dq=intitle:Network+Automation+Cookbook%2Binauthor:Karim+Okasha&hl=&cd=1&source=gbs_api
+
+Book 20 - The DevOps Career Handbook
+https://www.amazon.com/DevOps-Career-Handbook-ultimate-successful/dp/1803230940
+https://www.amazon.co.uk/DevOps-Career-Handbook-ultimate-successful-ebook/dp/B09Z6R6FD7
+http://books.google.co.uk/books?id=kmtvEAAAQBAJ&printsec=frontcover&dq=intitle:The+DevOps+Career+Handbook%2Binauthor:John+Knight,+Nate+Swenson&hl=&cd=1&source=gbs_api
+
