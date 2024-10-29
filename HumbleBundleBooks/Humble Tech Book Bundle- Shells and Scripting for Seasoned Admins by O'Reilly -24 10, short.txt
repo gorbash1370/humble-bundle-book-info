@@ -1,0 +1,307 @@
+Humble Tech Book Bundle- Shells and Scripting for Seasoned Admins by O'Reilly - O'Reilly
+Processing date: 2024-10-29
+Data retrieved from: https://www.humblebundle.com/books/shells-and-scripting-for-seasoned-admins-oreilly-books
+
+Book 01 - Linux Pocket Guide - Daniel J. Barrett - 4.5 out of 5 (119 reviews)
+Book 02 - Learning Modern Linux - Michael Hausenblas - 4 out of 5 (27 reviews)
+Book 03 - bash Idioms: Write Powerful, Flexible, Readable Shell Scripts - Carl Albing and JP Vossen - 4.4 out of 5 (21 reviews)
+Book 04 - Efficient Linux at the Command Line: Boost Your Command-Line Skills - Daniel J. Barrett - 4.8 out of 5 (36 reviews)
+Book 05 - PowerShell Cookbook: Your Complete Guide to Scripting the Ubiquitous Object-Based Shell - Lee Holmes - None found out of 5 (None found reviews)
+Book 06 - PowerShell Pocket Reference: Portable Help for PowerShell Scripters - Lee Holmes - 4.6 out of 5 (97 reviews)
+Book 07 - Python for DevOps - Noah Gift - 4.5 out of 5 (268 reviews)
+Book 08 - Cybersecurity Ops with bash - Paul Troncone and Carl Albing Ph.D. - 4.7 out of 5 (122 reviews)
+Book 09 - bash Cookbook, 2nd Edition - Carl Albing - 4.5 out of 5 (53 reviews)
+Book 10 - Bash Pocket Reference: Help for Power Users and Sys Admins - Arnold Robbins - 4.7 out of 5 (335 reviews)
+Book 11 - grep Pocket Reference: A Quick Pocket Reference for a Utility Every Unix User Needs - John Bambenek -  4.5 out of 5 (152 reviews)
+Book 12 - DNS and Bind: Help for System Administrators - Cricket Liu - 4.6 out of 5 (107 reviews)
+Book 13 - Learning the bash Shell: Unix Shell Programming - Cameron Newham - 4.5 out of 5 (298 reviews)
+Book 14 - Managing Projects with GNU Make: The Power of GNU Make for Building Anything - Robert Mecklenburg - 4.4 out of 5 (89 reviews)
+Book 15 - Introducing Regular Expressions - Michael Fitzgerald - 4.3 out of 5 (88 reviews)
+Book 16 - sed and awk Pocket Reference: Text Processing with Regular Expressions - Arnold Robbins - 4.2 out of 5 (143 reviews)
+Book 17 - Windows PowerShell for Developers: Enhance Your Productivity and Enable Rapid Application Development - Douglas Finke - 3.9 out of 5 (52 reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: Linux Pocket Guide
+Author(s): Daniel J. Barrett
+---
+ISBN-10: 1491927518 - ISBN-13: 9781491927519 - ASIN: 0596006284
+Published Date: 2016-06-01
+---
+HB Blurb: If you use Linux in your day-to-day work, then Linux Pocket Guide is the perfect on-the-job reference. This thoroughly updated 20th anniversary edition explains more than 200 Linux commands, including new commands for file handling, package management, version control, file format conversions, and more.In this concise guide, author Daniel Barrett provides the most useful Linux commands grouped by functionality. Whether you're a novice or an experienced user, this practical book is an ideal reference for the most important Linux commands.You'll learn:Essential concepts—commands, shells, users, and the filesystemFile commands-creating, organizing, manipulating, and processing files of all kindsSysadmin basics-superusers, processes, user management, and software installationFilesystem maintenance-disks, RAID, logical volumes, backups, and moreNetworking commands-working with hosts, network connections, email, and the webGetting stuff done-everything from math to version control to graphics and audio
+--------------------------------------------------
+
+Book 02:
+Title: Learning Modern Linux
+Author(s): Michael Hausenblas
+---
+ISBN-10: 9781098108946 - ISBN-13: 1098108949 - ASIN: B09Y2LFQQS
+Published Date: 2022-05-31
+---
+HB Blurb: If you use Linux in development or operations and need a structured approach to help you dive deeper, this book is for you. Author Michael Hausenblas also provides tips and tricks for improving your workflow with this open source operating system. Whether you're a developer, software architect, or site reliability engineer, this hands-on guide focuses on ways to use Linux for your everyday needs, from development to office-related tasks.Along the way, you'll gain hands-on experience with modern Linux terminals and shells, and learn how to manage your workloads. You'll understand how to run Linux applications by using containers, systemd, modern filesystems, and immutable distros such as Flatcar and Bottlerocket.Use Linux as a modern work environment, rather than just from an admin perspectiveLearn critical components such as the Linux kernel, terminal multiplexer, human-friendly shells, and portable shell scriptingBecome familiar with access control, from file permissions to capabilities, and understand the role of filesystems as a fundamental building blockLearn about application dependency management and containersGain hands-on experience with the Linux networking stack and tooling, including DNSApply modern operating system observability to manage your workloadsBecome familiar with interprocess communication, virtual machines, and selected security topics
+--------------------------------------------------
+
+Book 03:
+Title: bash Idioms: Write Powerful, Flexible, Readable Shell Scripts
+Author(s): Carl Albing and JP Vossen
+---
+ISBN-10: 1492094722 - ISBN-13: 9781492094722 - ASIN: 1492094757
+Published Date: 2022-03-16
+---
+HB Blurb: Shell scripts are everywhere, especially those written in bash-compatible syntax. But these scripts can be complex and obscure. Complexity is the enemy of security, but it's also the enemy of readability and understanding. With this practical book, you'll learn how to decipher old bash code and write new code that's as clear and readable as possible. Authors Carl Albing and JP Vossen show you how to use the power and flexibility of the shell to your advantage. You may know enough bash to get by, but this book will take your skills from manageable to magnificent. Whether you use Linux, Unix, Windows, or a Mac, you'll learn how to read and write scripts like an expert. Your future you will thank you.You'll explore the clear idioms to use and obscure ones to avoid, so that you can:Write useful, flexible, and readable bash code with styleDecode bash code such as ${MAKEMELC,,} and ${PATHNAME##*/}Save time and ensure consistency when automating tasksDiscover how bash idioms can make your code clean and concise
+--------------------------------------------------
+
+Book 04:
+Title: Efficient Linux at the Command Line: Boost Your Command-Line Skills
+Author(s): Daniel J. Barrett
+---
+ISBN-10: 1098113357 - ISBN-13: 9781098113353 - ASIN: 1098113403
+Published Date: 2022-02-16
+---
+HB Blurb: Take your Linux skills to the next level! Whether you're a system administrator, software developer, site reliability engineer, or enthusiastic hobbyist, this practical, hands-on book will help you work faster, smarter, and more efficiently. You'll learn how to create and run complex commands that solve real business problems, process and retrieve information, and automate manual tasks. You'll also truly understand what happens behind the shell prompt, so no matter which commands you run, you can be more successful in everyday Linux use and more competitive on the job market.As you build intermediate to advanced command-line skills, you'll learn how to:Choose or construct commands that get your work done quicklyRun commands efficiently and navigate the Linux filesystem with easeBuild powerful, complex commands out of simpler onesTransform text files and query them like databases to achieve business goals Control Linux point-and-click features from the command line
+--------------------------------------------------
+
+Book 05:
+Title: PowerShell Cookbook: Your Complete Guide to Scripting the Ubiquitous Object-Based Shell
+Author(s): Lee Holmes
+---
+ISBN-10: 9781098101602 - ISBN-13: 109810160X - ASIN: 
+Published Date: 2021-08-17
+---
+HB Blurb: How do you use PowerShell to navigate the filesystem, manage files and folders, or retrieve a web page? This introduction to the PowerShell language and scripting environment provides more than 400 task-oriented recipes to help you solve all kinds of problems. Intermediate to advanced system administrators will find more than 100 tried-and-tested scripts they can copy and use immediately.Updated for PowerShell 5.1 and Open Source PowerShell up to 7.0 and beyond, this comprehensive cookbook includes hands-on recipes for common tasks and administrative jobs that you can apply whether you're on the client or server version of Windows. You also get quick references to technologies used in conjunction with PowerShell, including regular expressions, the XPath language, format specifiers, and frequently referenced .NET, COM, and WMI classes.Learn how to use PowerShell on Windows 10 and Windows Server 2019Tour PowerShell's core features, including the command model, object-based pipeline, and ubiquitous scriptingMaster fundamentals such as the interactive shell, pipeline, and object conceptsPerform common tasks that involve working with files, internet-connected scripts, user interaction, and moreSolve tasks in systems and enterprise management, such as working with Active Directory and the filesystem
+--------------------------------------------------
+
+Book 06:
+Title: PowerShell Pocket Reference: Portable Help for PowerShell Scripters
+Author(s): Lee Holmes
+---
+ISBN-10: 1449363385 - ISBN-13: 9781449363383 - ASIN: 1098101677
+Published Date: 2012-12-10
+---
+HB Blurb: This portable reference to PowerShell summarizes the command shell and scripting language and provides a concise guide to the many tasks that make PowerShell so useful. If you're a busy administrator and don't have time to plow through huge books or in-depth online searches, this is the ideal on-the-job tool.Written by PowerShell team member Lee Holmes and excerpted from his PowerShell Cookbook, this edition offers up-to-date coverage of Windows PowerShell 5.1 and open source PowerShell Core up to 7 and beyond. Beginning with a guided tour of PowerShell, this handy guide covers:PowerShell language and environmentRegular expression referenceXPath quick reference.NET string formatting.NET DateTime formattingSelected .NET classes and their usesWMI referenceSelected COM objects and their usesStandard PowerShell verbs
+--------------------------------------------------
+
+Book 07:
+Title: Python for DevOps
+Author(s): Noah Gift
+---
+ISBN-10: 1492057665 - ISBN-13: 9781492057666 - ASIN: 149205769X
+Published Date: 2019-12-12
+---
+HB Blurb: Much has changed in technology over the past decade. Data is hot, the cloud is ubiquitous, and many organizations need some form of automation. Throughout these transformations, Python has become one of the most popular languages in the world. This practical resource shows you how to use Python for everyday Linux systems administration tasks with today‚Äôs most useful DevOps tools, including Docker, Kubernetes, and Terraform.Learning how to interact and automate with Linux is essential for millions of professionals. Python makes it much easier. With this book, you‚Äôll learn how to develop software and solve problems using containers, as well as how to monitor, instrument, load-test, and operationalize your software. Looking for effective ways to "get stuff done" in Python? This is your guide.Python foundations, including a brief introduction to the languageHow to automate text, write command-line tools, and automate the filesystemLinux utilities, package management, build systems, monitoring and instrumentation, and automated testingCloud computing, infrastructure as code, Kubernetes, and serverlessMachine learning operations and data engineering from a DevOps perspectiveBuilding, deploying, and operationalizing a machine learning project
+--------------------------------------------------
+
+Book 08:
+Title: Cybersecurity Ops with bash
+Author(s): Paul Troncone and Carl Albing Ph.D.
+---
+ISBN-10: 1492041289 - ISBN-13: 9781492041283 - ASIN: 1492041319
+Published Date: 2019-04-02
+---
+HB Blurb: If you hope to outmaneuver threat actors, speed and efficiency need to be key components of your cybersecurity operations. Mastery of the standard command-line interface (CLI) is an invaluable skill in times of crisis because no other software application can match the CLI‚Äôs availability, flexibility, and agility. This practical guide shows you how to use the CLI with the bash shell to perform tasks such as data collection and analysis, intrusion detection, reverse engineering, and administration.Authors Paul Troncone, founder of Digadel Corporation, and Carl Albing, coauthor of bash Cookbook (O‚ÄôReilly), provide insight into command-line tools and techniques to help defensive operators collect data, analyze logs, and monitor networks. Penetration testers will learn how to leverage the enormous amount of functionality built into nearly every version of Linux to enable offensive operations.In four parts, security practitioners, administrators, and students will examine:Foundations: Principles of defense and offense, command-line and bash basics, and regular expressionsDefensive security operations: Data collection and analysis, real-time log monitoring, and malware analysisPenetration testing: Script obfuscation and tools for command-line fuzzing and remote accessSecurity administration: Users, groups, and permissions; device and software inventory
+--------------------------------------------------
+
+Book 09:
+Title: bash Cookbook, 2nd Edition
+Author(s): Carl Albing
+---
+ISBN-10: 0596516037 - ISBN-13: 9780596516031 - ASIN: 1491975334
+Published Date: 2007-05-24
+---
+HB Blurb: For system administrators, programmers, and end users, shell command or carefully crafted shell script can save you time and effort, or facilitate consistency and repeatability for a variety of common tasks. This cookbook provides more than 300 practical recipes for using bash, the popular Unix shell that enables you to harness and customize the power of any Unix or Linux system. Ideal for new and experienced users alike‚Äîincluding proficient Windows users and sysadmins‚Äîthis updated second edition helps you solve a wide range of problems. You‚Äôll learn ways to handle input/output, file manipulation, program execution, administrative tasks, and many other challenges. Each recipe includes one or more scripting examples and a discussion of why the solution works.You‚Äôll find recipes for problems including:Standard output and input, and executing commandsShell variables, shell logic, and arithmeticIntermediate shell tools and advanced scriptingSearching for files with find, locate, and slocateWorking with dates and timesCreating shell scripts for various end-user tasks Working with tasks that require parsingWriting secure shell scriptsConfiguring and customizing bash
+--------------------------------------------------
+
+Book 10:
+Title: Bash Pocket Reference: Help for Power Users and Sys Admins
+Author(s): Arnold Robbins
+---
+ISBN-10: 1491941545 - ISBN-13: 9781491941546 - ASIN: 1491941596
+Published Date: 2016-02-17
+---
+HB Blurb: It's simple: if you want to interact deeply with Mac OS X, Linux, and other Unix-like systems, you need to know how to work with the Bash shell. This concise little book puts all of the essential information about Bash right at your fingertips.
+You'll quickly find answers to the annoying questions that generally come up when you're writing shell scripts: What characters do you need to quote? How do you get variable substitution to do exactly what you want? How do you use arrays? Updated for Bash version 4.4, this book has the answers to these and other problems in a format that makes browsing quick and easy.
+Topics include:
+
+Invoking the shell
+Syntax
+Functions and variables
+Arithmetic expressions
+Command history
+Programmable completion
+Job control
+Shell options
+Command execution
+Coprocesses
+Restricted shells
+Built-in commands
+--------------------------------------------------
+
+Book 11:
+Title: grep Pocket Reference: A Quick Pocket Reference for a Utility Every Unix User Needs
+Author(s): John Bambenek
+---
+ISBN-10: 0596550812 - ISBN-13: 9780596550813 - ASIN: 818404691X
+Published Date: 2009-01-14
+---
+HB Blurb: grep Pocket Reference is the first guide devoted to grep, the powerful Unix content-location utility. This handy book is ideal for system administrators, security professionals, developers, and others who want to learn more about grep and take new approaches with it -- for everything from mail filtering and system log management to malware analysis. With grep Pocket Reference, you will:Learn methods for filtering large files for specific contentAcquire information not included in the current grep documentationGet several tricks for using variants such as egrepKeep key information about grep right at your fingertipsFind the answers you need about grep quickly and easily. If you're familiar with this utility, grep Pocket Reference will help you refresh your basic knowledge, understand rare situations, and work more efficiently. If you're new to grep, this book is the best way to get started.
+--------------------------------------------------
+
+Book 12:
+Title: DNS and Bind: Help for System Administrators
+Author(s): Cricket Liu
+---
+ISBN-10: 9780596001582 - ISBN-13: 0596001584 - ASIN: 0596100574
+Published Date: 2001
+---
+HB Blurb: DNS and BIND tells you everything you need to work with one of the Internet's fundamental building blocks: the distributed host information database that's responsible for translating names into addresses, routing mail to its proper destination, and even listing phone numbers with the new ENUM standard. This book brings you up-to-date with the latest changes in this crucial service.The fifth edition covers BIND 9.3.2, the most recent release of the BIND 9 series, as well as BIND 8.4.7. BIND 9.3.2 contains further improvements in security and IPv6 support, and important new features such as internationalized domain names, ENUM (electronic numbering), and SPF (the Sender Policy Framework).Whether you're an administrator involved with DNS on a daily basis or a user who wants to be more informed about the Internet and how it works, you'll find that this book is essential reading.Topics include:What DNS does, how it works, and when you need to use itHow to find your own place in the Internet's namespaceSetting up name serversUsing MX records to route mailConfiguring hosts to use DNS name serversSubdividing domains (parenting)Securing your name server: restricting who can query your server, preventing unauthorized zone transfers, avoiding bogus servers, etc.The DNS Security Extensions (DNSSEC) and Transaction Signatures (TSIG)Mapping one name to several servers for load sharingDynamic updates, asynchronous notification of change to a zone, and incremental zone transfersTroubleshooting: using nslookup and dig, reading debugging output, common problemsDNS programming using the resolver library and Perl's Net::DNS module
+--------------------------------------------------
+
+Book 13:
+Title: Learning the bash Shell: Unix Shell Programming
+Author(s): Cameron Newham
+---
+ISBN-10: 0596555008 - ISBN-13: 9780596555009 - ASIN: 0596009658
+Published Date: 2005-03-29
+---
+HB Blurb: O'Reilly's bestselling book on Linux's bash shell is at it again.  Now that Linux is an established player both as a server and on the desktop Learning the bash Shell has been updated and refreshed to account for all the latest changes.  Indeed, this third edition serves as the most valuable guide yet to the bash shell. As any good programmer knows, the first thing users of the Linux operating system come face to face with is the shell the UNIX term for a user interface to the system.  In other words, it's what lets you communicate with the computer via the keyboard and display.  Mastering the bash shell might sound fairly simple but it isn't.  In truth, there are many complexities that need careful explanation, which is just what Learning the bash Shell provides.If you are new to shell programming, the book provides an excellent introduction, covering everything from the most basic to the most advanced features.  And if you've been writing shell scripts for years, it offers a great way to find out what the new shell offers.  Learning the bash Shell is also full of practical examples of shell commands and programs that will make everyday use of Linux that much easier.  With this book, programmers will learn:How to install bash as your login shellThe basics of interactive shell use, including UNIX file and directory structures, standard I/O, and background jobs Command line editing, history substitution, and key bindings How to customize your shell environment without programming The nuts and bolts of basic shell programming, flow control structures, command-line options and typed variables Process handling, from job control to processes, coroutines and subshells Debugging techniques, such as trace and verbose modes Techniques for implementing system-wide shell customization and features related to system security
+--------------------------------------------------
+
+Book 14:
+Title: Managing Projects with GNU Make: The Power of GNU Make for Building Anything
+Author(s): Robert Mecklenburg
+---
+ISBN-10: 0596552548 - ISBN-13: 9780596552541 - ASIN: 0596006101
+Published Date: 2004-11-19
+---
+HB Blurb: The utility simply known as make is one of the most enduring features of both Unix and other operating systems. First invented in the 1970s, make still turns up to this day as the central engine in most programming projects; it even builds the Linux kernel. In the third edition of the classic Managing Projects with GNU make, readers will learn why this utility continues to hold its top position in project build software, despite many younger competitors.The premise behind make is simple: after you change source files and want to rebuild your program or other output files, make checks timestamps to see what has changed and rebuilds just what you need, without wasting time rebuilding other files. But on top of this simple principle, make layers a rich collection of options that lets you manipulate multiple directories, build different versions of programs for different platforms, and customize your builds in other ways.This edition focuses on the GNU version of make, which has deservedly become the industry standard. GNU make contains powerful extensions that are explored in this book. It is also popular because it is free software and provides a version for almost every platform, including a version for Microsoft Windows as part of the free Cygwin project. Managing Projects with GNU make, 3rd Edition provides guidelines on meeting the needs of large, modern projects. Also added are a number of interesting advanced topics such as portability, parallelism, and use with Java.Robert Mecklenburg, author of the third edition, has used make for decades with a variety of platforms and languages. In this book he zealously lays forth how to get your builds to be as efficient as possible, reduce maintenance, avoid errors, and thoroughly understand what make is doing. Chapters on C++ and Java provide makefile entries optimized for projects in those languages. The author even includes a discussion of the makefile used to build the book.
+--------------------------------------------------
+
+Book 15:
+Title: Introducing Regular Expressions
+Author(s): Michael Fitzgerald
+---
+ISBN-10: 1449338895 - ISBN-13: 9781449338893 - ASIN: B008K9OGDA
+Published Date: 2012-07-10
+---
+HB Blurb: If you're a programmer new to regular expressions, this easy-to-follow guide is a great place to start. You'll learn the fundamentals step-by-step with the help of numerous examples, discovering first-hand how to match, extract, and transform text by matching specific words, characters, and patterns.
+Regular expressions are an essential part of a programmer's toolkit, available in various Unix utlilities as well as programming languages such as Perl, Java, JavaScript, and C#. When you've finished this book, you'll be familiar with the most commonly used syntax in regular expressions, and you'll understand how using them will save you considerable time.
+
+Discover what regular expressions are and how they work
+Learn many of the differences between regular expressions used with command-line tools and in various programming languages
+Apply simple methods for finding patterns in text, including digits, letters, Unicode characters, and string literals
+Learn how to use zero-width assertions and lookarounds
+Work with groups, backreferences, character classes, and quantifiers
+Use regular expressions to mark up plain text with HTML5
+--------------------------------------------------
+
+Book 16:
+Title: sed and awk Pocket Reference: Text Processing with Regular Expressions
+Author(s): Arnold Robbins
+---
+ISBN-10: 0596552025 - ISBN-13: 9780596552022 - ASIN: 0596003528
+Published Date: 2002-06-12
+---
+HB Blurb: For people who create and modify text files, sed and awk are power tools for editing. sed, awk, and regular expressions allow programmers and system administrators to automate editing tasks that need to be performed on one or more files, to simplify the task of performing the same edits on multiple files, and to write conversion programs.The sed & awk Pocket Reference is a companion volume to sed & awk, Second Edition, Unix in a Nutshell, Third Edition, and Effective awk Programming, Third Edition. This new edition has expanded coverage of gawk (GNU awk), and includes sections on:An overview of sed and awk?s command line syntaxAlphabetical summaries of commands, including nawk and gawkProfiling with pgawkCoprocesses and sockets with gawkInternationalization with gawkA listing of resources for sed and awk usersThis small book is a handy reference guide to the information presented in the larger volumes. It presents a concise summary of regular expressions and pattern matching, and summaries of sed and awk.Arnold Robbins, an Atlanta native now happily living in Israel, is a professional programmer and technical author and coauthor of various O'Reilly Unix titles. He has been working with Unix systems since 1980, and currently maintains gawk and its documentation.
+--------------------------------------------------
+
+Book 17:
+Title: Windows PowerShell for Developers: Enhance Your Productivity and Enable Rapid Application Development
+Author(s): Douglas Finke
+---
+ISBN-10: 1449322662 - ISBN-13: 9781449322663 - ASIN: 1449322700
+Published Date: 2012-07-06
+---
+HB Blurb: Want to perform programming tasks better, faster, simpler, and make them repeatable? Take a deep dive into Windows PowerShell and discover what this distributed automation platform can do. Whether you‚Äôre a .NET developer or IT pro, this concise guide will show you how PowerShell‚Äôs scripting language can help you be more productive on everyday tasks.Quickly learn how to create PowerShell scripts and embed them into your existing applications, write "little languages" to solve specific problems, and take charge of your code. This book includes example scripts that you can easily pull apart, tweak, and then use in your own PowerShell and .NET solutions.Slice and dice text, XML, CSV, and JSON with easeEmbed PowerShell to provide scripting capabilities for your C# appsCreate GUI applications five to ten times faster with less code Leverage PowerShell‚Äôs capabilities to work with the InternetInteract with DLLs and create objects, automatically display properties, and call methods in live interactive sessionsBuild domain-specific languages (DSLs) and vocabularies to express solutions more clearlyWork with Microsoft Office via the Component Object Model (COM)Discover PowerShell v3 features included with Windows 8 and Windows Server 2012
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Linux Pocket Guide
+https://www.amazon.com/Linux-Pocket-Guide-Daniel-Barrett/dp/0596006284
+https://www.amazon.co.uk/Linux-Pocket-Guide-Daniel-Barrett-ebook/dp/B0CWX5XFQT
+http://books.google.co.uk/books?id=MO5FDAAAQBAJ&printsec=frontcover&dq=intitle:Linux+Pocket+Guide%2Binauthor:Daniel+J.+Barrett&hl=&cd=1&source=gbs_api
+
+Book 02 - Learning Modern Linux
+https://www.amazon.com/Learning-Modern-Linux-Michael-Hausenblas-ebook/dp/B09Y2LFQQS
+https://www.amazon.co.uk/Learning-Modern-Linux-Michael-Hausenblas-ebook/dp/B09Y2LFQQS
+http://books.google.co.uk/books?id=5C_MzgEACAAJ&dq=intitle:Learning+Modern+Linux%2Binauthor:Michael+Hausenblas&hl=&cd=1&source=gbs_api
+
+Book 03 - bash Idioms: Write Powerful, Flexible, Readable Shell Scripts
+https://www.amazon.com/bash-Idioms-Powerful-Flexible-Readable/dp/1492094757
+https://www.amazon.co.uk/bash-Idioms-Powerful-Flexible-Readable/dp/1492094757
+http://books.google.co.uk/books?id=JwJlEAAAQBAJ&printsec=frontcover&dq=intitle:bash+Idioms:+Write+Powerful,+Flexible,+Readable+Shell+Scripts%2Binauthor:Carl+Albing+and+JP+Vossen&hl=&cd=1&source=gbs_api
+
+Book 04 - Efficient Linux at the Command Line: Boost Your Command-Line Skills
+https://www.amazon.com/Efficient-Linux-Command-Line-Command-Line/dp/1098113403
+https://www.amazon.co.uk/Efficient-Linux-Command-Line-Command-Line/dp/1098113403
+http://books.google.co.uk/books?id=uJFfEAAAQBAJ&printsec=frontcover&dq=intitle:Efficient+Linux+at+the+Command+Line:+Boost+Your+Command-Line+Skills%2Binauthor:Daniel+J.+Barrett&hl=&cd=1&source=gbs_api
+
+Book 05 - PowerShell Cookbook: Your Complete Guide to Scripting the Ubiquitous Object-Based Shell
+No Amazon.com URL found
+https://www.amazon.co.uk/PowerShell-Cookbook-Scripting-Ubiquitous-Object-Based/dp/109810160X
+http://books.google.co.uk/books?id=RNEdzgEACAAJ&dq=intitle:PowerShell+Cookbook:+Your+Complete+Guide+to+Scripting+the+Ubiquitous+Object-Based+Shell%2Binauthor:Lee+Holmes&hl=&cd=1&source=gbs_api
+
+Book 06 - PowerShell Pocket Reference: Portable Help for PowerShell Scripters
+https://www.amazon.com/PowerShell-Pocket-Reference-Portable-Scripters/dp/1098101677
+https://www.amazon.co.uk/PowerShell-Pocket-Reference-Portable-Scripters/dp/1098101677
+http://books.google.co.uk/books?id=mAmODwAAQBAJ&printsec=frontcover&dq=intitle:PowerShell+Pocket+Reference:+Portable+Help+for+PowerShell+Scripters%2Binauthor:Lee+Holmes&hl=&cd=1&source=gbs_api
+
+Book 07 - Python for DevOps
+https://www.amazon.com/Python-DevOps-Ruthlessly-Effective-Automation/dp/149205769X
+https://www.amazon.co.uk/Python-DevOps-Ruthlessly-Effective-Automation-ebook/dp/B082P97LDW
+http://books.google.co.uk/books?id=gPrDDwAAQBAJ&printsec=frontcover&dq=intitle:Python+for+DevOps%2Binauthor:Noah+Gift&hl=&cd=1&source=gbs_api
+
+Book 08 - Cybersecurity Ops with bash
+https://www.amazon.com/Cybersecurity-Ops-bash-Analyze-Command/dp/1492041319
+https://www.amazon.co.uk/Cybersecurity-Ops-bash-Analyze-Command-ebook/dp/B07Q63J3WP
+http://books.google.co.uk/books?id=xPKPDwAAQBAJ&pg=PA37&dq=intitle:Cybersecurity+Ops+with+bash%2Binauthor:Paul+Troncone+and+Carl+Albing+Ph.D.&hl=&cd=1&source=gbs_api
+
+Book 09 - bash Cookbook, 2nd Edition
+https://www.amazon.com/bash-Cookbook-Solutions-Examples-Users/dp/1491975334
+https://www.amazon.co.uk/bash-Cookbook-2e-Carl-Albing/dp/1491975334
+http://books.google.co.uk/books?id=060cAgAAQBAJ&printsec=frontcover&dq=intitle:bash+Cookbook,+2nd+Edition%2Binauthor:Carl+Albing&hl=&cd=1&source=gbs_api
+
+Book 10 - Bash Pocket Reference: Help for Power Users and Sys Admins
+https://www.amazon.com/Bash-Pocket-Reference-Power-Admins/dp/1491941596
+https://www.amazon.co.uk/Bash-Pocket-Reference-Power-Admins-ebook/dp/B01BXGUIWY
+http://books.google.co.uk/books?id=pIyYCwAAQBAJ&pg=PT133&dq=intitle:Bash+Pocket+Reference:+Help+for+Power+Users+and+Sys+Admins%2Binauthor:Arnold+Robbins&hl=&cd=1&source=gbs_api
+
+Book 11 - grep Pocket Reference: A Quick Pocket Reference for a Utility Every Unix User Needs
+https://www.amazon.com/grep-Pocket-Reference-Utility-OReilly/dp/818404691X
+https://www.amazon.co.uk/grep-Pocket-Reference-OReilly/dp/0596153600
+http://books.google.co.uk/books?id=XgyODwAAQBAJ&pg=PA24&dq=intitle:grep+Pocket+Reference:+A+Quick+Pocket+Reference+for+a+Utility+Every+Unix+User+Needs%2Binauthor:John+Bambenek&hl=&cd=1&source=gbs_api
+
+Book 12 - DNS and Bind: Help for System Administrators
+https://www.amazon.com/DNS-BIND-5th-Cricket-Liu/dp/0596100574
+https://www.amazon.co.uk/DNS-BIND-Help-System-Administrators-ebook/dp/B0026OR2QS
+http://books.google.co.uk/books?id=Xb9O5yNS5GEC&printsec=frontcover&dq=intitle:DNS+and+Bind:+Help+for+System+Administrators%2Binauthor:Cricket+Liu&hl=&cd=1&source=gbs_api
+
+Book 13 - Learning the bash Shell: Unix Shell Programming
+https://www.amazon.com/Learning-bash-Shell-Programming-Nutshell/dp/0596009658
+https://www.amazon.co.uk/Learning-bash-Shell-Programming-Nutshell-ebook/dp/B0043GXMSY
+http://books.google.co.uk/books?id=dzBCH3x6fYEC&printsec=frontcover&dq=intitle:Learning+the+bash+Shell:+Unix+Shell+Programming%2Binauthor:Cameron+Newham&hl=&cd=1&source=gbs_api
+
+Book 14 - Managing Projects with GNU Make: The Power of GNU Make for Building Anything
+https://www.amazon.com/Managing-Projects-GNU-Make-Handbooks/dp/0596006101
+https://www.amazon.co.uk/Managing-Projects-GNU-Make-Handbooks/dp/0596006101
+http://books.google.co.uk/books?id=rL4GthWj9kcC&printsec=frontcover&dq=intitle:Managing+Projects+with+GNU+Make:+The+Power+of+GNU+Make+for+Building+Anything%2Binauthor:Robert+Mecklenburg&hl=&cd=1&source=gbs_api
+
+Book 15 - Introducing Regular Expressions
+https://www.amazon.com/Introducing-Regular-Expressions-Step-Step-ebook/dp/B008K9OGDA
+https://www.amazon.co.uk/Introducing-Regular-Expressions-Michael-Fitzgerald/dp/1449392687
+http://books.google.co.uk/books?id=mzNo2e_1WD8C&printsec=frontcover&dq=intitle:Introducing+Regular+Expressions%2Binauthor:Michael+Fitzgerald&hl=&cd=1&source=gbs_api
+
+Book 16 - sed and awk Pocket Reference: Text Processing with Regular Expressions
+https://www.amazon.com/Sed-Awk-Pocket-Reference-2nd/dp/0596003528
+https://www.amazon.co.uk/sed-awk-Pocket-Reference-OReilly/dp/0596003528
+http://books.google.co.uk/books?id=1Jq1jhZxaHMC&printsec=frontcover&dq=intitle:sed+and+awk+Pocket+Reference:+Text+Processing+with+Regular+Expressions%2Binauthor:Arnold+Robbins&hl=&cd=1&source=gbs_api
+
+Book 17 - Windows PowerShell for Developers: Enhance Your Productivity and Enable Rapid Application Development
+https://www.amazon.com/Windows-PowerShell-Developers-Productivity-Application/dp/1449322700
+https://www.amazon.co.uk/Windows-PowerShell-Developers-Douglas-Finke/dp/1449322700
+http://books.google.co.uk/books?id=yIL8goCG-nQC&pg=PR15&dq=intitle:Windows+PowerShell+for+Developers:+Enhance+Your+Productivity+and+Enable+Rapid+Application+Development%2Binauthor:Douglas+Finke&hl=&cd=1&source=gbs_api
+
