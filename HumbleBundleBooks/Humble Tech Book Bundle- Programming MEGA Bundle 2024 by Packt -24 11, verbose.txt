@@ -1,0 +1,600 @@
+Humble Tech Book Bundle- Programming MEGA Bundle 2024 by Packt - Packt
+Processing date: 2024-11-04
+Data retrieved from: https://www.humblebundle.com/books/programming-mega-bundle-2024-packt-books
+
+Book 01 - Learn LLVM 17 - Kai Nacke, Amy Kwan - 4.3 out of 5 (14 reviews)
+Book 02 - System Design Guide for Software Professionals - Dhirendra Sinha, Tejas Chopra - 5 out of 5 (1 reviews)
+Book 03 - Build Your Own Programming Language - Clinton L. Jeffery, Imran Ahmad - 4.3 out of 5 (23 reviews)
+Book 04 - Modern Python Cookbook - Steven F. Lott - 4.9 out of 5 (12 reviews)
+Book 05 - Mastering Python Design Patterns - Kamon Ayeva, Sakis Kasampalis - 4.2 out of 5 (6 reviews)
+Book 06 - JavaScript Design Patterns - Hugo Di Francesco - 4.7 out of 5 (5 reviews)
+Book 07 - Expert Delphi - Marco Cantù, Paweł Głowacki, Stephen Ball - 4.6 out of 5 (16 reviews)
+Book 08 - Data Structures and Algorithms with the C++ STL - John Farrier - 4.1 out of 5 (8 reviews)
+Book 09 - System Programming Essentials with Go - Alex Rios - 5 out of 5 (5 reviews)
+Book 10 - Go Programming - From Beginner to Professional - Samantha Coyle - 4.8 out of 5 (13 reviews)
+Book 11 - C# Data Structures and Algorithms - Marcin Jamro - 4.8 out of 5 (8 reviews)
+Book 12 - Pragmatic Microservices with C# and Azure - Christian Nagel - 4.4 out of 5 (9 reviews)
+Book 13 - Asynchronous Programming in Rust - Carl Fredrik Samson - None found out of 5 (None found reviews)
+Book 14 - Dancing with Qubits - Robert S. Sutor - 5 out of 5 (19 reviews)
+Book 15 - Modern CMake for C++ - Rafał Świdziński, Alexander Kushnir - 4.9 out of 5 (13 reviews)
+Book 16 - Learn Java with Projects - Dr. Seán Kennedy, Maaike van Putten - 4.6 out of 5 (20 reviews)
+Book 17 - Software Testing Strategies - Matthew Heusser, Michael Larsen - 4.8 out of 5 (12 reviews)
+Book 18 - Learn C Programming - Jeff Szuhay - 4.6 out of 5 (130 reviews)
+Book 19 - C++ High Performance - Björn Andrist, Viktor Sehr - 4.5 out of 5 (162 reviews)
+Book 20 - Julia High Performance - Avik Sengupta - 3.4 out of 5 (9 reviews)
+Book 21 - Node.js Design Patterns - Mario Casciaro, Luciano Mammino - 4.6 out of 5 (309 reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Learn LLVM 17
+Author(s): Kai Nacke, Amy Kwan
+---
+ISBN-10: 183763467X - ISBN-13: 9781837634675 - ASIN: 1837631344
+Published Date: 2024-01-12
+Page Count: 416
+---
+Google Books Price: GBP 20.79
+Google Books URL: http://books.google.co.uk/books?id=rv_rEAAAQBAJ&pg=PA10&dq=intitle:Learn+LLVM+17%2Binauthor:Kai+Nacke,+Amy+Kwan&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.3 of 5 (14 reviews)
+Amazon.com URL: https://www.amazon.com/Learn-LLVM-17-beginners-libraries/dp/1837631344
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4 of 5 (9 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learn-LLVM-17-beginners-libraries-ebook/dp/B0CL772K23
+---
+HB Blurb: Key FeaturesGet to grips with using LLVM libraries step by stepUnderstand the high-level design of LLVM compilers and apply these principles to your own compilerAdd a new backend to target an unsupported CPU architecturePurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for compiler developers, enthusiasts, and engineers new to LLVM. C++ software engineers looking to use compiler-based tools for code analysis and improvement, as well as casual users of LLVM libraries who want to gain more knowledge of LLVM essentials will also find this book useful. Intermediate-level experience with C++ programming is necessary to understand the concepts covered in this book.
+--------------------------------------------------
+
+Book 02:
+Title: System Design Guide for Software Professionals
+Author(s): Dhirendra Sinha, Tejas Chopra
+---
+ISBN-10: 9781805124993 - ISBN-13: 1805124994 - ASIN: 
+Published Date: 2024-08-23
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=FLXU0AEACAAJ&dq=intitle:System+Design+Guide+for+Software+Professionals%2Binauthor:Dhirendra+Sinha,+Tejas+Chopra&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (1 reviews)
+Amazon.com URL: https://www.amazon.com/System-Design-Guide-Software-Professionals/dp/1805124994
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 0 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/System-Design-Guide-Software-Professionals/dp/1805124994
+---
+HB Blurb: Key FeaturesComprehensive coverage of distributed systems concepts and practical system design techniques.Insider tips and proven strategies from engineering leaders at top tech companies.Detailed case studies of widely used applications and their system architectures.Purchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is a must-have resource for experienced software professionals, particularly those with 5-15 years of experience in building scalable distributed systems, web applications, and backend microservices. Whether you're a seasoned developer or an architect looking to deepen your expertise in system design, this book provides the insights and practical knowledge you need to excel in tech interviews and advance your career. A solid foundation in distributed systems, data structures/algorithms, and web development will help you get the most out of this comprehensive guide.
+--------------------------------------------------
+
+Book 03:
+Title: Build Your Own Programming Language
+Author(s): Clinton L. Jeffery, Imran Ahmad
+---
+ISBN-10: 1804617156 - ISBN-13: 9781804617151 - ASIN: 1804618020
+Published Date: 2024-01-31
+Page Count: 557
+---
+Google Books Price: GBP 19.49
+Google Books URL: http://books.google.co.uk/books?id=bDDxEAAAQBAJ&printsec=frontcover&dq=intitle:Build+Your+Own+Programming+Language%2Binauthor:Clinton+L.+Jeffery,+Imran+Ahmad&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.3 of 5 (23 reviews)
+Amazon.com URL: https://www.amazon.com/Build-Your-Own-Programming-Language/dp/1804618020
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (9 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Build-Your-Own-Programming-Language/dp/1804618020
+---
+HB Blurb: Key FeaturesTakes a hands-on approach; learn by building the Jzero language, a subset of Java, with example code shown in both the Java and Unicon languagesLearn how to create parsers, code generators, scanners, and interpretersTarget bytecode, native code, and preprocess or transpile code into a high-level languageWho this book is forThis book is for software developers interested in the idea of inventing their own language or developing a domain-specific language. Computer science students taking compiler design or construction courses will also find this book highly useful as a practical guide to language implementation to supplement more theoretical textbooks. Intermediate or better proficiency in Java or C++ programming languages (or another high-level programming language) is assumed.
+--------------------------------------------------
+
+Book 04:
+Title: Modern Python Cookbook
+Author(s): Steven F. Lott
+---
+ISBN-10: 1786463849 - ISBN-13: 9781786463845 - ASIN: B0D79PFNJQ
+Published Date: 2016-11-30
+Page Count: 686
+---
+Google Books Price: GBP 21.44
+Google Books URL: http://books.google.co.uk/books?id=Np3cDgAAQBAJ&printsec=frontcover&dq=intitle:Modern+Python+Cookbook%2Binauthor:Steven+F.+Lott&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.9 out of 5 (12 reviews)
+Amazon.com URL: https://www.amazon.com/Modern-Python-Cookbook-updated-techniques-ebook/dp/B0D79PFNJQ
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (38 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Modern-Python-Cookbook-flawless-expressive-ebook/dp/B08DHZ473S
+---
+HB Blurb: Key FeaturesNew chapters on type matching, data visualization, dependency management, and moreComprehensive coverage of Python 3.12 with updated recipes and techniquesProvides practical examples and detailed explanations to solve real-world problems efficientlyWho this book is forThis Python book is for web developers, programmers, enterprise programmers, engineers, and big data scientists. If you are a beginner, this book offers helpful details and design patterns for learning Python. If you are experienced, it will expand your knowledge base. Fundamental knowledge of Python programming and basic programming principles will be helpful
+--------------------------------------------------
+
+Book 05:
+Title: Mastering Python Design Patterns
+Author(s): Kamon Ayeva, Sakis Kasampalis
+---
+ISBN-10: 178883206X - ISBN-13: 9781788832069 - ASIN: B0D47SFR24
+Published Date: 2018-08-31
+Page Count: 240
+---
+Google Books Price: GBP 18.84
+Google Books URL: http://books.google.co.uk/books?id=PshsDwAAQBAJ&printsec=frontcover&dq=intitle:Mastering+Python+Design+Patterns%2Binauthor:Kamon+Ayeva,+Sakis+Kasampalis&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $23.99Save $8.00 (25%)
+Amazon.com Reviews: 4.2 of 5 (6 reviews)
+Amazon.com URL: https://www.amazon.com/Mastering-Python-Design-Patterns-principles-ebook/dp/B0D47SFR24
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 0 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Mastering-Python-Design-Patterns-principles-ebook/dp/B0D47SFR24
+---
+HB Blurb: Key FeaturesMaster essential design principles to build robust software architecture with the latest features in Python 3.10Leverage concurrency, async patterns, and testing strategies for optimal performanceApply SOLID principles and advanced patterns to real-world Python projectsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forWith a focus on intermediate and advanced Python programmers, this book offers valuable insights into the best practices for software design, backed by real-world examples and decades of experience. The book is also an excellent resource for software architects and team leaders who want to improve code quality and maintainability across their projects. Prior Python proficiency, including syntax, data structures, and OOP will help you get the most out of this book.
+--------------------------------------------------
+
+Book 06:
+Title: JavaScript Design Patterns
+Author(s): Hugo Di Francesco
+---
+ISBN-10: 1804614025 - ISBN-13: 9781804614020 - ASIN: B0CCYS4RQF
+Published Date: 2024-03-15
+Page Count: 308
+---
+Google Books Price: GBP 14.94
+Google Books URL: http://books.google.co.uk/books?id=4bP1EAAAQBAJ&printsec=frontcover&dq=intitle:JavaScript+Design+Patterns%2Binauthor:Hugo+Di+Francesco&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $29.87
+Amazon.com Reviews: 4.7 of 5 (5 reviews)
+Amazon.com URL: https://www.amazon.com/Javascript-Design-Patterns-production-grade-applications-ebook/dp/B0CCYS4RQF
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (3 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Javascript-Design-Patterns-production-grade-applications/dp/1804612278
+---
+HB Blurb: Key FeaturesExplore various JavaScript design patterns, delving deep into their intricacies, benefits, and best practicesUnderstand the decision-making process guiding the selection of specific design patternsBuild a solid foundation to learn advanced topics in JavaScript and web performancePurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for developers and software architects who want to leverage JavaScript and the web platform for enhanced productivity, superior software quality, and optimized application performance.Prior experience with JavaScript and web development is assumed. Some of the more advanced topics in the book will be of interest to developers with intermediate experience in building for the web with JavaScript.
+--------------------------------------------------
+
+Book 07:
+Title: Expert Delphi
+Author(s): Marco Cantù, Paweł Głowacki, Stephen Ball
+---
+ISBN-10: 1805125184 - ISBN-13: 9781805125181 - ASIN: B0CVLJF7DT
+Published Date: 2024-02-23
+Page Count: 424
+---
+Google Books Price: GBP 18.19
+Google Books URL: http://books.google.co.uk/books?id=Pg70EAAAQBAJ&pg=PR5&dq=intitle:Expert+Delphi%2Binauthor:Marco+Cant%C3%B9,+Pawe%C5%82+G%C5%82owacki,+Stephen+Ball&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $29.22Save $7.77 (21%)
+Amazon.com Reviews: 4.6 out of 5 (16 reviews)
+Amazon.com URL: https://www.amazon.com/Expert-Delphi-cross-platform-application-development-ebook/dp/B0CVLJF7DT
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (13 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Expert-Delphi-cross-platform-application-development/dp/1805121103
+---
+HB Blurb: Key FeaturesUnderstand the fundamentals of Delphi for building multi-device applicationsBuild desktop and mobile apps with the help of extensive examples that guide you through each stepApply advanced features, such as parallel programming and multi-tier full-stack solutions, based on web connectivityPurchase of the print or Kindle book includes a free PDF eBookWho this book is forIf you’re a Delphi developer exclusively versed in Windows applications and aspire to venture into mobile platforms, this book will pave the way for you to become an expert in this space. It serves as a guide for mobile developers or developers in general, proficient in other programming languages and frameworks, to harness the productivity that Delphi and FireMonkey offer.
+--------------------------------------------------
+
+Book 08:
+Title: Data Structures and Algorithms with the C++ STL
+Author(s): John Farrier
+---
+ISBN-10: 1835469078 - ISBN-13: 9781835469071 - ASIN: B0CVXT5DL1
+Published Date: 2024-02-29
+Page Count: 458
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=JCf2EAAAQBAJ&pg=PA68&dq=intitle:Data+Structures+and+Algorithms+with+the+C%2B%2B+STL%2Binauthor:John+Farrier&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $22.39Save $13.60 (38%)
+Amazon.com Reviews: 4.1 of 5 (8 reviews)
+Amazon.com URL: https://www.amazon.com/Data-Structures-Algorithms-STL-practitioners-ebook/dp/B0CVXT5DL1
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.7 of 5 (5 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Data-Structures-Algorithms-STL-practitioners-ebook/dp/B0CVXT5DL1
+---
+HB Blurb: Key FeaturesMaster the std::vector and understand why it should be your default container of choiceUnderstand each STL algorithm and its practical applicationsGain insights into advanced topics such as exception guarantees and thread safetyPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for intermediate-level C++ developers looking to enhance their software development skills. Familiarity with basic C++ syntax and object-oriented programming (OOP) as well as some exposure to data structures and algorithms is assumed.Tailored to software engineers, computer science students, and hobbyist programmers, this book delves into C++ STL for practical application, performance enhancement, and efficient coding practices.
+--------------------------------------------------
+
+Book 09:
+Title: System Programming Essentials with Go
+Author(s): Alex Rios
+---
+ISBN-10: 1801813442 - ISBN-13: 9781801813440 - ASIN: B0D1CMM831
+Published Date: 2024-06-28
+Page Count: 408
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=cNUNEQAAQBAJ&printsec=frontcover&dq=intitle:System+Programming+Essentials+with+Go%2Binauthor:Alex+Rios&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 out of 5 (5 reviews)
+Amazon.com URL: https://www.amazon.com/System-Programming-Essentials-networking-efficiency-ebook/dp/B0D1CMM831
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/System-Programming-Essentials-networking-efficiency-ebook/dp/B0D1CMM831
+---
+HB Blurb: Key FeaturesGet a deep understanding of how Go simplifies system-level memory management and concurrencyGain expert guidance on essential topics like file operations, process management, and network programmingLearn cross-platform system programming and how to build applications that interact directly with the OSWho this book is forThis book is for software engineers looking to expand their understanding of system programming concepts. Professionals with a coding foundation seeking profound knowledge of system-level operations will also greatly benefit. Additionally, individuals interested in advancing their system programming skills, whether experienced developers or those transitioning to the field, will find this book indispensable.
+--------------------------------------------------
+
+Book 10:
+Title: Go Programming - From Beginner to Professional
+Author(s): Samantha Coyle
+---
+ISBN-10: 1803246308 - ISBN-13: 9781803246307 - ASIN: B0CZ6WFKNB
+Published Date: 2024-03-29
+Page Count: 680
+---
+Google Books Price: GBP 15.59
+Google Books URL: http://books.google.co.uk/books?id=ScD9EAAAQBAJ&printsec=frontcover&dq=intitle:Go+Programming+-+From+Beginner+to+Professional%2Binauthor:Samantha+Coyle&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.8 out of 5 (13 reviews)
+Amazon.com URL: https://www.amazon.com/Go-Programming-Beginner-Professional-everything-ebook/dp/B0CZ6WFKNB
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 0 of 5 (7 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Go-Programming-Beginner-Professional-everything-ebook/dp/B0CZ6WFKNB
+---
+HB Blurb: Key FeaturesLeverage Go's standard library through practical examples and simplify development tasks using best practicesMaster effective idiomatic Go syntax, including variables, functions, and loops, to handle dataBuild fully functional web applications with capabilities such as database connectivity and RESTful API creationPurchase of the print or Kindle book includes a free PDF eBookWho this book is forDesigned for both complete beginners in Go as well as professionals transitioning from another programming language, this book equips developers with skills needed to build real-world projects and launch their career in Go. With a step-by-step approach, beginners can grasp Go fundamentals even without prior programming experience, and gradually advance to idiomatic Go best practices, exploring the latest features of the language.
+--------------------------------------------------
+
+Book 11:
+Title: C# Data Structures and Algorithms
+Author(s): Marcin Jamro
+---
+ISBN-10: 1788834682 - ISBN-13: 9781788834681 - ASIN: B0CTTCFL1K
+Published Date: 2018-04-19
+Page Count: 287
+---
+Google Books Price: GBP 21.44
+Google Books URL: http://books.google.co.uk/books?id=Cd9YDwAAQBAJ&printsec=frontcover&dq=intitle:C%23+Data+Structures+and+Algorithms%2Binauthor:Marcin+Jamro&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $26.66Save $13.33 (33%)
+Amazon.com Reviews: 4.8 of 5 (8 reviews)
+Amazon.com URL: https://www.amazon.com/Data-Structures-Algorithms-efficient-applications-ebook/dp/B0CTTCFL1K
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (6 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Data-Structures-Algorithms-efficient-applications-ebook/dp/B0CTTCFL1K
+---
+HB Blurb: Key FeaturesMaster lists, stacks, queues, dictionaries, sets, and trees, among other data structuresDelve into effective design and implementation techniques to meet your software requirementsVisualize data structures and algorithms through illustrations for a clearer understanding of their analysisPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for developers looking to learn data structures and algorithms in C#. While basic programming skills and C# knowledge is useful, beginners will find value in the provided code snippets, illustrations, and detailed explanations, enhancing their programming skills. Advanced developers can use this book as a valuable resource for reusable code snippets, instead of writing algorithms from scratch each time.
+--------------------------------------------------
+
+Book 12:
+Title: Pragmatic Microservices with C# and Azure
+Author(s): Christian Nagel
+---
+ISBN-10: 1835087043 - ISBN-13: 9781835087046 - ASIN: 1835088295
+Published Date: 2024-05-31
+Page Count: 508
+---
+Google Books Price: GBP 19.49
+Google Books URL: http://books.google.co.uk/books?id=U9QKEQAAQBAJ&printsec=frontcover&dq=intitle:Pragmatic+Microservices+with+C%23+and+Azure%2Binauthor:Christian+Nagel&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $39.99Save $10.00 (20%)
+Amazon.com Reviews: 4.4 of 5 (9 reviews)
+Amazon.com URL: https://www.amazon.com/Pragmatic-Microservices-Azure-microservices-efficiently/dp/1835088295
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 0 of 5 (4 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Pragmatic-Microservices-Azure-microservices-efficiently-ebook/dp/B0CXYG32MG
+---
+HB Blurb: Key FeaturesBenefit from step-by-step project-based guidance on how to develop a full-fledged microservices applicationGain extensive knowledge of microservices by covering essential concepts, tools, and methodologiesUse essential Microsoft Azure cloud-native services and as alternatives for on-premises environmentsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for software developers, architects, and engineers who are interested in adopting microservices architecture using the .NET framework and Microsoft Azure. Both intermediate and advanced developers who have a foundational understanding of C#, ASP.NET Core, and cloud computing concepts will find this book helpful.
+--------------------------------------------------
+
+Book 13:
+Title: Asynchronous Programming in Rust
+Author(s): Carl Fredrik Samson
+---
+ISBN-10: 9781805128137 - ISBN-13: 1805128132 - ASIN: 
+Published Date: 2024-02-09
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=Nxlx0AEACAAJ&dq=intitle:Asynchronous+Programming+in+Rust%2Binauthor:Carl+Fredrik+Samson&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Asynchronous-Programming-Rust-asynchronous-programming/dp/1805128132
+---
+HB Blurb: Key FeaturesMaster asynchronous Rust through examples focusing on key conceptsBuild a solid understanding of concepts such as coroutines, fibers, futures, and callbacksExplore Rust's futures, craft your own runtime, and excel in handling stacks, ABIs, syscalls, and inline assemblyPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for programmers who want to enhance their understanding of asynchronous programming, especially those experienced in VM’ed or interpreted languages like C#, Java, Python, JavaScript, and Go. If you work with C or C++ but have had limited exposure to asynchronous programming, this book serves as a resource to broaden your knowledge in this area.Although the examples are predominantly in Rust, the intricacies of Rust’s futures are covered in detail. So, anyone with a keen interest in learning Rust or with working knowledge of Rust will be able to get the most out of this book.
+--------------------------------------------------
+
+Book 14:
+Title: Dancing with Qubits
+Author(s): Robert S. Sutor
+---
+ISBN-10: 9781838827366 - ISBN-13: 1838827366 - ASIN: B0BQBZSCGM
+Published Date: 2019-11-26
+Page Count: 516
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=uwAeywEACAAJ&dq=intitle:Dancing+with+Qubits%2Binauthor:Robert+S.+Sutor&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $46.99
+Amazon.com Reviews: 5 of 5 (19 reviews)
+Amazon.com URL: https://www.amazon.com/Dancing-Qubits-quantum-computing-change-ebook/dp/B0BQBZSCGM
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (191 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Dancing-Qubits-quantum-computing-change-ebook/dp/B07ZHGY6ZV
+---
+HB Blurb: Key FeaturesDiscover how quantum computing works and delve into the math behind it with practical examplesLearn about and assess the most up-to-date quantum computing topics including quantum machine learningExplore the inner workings of existing quantum computing technologies to understand how they may perform significantly better than their classical counterpartsWho this book is forDancing with Qubits, Second Edition, is a quantum computing textbook for all those who want to understand and explore the inner workings of quantum computing. This entails building up from basic to some sophisticated mathematics and is therefore best suited for those with a healthy interest in mathematics, physics, engineering, or computer science.
+--------------------------------------------------
+
+Book 15:
+Title: Modern CMake for C++
+Author(s): Rafał Świdziński, Alexander Kushnir
+---
+ISBN-10: 180512336X - ISBN-13: 9781805123361 - ASIN: B0D2PQ3TS7
+Published Date: 2024-05-28
+Page Count: 503
+---
+Google Books Price: GBP 19.49
+Google Books URL: http://books.google.co.uk/books?id=JfwJEQAAQBAJ&printsec=frontcover&dq=intitle:Modern+CMake+for+C%2B%2B%2Binauthor:Rafa%C5%82+%C5%9Awidzi%C5%84ski,+Alexander+Kushnir&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $39.99Save $10.00 (20%)
+Amazon.com Reviews: 4.9 of 5 (13 reviews)
+Amazon.com URL: https://www.amazon.com/Modern-CMake-Effortlessly-cutting-edge-high-quality-ebook/dp/B0D2PQ3TS7
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.2 of 5 (79 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Modern-CMake-Discover-approach-packaging/dp/1801070059
+---
+HB Blurb: Key FeaturesGet to grips with CMake and take your C++ development skills to enterprise standardsUse hands-on exercises and self-assessment questions to lock-in your learningUnderstand how to build in an array of quality checks and tests for robust codeWho this book is forThe book is for build engineers and software developers with knowledge of C/C++ programming who are looking to learn CMake to automate the process of building small and large software solutions. If you’re just getting started with CMake, a long-time GNU Make user, or simply looking to brush up on the latest best practices, this book is for you.
+--------------------------------------------------
+
+Book 16:
+Title: Learn Java with Projects
+Author(s): Dr. Seán Kennedy, Maaike van Putten
+---
+ISBN-10: 1837638551 - ISBN-13: 9781837638550 - ASIN: 1837637180
+Published Date: 2023-11-30
+Page Count: 598
+---
+Google Books Price: GBP 19.49
+Google Books URL: http://books.google.co.uk/books?id=tR_nEAAAQBAJ&printsec=frontcover&dq=intitle:Learn+Java+with+Projects%2Binauthor:Dr.+Se%C3%A1n+Kennedy,+Maaike+van+Putten&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (20 reviews)
+Amazon.com URL: https://www.amazon.com/Learn-Java-Projects-everything-professional/dp/1837637180
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (31 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learn-Java-Projects-everything-professional/dp/1837637180
+---
+HB Blurb: Key FeaturesGain a deep understanding of essential topics that will help you progress with JavaLearn by working on mini-projects to help reinforce the concepts you’ve learnedGain comprehensive knowledge of the core concepts of JavaPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for anyone looking to learn the core concepts of Java. If you’re learning programming (and Java) for the first time or want to upskill to Java (with experience in a different language), then this book is for you. Prior knowledge of programming is helpful but not necessary.
+--------------------------------------------------
+
+Book 17:
+Title: Software Testing Strategies
+Author(s): Matthew Heusser, Michael Larsen
+---
+ISBN-10: 1837637857 - ISBN-13: 9781837637850 - ASIN: 1837638020
+Published Date: 2023-12-22
+Page Count: 378
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=lR_nEAAAQBAJ&printsec=frontcover&dq=intitle:Software+Testing+Strategies%2Binauthor:Matthew+Heusser,+Michael+Larsen&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.8 of 5 (12 reviews)
+Amazon.com URL: https://www.amazon.com/Software-Testing-Strategies-testing-guide/dp/1837638020
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (7 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Software-Testing-Strategies-testing-guide/dp/1837638020
+---
+HB Blurb: Key FeaturesGain a solid understanding of software testing and master its multifaceted strategiesEmpower yourself to effectively overcome software testing challengesDevelop actionable real-world testing skills for succeeding in any rolePurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for a broad spectrum of professionals engaged in software development, including programmers, testers, and DevOps specialists. Tailored to those who aspire to elevate their testing practices beyond the basics, the book caters to anyone seeking practical insights and strategies to master the nuanced interplay between human intuition and automation. Whether you are a seasoned developer, meticulous tester, or DevOps professional, this comprehensive guide offers a transformative roadmap to become an adept strategist in the dynamic realm of software quality assurance.
+--------------------------------------------------
+
+Book 18:
+Title: Learn C Programming
+Author(s): Jeff Szuhay
+---
+ISBN-10: 1789348633 - ISBN-13: 9781789348637 - ASIN: 1789349915
+Published Date: 2020-06-26
+Page Count: 624
+---
+Google Books Price: GBP 18.19
+Google Books URL: http://books.google.co.uk/books?id=0gbuDwAAQBAJ&printsec=frontcover&dq=intitle:Learn+C+Programming%2Binauthor:Jeff+Szuhay&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (130 reviews)
+Amazon.com URL: https://www.amazon.com/Learn-Programming-beginners-programming-disciplined/dp/1789349915
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (123 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learn-Programming-beginners-programming-disciplined-ebook/dp/B086SQTXCV
+---
+HB Blurb: Key FeaturesLearn essential C concepts such as variables, data structures, functions, loops, and pointersGrasp the core programming aspects that form the base of many modern programming languagesWork with updated code samples and cover array declaration and initialization in detail in this new editionWho this book is forIf you're an absolute beginner who has basic familiarity with operating a computer, this book will help you learn the most fundamental concepts and practices that you need to know to become a successful C programmer. If you're an experienced programmer, you'll find the full range of C syntax as well as common C idioms covered in the book useful.
+--------------------------------------------------
+
+Book 19:
+Title: C++ High Performance
+Author(s): Björn Andrist, Viktor Sehr
+---
+ISBN-10: 1787124770 - ISBN-13: 9781787124776 - ASIN: B08J8DNM3P
+Published Date: 2018-01-31
+Page Count: 362
+---
+Google Books Price: GBP 18.84
+Google Books URL: http://books.google.co.uk/books?id=EyBKDwAAQBAJ&printsec=frontcover&dq=intitle:C%2B%2B+High+Performance%2Binauthor:Bj%C3%B6rn+Andrist,+Viktor+Sehr&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $35.99Save $12.00 (25%)
+Amazon.com Reviews: 4.5 of 5 (162 reviews)
+Amazon.com URL: https://www.amazon.com/High-Performance-Master-optimizing-functioning-ebook/dp/B08J8DNM3P
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (138 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/High-Performance-Master-optimizing-functioning-ebook/dp/B08J8DNM3P
+---
+HB Blurb: Key FeaturesUpdated to C++20 with completely revised code and more content on error handling, benchmarking, memory allocators, and concurrent programmingExplore the latest C++20 features including concepts, ranges, and coroutinesUtilize C++ constructs and techniques to carry out effective data structure optimization and memory managementWho this book is forIf you're a C++ developer looking to improve the efficiency of your code or just keen to upgrade your skills to the next level, this book is for you.
+--------------------------------------------------
+
+Book 20:
+Title: Julia High Performance
+Author(s): Avik Sengupta
+---
+ISBN-10: 1785887823 - ISBN-13: 9781785887826 - ASIN: B01CGKAJ16
+Published Date: 2016-04-26
+Page Count: 132
+---
+Google Books Price: GBP 14.94
+Google Books URL: http://books.google.co.uk/books?id=TODJDAAAQBAJ&printsec=frontcover&dq=intitle:Julia+High+Performance%2Binauthor:Avik+Sengupta&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $29.99Save $9.00 (23%)
+Amazon.com Reviews: 3.4 of 5 (9 reviews)
+Amazon.com URL: https://www.amazon.com/Julia-High-Performance-Avik-Sengupta-ebook/dp/B01CGKAJ16
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (22 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Julia-High-Performance-Avik-Sengupta/dp/178829811X
+---
+HB Blurb: Key FeaturesLearn the characteristics of high-performance Julia codeUse the power of the GPU to write efficient numerical codeSpeed up your computation with the help of newly introduced shared memory multi-threading in Julia 1.0Who this book is forThis book is for beginners and intermediate Julia programmers who are interested in high-performance technical programming. A basic knowledge of Julia programming is assumed.
+--------------------------------------------------
+
+Book 21:
+Title: Node.js Design Patterns
+Author(s): Mario Casciaro, Luciano Mammino
+---
+ISBN-10: 1783287322 - ISBN-13: 9781783287321 - ASIN: B08CHMDKW2
+Published Date: 2014-12-30
+Page Count: 454
+---
+Google Books Price: GBP 21.44
+Google Books URL: http://books.google.co.uk/books?id=Ys4GBgAAQBAJ&printsec=frontcover&dq=intitle:Node.js+Design+Patterns%2Binauthor:Mario+Casciaro,+Luciano+Mammino&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (309 reviews)
+Amazon.com URL: https://www.amazon.com/Node-js-Design-Patterns-production-grade-applications-ebook/dp/B08CHMDKW2
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (72 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Node-js-Design-Patterns-server-side-applications-ebook/dp/B01D8HIIFU
+---
+HB Blurb: Key FeaturesLearn how to create solid server-side applications by leveraging the full power of Node.jsUnderstand how Node.js works and learn how to take full advantage of its core components as well as the solutions offered by its ecosystemAvoid common mistakes and use proven patterns to create production grade Node.js applicationsWho this book is forThis book is for developers and software architects who have some prior basic knowledge of JavaScript and Node.js and now want to get the most out of these technologies in terms of productivity, design quality, and scalability. Software professionals with intermediate experience in Node.js and JavaScript will also find valuable the more advanced patterns and techniques presented in this book.This book assumes that you have an intermediate understanding of web application development, databases, and software design principles.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Learn LLVM 17
+https://www.amazon.com/Learn-LLVM-17-beginners-libraries/dp/1837631344
+https://www.amazon.co.uk/Learn-LLVM-17-beginners-libraries-ebook/dp/B0CL772K23
+http://books.google.co.uk/books?id=rv_rEAAAQBAJ&pg=PA10&dq=intitle:Learn+LLVM+17%2Binauthor:Kai+Nacke,+Amy+Kwan&hl=&cd=1&source=gbs_api
+
+Book 02 - System Design Guide for Software Professionals
+https://www.amazon.com/System-Design-Guide-Software-Professionals/dp/1805124994
+https://www.amazon.co.uk/System-Design-Guide-Software-Professionals/dp/1805124994
+http://books.google.co.uk/books?id=FLXU0AEACAAJ&dq=intitle:System+Design+Guide+for+Software+Professionals%2Binauthor:Dhirendra+Sinha,+Tejas+Chopra&hl=&cd=1&source=gbs_api
+
+Book 03 - Build Your Own Programming Language
+https://www.amazon.com/Build-Your-Own-Programming-Language/dp/1804618020
+https://www.amazon.co.uk/Build-Your-Own-Programming-Language/dp/1804618020
+http://books.google.co.uk/books?id=bDDxEAAAQBAJ&printsec=frontcover&dq=intitle:Build+Your+Own+Programming+Language%2Binauthor:Clinton+L.+Jeffery,+Imran+Ahmad&hl=&cd=1&source=gbs_api
+
+Book 04 - Modern Python Cookbook
+https://www.amazon.com/Modern-Python-Cookbook-updated-techniques-ebook/dp/B0D79PFNJQ
+https://www.amazon.co.uk/Modern-Python-Cookbook-flawless-expressive-ebook/dp/B08DHZ473S
+http://books.google.co.uk/books?id=Np3cDgAAQBAJ&printsec=frontcover&dq=intitle:Modern+Python+Cookbook%2Binauthor:Steven+F.+Lott&hl=&cd=1&source=gbs_api
+
+Book 05 - Mastering Python Design Patterns
+https://www.amazon.com/Mastering-Python-Design-Patterns-principles-ebook/dp/B0D47SFR24
+https://www.amazon.co.uk/Mastering-Python-Design-Patterns-principles-ebook/dp/B0D47SFR24
+http://books.google.co.uk/books?id=PshsDwAAQBAJ&printsec=frontcover&dq=intitle:Mastering+Python+Design+Patterns%2Binauthor:Kamon+Ayeva,+Sakis+Kasampalis&hl=&cd=1&source=gbs_api
+
+Book 06 - JavaScript Design Patterns
+https://www.amazon.com/Javascript-Design-Patterns-production-grade-applications-ebook/dp/B0CCYS4RQF
+https://www.amazon.co.uk/Javascript-Design-Patterns-production-grade-applications/dp/1804612278
+http://books.google.co.uk/books?id=4bP1EAAAQBAJ&printsec=frontcover&dq=intitle:JavaScript+Design+Patterns%2Binauthor:Hugo+Di+Francesco&hl=&cd=1&source=gbs_api
+
+Book 07 - Expert Delphi
+https://www.amazon.com/Expert-Delphi-cross-platform-application-development-ebook/dp/B0CVLJF7DT
+https://www.amazon.co.uk/Expert-Delphi-cross-platform-application-development/dp/1805121103
+http://books.google.co.uk/books?id=Pg70EAAAQBAJ&pg=PR5&dq=intitle:Expert+Delphi%2Binauthor:Marco+Cant%C3%B9,+Pawe%C5%82+G%C5%82owacki,+Stephen+Ball&hl=&cd=1&source=gbs_api
+
+Book 08 - Data Structures and Algorithms with the C++ STL
+https://www.amazon.com/Data-Structures-Algorithms-STL-practitioners-ebook/dp/B0CVXT5DL1
+https://www.amazon.co.uk/Data-Structures-Algorithms-STL-practitioners-ebook/dp/B0CVXT5DL1
+http://books.google.co.uk/books?id=JCf2EAAAQBAJ&pg=PA68&dq=intitle:Data+Structures+and+Algorithms+with+the+C%2B%2B+STL%2Binauthor:John+Farrier&hl=&cd=1&source=gbs_api
+
+Book 09 - System Programming Essentials with Go
+https://www.amazon.com/System-Programming-Essentials-networking-efficiency-ebook/dp/B0D1CMM831
+https://www.amazon.co.uk/System-Programming-Essentials-networking-efficiency-ebook/dp/B0D1CMM831
+http://books.google.co.uk/books?id=cNUNEQAAQBAJ&printsec=frontcover&dq=intitle:System+Programming+Essentials+with+Go%2Binauthor:Alex+Rios&hl=&cd=1&source=gbs_api
+
+Book 10 - Go Programming - From Beginner to Professional
+https://www.amazon.com/Go-Programming-Beginner-Professional-everything-ebook/dp/B0CZ6WFKNB
+https://www.amazon.co.uk/Go-Programming-Beginner-Professional-everything-ebook/dp/B0CZ6WFKNB
+http://books.google.co.uk/books?id=ScD9EAAAQBAJ&printsec=frontcover&dq=intitle:Go+Programming+-+From+Beginner+to+Professional%2Binauthor:Samantha+Coyle&hl=&cd=1&source=gbs_api
+
+Book 11 - C# Data Structures and Algorithms
+https://www.amazon.com/Data-Structures-Algorithms-efficient-applications-ebook/dp/B0CTTCFL1K
+https://www.amazon.co.uk/Data-Structures-Algorithms-efficient-applications-ebook/dp/B0CTTCFL1K
+http://books.google.co.uk/books?id=Cd9YDwAAQBAJ&printsec=frontcover&dq=intitle:C%23+Data+Structures+and+Algorithms%2Binauthor:Marcin+Jamro&hl=&cd=1&source=gbs_api
+
+Book 12 - Pragmatic Microservices with C# and Azure
+https://www.amazon.com/Pragmatic-Microservices-Azure-microservices-efficiently/dp/1835088295
+https://www.amazon.co.uk/Pragmatic-Microservices-Azure-microservices-efficiently-ebook/dp/B0CXYG32MG
+http://books.google.co.uk/books?id=U9QKEQAAQBAJ&printsec=frontcover&dq=intitle:Pragmatic+Microservices+with+C%23+and+Azure%2Binauthor:Christian+Nagel&hl=&cd=1&source=gbs_api
+
+Book 13 - Asynchronous Programming in Rust
+No Amazon.com URL found
+https://www.amazon.co.uk/Asynchronous-Programming-Rust-asynchronous-programming/dp/1805128132
+http://books.google.co.uk/books?id=Nxlx0AEACAAJ&dq=intitle:Asynchronous+Programming+in+Rust%2Binauthor:Carl+Fredrik+Samson&hl=&cd=1&source=gbs_api
+
+Book 14 - Dancing with Qubits
+https://www.amazon.com/Dancing-Qubits-quantum-computing-change-ebook/dp/B0BQBZSCGM
+https://www.amazon.co.uk/Dancing-Qubits-quantum-computing-change-ebook/dp/B07ZHGY6ZV
+http://books.google.co.uk/books?id=uwAeywEACAAJ&dq=intitle:Dancing+with+Qubits%2Binauthor:Robert+S.+Sutor&hl=&cd=1&source=gbs_api
+
+Book 15 - Modern CMake for C++
+https://www.amazon.com/Modern-CMake-Effortlessly-cutting-edge-high-quality-ebook/dp/B0D2PQ3TS7
+https://www.amazon.co.uk/Modern-CMake-Discover-approach-packaging/dp/1801070059
+http://books.google.co.uk/books?id=JfwJEQAAQBAJ&printsec=frontcover&dq=intitle:Modern+CMake+for+C%2B%2B%2Binauthor:Rafa%C5%82+%C5%9Awidzi%C5%84ski,+Alexander+Kushnir&hl=&cd=1&source=gbs_api
+
+Book 16 - Learn Java with Projects
+https://www.amazon.com/Learn-Java-Projects-everything-professional/dp/1837637180
+https://www.amazon.co.uk/Learn-Java-Projects-everything-professional/dp/1837637180
+http://books.google.co.uk/books?id=tR_nEAAAQBAJ&printsec=frontcover&dq=intitle:Learn+Java+with+Projects%2Binauthor:Dr.+Se%C3%A1n+Kennedy,+Maaike+van+Putten&hl=&cd=1&source=gbs_api
+
+Book 17 - Software Testing Strategies
+https://www.amazon.com/Software-Testing-Strategies-testing-guide/dp/1837638020
+https://www.amazon.co.uk/Software-Testing-Strategies-testing-guide/dp/1837638020
+http://books.google.co.uk/books?id=lR_nEAAAQBAJ&printsec=frontcover&dq=intitle:Software+Testing+Strategies%2Binauthor:Matthew+Heusser,+Michael+Larsen&hl=&cd=1&source=gbs_api
+
+Book 18 - Learn C Programming
+https://www.amazon.com/Learn-Programming-beginners-programming-disciplined/dp/1789349915
+https://www.amazon.co.uk/Learn-Programming-beginners-programming-disciplined-ebook/dp/B086SQTXCV
+http://books.google.co.uk/books?id=0gbuDwAAQBAJ&printsec=frontcover&dq=intitle:Learn+C+Programming%2Binauthor:Jeff+Szuhay&hl=&cd=1&source=gbs_api
+
+Book 19 - C++ High Performance
+https://www.amazon.com/High-Performance-Master-optimizing-functioning-ebook/dp/B08J8DNM3P
+https://www.amazon.co.uk/High-Performance-Master-optimizing-functioning-ebook/dp/B08J8DNM3P
+http://books.google.co.uk/books?id=EyBKDwAAQBAJ&printsec=frontcover&dq=intitle:C%2B%2B+High+Performance%2Binauthor:Bj%C3%B6rn+Andrist,+Viktor+Sehr&hl=&cd=1&source=gbs_api
+
+Book 20 - Julia High Performance
+https://www.amazon.com/Julia-High-Performance-Avik-Sengupta-ebook/dp/B01CGKAJ16
+https://www.amazon.co.uk/Julia-High-Performance-Avik-Sengupta/dp/178829811X
+http://books.google.co.uk/books?id=TODJDAAAQBAJ&printsec=frontcover&dq=intitle:Julia+High+Performance%2Binauthor:Avik+Sengupta&hl=&cd=1&source=gbs_api
+
+Book 21 - Node.js Design Patterns
+https://www.amazon.com/Node-js-Design-Patterns-production-grade-applications-ebook/dp/B08CHMDKW2
+https://www.amazon.co.uk/Node-js-Design-Patterns-server-side-applications-ebook/dp/B01D8HIIFU
+http://books.google.co.uk/books?id=Ys4GBgAAQBAJ&printsec=frontcover&dq=intitle:Node.js+Design+Patterns%2Binauthor:Mario+Casciaro,+Luciano+Mammino&hl=&cd=1&source=gbs_api
+
