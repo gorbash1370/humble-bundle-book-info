@@ -1,0 +1,416 @@
+Humble Tech Book Bundle- Coding Cookbooks 2024 by O'Reilly - O'Reilly
+Processing date: 2024-11-11
+Data retrieved from: https://www.humblebundle.com/books/coding-cookbooks-2024-oreilly-books
+
+Book 01 - JavaScript Cookbook - Adam D. Scott, Matthew MacDonald, Shelley Powers - 4.7 out of 5 (41 reviews)
+Book 02 - Python Cookbook - David Beazley, Brian K. Jones - 4.6 out of 5 (646 reviews)
+Book 03 - Machine Learning with Python Cookbook - Kyle Gallatin, Chris Albon - 4.5 out of 5 (201 reviews)
+Book 04 - R Cookbook - JD Long, Paul Teetor - 4.6 out of 5 (127 reviews)
+Book 05 - Terraform Cookbook - Kerim Satirli, Taylor Dolezal - None found out of 5 (None found reviews)
+Book 06 - Clean Code Cookbook - Maximiliano Contieri - 4.3 out of 5 (5 reviews)
+Book 07 - Gitops Cookbook - Natale Vinto, Alex Soto Bueno - None found out of 5 (None found reviews)
+Book 08 - Kubernetes Cookbook - Sébastien Goasguen, Michael Hausenblas - 4.4 out of 5 (34 reviews)
+Book 09 - C# Cookbook - Joe Mayo - 4.4 out of 5 (14 reviews)
+Book 10 - Excel Cookbook - Dawn Griffiths - 4 out of 5 (1 reviews)
+Book 11 - Google Cloud Cookbook - Rui Santos Costa, Drew Hodun - 4.7 out of 5 (24 reviews)
+Book 12 - Java Cookbook - Ian F. Darwin - 4.6 out of 5 (44 reviews)
+Book 13 - Azure Cookbook - Reza Salehi - 4.5 out of 5 (2 reviews)
+Book 14 - Raspberry Pi Cookbook - Simon Monk - 4.4 out of 5 (11 reviews)
+Book 15 - React Cookbook - David Griffiths, Dawn Griffiths - 4.5 out of 5 (38 reviews)
+Book 16 - Linux Cookbook - Carla Schroder - 4.7 out of 5 (40 reviews)
+Book 17 - bash Cookbook - Carl Albing, JP Voseen - 4.5 out of 5 (52 reviews)
+Book 18 - Powershell Cookbook - Lee Holmes - 4.6 out of 5 (137 reviews)
+Book 19 - Regular Expressions Cookbook - Jan Goyvaerts, Steven Levithan - 4.5 out of 5 (90 reviews)
+Book 20 - RESTful Web API Patterns & Practices Cookbook - Mike Amundsen - 3 out of 5 (2 reviews)
+Book 21 - Web Accessibility Cookbook - Manuel Matuzovic - 4.7 out of 5 (5 reviews)
+Book 22 - Deep Learning Cookbook - Douwe Osgina - 4.5 out of 5 (18 reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: JavaScript Cookbook
+Author(s): Adam D. Scott, Matthew MacDonald, Shelley Powers
+---
+ISBN-10: 1492055700 - ISBN-13: 9781492055709 - ASIN: 1492055751
+Published Date: 2021-07-16
+---
+HB Blurb: Why reinvent the wheel every time you run into a problem with JavaScript? This cookbook is chock-full of code recipes for common programming tasks, along with techniques for building apps that work in any browser. You'll get adaptable code samples that you can add to almost any project--and you'll learn more about JavaScript in the process.The recipes in this book take advantage of the latest features in ECMAScript 2020 and beyond and use modern JavaScript coding standards. You'll learn how to:Set up a productive development environment with a code editor, linter, and test serverWork with JavaScript data types, such as strings, arrays, and BigIntsImprove your understanding of JavaScript functions, including arrow functions, closures,  and generatorsApply object-oriented programming concepts like classes and inheritanceWork with rich media in JavaScript, including audio, video, and SVGsManipulate HTML markup and CSS stylesUse JavaScript anywhere with Node.jsAccess and manipulate remote data with REST, GraphQL, and FetchGet started with the popular Express application-building frameworkPerform asynchronous operations with Promises, async/await, and web workers
+--------------------------------------------------
+
+Book 02:
+Title: Python Cookbook
+Author(s): David Beazley, Brian K. Jones
+---
+ISBN-10: 1449357350 - ISBN-13: 9781449357351 - ASIN: B00DQV4GGY
+Published Date: 2013-05-10
+---
+HB Blurb: If you need help writing programs in Python 3, or want to update older Python 2 code, this book is just the ticket. Packed with practical recipes written and tested with Python 3.3, this unique cookbook is for experienced Python programmers who want to focus on modern tools and idioms.
+Inside, you'll find complete recipes for more than a dozen topics, covering the core Python language as well as tasks common to a wide variety of application domains. Each recipe contains code samples you can use in your projects right away, along with a discussion about how and why the solution works.
+Topics include:
+
+Data Structures and Algorithms
+Strings and Text
+Numbers, Dates, and Times
+Iterators and Generators
+Files and I/O
+Data Encoding and Processing
+Functions
+Classes and Objects
+Metaprogramming
+Modules and Packages
+Network and Web Programming
+Concurrency
+Utility Scripting and System Administration
+Testing, Debugging, and Exceptions
+C Extensions
+--------------------------------------------------
+
+Book 03:
+Title: Machine Learning with Python Cookbook
+Author(s): Kyle Gallatin, Chris Albon
+---
+ISBN-10: 1098135695 - ISBN-13: 9781098135690 - ASIN: 1491989386
+Published Date: 2023-07-27
+---
+HB Blurb: 
+--------------------------------------------------
+
+Book 04:
+Title: R Cookbook
+Author(s): JD Long, Paul Teetor
+---
+ISBN-10: 1492040657 - ISBN-13: 9781492040651 - ASIN: B07TDVNC15
+Published Date: 2019-06-21
+---
+HB Blurb: Perform data analysis with R quickly and efficiently with more than 275 practical recipes in this expanded second edition. The R language provides everything you need to do statistical work, but its structure can be difficult to master. These task-oriented recipes make you productive with R immediately. Solutions range from basic tasks to input and output, general statistics, graphics, and linear regression.Each recipe addresses a specific problem and includes a discussion that explains the solution and provides insight into how it works. If you’re a beginner, R Cookbook will help get you started. If you’re an intermediate user, this book will jog your memory and expand your horizons. You’ll get the job done faster and learn more about R in the process.Create vectors, handle variables, and perform basic functionsSimplify data input and outputTackle data structures such as matrices, lists, factors, and data framesWork with probability, probability distributions, and random variablesCalculate statistics and confidence intervals and perform statistical testsCreate a variety of graphic displaysBuild statistical models with linear regressions and analysis of variance (ANOVA)Explore advanced statistical techniques, such as finding clusters in your data
+--------------------------------------------------
+
+Book 05:
+Title: Terraform Cookbook
+Author(s): Kerim Satirli, Taylor Dolezal
+---
+ISBN-10: 1098108418 - ISBN-13: 9781098108410 - ASIN: 1098108469
+Published Date: 2024-10-03
+---
+HB Blurb: Cloud services and SaaS software permeate every company's IT landscape, requiring a shift from manually provisioned services to a more structured approach, with codification at its core. Terraform provides tools to manage the lifecycle of your IT landscape across thousands of different cloud providers and SaaS platforms.By defining your infrastructure as code you can safely and predictably make changes, modularize crucial building blocks, and create reusable service components. Each recipe in this cookbook addresses a specific problem and prefaces the solution with detailed insights into the "how" and "why".If you're just starting with Terraform and codified infrastructure, this book will help you create a solid foundation, on which you can build for years to come. If you're an advanced user, this guide will help you reaffirm your knowledge and take it to the next level, as you challenge yourself with more complex infrastructure, spread across multiple providers.
+--------------------------------------------------
+
+Book 06:
+Title: Clean Code Cookbook
+Author(s): Maximiliano Contieri
+---
+ISBN-10: 1098144694 - ISBN-13: 9781098144692 - ASIN: B0CHWMP78L
+Published Date: 2023-09-11
+---
+HB Blurb: 
+--------------------------------------------------
+
+Book 07:
+Title: Gitops Cookbook
+Author(s): Natale Vinto, Alex Soto Bueno
+---
+ISBN-10: 1492097438 - ISBN-13: 9781492097433 - ASIN: 1492097470
+Published Date: 2022-12-19
+---
+HB Blurb: Why are so many companies adopting GitOps for their DevOps and cloud native strategy? This reliable framework is quickly becoming the standard method for deploying apps to Kubernetes. With this practical, developer-oriented book, DevOps engineers, developers, IT architects, and SREs will learn the most useful recipes and examples for following GitOps practices.Through their years of experience in application modernization, CI/CD, and automation, authors Alex Soto Bueno and Natale Vinto from Red Hat walk you through all the steps necessary for successful hands-on application development and deployment with GitOps. Once you start using the recipes in this book, you'll have a head start in development cycles on Kubernetes following the GitOps approach.You'll learn how to:
+--------------------------------------------------
+
+Book 08:
+Title: Kubernetes Cookbook
+Author(s): Sébastien Goasguen, Michael Hausenblas
+---
+ISBN-10: 1491979658 - ISBN-13: 9781491979655 - ASIN: 1491979682
+Published Date: 2018-02-14
+---
+HB Blurb: Kubernetes is becoming the de-facto standard for container orchestration and distributed applications management across a microservices framework. With this practical cookbook, you’ll learn hands-on recipes for automating the deployment, scaling, and operations of application containers across clusters of hosts.The book's easy-lookup problem-solution-discussion format helps you find the detailed answers you need—quickly. Kubernetes lets you deploy your applications quickly and predictably, so you can efficiently respond to customer demand. This cookbook, ideal for developers and system administers alike, provides the essential knowledge you need to get there.You’ll find recipes for:
+--------------------------------------------------
+
+Book 09:
+Title: C# Cookbook
+Author(s): Joe Mayo
+---
+ISBN-10: 149209367X - ISBN-13: 9781492093671 - ASIN: 1492093696
+Published Date: 2021-09-28
+---
+HB Blurb: Even if you're familiar with C# syntax, knowing how to combine various language features is a critical skill when you're building applications. This cookbook is packed full of recipes to help you solve issues for C# programming tasks you're likely to encounter. You'll learn tried-and-true techniques to help you achieve greater productivity and improve the quality of your code.Author and independent consultant Joe Mayo shares some of the most important practices you'll need to be successful as a C# developer. Each section of this cookbook describes some useful facet of the C# programming language. These recipes--the result of many years of experience--are proven concepts for solving real-world problems with C#.Recipes in this book will help you:Set up your project, manage object lifetime, and establish patternsImprove code quality through maintainability, error prevention, and correct syntaxUse LINQ to Objects for in-memory data manipulation and querying Understand the differences between dynamic programming and reflectionApply several async programming features you may not be aware ofWork with data using newer libraries and algorithmsLearn different ways to use new C# features, such as pattern matching and records
+--------------------------------------------------
+
+Book 10:
+Title: Excel Cookbook
+Author(s): Dawn Griffiths
+---
+ISBN-10: 1098143299 - ISBN-13: 9781098143299 - ASIN: 1098143329
+Published Date: 2024-05-14
+---
+HB Blurb: Filled with tips, tricks, and techniques, this easy-to-use book is the perfect resource for intermediate to advanced users of Excel. You'll find complete recipes for more than a dozen topics covering formulas, PivotTables, charts, Power Query, and more. Each recipe poses a particular problem and outlines a solution that you can put to use right away—without having to comb through tutorial pages.Whether you're a data analyst, project manager, or financial analyst, author Dawn Griffiths directs you straight to the answers you need. Ideal as a quick reference, Excel Cookbook is also perfect for learning how to work in a more efficient way, leading to greater productivity on the job. With this book, you'll jump in and get answers to your questions—fast.This cookbook shows you how to:
+--------------------------------------------------
+
+Book 11:
+Title: Google Cloud Cookbook
+Author(s): Rui Santos Costa, Drew Hodun
+---
+ISBN-10: 1492092843 - ISBN-13: 9781492092841 - ASIN: B09J2CF59Y
+Published Date: 2021-10-08
+---
+HB Blurb: Get quick hands-on experience with Google Cloud. This cookbook provides a variety of self-contained recipes that show you how to use Google Cloud services for your enterprise application. Whether you're looking for practical ways to apply microservices, AI, analytics, security, or networking solutions, these recipes take you step-by-step through the process and provide discussions that explain how and why the recipes work.Ideal for system engineers and administrators, developers, network and database administrators, and data analysts, this cookbook helps you get started with Google Cloud regardless of your level of experience. Google veterans Rui Costa and Drew Hodun also cover advanced-level Google Cloud services for those who have appreciable experience with the platform.Learn how to get started with Google CloudUnderstand the depth of services Google Cloud providesGain hands-on experience using practical examples and labsExplore topics that include BigQuery, Cloud Run, and KubernetesBuild and run mobile and web applications on Google CloudExamine ways to build your cloud applications for scaleBuild a minimum viable product (MVP) app to use in productionLearn data platform and pipeline skills
+--------------------------------------------------
+
+Book 12:
+Title: Java Cookbook
+Author(s): Ian F. Darwin
+---
+ISBN-10: 9780596001704 - ISBN-13: 0596001703 - ASIN: 1492072583
+Published Date: 2001
+---
+HB Blurb: Java continues to grow and evolve, and this cookbook continues to evolve in tandem. With this guide, you’ll get up to speed right away with hundreds of hands-on recipes across a broad range of Java topics. You’ll learn useful techniques for everything from string handling and functional programming to network communication.Each recipe includes self-contained code solutions that you can freely use, along with a discussion of how and why they work. If you’re familiar with Java basics, this cookbook will bolster your knowledge of the language and its many recent changes, including how to apply them in your day-to-day development. This updated edition covers changes through Java 12 and parts of 13 and 14.Recipes include: Methods for compiling, running, and debuggingPackaging Java classes and building applicationsManipulating, comparing, and rearranging textRegular expressions for string and pattern matchingHandling numbers, dates, and timesStructuring data with collections, arrays, and other typesObject-oriented and functional programming techniquesInput/output, directory, and filesystem operationsNetwork programming on both client and serverProcessing JSON for data interchangeMultithreading and concurrencyUsing Java in big data applicationsInterfacing Java with other languages
+--------------------------------------------------
+
+Book 13:
+Title: Azure Cookbook
+Author(s): Reza Salehi
+---
+ISBN-10: 1098135768 - ISBN-13: 9781098135768 - ASIN: B0C92CBLGP
+Published Date: 2022-10-10
+---
+HB Blurb: How do you deal with the problems you face when using Azure? This practical guide provides over 75 recipes to help you to work with common Azure issues in everyday scenarios. That includes key tasks like setting up permissions for a storage account, working with Cosmos DB APIs, managing Azure role-based access control, governing your Azure subscriptions using Azure Policy, and much more.
+Author Reza Salehi has assembled real-world recipes that enable you to grasp key Azure services and concepts quickly. Each recipe includes CLI scripts that you can execute in your own Azure account. Recipes also explain the approach and provide meaningful context. The solutions in this cookbook will take you beyond theory and help you understand Azure services in practice.
+You'll find recipes that let you:
+
+
+Store data in an Azure storage account or in a data lake
+Work with relational and nonrelational databases in Azure
+Manage role-based access control (RBAC) for Azure resources
+Safeguard secrets in Azure Key Vault
+Govern your Azure subscription using Azure Policy
+Use CLI code to construct your application or fix a particular problem
+--------------------------------------------------
+
+Book 14:
+Title: Raspberry Pi Cookbook
+Author(s): Simon Monk
+---
+ISBN-10: 1449365302 - ISBN-13: 9781449365301 - ASIN: B0BPK31VRD
+Published Date: 2013-12-10
+---
+HB Blurb: With millions of new users and several new models, the Raspberry Pi ecosystem continues to expand—along with many new questions about the Pi’s capabilities. The third edition of this popular cookbook provides more than 200 hands-on recipes that show you how to run this tiny low-cost computer with Linux; program it with Python; hook it up to sensors, motors, and Arduino boards; and even use it with the internet of things (IoT).Prolific hacker and author Simon Monk also teaches basic principles to help you use new technologies with the Raspberry Pi. This cookbook is ideal for programmers and hobbyists familiar with the Pi through resources such as Getting Started with Raspberry Pi (O’Reilly). Code examples from the book are available on GitHub.Set up your Raspberry Pi and connect to a networkWork with its Linux-based operating systemProgram your Raspberry Pi with PythonGive your Pi "eyes" with computer visionControl hardware through the GPIO connectorUse your Raspberry Pi to run different types of motorsWork with switches, keypads, and other digital inputsUse sensors to measure temperature, light, and distanceConnect to IoT devices in various ways and automate your home
+--------------------------------------------------
+
+Book 15:
+Title: React Cookbook
+Author(s): David Griffiths, Dawn Griffiths
+---
+ISBN-10: 1492085812 - ISBN-13: 9781492085812 - ASIN: 1492085847
+Published Date: 2021-08-11
+---
+HB Blurb: React helps you create and work on an app in just a few minutes. But learning how to put all the pieces together is hard. How do you validate a form? Or implement a complex multistep user action without writing messy code? How do you test your code? Make it reusable? Wire it to a backend? Keep it easy to understand? TheReact Cookbook delivers answers fast.Many books teach you how to get started, understand the framework, or use a component library with React, but very few provide examples to help you solve particular problems. This easy-to-use cookbook includes the example code developers need to unravel the most common problems when using React, categorized by topic area and problem.You'll learn how to:Build a single-page application in React using a rich UICreate progressive web applications that users can install and work with offlineIntegrate with backend services such as REST and GraphQLAutomatically test for accessibility problems in your applicationSecure applications with fingerprints and security tokens using WebAuthnDeal with bugs and avoid common functional and performance problems
+--------------------------------------------------
+
+Book 16:
+Title: Linux Cookbook
+Author(s): Carla Schroder
+---
+ISBN-10: 1492087130 - ISBN-13: 9781492087137 - ASIN: B09CLVL4MY
+Published Date: 2021-08-13
+---
+HB Blurb: This handy cookbook teaches new-to-intermediate Linux users the essential skills necessary to manage a Linux system, using both graphical and command-line tools. Whether you run Linux in embedded, desktop, server, or cloud or virtual environments, the fundamental skills are the same. This book aims to get you up and running quickly, with copy-paste examples.Carla Schroder provides recipes that cover specific problems, with discussions that explain how each recipe works, as well as references for additional study. You'll learn how to: Use systemd, the new comprehensive service manager Build simple or complex firewalls with firewalld Set up secure network connections for Linux systems and mobile devices Rescue nonbooting systems Reset lost passwords on Linux and Windows Use dnsmasq to simplify managing your LAN name services Manage users and groups and control access to files Probe your computer hardware and monitor hardware health Manage the GRUB bootloader and multiboot Linux and Windows Keep accurate time across your network with the newest tools Build an internet router/firewall on Raspberry Pi Manage filesystems and partitioning
+--------------------------------------------------
+
+Book 17:
+Title: bash Cookbook
+Author(s): Carl Albing, JP Voseen
+---
+ISBN-10: 1491975288 - ISBN-13: 9781491975282 - ASIN: B076TZTYMR
+Published Date: 2017-10-04
+---
+HB Blurb: For system administrators, programmers, and end users, shell command or carefully crafted shell script can save you time and effort, or facilitate consistency and repeatability for a variety of common tasks. This cookbook provides more than 300 practical recipes for using bash, the popular Unix shell that enables you to harness and customize the power of any Unix or Linux system.
+Ideal for new and experienced users alike, including proficient Windows users and sysadmins, this updated second edition helps you solve a wide range of problems. You'll learn ways to handle input/output, file manipulation, program execution, administrative tasks, and many other challenges. Each recipe includes one or more scripting examples and a discussion of why the solution works.
+You'll find recipes for problems, including:
+
+Standard output and input, and executing commands
+Shell variables, shell logic, and arithmetic
+Intermediate shell tools and advanced scripting
+Searching for files with find, locate, and slocate
+Working with dates and times
+Creating shell scripts for various end-user tasks
+Working with tasks that require parsing
+Writing secure shell scripts
+Configuring and customizing bash
+--------------------------------------------------
+
+Book 18:
+Title: Powershell Cookbook
+Author(s): Lee Holmes
+---
+ISBN-10: 1098101561 - ISBN-13: 9781098101565 - ASIN: B097D18BFT
+Published Date: 2021-06-16
+---
+HB Blurb: How do you use PowerShell to navigate the filesystem, manage files and folders, or retrieve a web page? This introduction to the PowerShell language and scripting environment provides more than 400 task-oriented recipes to help you solve all kinds of problems. Intermediate to advanced system administrators will find more than 100 tried-and-tested scripts they can copy and use immediately.Updated for PowerShell 5.1 and Open Source PowerShell up to 7.0 and beyond, this comprehensive cookbook includes hands-on recipes for common tasks and administrative jobs that you can apply whether you're on the client or server version of Windows. You also get quick references to technologies used in conjunction with PowerShell, including regular expressions, the XPath language, format specifiers, and frequently referenced .NET, COM, and WMI classes.Learn how to use PowerShell on Windows 10 and Windows Server 2019Tour PowerShell's core features, including the command model, object-based pipeline, and ubiquitous scriptingMaster fundamentals such as the interactive shell, pipeline, and object conceptsPerform common tasks that involve working with files, internet-connected scripts, user interaction, and moreSolve tasks in systems and enterprise management, such as working with Active Directory and the filesystem
+--------------------------------------------------
+
+Book 19:
+Title: Regular Expressions Cookbook
+Author(s): Jan Goyvaerts, Steven Levithan
+---
+ISBN-10: 1449327494 - ISBN-13: 9781449327491 - ASIN: 1449319432
+Published Date: 2012-08-13
+---
+HB Blurb: Take the guesswork out of using regular expressions. With more than 140 practical recipes, this cookbook provides everything you need to solve a wide range of real-world problems. Novices will learn basic skills and tools, and programmers and experienced users will find a wealth of detail. Each recipe provides samples you can use right away.
+This revised edition covers the regular expression flavors used by C#, Java, JavaScript, Perl, PHP, Python, Ruby, and VB.NET. You'll learn powerful new tricks, avoid flavor-specific gotchas, and save valuable time with this huge library of practical solutions.
+
+Learn regular expressions basics through a detailed tutorial
+Use code listings to implement regular expressions with your language of choice
+Understand how regular expressions differ from language to language
+Handle common user input with recipes for validation and formatting
+Find and manipulate words, special characters, and lines of text
+Detect integers, floating-point numbers, and other numerical formats
+Parse source code and process log files
+Use regular expressions in URLs, paths, and IP addresses
+Manipulate HTML, XML, and data exchange formats
+Discover little-known regular expression tricks and techniques
+--------------------------------------------------
+
+Book 20:
+Title: RESTful Web API Patterns & Practices Cookbook
+Author(s): Mike Amundsen
+---
+ISBN-10: 1098106717 - ISBN-13: 9781098106713 - ASIN: 1098106741
+Published Date: 2022-10-17
+---
+HB Blurb: Many organizations today orchestrate and maintain apps that rely on other people's services. Software designers, developers, and architects in those companies often work to coordinate and maintain apps based on existing microservices, including third-party services that run outside their ecosystem. This cookbook provides proven recipes to help you get those many disparate parts to work together in your network.Author Mike Amundsen provides step-by-step solutions for finding, connecting, and maintaining applications designed and built by people outside the organization. Whether you're working on human-centric mobile apps or creating high-powered machine-to-machine solutions, this guide shows you the rules, routines, commands, and protocols—the glue—that integrates individual microservices so they can function together in a safe, scalable, and reliable way.Design and build individual microservices that can successfully interact on the open webIncrease interoperability by designing services that share a common understandingBuild client applications that can adapt to evolving services without breakingCreate resilient and reliable microservices that support peer-to-peer interactions on the webUse web-based service registries to support runtime "find-and-bind" operations that manage external dependencies in real timeImplement stable workflows to accomplish complex, multiservice tasks consistently
+--------------------------------------------------
+
+Book 21:
+Title: Web Accessibility Cookbook
+Author(s): Manuel Matuzovic
+---
+ISBN-10: 1098145569 - ISBN-13: 9781098145569 - ASIN: B0D74TJF5B
+Published Date: 2024-06-14
+---
+HB Blurb: Frontend developers have to consider many things: browser compatibility, usability, performance, scalability, SEO, and other best practices. But the most fundamental aspect of creating websites is one that often falls short: accessibility. Accessibility is the cornerstone of any website, and if a website is inaccessible, users won't be able to interact with it, obtain information, sign up for services, or buy products.The Web Accessibility Cookbook provides you with dozens of recipes to help you avoid these failures. You'll learn how to build common components, such as main navigation, filters, and dialogs, in an accessible manner. Each recipe not only explains how to build things but also why. Author Manuel Matuzovic provides the knowledge you need to create your own accessible components and address your users' varying needs, abilities, and preferences.With this practical guide, you will:
+--------------------------------------------------
+
+Book 22:
+Title: Deep Learning Cookbook
+Author(s): Douwe Osgina
+---
+ISBN-10: 1491995793 - ISBN-13: 9781491995792 - ASIN: B07DK1ZZXT
+Published Date: 2018-06-05
+---
+HB Blurb: Deep learning doesn't have to be intimidating. Until recently, this machine-learning method required years of study, but with frameworks such as Keras and Tensorflow, software engineers without a background in machine learning can quickly enter the field. With the recipes in this cookbook, you'll learn how to solve deep-learning problems for classifying and generating text, images, and music.Each chapter consists of several recipes needed to complete a single project, such as training a music recommending system. Author Douwe Osinga also provides a chapter with half a dozen techniques to help you if you're stuck. Examples are written in Python with code available on GitHub as a set of Python notebooks.You'll learn how to:Create applications that will serve real usersUse word embeddings to calculate text similarityBuild a movie recommender system based on Wikipedia linksLearn how AIs see the world by visualizing their internal stateBuild a model to suggest emojis for pieces of textReuse pretrained networks to build an inverse image search serviceCompare how GANs, autoencoders and LSTMs generate iconsDetect music styles and index song collections
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - JavaScript Cookbook
+https://www.amazon.com/JavaScript-Cookbook-Programming-Adam-Scott/dp/1492055751
+https://www.amazon.co.uk/JavaScript-Cookbook-Adam-D-Scott-ebook/dp/B099P4V7M1
+http://books.google.co.uk/books?id=4NA4EAAAQBAJ&printsec=frontcover&dq=intitle:JavaScript+Cookbook%2Binauthor:Adam+D.+Scott,+Matthew+MacDonald,+Shelley+Powers&hl=&cd=1&source=gbs_api
+
+Book 02 - Python Cookbook
+https://www.amazon.com/Python-Cookbook-Recipes-Mastering-ebook/dp/B00DQV4GGY
+https://www.amazon.co.uk/Python-Cookbook-David-Beazley/dp/1449340377
+http://books.google.co.uk/books?id=S_SJ2LaZH8EC&printsec=frontcover&dq=intitle:Python+Cookbook%2Binauthor:David+Beazley,+Brian+K.+Jones&hl=&cd=1&source=gbs_api
+
+Book 03 - Machine Learning with Python Cookbook
+https://www.amazon.com/Machine-Learning-Python-Cookbook-Preprocessing/dp/1491989386
+https://www.amazon.co.uk/Machine-Learning-Python-Cookbook-Gallatin-ebook/dp/B0CD15GLSQ
+http://books.google.co.uk/books?id=Wq3NEAAAQBAJ&printsec=frontcover&dq=intitle:Machine+Learning+with+Python+Cookbook%2Binauthor:Kyle+Gallatin,+Chris+Albon&hl=&cd=1&source=gbs_api
+
+Book 04 - R Cookbook
+https://www.amazon.com/Cookbook-Recipes-Analysis-Statistics-Graphics-ebook/dp/B07TDVNC15
+https://www.amazon.co.uk/Cookbook-Recipes-Analysis-Statistics-Graphics-ebook/dp/B07TDVNC15
+http://books.google.co.uk/books?id=GlKeDwAAQBAJ&printsec=frontcover&dq=intitle:R+Cookbook%2Binauthor:JD+Long,+Paul+Teetor&hl=&cd=1&source=gbs_api
+
+Book 05 - Terraform Cookbook
+https://www.amazon.com/Terraform-Cookbook-Recipes-Codifying-Infrastructure/dp/1098108469
+https://www.amazon.co.uk/Terraform-Cookbook-Kerim-Satirli-ebook/dp/B0DHV6TPYT
+http://books.google.co.uk/books?id=ixonEQAAQBAJ&printsec=frontcover&dq=intitle:Terraform+Cookbook%2Binauthor:Kerim+Satirli,+Taylor+Dolezal&hl=&cd=1&source=gbs_api
+
+Book 06 - Clean Code Cookbook
+https://www.amazon.com/Clean-Code-Cookbook-Maximiliano-Contieri-ebook/dp/B0CHWMP78L
+https://www.amazon.co.uk/Clean-Code-Cookbook-Recipes-Improve/dp/1098144724
+http://books.google.co.uk/books?id=K5rWEAAAQBAJ&printsec=frontcover&dq=intitle:Clean+Code+Cookbook%2Binauthor:Maximiliano+Contieri&hl=&cd=1&source=gbs_api
+
+Book 07 - Gitops Cookbook
+No Amazon.com URL found
+https://www.amazon.co.uk/Gitops-Cookbook-Kubernetes-Automation-Practice/dp/1492097470
+http://books.google.co.uk/books?id=TOqiEAAAQBAJ&printsec=frontcover&dq=intitle:Gitops+Cookbook%2Binauthor:Natale+Vinto,+Alex+Soto+Bueno&hl=&cd=1&source=gbs_api
+
+Book 08 - Kubernetes Cookbook
+https://www.amazon.com/Kubernetes-Cookbook-Building-Native-Applications/dp/1491979682
+https://www.amazon.co.uk/Kubernetes-Cookbook-S%C3%A9bastien-Goasguen/dp/1491979682
+http://books.google.co.uk/books?id=HBlMDwAAQBAJ&printsec=frontcover&dq=intitle:Kubernetes+Cookbook%2Binauthor:S%C3%A9bastien+Goasguen,+Michael+Hausenblas&hl=&cd=1&source=gbs_api
+
+Book 09 - C# Cookbook
+https://www.amazon.com/Cookbook-Modern-Recipes-Professional-Developers/dp/1492093696
+https://www.amazon.co.uk/C-Cookbook-Joe-Mayo-ebook/dp/B09HFN4J1F
+http://books.google.co.uk/books?id=iFFFEAAAQBAJ&printsec=frontcover&dq=intitle:C%23+Cookbook%2Binauthor:Joe+Mayo&hl=&cd=1&source=gbs_api
+
+Book 10 - Excel Cookbook
+https://www.amazon.com/Excel-Cookbook-Recipes-Mastering-Microsoft/dp/1098143329
+https://www.amazon.co.uk/Excel-Cookbook-Recipes-Mastering-Microsoft-ebook/dp/B0D1VQ9M2S
+http://books.google.co.uk/books?id=EtIHEQAAQBAJ&printsec=frontcover&dq=intitle:Excel+Cookbook%2Binauthor:Dawn+Griffiths&hl=&cd=1&source=gbs_api
+
+Book 11 - Google Cloud Cookbook
+https://www.amazon.com/Google-Cloud-Cookbook-Rui-Costa-ebook/dp/B09J2CF59Y
+https://www.amazon.co.uk/Google-Cloud-Cookbook-Rui-Costa-ebook/dp/B09J2CF59Y
+http://books.google.co.uk/books?id=ngtHEAAAQBAJ&printsec=frontcover&dq=intitle:Google+Cloud+Cookbook%2Binauthor:Rui+Santos+Costa,+Drew+Hodun&hl=&cd=1&source=gbs_api
+
+Book 12 - Java Cookbook
+https://www.amazon.com/Java-Cookbook-Problems-Solutions-Developers/dp/1492072583
+https://www.amazon.co.uk/Java-Cookbook-Problems-Solutions-Developers/dp/1492072583
+http://books.google.co.uk/books?id=l_juVVLMMS4C&printsec=frontcover&dq=intitle:Java+Cookbook%2Binauthor:Ian+F.+Darwin&hl=&cd=1&source=gbs_api
+
+Book 13 - Azure Cookbook
+https://www.amazon.com/Azure-Cookbook-Reza-Salehi-ebook/dp/B0C92CBLGP
+https://www.amazon.co.uk/Azure-Cookbook-Reza-Salehi-ebook/dp/B0C92CBLGP
+http://books.google.co.uk/books?id=8sTGEAAAQBAJ&printsec=frontcover&dq=intitle:Azure+Cookbook%2Binauthor:Reza+Salehi&hl=&cd=1&source=gbs_api
+
+Book 14 - Raspberry Pi Cookbook
+https://www.amazon.com/Raspberry-Pi-Cookbook-Simon-Monk-ebook/dp/B0BPK31VRD
+https://www.amazon.co.uk/Raspberry-Pi-Cookbook-Simon-Monk-ebook/dp/B0BPK31VRD
+http://books.google.co.uk/books?id=T0JRAgAAQBAJ&pg=PA311&dq=intitle:Raspberry+Pi+Cookbook%2Binauthor:Simon+Monk&hl=&cd=1&source=gbs_api
+
+Book 15 - React Cookbook
+https://www.amazon.com/React-Cookbook-Recipes-Mastering-Framework/dp/1492085847
+https://www.amazon.co.uk/React-Cookbook-Recipes-Mastering-Framework/dp/1492085847
+http://books.google.co.uk/books?id=5_o8EAAAQBAJ&printsec=frontcover&dq=intitle:React+Cookbook%2Binauthor:David+Griffiths,+Dawn+Griffiths&hl=&cd=1&source=gbs_api
+
+Book 16 - Linux Cookbook
+https://www.amazon.com/Linux-Cookbook-Carla-Schroder-ebook/dp/B09CLVL4MY
+https://www.amazon.co.uk/Linux-Cookbook-Carla-Schroder-ebook/dp/B09CLVL4MY
+http://books.google.co.uk/books?id=oGE9EAAAQBAJ&printsec=frontcover&dq=intitle:Linux+Cookbook%2Binauthor:Carla+Schroder&hl=&cd=1&source=gbs_api
+
+Book 17 - bash Cookbook
+https://www.amazon.com/bash-Cookbook-Solutions-Examples-Users-ebook/dp/B076TZTYMR
+https://www.amazon.co.uk/bash-Cookbook-2e-Carl-Albing/dp/1491975334
+http://books.google.co.uk/books?id=y6A4DwAAQBAJ&printsec=frontcover&dq=intitle:bash+Cookbook%2Binauthor:Carl+Albing,+JP+Voseen&hl=&cd=1&source=gbs_api
+
+Book 18 - Powershell Cookbook
+https://www.amazon.com/PowerShell-Cookbook-Scripting-Ubiquitous-Object-Based-ebook/dp/B097D18BFT
+https://www.amazon.co.uk/PowerShell-Cookbook-Scripting-Ubiquitous-Object-Based-ebook/dp/B097D18BFT
+http://books.google.co.uk/books?id=ZYgzEAAAQBAJ&printsec=frontcover&dq=intitle:Powershell+Cookbook%2Binauthor:Lee+Holmes&hl=&cd=1&source=gbs_api
+
+Book 19 - Regular Expressions Cookbook
+https://www.amazon.com/Regular-Expressions-Cookbook-Solutions-Programming/dp/1449319432
+https://www.amazon.co.uk/Regular-Expressions-Cookbook-Jan-Goyvaerts/dp/1449319432
+http://books.google.co.uk/books?id=dgyODwAAQBAJ&printsec=frontcover&dq=intitle:Regular+Expressions+Cookbook%2Binauthor:Jan+Goyvaerts,+Steven+Levithan&hl=&cd=1&source=gbs_api
+
+Book 20 - RESTful Web API Patterns & Practices Cookbook
+https://www.amazon.com/RESTful-Patterns-Practices-Cookbook-Orchestrating/dp/1098106741
+https://www.amazon.co.uk/Restful-Patterns-Practices-Cookbook-Orchestrating/dp/1098106741
+http://books.google.co.uk/books?id=xIyVEAAAQBAJ&printsec=frontcover&dq=intitle:RESTful+Web+API+Patterns+%26+Practices+Cookbook%2Binauthor:Mike+Amundsen&hl=&cd=1&source=gbs_api
+
+Book 21 - Web Accessibility Cookbook
+https://www.amazon.com/Web-Accessibility-Cookbook-Inclusive-Experiences-ebook/dp/B0D74TJF5B
+https://www.amazon.co.uk/Web-Accessibility-Cookbook-Inclusive-Experiences/dp/1098145607
+http://books.google.co.uk/books?id=SbAOEQAAQBAJ&printsec=frontcover&dq=intitle:Web+Accessibility+Cookbook%2Binauthor:Manuel+Matuzovic&hl=&cd=1&source=gbs_api
+
+Book 22 - Deep Learning Cookbook
+https://www.amazon.com/Deep-Learning-Cookbook-Practical-Recipes-ebook/dp/B07DK1ZZXT
+https://www.amazon.co.uk/Deep-Learning-Cookbook-Douwe-Osinga/dp/149199584X
+http://books.google.co.uk/books?id=TMFeDwAAQBAJ&printsec=frontcover&dq=intitle:Deep+Learning+Cookbook%2Binauthor:Douwe+Osgina&hl=&cd=1&source=gbs_api
+
