@@ -1,0 +1,462 @@
+Humble Tech Book Bundle- Become a Python Expert by Pearson Encore - Pearson
+Processing date: 2024-11-20
+Data retrieved from: https://www.humblebundle.com/books/become-python-expert-pearson-books-encore
+
+Book 01 - Exclusive Discounts on InformIT.com - Unknown - None found out of 5 (None found reviews)
+Book 02 - Pandas for Everyone, 2/e - Daniel Chen - 4.7 out of 5 (9 reviews)
+Book 03 - Data Structures and Algorithms in Python - John Canning, Alan Broder, and Robert Lafore - 4.9 out of 5 (32 reviews)
+Book 04 - Python Distilled - David Beazley - 4.6 out of 5 (200 reviews)
+Book 05 - Effective Python - Unknown - 4.7 out of 5 (413 reviews)
+Book 06 - Machine Learning with Python for Everyone - Fenner - 4.6 out of 5 (38 reviews)
+Book 07 - Deitel: Python for Programmers - Paul Deitel and Harvey Deitel - 4.3 out of 5 (130 reviews)
+Book 08 - Learn Python 3 the Hard Way - Zed A. Shaw - None found out of 5 (None found reviews)
+Book 09 - Learn Enough Python to Be Dangerous - Hartl - 5 out of 5 (3 reviews)
+Book 10 - Foundational Python for Data Science - Behrman - 4.4 out of 5 (8 reviews)
+Book 11 - Supercharged Python - Brian Overland and John Bennett - 4.6 out of 5 (114 reviews)
+Book 12 - Python without Fear - Overland - 4.5 out of 5 (45 reviews)
+Book 13 - Learn More Python 3 the Hard Way - Zed A. Shaw - None found out of 5 (None found reviews)
+Book 14 - Python 3 Standard Library by Example - Doug Hellmann - 4.5 out of 5 (127 reviews)
+Book 15 - Python Programming with Design Patterns - James W. Cooper - 3.3 out of 5 (7 reviews)
+Book 16 - Begin to Code with Python - Miles - None found out of 5 (None found reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Exclusive Discounts on InformIT.com
+Author(s): Unknown
+---
+ISBN-10:  - ISBN-13:  - ASIN: No ASIN found
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/kindle-ebooks-books/b?node=341689031
+---
+HB Blurb: Receive a special discount offer on the list price of our content when you purchase the entire 15 item bundle! Save 70% off Video Courses and 40% Off Books (print, eBook and Premium Editions) on InformIT.com. The offer expires February 1, 2025.
+--------------------------------------------------
+
+Book 02:
+Title: Pandas for Everyone, 2/e
+Author(s): Daniel Chen
+---
+ISBN-10:  - ISBN-13:  - ASIN: 0137891156
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (9 reviews)
+Amazon.com URL: https://www.amazon.com/Pandas-Everyone-Analysis-Addison-Wesley-Analytics/dp/0137891156
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (9 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Pandas-Everyone-Analysis-Addison-Wesley-Analytics/dp/0137891156
+---
+HB Blurb: Pandas for Everyone, 2nd Edition, brings practical knowledge and insight for solving problems with Pandas, even if you’re new to Python data analysis. Daniel Y. Chen introduces key concepts through simple but practical examples, incrementally building on them to solve more difficult, real-world data science problems such as using regularization to prevent data overfitting, or when to use unsupervised machine learning methods to find the underlying structure in data sets. New features to the second edition:  -Extended coverage of plotting and the seaborn data visualization library -Expanded examples and resources -Updated Python 3.9 code and packages coverage, including statsmodels and scikit-learn libraries -Online bonus material on geopandas, Dask, and creating interactive graphics with Altair
+--------------------------------------------------
+
+Book 03:
+Title: Data Structures and Algorithms in Python
+Author(s): John Canning, Alan Broder, and Robert Lafore
+---
+ISBN-10: 0134855892 - ISBN-13: 9780134855899 - ASIN: 013485568X
+Published Date: 2022-09-06
+Page Count: 1416
+---
+Google Books Price: GBP 32.49
+Google Books URL: http://books.google.co.uk/books?id=dNnPEAAAQBAJ&printsec=frontcover&dq=intitle:Data+Structures+and+Algorithms+in+Python%2Binauthor:John+Canning,+Alan+Broder,+and+Robert+Lafore&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $41.49Save $13.50 (25%)
+Amazon.com Reviews: 4.9 of 5 (32 reviews)
+Amazon.com URL: https://www.amazon.com/Structures-Algorithms-Python-Robert-Lafore/dp/013485568X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (32 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Structures-Algorithms-Python-Robert-Lafore/dp/013485568X
+---
+HB Blurb: This practical introduction to data structures and algorithms can help every programmer write more efficient software. Building on Robert Lafore's legendary Java-based guide, this book helps you understand exactly how data structures and algorithms operate. You'll learn how to efficiently apply them with the Python language and scale your code to handle big data challenges. The examples and illustrations are so clear, you can understand them even if you're a near-beginner. • Learn core computer science skills beyond mere coding • Understand how data structures enhance efficiency • Grasp the impact of data organization and algorithms on resource utilization • Develop versatile data structure implementation skills • Choose optimal structures/algorithms for each problem, avoiding inefficiencies.
+--------------------------------------------------
+
+Book 04:
+Title: Python Distilled
+Author(s): David Beazley
+---
+ISBN-10: 0134173376 - ISBN-13: 9780134173375 - ASIN: 0134173279
+Published Date: 2021-08-24
+Page Count: 1350
+---
+Google Books Price: GBP 21.44
+Google Books URL: http://books.google.co.uk/books?id=RtnPEAAAQBAJ&printsec=frontcover&dq=intitle:Python+Distilled%2Binauthor:David+Beazley&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $35.99Save $12.00 (25%)
+Amazon.com Reviews: 4.6 of 5 (200 reviews)
+Amazon.com URL: https://www.amazon.com/Python-Essential-Reference-Developers-Library/dp/0134173279
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (200 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Python-Distilled-David-M-Beazley-ebook/dp/B094CMKN2J
+---
+HB Blurb: Python educator Dave Beazley’s concise handbook focuses on the core of the Python programming language, with code examples to illuminate how Python works and how to structure programs that can be more easily explained, tested, and debugged. Rather than covering every possible feature and quirk of a 30-year-old language, this pragmatic guide provides a concise narrative related to fundamental programming topics that form the foundation for Python projects of any size including: -Data abstraction, control flow, program structure, functions, objects, modules, generators, classes, I/O handling, and dicts. -Gaining proficiency in functional programming idioms, controlling objects, and understanding class behavior. -Planning for project growth by comprehending modules and packages/
+--------------------------------------------------
+
+Book 05:
+Title: Effective Python
+Author(s): Unknown
+---
+ISBN-10:  - ISBN-13:  - ASIN: B07ZG18BH3
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: $28.99Save $11.00 (28%)
+Amazon.com Reviews: 4.7 of 5 (413 reviews)
+Amazon.com URL: https://www.amazon.com/Effective-Python-Specific-Software-Development-ebook/dp/B07ZG18BH3
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (404 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Effective-Python-Specific-Software-Development-ebook/dp/B07ZG18BH3
+---
+HB Blurb: The second edition of Effective Python helps you master a truly "Pythonic" approach to programming, leveraging Python's full power for robust and high-performing code. Author Brett Slatkin shares his experience from building Python infrastructure at Google. Discover hidden quirks and idioms that affect code behavior and performance, and learn the best ways to accomplish key tasks for code that's easier to understand, maintain, and improve. Key features include: - 30 actionable guidelines covering major Python areas - Detailed explanations and examples for statements, expressions, and built-in types. - Best practices for writing functions, comprehensions, classes, concurrency, debugging, and collaborative development.
+--------------------------------------------------
+
+Book 06:
+Title: Machine Learning with Python for Everyone
+Author(s): Fenner
+---
+ISBN-10: 0134845641 - ISBN-13: 9780134845647 - ASIN: B07VRSJ1GB
+Published Date: 2019-07-30
+Page Count: 1376
+---
+Google Books Price: GBP 22.74
+Google Books URL: http://books.google.co.uk/books?id=KhOlDwAAQBAJ&printsec=frontcover&dq=intitle:Machine+Learning+with+Python+for+Everyone%2Binauthor:Fenner&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $33.74Save $14.25 (30%)
+Amazon.com Reviews: 4.6 of 5 (38 reviews)
+Amazon.com URL: https://www.amazon.com/Machine-Learning-Everyone-Addison-Wesley-Analytics-ebook/dp/B07VRSJ1GB
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (32 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Machine-Learning-Everyone-Addison-Wesley-Analytics-ebook/dp/B07VRSJ1GB
+---
+HB Blurb: Master machine learning with Python, regardless of your skill level. Mark E. Fenner has designed this for people new to Machine Learning who can write Python code. Through plain-English explanations, visual aids, and practical examples, you'll learn the processes, patterns, and strategies for building effective learning systems. Explore key mathematical and computational topics in an accessible way and follow step-by-step instructions to build, train, and evaluate learning systems. This guides insights will be applicable to every learning system you ever build or use. -Understand machine learning algorithms, models, and core concepts.  -Develop proficiency in classification, regression, feature engineering, and system optimization. -Apply machine learning techniques to analyze images and text.
+--------------------------------------------------
+
+Book 07:
+Title: Deitel: Python for Programmers
+Author(s): Paul Deitel and Harvey Deitel
+---
+ISBN-10: 0135231345 - ISBN-13: 9780135231340 - ASIN: B07PP9Q8MC
+Published Date: 2019-03-15
+Page Count: 1259
+---
+Google Books Price: GBP 27.99
+Google Books URL: http://books.google.co.uk/books?id=LauMDwAAQBAJ&q=intitle:Deitel:+Python+for+Programmers%2Binauthor:Paul+Deitel+and+Harvey+Deitel&dq=intitle:Deitel:+Python+for+Programmers%2Binauthor:Paul+Deitel+and+Harvey+Deitel&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $43.49Save $14.50 (25%)
+Amazon.com Reviews: 4.3 of 5 (130 reviews)
+Amazon.com URL: https://www.amazon.com/Python-Programmers-Artificial-Intelligence-Developer-ebook/dp/B07PP9Q8MC
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (115 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Python-Programmers-Artificial-Intelligence-Developer-ebook/dp/B07PP9Q8MC
+---
+HB Blurb: Written for programmers with a background in another high-level language, Python for Programmers uses hands-on instruction and 500+, real-world examples to teach today's most compelling, leading-edge computing technologies and programming in Python--one of the world's most popular and fastest-growing languages.
+After Chapters 1-5 and a few key parts of Chapters 6-7, you'll be able to handle significant portions of the hands-on introductory AI case studies in Chapters 11-16, which are loaded with cool, powerful, contemporary examples.
+You'll explore various topics such as natural language processing, sentiment analysis, cognitive computing, supervised and unsupervised machine learning, computer vision, deep learning, big data, and the Internet of Things.
+--------------------------------------------------
+
+Book 08:
+Title: Learn Python 3 the Hard Way
+Author(s): Zed A. Shaw
+---
+ISBN-10: 0134693906 - ISBN-13: 9780134693903 - ASIN: 0134692888
+Published Date: 2017-06-26
+Page Count: 752
+---
+Google Books Price: GBP 14.29
+Google Books URL: http://books.google.co.uk/books?id=93YpDwAAQBAJ&printsec=frontcover&dq=intitle:Learn+Python+3+the+Hard+Way%2Binauthor:Zed+A.+Shaw&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (992 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learn-Python-Hard-Way-Introduction/dp/0134692888
+---
+HB Blurb: In Learn Python 3 the Hard Way, you’ll learn Python by working through 52 brilliantly crafted exercises. Read them. Type their code precisely. (No copying and pasting!) Fix your mistakes. Watch the programs run. As you do, you’ll learn how a computer works; what good programs look like; and how to read, write, and think about code. Zed then teaches you even more in 5+ hours of video where he shows you how to break, fix, and debug your code. Soon, you’ll know one of the most powerful, popular programming languages. You’ll be a Python programmer. This Book Is Perfect For -Beginners with zero programming experience -Junior developers who know one or two languages -Returning professionals who haven’t written code in years -Seasoned professionals looking for a fast, simple, crash course in Python 3
+--------------------------------------------------
+
+Book 09:
+Title: Learn Enough Python to Be Dangerous
+Author(s): Hartl
+---
+ISBN-10: 0138051054 - ISBN-13: 9780138051051 - ASIN: 0138050953
+Published Date: 2023-06-08
+Page Count: 693
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=_tnPEAAAQBAJ&printsec=frontcover&dq=intitle:Learn+Enough+Python+to+Be+Dangerous%2Binauthor:Hartl&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (3 reviews)
+Amazon.com URL: https://www.amazon.com/Learn-Enough-Python-Dangerous-Development/dp/0138050953
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (3 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learn-Enough-Python-Dangerous-Development/dp/0138050953
+---
+HB Blurb: All You Need to Know, and Nothing You Don't, to Solve Real Problems with PythonPython is a great first language to learn, but you don't need to learn 'everything' to get started, just how to use it efficiently to solve real problems. In Learn Enough Python to Be Dangerous, you will learn the specific concepts, skills, and approaches you need to be professionally productive.The book introduces Python both as a general-purpose language and as a specialist tool for web development and data science, presenting focused examples and exercises that help you internalize what matters, without wasting time on unnecessary details. Soon, it'll be like you were born knowing this stuff--and you'll be suddenly, seriously dangerous.
+--------------------------------------------------
+
+Book 10:
+Title: Foundational Python for Data Science
+Author(s): Behrman
+---
+ISBN-10: 0136624316 - ISBN-13: 9780136624318 - ASIN: 0136624359
+Published Date: 2021-10-12
+Page Count: 817
+---
+Google Books Price: GBP 24.99
+Google Books URL: http://books.google.co.uk/books?id=TtnPEAAAQBAJ&printsec=frontcover&dq=intitle:Foundational+Python+for+Data+Science%2Binauthor:Behrman&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $37.99Save $2.00 (5%)
+Amazon.com Reviews: 4.4 of 5 (8 reviews)
+Amazon.com URL: https://www.amazon.com/Foundational-Python-Science-Addison-Wesley-Analytics/dp/0136624359
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 0 of 5 (7 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Foundational-Python-Science-Addison-Wesley-Analytics-ebook/dp/B095Y6G2QV
+---
+HB Blurb: Data science instructor and practitioner Kennedy Behrman first walks through the process of learning to code for the first time with Python and Jupyter notebooks, then introduces key libraries every Python data science programmer needs to master. Once you've learned these foundations, Behrman introduces intermediate and applied Python techniques for real-world problem-solving. Throughout, Foundational Python for Data Science presents hands-on exercises, learning assessments, case studies, and more—all created with Colab (Jupyter compatible) notebooks, so you can execute all coding examples interactively without installing or configuring any software.
+--------------------------------------------------
+
+Book 11:
+Title: Supercharged Python
+Author(s): Brian Overland and John Bennett
+---
+ISBN-10: 0135160790 - ISBN-13: 9780135160794 - ASIN: B07T93J28B
+Published Date: 2019-06-19
+Page Count: 1077
+---
+Google Books Price: GBP 19.49
+Google Books URL: http://books.google.co.uk/books?id=Qd6dDwAAQBAJ&printsec=frontcover&dq=intitle:Supercharged+Python%2Binauthor:Brian+Overland+and+John+Bennett&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $31.81Save $11.18 (26%)
+Amazon.com Reviews: 4.6 of 5 (114 reviews)
+Amazon.com URL: https://www.amazon.com/Supercharged-Python-Take-Your-Level-ebook/dp/B07T93J28B
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (112 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Supercharged-Python-Take-Your-Level-ebook/dp/B07T93J28B
+---
+HB Blurb: Supercharged Python is the ideal resource for those seeking to improve their Python skills and explore advanced features. Authors Brian Overland and John Bennett present complex topics concisely, using simple examples and practical exercises. Starting with easy entry points, they guide readers towards creating utilities, games, and solving puzzles. With clear explanations and illustrations, this guide equips readers with the knowledge and understanding to effectively apply these Python features and techniques: -Coding for runtime efficiency -Lambda functions and their appropriate usage. -Learn about version management, localization, regular expressions, binary operators, radix conversions, data formatting, Django web development, graphics programming, magic methods, and more.
+--------------------------------------------------
+
+Book 12:
+Title: Python without Fear
+Author(s): Overland
+---
+ISBN-10: 0134688279 - ISBN-13: 9780134688275 - ASIN: B075Z6JPFN
+Published Date: 2017-09-27
+Page Count: 1224
+---
+Google Books Price: GBP 14.29
+Google Books URL: http://books.google.co.uk/books?id=s3M3DwAAQBAJ&printsec=frontcover&dq=intitle:Python+without+Fear%2Binauthor:Overland&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.5 of 5 (45 reviews)
+Amazon.com URL: https://www.amazon.com/Python-Without-Fear-Brian-Overland-ebook/dp/B075Z6JPFN
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (36 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Python-Without-Fear-Brian-Overland/dp/0134687477
+---
+HB Blurb: Python without Fear is the perfect beginner Python guide for anyone who wants to learn the language painlessly, and avoid its “gotchas.” • Takes you “under the covers” with Python, so you understand why it works the way it does • Makes learning Python fun, by showing how to use it to solve challenging puzzles and win fascinating games • Especially well-designed for programmers moving to Python from languages such as C, C++, Visual Basic, or Java
+--------------------------------------------------
+
+Book 13:
+Title: Learn More Python 3 the Hard Way
+Author(s): Zed A. Shaw
+---
+ISBN-10: 0134693906 - ISBN-13: 9780134693903 - ASIN: 0134123484
+Published Date: 2017-06-26
+Page Count: 752
+---
+Google Books Price: GBP 14.29
+Google Books URL: http://books.google.co.uk/books?id=93YpDwAAQBAJ&printsec=frontcover&dq=intitle:Learn+More+Python+3+the+Hard+Way%2Binauthor:Zed+A.+Shaw&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (117 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learn-More-Python-Hard-Way/dp/0134123484
+---
+HB Blurb: In Learn Python 3 the Hard Way, Zed Shaw taught you the basics of Programming with Python 3. Now, in Learn More Python 3 the Hard Way, you’ll go far beyond the basics by working through 52 brilliantly crafted projects. Each one helps you build a key practical skill, combining demos to get you started and challenges to deepen your understanding. This course will reward you for every minute you put into it. Soon, you’ll go beyond merely writing code that runs: you’ll craft high-quality Python code that solves problems. You’ll be a serious Python programmer. This Book Is Perfect For - Junior Developers and Seasoned Programmers working with Python
+--------------------------------------------------
+
+Book 14:
+Title: Python 3 Standard Library by Example
+Author(s): Doug Hellmann
+---
+ISBN-10: 0132778610 - ISBN-13: 9780132778619 - ASIN: B072QZZDV7
+Published Date: 2011-06-01
+Page Count: 1344
+---
+Google Books Price: GBP 15.59
+Google Books URL: http://books.google.co.uk/books?id=cOSAzek6resC&printsec=frontcover&dq=intitle:Python+3+Standard+Library+by+Example%2Binauthor:Doug+Hellmann&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $35.99Save $12.00 (25%)
+Amazon.com Reviews: 4.5 of 5 (127 reviews)
+Amazon.com URL: https://www.amazon.com/Python-Standard-Library-Example-Developers-ebook/dp/B072QZZDV7
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (126 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Python-Standard-Library-Example-Developers-ebook/dp/B072QZZDV7
+---
+HB Blurb: The Python 3 Standard Library by Example is a comprehensive guide to the extensive collection of modules in Python 3. It offers concise source code examples that demonstrate each feature and promote easy learning and reuse. Covering major areas such as text processing, data structures, algorithms, file handling, networking, and more. With additional resources provided, it makes this book an ideal tutorial and a reference. -Manipulate text, utilize data structures, and implement algorithms effectively with various modules. -Handle dates/times, perform advanced math, and work with data exchange, persistence, archiving, compression, and cryptography. -Manage concurrency, utilize testing, debugging, compilation, profiling, language, import, packaging tools, and control runtime interaction.
+--------------------------------------------------
+
+Book 15:
+Title: Python Programming with Design Patterns
+Author(s): James W. Cooper
+---
+ISBN-10: 9780137579747 - ISBN-13: 0137579748 - ASIN: B09D2RKQB5
+Published Date: 2022
+Page Count: 352
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=ZMnzzgEACAAJ&dq=intitle:Python+Programming+with+Design+Patterns%2Binauthor:James+W.+Cooper&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $29.99Save $10.00 (25%)
+Amazon.com Reviews: 3.3 of 5 (7 reviews)
+Amazon.com URL: https://www.amazon.com/Python-Programming-Design-Patterns-Cooper-ebook/dp/B09D2RKQB5
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.5 of 5 (8 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Python-Programming-Design-Patterns-Cooper/dp/0137579934
+---
+HB Blurb: Developers seek design patterns for writing clean, efficient, and maintainable code. In this Python-specific guide, James W. Cooper presents 23 proven patterns in a friendly and practical manner, suitable for all Python developers. With visual and example-driven explanations, he demonstrates techniques for creating effective object-oriented code in Python. The book includes a succinct introduction to quickly familiarize newcomers and those transitioning from other languages. -Review Python objects and visual programming essentials. -Understand the purpose and benefits of design patterns for improving code quality. -Utilize creational, structural, and behavioral patterns to enhance flexibility, simplify complexity, and optimize object communication.
+--------------------------------------------------
+
+Book 16:
+Title: Begin to Code with Python
+Author(s): Miles
+---
+ISBN-10: 1509304533 - ISBN-13: 9781509304530 - ASIN: B078BV5XF4
+Published Date: 2017-11-21
+Page Count: 1282
+---
+Google Books Price: GBP 16.63
+Google Books URL: http://books.google.co.uk/books?id=_ERADwAAQBAJ&printsec=frontcover&dq=intitle:Begin+to+Code+with+Python%2Binauthor:Miles&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (64 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Begin-Code-Python-Rob-Miles-ebook/dp/B078BV5XF4
+---
+HB Blurb: Become a Python programmer–and have fun doing it!  Start writing software that solves real problems, even if you have absolutely no programming experience! This friendly, easy, full-color book puts you in total control of your own learning, empowering you to build unique and useful programs. Microsoft has completely reinvented the beginning programmer’s tutorial, reflecting deep research into how today’s beginners learn, and why other books fall short. Begin to Code with Python is packed with innovations, from its “Snaps” prebuilt operations to its “Make Something Happen” projects. Whether you’re a total beginner or you’ve tried before, this guide will put the power, excitement, and fun of programming where it belongs: in your hands!
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Exclusive Discounts on InformIT.com
+No Amazon.com URL found
+https://www.amazon.co.uk/kindle-ebooks-books/b?node=341689031
+No Google Books URL found.
+
+Book 02 - Pandas for Everyone, 2/e
+https://www.amazon.com/Pandas-Everyone-Analysis-Addison-Wesley-Analytics/dp/0137891156
+https://www.amazon.co.uk/Pandas-Everyone-Analysis-Addison-Wesley-Analytics/dp/0137891156
+No Google Books URL found.
+
+Book 03 - Data Structures and Algorithms in Python
+https://www.amazon.com/Structures-Algorithms-Python-Robert-Lafore/dp/013485568X
+https://www.amazon.co.uk/Structures-Algorithms-Python-Robert-Lafore/dp/013485568X
+http://books.google.co.uk/books?id=dNnPEAAAQBAJ&printsec=frontcover&dq=intitle:Data+Structures+and+Algorithms+in+Python%2Binauthor:John+Canning,+Alan+Broder,+and+Robert+Lafore&hl=&cd=1&source=gbs_api
+
+Book 04 - Python Distilled
+https://www.amazon.com/Python-Essential-Reference-Developers-Library/dp/0134173279
+https://www.amazon.co.uk/Python-Distilled-David-M-Beazley-ebook/dp/B094CMKN2J
+http://books.google.co.uk/books?id=RtnPEAAAQBAJ&printsec=frontcover&dq=intitle:Python+Distilled%2Binauthor:David+Beazley&hl=&cd=1&source=gbs_api
+
+Book 05 - Effective Python
+https://www.amazon.com/Effective-Python-Specific-Software-Development-ebook/dp/B07ZG18BH3
+https://www.amazon.co.uk/Effective-Python-Specific-Software-Development-ebook/dp/B07ZG18BH3
+No Google Books URL found.
+
+Book 06 - Machine Learning with Python for Everyone
+https://www.amazon.com/Machine-Learning-Everyone-Addison-Wesley-Analytics-ebook/dp/B07VRSJ1GB
+https://www.amazon.co.uk/Machine-Learning-Everyone-Addison-Wesley-Analytics-ebook/dp/B07VRSJ1GB
+http://books.google.co.uk/books?id=KhOlDwAAQBAJ&printsec=frontcover&dq=intitle:Machine+Learning+with+Python+for+Everyone%2Binauthor:Fenner&hl=&cd=1&source=gbs_api
+
+Book 07 - Deitel: Python for Programmers
+https://www.amazon.com/Python-Programmers-Artificial-Intelligence-Developer-ebook/dp/B07PP9Q8MC
+https://www.amazon.co.uk/Python-Programmers-Artificial-Intelligence-Developer-ebook/dp/B07PP9Q8MC
+http://books.google.co.uk/books?id=LauMDwAAQBAJ&q=intitle:Deitel:+Python+for+Programmers%2Binauthor:Paul+Deitel+and+Harvey+Deitel&dq=intitle:Deitel:+Python+for+Programmers%2Binauthor:Paul+Deitel+and+Harvey+Deitel&hl=&cd=1&source=gbs_api
+
+Book 08 - Learn Python 3 the Hard Way
+No Amazon.com URL found
+https://www.amazon.co.uk/Learn-Python-Hard-Way-Introduction/dp/0134692888
+http://books.google.co.uk/books?id=93YpDwAAQBAJ&printsec=frontcover&dq=intitle:Learn+Python+3+the+Hard+Way%2Binauthor:Zed+A.+Shaw&hl=&cd=1&source=gbs_api
+
+Book 09 - Learn Enough Python to Be Dangerous
+https://www.amazon.com/Learn-Enough-Python-Dangerous-Development/dp/0138050953
+https://www.amazon.co.uk/Learn-Enough-Python-Dangerous-Development/dp/0138050953
+http://books.google.co.uk/books?id=_tnPEAAAQBAJ&printsec=frontcover&dq=intitle:Learn+Enough+Python+to+Be+Dangerous%2Binauthor:Hartl&hl=&cd=1&source=gbs_api
+
+Book 10 - Foundational Python for Data Science
+https://www.amazon.com/Foundational-Python-Science-Addison-Wesley-Analytics/dp/0136624359
+https://www.amazon.co.uk/Foundational-Python-Science-Addison-Wesley-Analytics-ebook/dp/B095Y6G2QV
+http://books.google.co.uk/books?id=TtnPEAAAQBAJ&printsec=frontcover&dq=intitle:Foundational+Python+for+Data+Science%2Binauthor:Behrman&hl=&cd=1&source=gbs_api
+
+Book 11 - Supercharged Python
+https://www.amazon.com/Supercharged-Python-Take-Your-Level-ebook/dp/B07T93J28B
+https://www.amazon.co.uk/Supercharged-Python-Take-Your-Level-ebook/dp/B07T93J28B
+http://books.google.co.uk/books?id=Qd6dDwAAQBAJ&printsec=frontcover&dq=intitle:Supercharged+Python%2Binauthor:Brian+Overland+and+John+Bennett&hl=&cd=1&source=gbs_api
+
+Book 12 - Python without Fear
+https://www.amazon.com/Python-Without-Fear-Brian-Overland-ebook/dp/B075Z6JPFN
+https://www.amazon.co.uk/Python-Without-Fear-Brian-Overland/dp/0134687477
+http://books.google.co.uk/books?id=s3M3DwAAQBAJ&printsec=frontcover&dq=intitle:Python+without+Fear%2Binauthor:Overland&hl=&cd=1&source=gbs_api
+
+Book 13 - Learn More Python 3 the Hard Way
+No Amazon.com URL found
+https://www.amazon.co.uk/Learn-More-Python-Hard-Way/dp/0134123484
+http://books.google.co.uk/books?id=93YpDwAAQBAJ&printsec=frontcover&dq=intitle:Learn+More+Python+3+the+Hard+Way%2Binauthor:Zed+A.+Shaw&hl=&cd=1&source=gbs_api
+
+Book 14 - Python 3 Standard Library by Example
+https://www.amazon.com/Python-Standard-Library-Example-Developers-ebook/dp/B072QZZDV7
+https://www.amazon.co.uk/Python-Standard-Library-Example-Developers-ebook/dp/B072QZZDV7
+http://books.google.co.uk/books?id=cOSAzek6resC&printsec=frontcover&dq=intitle:Python+3+Standard+Library+by+Example%2Binauthor:Doug+Hellmann&hl=&cd=1&source=gbs_api
+
+Book 15 - Python Programming with Design Patterns
+https://www.amazon.com/Python-Programming-Design-Patterns-Cooper-ebook/dp/B09D2RKQB5
+https://www.amazon.co.uk/Python-Programming-Design-Patterns-Cooper/dp/0137579934
+http://books.google.co.uk/books?id=ZMnzzgEACAAJ&dq=intitle:Python+Programming+with+Design+Patterns%2Binauthor:James+W.+Cooper&hl=&cd=1&source=gbs_api
+
+Book 16 - Begin to Code with Python
+No Amazon.com URL found
+https://www.amazon.co.uk/Begin-Code-Python-Rob-Miles-ebook/dp/B078BV5XF4
+http://books.google.co.uk/books?id=_ERADwAAQBAJ&printsec=frontcover&dq=intitle:Begin+to+Code+with+Python%2Binauthor:Miles&hl=&cd=1&source=gbs_api
+
