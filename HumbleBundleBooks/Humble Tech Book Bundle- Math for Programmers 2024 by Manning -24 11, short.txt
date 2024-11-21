@@ -1,0 +1,316 @@
+Humble Tech Book Bundle- Math for Programmers 2024 by Manning - Manning Publications
+Processing date: 2024-11-20
+Data retrieved from: https://www.humblebundle.com/books/math-for-programmers-2024-manning-books
+
+Book 01 - Learn Quantum Computing with Python and Q# - Sarah C. Kaiser, Cassandra E. Granade - 4.4 out of 5 (11 reviews)
+Book 02 - Solve Any Data Analysis Problem - David Asboth - None found out of 5 (None found reviews)
+Book 03 - Grokking Data Structures - Marcello LaRocca - 5 out of 5 (1 reviews)
+Book 04 - Graph Algorithms for Data Science - Tomaž Bratanič - 5 out of 5 (3 reviews)
+Book 05 - Math and Architectures of Deep Learning - Krishnendu Chaudhury - 4.8 out of 5 (7 reviews)
+Book 06 - Building Quantum Software - Constantin Gonciulea, Charlee Stefanski - None found out of 5 (None found reviews)
+Book 07 - Elliptic Curve Cryptography for Developers - Michael Rosing - None found out of 5 (None found reviews)
+Book 08 - Machine Learning Algorithms in Depth - Vadim Smolyakov - 5 out of 5 (3 reviews)
+Book 09 - Beyond Spreadsheets with R - Aditya Bayaha - 4.7 out of 5 (14 reviews)
+Book 10 - Bayesian Optimization in Action - Quan Nguyen - 4.5 out of 5 (3 reviews)
+Book 11 - Geometry for Programmers - Oleksandr Kaleniuk - 5 out of 5 (4 reviews)
+Book 12 - Experimentation for Engineers - David Sweet - 5 out of 5 (3 reviews)
+Book 13 - Algorithms and Data Structures for Massive Datasets - Dzejla Medjedovic, Emin Tahirovic, Ines Dedovic - 4.3 out of 5 (12 reviews)
+Book 14 - Inside Deep Learning - Edward Raff - 4.6 out of 5 (28 reviews)
+Book 15 - Real-World Cryptography - David Wong - 4.7 out of 5 (69 reviews)
+Book 16 - Deep Learning Patterns and Practices - Andrew Ferlitsch - 4.7 out of 5 (5 reviews)
+Book 17 - Build A Robo-Advisor with Python - Felienne Hermans - None found out of 5 (None found reviews)
+Book 18 - Math for Programmers - Paul Orland - 4.5 out of 5 (79 reviews)
+Book 19 - Classic Computer Science Problems in Python - David Kopec - 4.4 out of 5 (147 reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: Learn Quantum Computing with Python and Q#
+Author(s): Sarah C. Kaiser, Cassandra E. Granade
+---
+ISBN-10: 1617296139 - ISBN-13: 9781617296130 - ASIN: B098PD8X2L
+Published Date: 2021-06-22
+---
+HB Blurb: This book introduces quantum computing with a practical approach, explaining complex math and theory through stories, visuals, and games, making it accessible for those interested in the mathematical aspects of quantum computing.
+--------------------------------------------------
+
+Book 02:
+Title: Solve Any Data Analysis Problem
+Author(s): David Asboth
+---
+ISBN-10: 1801074402 - ISBN-13: 9781801074407 - ASIN: 
+Published Date: 2021-03-31
+---
+HB Blurb: This book explores data modeling and statistical analysis, helping you establish a solid foundation for deeper data driven skills.
+--------------------------------------------------
+
+Book 03:
+Title: Grokking Data Structures
+Author(s): Marcello LaRocca
+---
+ISBN-10: 1638355533 - ISBN-13: 9781638355533 - ASIN: B0DDLBVQHY
+Published Date: 2024-08-06
+---
+HB Blurb: This book introduces data structures with real-world examples, making complex concepts easy to understand with practical Python code samples.
+--------------------------------------------------
+
+Book 04:
+Title: Graph Algorithms for Data Science
+Author(s): Tomaž Bratanič
+---
+ISBN-10: 1617299464 - ISBN-13: 9781617299469 - ASIN: B0CSL4GGLH
+Published Date: 2024-02-27
+---
+HB Blurb: This book introduces graph algorithms with applications in machine learning and data science, providing hands-on projects to apply these concepts.
+--------------------------------------------------
+
+Book 05:
+Title: Math and Architectures of Deep Learning
+Author(s): Krishnendu Chaudhury
+---
+ISBN-10: 1617296481 - ISBN-13: 9781617296482 - ASIN: B0CX4TJWZG
+Published Date: 2024-03-26
+---
+HB Blurb: This book covers vector calculus, linear algebra, and Bayesian inference, providing a deep learning perspective on these mathematical concepts.
+--------------------------------------------------
+
+Book 06:
+Title: Building Quantum Software
+Author(s): Constantin Gonciulea, Charlee Stefanski
+---
+ISBN-10:  - ISBN-13:  - ASIN: 
+Published Date: 
+---
+HB Blurb: This book provides a comprehensive understanding of quantum computing, including intuitive visualizations and code implementations that simplify complex algebra, making it suitable for readers interested in the mathematical foundations of quantum computing.
+--------------------------------------------------
+
+Book 07:
+Title: Elliptic Curve Cryptography for Developers
+Author(s): Michael Rosing
+---
+ISBN-10: 1633437949 - ISBN-13: 9781633437944 - ASIN: 
+Published Date: 2024-12-03
+---
+HB Blurb: This book covers Elliptic Curve Cryptography, a key topic requested, and provides practical coding applications for cryptographic applications.
+--------------------------------------------------
+
+Book 08:
+Title: Machine Learning Algorithms in Depth
+Author(s): Vadim Smolyakov
+---
+ISBN-10: 1638355576 - ISBN-13: 9781638355571 - ASIN: B0CW173KYD
+Published Date: 2024-11-26
+---
+HB Blurb: This book explains machine learning algorithms with a focus on probability-based methods, providing mathematical foundations and Python implementations.
+--------------------------------------------------
+
+Book 09:
+Title: Beyond Spreadsheets with R
+Author(s): Aditya Bayaha
+---
+ISBN-10:  - ISBN-13:  - ASIN: B09781TTN1
+Published Date: 
+---
+HB Blurb: This book shows you how to take raw data and transform it for use in computations, tables, graphs, and more.
+--------------------------------------------------
+
+Book 10:
+Title: Bayesian Optimization in Action
+Author(s): Quan Nguyen
+---
+ISBN-10: 1633439070 - ISBN-13: 9781633439078 - ASIN: 
+Published Date: 2023-11-14
+---
+HB Blurb: This book focuses on Bayesian optimization, a specific application of Bayesian Theory in machine learning, which is relevant to the request for advanced math concepts.
+--------------------------------------------------
+
+Book 11:
+Title: Geometry for Programmers
+Author(s): Oleksandr Kaleniuk
+---
+ISBN-10: 1638351929 - ISBN-13: 9781638351924 - ASIN: 1633439607
+Published Date: 2023-06-20
+---
+HB Blurb: This book introduces geometry concepts applied to programming problems, making it accessible with practical examples and minimal heavy theory.
+--------------------------------------------------
+
+Book 12:
+Title: Experimentation for Engineers
+Author(s): David Sweet
+---
+ISBN-10: 1638356904 - ISBN-13: 9781638356905 - ASIN: 1617298158
+Published Date: 2023-03-21
+---
+HB Blurb: This book covers advanced experimentation strategies, including Bayesian optimization, which are crucial for understanding probabilistic methods in programming.
+--------------------------------------------------
+
+Book 13:
+Title: Algorithms and Data Structures for Massive Datasets
+Author(s): Dzejla Medjedovic, Emin Tahirovic, Ines Dedovic
+---
+ISBN-10: 1638356564 - ISBN-13: 9781638356561 - ASIN: B099J942ZJ
+Published Date: 2022-08-16
+---
+HB Blurb: This book focuses on algorithms and data structures for handling massive datasets, providing practical techniques for big data applications.
+--------------------------------------------------
+
+Book 14:
+Title: Inside Deep Learning
+Author(s): Edward Raff
+---
+ISBN-10: 1638357218 - ISBN-13: 9781638357216 - ASIN: B09YDRQ59Q
+Published Date: 2022-07-05
+---
+HB Blurb: This book provides practical insights into deep learning algorithms, enhancing understanding of complex mathematical models for programmers.
+--------------------------------------------------
+
+Book 15:
+Title: Real-World Cryptography
+Author(s): David Wong
+---
+ISBN-10: 1617296716 - ISBN-13: 9781617296710 - ASIN: B09FR9YJWD
+Published Date: 2021-10-12
+---
+HB Blurb: This book introduces practical cryptography techniques, including modern cryptographic methods, which are essential for understanding advanced cryptographic concepts.
+--------------------------------------------------
+
+Book 16:
+Title: Deep Learning Patterns and Practices
+Author(s): Andrew Ferlitsch
+---
+ISBN-10: 163835667X - ISBN-13: 9781638356677 - ASIN: 1617298263
+Published Date: 2021-10-12
+---
+HB Blurb: This book offers a hands-on approach to linear algebra, a key mathematical area for programmers involved in data science and machine learning.
+--------------------------------------------------
+
+Book 17:
+Title: Build A Robo-Advisor with Python
+Author(s): Felienne Hermans
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1633439674
+Published Date: 
+---
+HB Blurb: This book teaches you how to construct a Python-based financial advisor  with popular free Python libraries.
+--------------------------------------------------
+
+Book 18:
+Title: Math for Programmers
+Author(s): Paul Orland
+---
+ISBN-10: 1617295353 - ISBN-13: 9781617295355 - ASIN: B09781RBKG
+Published Date: 2021-01-12
+---
+HB Blurb: This book uses Python to teach essential math concepts like algebra and calculus, which are crucial for building games, simulations, and machine learning algorithms.
+--------------------------------------------------
+
+Book 19:
+Title: Classic Computer Science Problems in Python
+Author(s): David Kopec
+---
+ISBN-10: 9781617295980 - ISBN-13: 1617295981 - ASIN: B09782BT4Q
+Published Date: 2019-03-15
+---
+HB Blurb: This book covers classic computer science problems and algorithms, providing a comprehensive guide to solving programming challenges.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Learn Quantum Computing with Python and Q#
+https://www.amazon.com/Learn-Quantum-Computing-Python-hands/dp/1617296139
+https://www.amazon.co.uk/Learn-Quantum-Computing-Python-hands-ebook/dp/B098PD8X2L
+http://books.google.co.uk/books?id=IxIxEAAAQBAJ&printsec=frontcover&dq=intitle:Learn+Quantum+Computing+with+Python+and+Q%23%2Binauthor:Sarah+C.+Kaiser,+Cassandra+E.+Granade&hl=&cd=1&source=gbs_api
+
+Book 02 - Solve Any Data Analysis Problem
+No Amazon.com URL found
+No Amazon.co.uk URL found
+http://books.google.co.uk/books?id=G-kmEAAAQBAJ&printsec=frontcover&dq=intitle:Solve+Any+Data+Analysis+Problem%2Binauthor:David+Asboth&hl=&cd=1&source=gbs_api
+
+Book 03 - Grokking Data Structures
+https://www.amazon.com/Grokking-Data-Structures-Marcello-Rocca-ebook/dp/B0DDLBVQHY
+https://www.amazon.co.uk/Grokking-Data-Structures-Marcello-Rocca/dp/1633436993
+http://books.google.co.uk/books?id=sp0QEQAAQBAJ&printsec=frontcover&dq=intitle:Grokking+Data+Structures%2Binauthor:Marcello+LaRocca&hl=&cd=1&source=gbs_api
+
+Book 04 - Graph Algorithms for Data Science
+https://www.amazon.com/Graph-Algorithms-Data-Science-examples-ebook/dp/B0CSL4GGLH
+https://www.amazon.co.uk/Graph-Algorithms-Science-Tomaz-Bratanic/dp/1617299464
+http://books.google.co.uk/books?id=K4rxEAAAQBAJ&printsec=frontcover&dq=intitle:Graph+Algorithms+for+Data+Science%2Binauthor:Toma%C5%BE+Bratani%C4%8D&hl=&cd=1&source=gbs_api
+
+Book 05 - Math and Architectures of Deep Learning
+https://www.amazon.com/Math-Architectures-Learning-Krishnendu-Chaudhury-ebook/dp/B0CX4TJWZG
+https://www.amazon.co.uk/Math-Architectures-Learning-Krishnendu-Chaudhury/dp/1617296481
+http://books.google.co.uk/books?id=ofr-EAAAQBAJ&printsec=frontcover&dq=intitle:Math+and+Architectures+of+Deep+Learning%2Binauthor:Krishnendu+Chaudhury&hl=&cd=1&source=gbs_api
+
+Book 06 - Building Quantum Software
+No Amazon.com URL found
+No Amazon.co.uk URL found
+No Google Books URL found.
+
+Book 07 - Elliptic Curve Cryptography for Developers
+https://www.amazon.com/Elliptic-Cryptography-Developers-Michael-Rosing/dp/1633437949
+https://www.amazon.co.uk/Elliptic-Cryptography-Developers-Michael-Rosing/dp/1633437949
+http://books.google.co.uk/books?id=wU0vEQAAQBAJ&printsec=frontcover&dq=intitle:Elliptic+Curve+Cryptography+for+Developers%2Binauthor:Michael+Rosing&hl=&cd=1&source=gbs_api
+
+Book 08 - Machine Learning Algorithms in Depth
+https://www.amazon.com/Machine-Learning-Algorithms-Depth-Smolyakov-ebook/dp/B0CW173KYD
+https://www.amazon.co.uk/Machine-Learning-Algorithms-Depth-Smolyakov/dp/1633439216
+http://books.google.co.uk/books?id=6nkVEQAAQBAJ&dq=intitle:Machine+Learning+Algorithms+in+Depth%2Binauthor:Vadim+Smolyakov&hl=&cd=1&source=gbs_api
+
+Book 09 - Beyond Spreadsheets with R
+https://www.amazon.com/Beyond-Spreadsheets-beginners-guide-RStudio-ebook/dp/B09781TTN1
+https://www.amazon.co.uk/Beyond-Spreadsheets-beginners-guide-RStudio-ebook/dp/B09782WNPK
+No Google Books URL found.
+
+Book 10 - Bayesian Optimization in Action
+https://www.amazon.com/Bayesian-Optimization-Action-Quan-Nguyen/dp/1633439070
+https://www.amazon.co.uk/Bayesian-Optimization-Action-Quan-Nguyen/dp/1633439070
+http://books.google.co.uk/books?id=4W7dEAAAQBAJ&printsec=frontcover&dq=intitle:Bayesian+Optimization+in+Action%2Binauthor:Quan+Nguyen&hl=&cd=1&source=gbs_api
+
+Book 11 - Geometry for Programmers
+https://www.amazon.com/Geometry-Programmers-Oleksandr-Kaleniuk/dp/1633439607
+https://www.amazon.co.uk/Geometry-Programmers-Oleksandr-Kaleniuk-ebook/dp/B0C3NMV49S
+http://books.google.co.uk/books?id=YkS7EAAAQBAJ&printsec=frontcover&dq=intitle:Geometry+for+Programmers%2Binauthor:Oleksandr+Kaleniuk&hl=&cd=1&source=gbs_api
+
+Book 12 - Experimentation for Engineers
+https://www.amazon.com/Tuning-Up-testing-Bayesian-optimization/dp/1617298158
+https://www.amazon.co.uk/Experimentation-Engineers-testing-Bayesian-optimization-ebook/dp/B0BT3DMCFH
+http://books.google.co.uk/books?id=VN2oEAAAQBAJ&printsec=frontcover&dq=intitle:Experimentation+for+Engineers%2Binauthor:David+Sweet&hl=&cd=1&source=gbs_api
+
+Book 13 - Algorithms and Data Structures for Massive Datasets
+https://www.amazon.com/Algorithms-Data-Structures-Massive-Datasets-ebook/dp/B099J942ZJ
+https://www.amazon.co.uk/Algorithms-Data-Structures-Massive-Datasets/dp/1617298034
+http://books.google.co.uk/books?id=6V44EAAAQBAJ&printsec=frontcover&dq=intitle:Algorithms+and+Data+Structures+for+Massive+Datasets%2Binauthor:Dzejla+Medjedovic,+Emin+Tahirovic,+Ines+Dedovic&hl=&cd=1&source=gbs_api
+
+Book 14 - Inside Deep Learning
+https://www.amazon.com/Inside-Deep-Learning-Algorithms-Models-ebook/dp/B09YDRQ59Q
+https://www.amazon.co.uk/Inside-Deep-Learning-Algorithms-Models/dp/1617298638
+http://books.google.co.uk/books?id=pAhsEAAAQBAJ&pg=PA111&dq=intitle:Inside+Deep+Learning%2Binauthor:Edward+Raff&hl=&cd=1&source=gbs_api
+
+Book 15 - Real-World Cryptography
+https://www.amazon.com/Real-World-Cryptography-David-Wong-ebook/dp/B09FR9YJWD
+https://www.amazon.co.uk/Real-World-Cryptography-David-Wong-ebook/dp/B09G3KR3ZS
+http://books.google.co.uk/books?id=Qd5CEAAAQBAJ&printsec=frontcover&dq=intitle:Real-World+Cryptography%2Binauthor:David+Wong&hl=&cd=1&source=gbs_api
+
+Book 16 - Deep Learning Patterns and Practices
+https://www.amazon.com/Learning-Patterns-Practices-Andrew-Ferlitsch/dp/1617298263
+https://www.amazon.co.uk/Learning-Patterns-Practices-Andrew-Ferlitsch-ebook/dp/B09F7ZPK68
+http://books.google.co.uk/books?id=gPk_EAAAQBAJ&pg=PT259&dq=intitle:Deep+Learning+Patterns+and+Practices%2Binauthor:Andrew+Ferlitsch&hl=&cd=1&source=gbs_api
+
+Book 17 - Build A Robo-Advisor with Python
+https://www.amazon.com/Build-Robo-Advisor-Python-Scratch/dp/1633439674
+https://www.amazon.co.uk/Build-Robo-Advisor-Python-Scratch/dp/1633439674
+No Google Books URL found.
+
+Book 18 - Math for Programmers
+https://www.amazon.com/Math-Programmers-Paul-Orland/dp/1617295353
+https://www.amazon.co.uk/Math-Programmers-graphics-learning-simulations-ebook/dp/B09781RBKG
+http://books.google.co.uk/books?id=6AkPEAAAQBAJ&pg=PA339&dq=intitle:Math+for+Programmers%2Binauthor:Paul+Orland&hl=&cd=1&source=gbs_api
+
+Book 19 - Classic Computer Science Problems in Python
+https://www.amazon.com/Classic-Computer-Science-Problems-Python/dp/1617295981
+https://www.amazon.co.uk/Classic-Computer-Science-Problems-Python-ebook/dp/B09782BT4Q
+http://books.google.co.uk/books?id=6erYuQEACAAJ&dq=intitle:Classic+Computer+Science+Problems+in+Python%2Binauthor:David+Kopec&hl=&cd=1&source=gbs_api
+
