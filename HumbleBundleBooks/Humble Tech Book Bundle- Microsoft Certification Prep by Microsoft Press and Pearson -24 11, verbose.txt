@@ -1,0 +1,656 @@
+Humble Tech Book Bundle- Microsoft Certification Prep by Microsoft Press and Pearson - Pearson
+Processing date: 2024-11-29
+Data retrieved from: https://www.humblebundle.com/books/microsoft-certification-prep-microsoft-press-and-pearson-books
+
+Book 01 - Exam Ref AZ-900 Microsoft Azure Fundamentals - Jim Cheshire - None found out of 5 (None found reviews)
+Book 02 - Exam Ref AZ-104 Microsoft Azure Administrator - Charles Pluta - None found out of 5 (None found reviews)
+Book 03 - Exam Ref MS-102 Microsoft 365 Administrator - Orin Thomas - 4.7 out of 5 (11 reviews)
+Book 04 - Exam Ref MS-900 Microsoft 365 Fundamentals - Craig Zacker - 5 out of 5 (2 reviews)
+Book 05 - Exam Ref DP-900 Microsoft Azure Data Fundamentals - Nicola Farquharson - 3 out of 5 (4 reviews)
+Book 06 - Microsoft Press Discounts on microsoftpressstore.com - Unknown - None found out of 5 (None found reviews)
+Book 07 - Exam Ref AZ-800 Administering Windows Server Hybrid Core Infrastructure - Orin Thomas - 4 out of 5 (17 reviews)
+Book 08 - Exam Ref MS-700 Managing Microsoft Teams - Ed Fisher - None found out of 5 (None found reviews)
+Book 09 - Exam Ref PL-300 Power BI Data Analyst - Daniil Maslyuk - 4.3 out of 5 (37 reviews)
+Book 10 - Exam Ref PL-900 Microsoft Power Platform Fundamentals - Craig Zacker - 4.3 out of 5 (14 reviews)
+Book 11 - Exam Ref SC-900 Microsoft Security, Compliance, and Identity Fundamentals - Yuri Diogenes, Nicholas DiCola, Mark Morowczynski, Kevin McKinnerney - 3.5 out of 5 (6 reviews)
+Book 12 - Exam Ref AZ-204 Developing Solutions for Microsoft Azure - Santiago Fernandez Munoz - 3.8 out of 5 (106 reviews)
+Book 13 - Exam Ref AZ-305 Designing Microsoft Azure Infrastructure Solutions - Ashish Agrawal, Gurvinder Singh, Avinash Bhavsar, Mohammad Sabir Sopariwala - 3.9 out of 5 (33 reviews)
+Book 14 - Exam Ref AZ-700 Designing and Implementing Microsoft Azure Networks - Charles Pluta - None found out of 5 (None found reviews)
+Book 15 - Exam Ref AZ-801 Configuring Windows Server Hybrid Advanced Services - Orin Thomas - 5 out of 5 (4 reviews)
+Book 16 - Exam Ref DP-500 Designing and Implementing Enterprise-Scale Analytics - Daniil Maslyuk, Justin Frebault - 4.5 out of 5 (4 reviews)
+Book 17 - Exam Ref MS-500 Microsoft 365 Security Administration - Ed Fisher, Nate Chamberlain - 4.3 out of 5 (53 reviews)
+Book 18 - Exam Ref SC-100 Microsoft Cybersecurity Architect - Yuri Diogenes, Sarah Young, Mark Simos, Gladys Rodriguez - 4 out of 5 (13 reviews)
+Book 19 - Exam Ref SC-200 Microsoft Security Operations Analyst - Yuri Diogenes, Jake Mowrer, Sarah Young - 4.5 out of 5 (41 reviews)
+Book 20 - Exam Ref SC-300 Microsoft Identity and Access Administrator - Razi Rais, Ilya Lushnikov, Jeevan Bisht, Padma Chilakapati, Vinayak Shenoy - 3.8 out of 5 (11 reviews)
+Book 21 - Exam Ref AI-900 Microsoft Azure AI Fundamentals - Julian Sharp - 4.4 out of 5 (7 reviews)
+Book 22 - Exam Ref AZ-500 Microsoft Aure Security Technologies - Yuri Diogenes, Orin Thomas - 4.4 out of 5 (87 reviews)
+Book 23 - Exam Ref DP-600 Implementing Analytics Solutions Using Microsoft Fabric - Daniil Maslyuk, Stepan Resl, Johnny Winter - None found out of 5 (None found reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Exam Ref AZ-900 Microsoft Azure Fundamentals
+Author(s): Jim Cheshire
+---
+ISBN-10: 0135732220 - ISBN-13: 9780135732229 - ASIN: 0137955146
+Published Date: 2019-06-05
+Page Count: 450
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=OrKbDwAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+AZ-900+Microsoft+Azure+Fundamentals%2Binauthor:Jim+Cheshire&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (135 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Exam-AZ-900-Microsoft-Azure-Fundamentals/dp/0137955146
+---
+HB Blurb: Prepare for the updated version of Microsoft Exam AZ-900 and help demonstrate your real-world knowledge of cloud services and how they can be provided with Microsoft Azure, including high-level concepts that apply throughout Azure, and key concepts specific to individual services. Designed for professionals in both non-technical or technical roles, this Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the Microsoft Certified Fundamentals level.
+--------------------------------------------------
+
+Book 02:
+Title: Exam Ref AZ-104 Microsoft Azure Administrator
+Author(s): Charles Pluta
+---
+ISBN-10: 0138346119 - ISBN-13: 9780138346119 - ASIN: B0D5D6HLNW
+Published Date: 2024-06-14
+Page Count: 599
+---
+Google Books Price: GBP 27.99
+Google Books URL: http://books.google.co.uk/books?id=FaEKEQAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+AZ-104+Microsoft+Azure+Administrator%2Binauthor:Charles+Pluta&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $47.49Save $0.50 (1%)
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Exam-AZ-104-Microsoft-Azure-Administrator-ebook/dp/B0D5D6HLNW
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 0 of 5 (4 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Exam-AZ-104-Microsoft-Azure-Administrator/dp/0138345937
+---
+HB Blurb: Prepare for Microsoft Exam AZ-104 and demonstrate your real-world mastery and knowledge of Microsoft Azure administration. Designed for working Azure administrators, this Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the Microsoft Certified Solutions Associate level.
+--------------------------------------------------
+
+Book 03:
+Title: Exam Ref MS-102 Microsoft 365 Administrator
+Author(s): Orin Thomas
+---
+ISBN-10: 9780138199647 - ISBN-13: 0138199647 - ASIN: 0138199469
+Published Date: 2023
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=d95s0AEACAAJ&dq=intitle:Exam+Ref+MS-102+Microsoft+365+Administrator%2Binauthor:Orin+Thomas&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (11 reviews)
+Amazon.com URL: https://www.amazon.com/Exam-Ref-MS-102-Microsoft-Administrator/dp/0138199469
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (10 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Exam-Ref-MS-102-Microsoft-Administrator/dp/0138199469
+---
+HB Blurb: Prepare for Microsoft Exam MS-102 and help demonstrate your real-world mastery of skills and knowledge required to deploy and manage Microsoft 365 and perform Microsoft 365 tenant-level implementation and administration of cloud and hybrid environments. Designed for administrators, this Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the Microsoft Certified Expert level.
+--------------------------------------------------
+
+Book 04:
+Title: Exam Ref MS-900 Microsoft 365 Fundamentals
+Author(s): Craig Zacker
+---
+ISBN-10: 0138237271 - ISBN-13: 9780138237271 - ASIN: B0CMS46295
+Published Date: 2023-11-09
+Page Count: 437
+---
+Google Books Price: GBP 19.74
+Google Books URL: http://books.google.co.uk/books?id=f1jiEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+MS-900+Microsoft+365+Fundamentals%2Binauthor:Craig+Zacker&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (2 reviews)
+Amazon.com URL: https://www.amazon.com/Exam-Ref-MS-900-Microsoft-Fundamentals-ebook/dp/B0CMS46295
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Exam-Ref-MS-900-Microsoft-Fundamentals/dp/0138237115
+---
+HB Blurb: Prepare for Microsoft Exam MS-900 and help demonstrate your mastery of cloud services, the Software as a Service cloud model, and the options and benefits of Microsoft 365 cloud service offerings. Designed for IT professionals, Exam Ref focuses on critical thinking and decision-making acumen needed for success at the Microsoft Certified Fundamentals level.
+--------------------------------------------------
+
+Book 05:
+Title: Exam Ref DP-900 Microsoft Azure Data Fundamentals
+Author(s): Nicola Farquharson
+---
+ISBN-10: 0138261989 - ISBN-13: 9780138261986 - ASIN: 0138261903
+Published Date: 2024-04-22
+Page Count: 267
+---
+Google Books Price: GBP 19.74
+Google Books URL: http://books.google.co.uk/books?id=z3niEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+DP-900+Microsoft+Azure+Data+Fundamentals%2Binauthor:Nicola+Farquharson&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 3 of 5 (4 reviews)
+Amazon.com URL: https://www.amazon.com/Exam-DP-900-Microsoft-Azure-Fundamentals/dp/0138261903
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3 of 5 (4 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Exam-DP-900-Microsoft-Azure-Fundamentals-ebook/dp/B0CVW2DHXX
+---
+HB Blurb: Prepare for Microsoft Exam DP-900 and demonstrate your real-world foundational knowledge of core data concepts and how they are implemented using Microsoft Azure data services. Designed for business users, functional consultants, and other professionals, this Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the Microsoft Certified: Azure Data Fundamentals level.
+--------------------------------------------------
+
+Book 06:
+Title: Microsoft Press Discounts on microsoftpressstore.com
+Author(s): Unknown
+---
+ISBN-10:  - ISBN-13:  - ASIN: 
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: Receive a special discount off the list price of our content when you purchase the entire 15 item bundle! Save 70% off Video Courses and 40% Off Books - Print, eBook and Premium Editions (eBook + Practice Test) on microsoftpressstore.com. The offer expires February 1, 2025.
+--------------------------------------------------
+
+Book 07:
+Title: Exam Ref AZ-800 Administering Windows Server Hybrid Core Infrastructure
+Author(s): Orin Thomas
+---
+ISBN-10: 0137729367 - ISBN-13: 9780137729364 - ASIN: B09Z7R89C9
+Published Date: 2022-07-21
+Page Count: 496
+---
+Google Books Price: GBP 21.99
+Google Books URL: http://books.google.co.uk/books?id=etfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+AZ-800+Administering+Windows+Server+Hybrid+Core+Infrastructure%2Binauthor:Orin+Thomas&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $30.88Save $10.51 (25%)
+Amazon.com Reviews: 4 of 5 (17 reviews)
+Amazon.com URL: https://www.amazon.com/AZ-800-Administering-Windows-Infrastructure-3570357-ebook/dp/B09Z7R89C9
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.1 of 5 (18 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/AZ-800-Administering-Windows-Server-Infrastructure/dp/013772926X
+---
+HB Blurb: Prepare for Microsoft Exam AZ-800 and demonstrate your real-world mastery of designing, implementing, and managing Windows Server core infrastructure in a hybrid cloud environment. Designed for professionals with Windows Server experience in on-premises, hybrid, and Azure environments, this Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the Microsoft Certified: Windows Server Hybrid Administrator Associate level.
+--------------------------------------------------
+
+Book 08:
+Title: Exam Ref MS-700 Managing Microsoft Teams
+Author(s): Ed Fisher
+---
+ISBN-10: 0137578636 - ISBN-13: 9780137578634 - ASIN: 0137578725
+Published Date: 2021-10-27
+Page Count: 269
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=XtfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+MS-700+Managing+Microsoft+Teams%2Binauthor:Ed+Fisher&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (14 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Exam-MS-700-Managing-Microsoft-Teams/dp/0137578725
+---
+HB Blurb: Prepare for Microsoft Exam MS-700—demonstrate your real-world knowledge of Microsoft Teams planning, deployment, configuration, management, security, troubleshooting, and more. Designed for professionals with Microsoft Teams experience, this Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the Microsoft 365 Certified: Teams Administrator Associate level.
+--------------------------------------------------
+
+Book 09:
+Title: Exam Ref PL-300 Power BI Data Analyst
+Author(s): Daniil Maslyuk
+---
+ISBN-10: 0137901151 - ISBN-13: 9780137901159 - ASIN: 0137901232
+Published Date: 2022-08-02
+Page Count: 365
+---
+Google Books Price: GBP 17.49
+Google Books URL: http://books.google.co.uk/books?id=SNfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+PL-300+Power+BI+Data+Analyst%2Binauthor:Daniil+Maslyuk&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.3 of 5 (37 reviews)
+Amazon.com URL: https://www.amazon.com/Exam-PL-300-Power-Data-Analyst/dp/0137901232
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.2 of 5 (33 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Exam-PL-300-Power-Data-Analyst/dp/0137901232
+---
+HB Blurb: Prepare for Microsoft Exam PL-300 and help demonstrate your real-world ability to deliver actionable insights with Power BI by leveraging available data and domain expertise; to provide meaningful business value through clear data visualizations; to enable others to perform self-service analytics, and to deploy and configure solutions for consumption. Designed for data analysts, business users, and other professionals, this Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the Microsoft Certified: Power BI Data Analyst Associate level.
+--------------------------------------------------
+
+Book 10:
+Title: Exam Ref PL-900 Microsoft Power Platform Fundamentals
+Author(s): Craig Zacker
+---
+ISBN-10: 0137956738 - ISBN-13: 9780137956739 - ASIN: 0137956584
+Published Date: 2023-03-16
+Page Count: 453
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=kNfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+PL-900+Microsoft+Power+Platform+Fundamentals%2Binauthor:Craig+Zacker&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $27.99Save $10.00 (26%)
+Amazon.com Reviews: 4.3 of 5 (14 reviews)
+Amazon.com URL: https://www.amazon.com/PL-900-Microsoft-Power-Platform-Fundamentals/dp/0137956584
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (47 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/PL-900-Microsoft-Power-Platform-Fundamentals/dp/0136788769
+---
+HB Blurb: Prepare for Microsoft Exam PL-900. Demonstrate your real-world knowledge of the fundamentals of Microsoft Power Platform, including its business value, core components, and the capabilities and advantages of Power BI, Power Apps, Power Automate, and Power Virtual Agents. Designed for business users, functional consultants, and other professionals, this Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the Microsoft Certified: Power Platform Fundamentals level.
+--------------------------------------------------
+
+Book 11:
+Title: Exam Ref SC-900 Microsoft Security, Compliance, and Identity Fundamentals
+Author(s): Yuri Diogenes, Nicholas DiCola, Mark Morowczynski, Kevin McKinnerney
+---
+ISBN-10: 0137568118 - ISBN-13: 9780137568116 - ASIN: 1801815992
+Published Date: 2021-11-22
+Page Count: 378
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=UNfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+SC-900+Microsoft+Security,+Compliance,+and+Identity+Fundamentals%2Binauthor:Yuri+Diogenes,+Nicholas+DiCola,+Mark+Morowczynski,+Kevin+McKinnerney&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 3.5 of 5 (6 reviews)
+Amazon.com URL: https://www.amazon.com/Microsoft-Security-Compliance-Identity-Fundamentals/dp/1801815992
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (56 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Microsoft-Security-Compliance-Identity-Fundamentals/dp/013756810X
+---
+HB Blurb: Prepare for Microsoft Exam SC-900 and demonstrate your real-world knowledge of the fundamentals of security, compliance, and identity (SCI) across cloud-based and related Microsoft services. Designed for business stakeholders, new and existing IT professionals, functional consultants, and students, this Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the Microsoft Certified: Security, Compliance, and Identity Fundamentals level.
+--------------------------------------------------
+
+Book 12:
+Title: Exam Ref AZ-204 Developing Solutions for Microsoft Azure
+Author(s): Santiago Fernandez Munoz
+---
+ISBN-10: 0138312109 - ISBN-13: 9780138312107 - ASIN: B08F5HYFQR
+Published Date: 2024-07-16
+Page Count: 521
+---
+Google Books Price: GBP 26.49
+Google Books URL: http://books.google.co.uk/books?id=WIvmEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+AZ-204+Developing+Solutions+for+Microsoft+Azure%2Binauthor:Santiago+Fernandez+Munoz&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 3.8 of 5 (106 reviews)
+Amazon.com URL: https://www.amazon.com/AZ-204-Developing-Solutions-Microsoft-Azure-ebook/dp/B08F5HYFQR
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.9 of 5 (113 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/AZ-204-Developing-Solutions-Microsoft-Azure-ebook/dp/B08F5HYFQR
+---
+HB Blurb: Prepare for Microsoft Exam AZ-204 and demonstrate your real-world knowledge of Microsoft Azure solution development. Designed for working Azure developers, this Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the Microsoft Certified Solutions Associate level.
+--------------------------------------------------
+
+Book 13:
+Title: Exam Ref AZ-305 Designing Microsoft Azure Infrastructure Solutions
+Author(s): Ashish Agrawal, Gurvinder Singh, Avinash Bhavsar, Mohammad Sabir Sopariwala
+---
+ISBN-10: 0137878737 - ISBN-13: 9780137878734 - ASIN: 0137878788
+Published Date: 2022-12-05
+Page Count: 286
+---
+Google Books Price: GBP 20.49
+Google Books URL: http://books.google.co.uk/books?id=MtfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+AZ-305+Designing+Microsoft+Azure+Infrastructure+Solutions%2Binauthor:Ashish+Agrawal,+Gurvinder+Singh,+Avinash+Bhavsar,+Mohammad+Sabir+Sopariwala&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 3.9 of 5 (33 reviews)
+Amazon.com URL: https://www.amazon.com/AZ-305-Designing-Microsoft-Infrastructure-Solutions/dp/0137878788
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.8 of 5 (33 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/AZ-305-Designing-Microsoft-Infrastructure-Solutions/dp/0137878788
+---
+HB Blurb: Prepare for Microsoft Exam AZ-305 and help demonstrate your real-world expertise in designing cloud and hybrid solutions that run on Microsoft Azure, including identity, governance, monitoring, data storage, business continuity, and infrastructure. Designed for modern IT professionals, this Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the Microsoft Certified Expert level.
+--------------------------------------------------
+
+Book 14:
+Title: Exam Ref AZ-700 Designing and Implementing Microsoft Azure Networks
+Author(s): Charles Pluta
+---
+ISBN-10: 0137682654 - ISBN-13: 9780137682652 - ASIN: 0137682778
+Published Date: 2022-04-07
+Page Count: 411
+---
+Google Books Price: GBP 20.49
+Google Books URL: http://books.google.co.uk/books?id=KtfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+AZ-700+Designing+and+Implementing+Microsoft+Azure+Networks%2Binauthor:Charles+Pluta&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (22 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Designing-Implementing-Microsoft-Networking-Solutions/dp/0137682778
+---
+HB Blurb: Prepare for Microsoft Exam AZ-700 and help demonstrate your real-world mastery of planning, implementing, and maintaining Azure networking solutions, including hybrid networking, connectivity, routing, security, and private access to Azure services. Designed for professionals with Azure networking experience, this Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the Microsoft Certified: Network Engineer Associate level.
+--------------------------------------------------
+
+Book 15:
+Title: Exam Ref AZ-801 Configuring Windows Server Hybrid Advanced Services
+Author(s): Orin Thomas
+---
+ISBN-10: 0137729375 - ISBN-13: 9780137729371 - ASIN: 1804615099
+Published Date: 2022-11-16
+Page Count: 394
+---
+Google Books Price: GBP 18.24
+Google Books URL: http://books.google.co.uk/books?id=LtfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+AZ-801+Configuring+Windows+Server+Hybrid+Advanced+Services%2Binauthor:Orin+Thomas&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (4 reviews)
+Amazon.com URL: https://www.amazon.com/Configuring-Windows-Advanced-Services-premises/dp/1804615099
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/AZ-801-Configuring-Windows-Advanced-Services-ebook/dp/B0DFX2TRQ2
+---
+HB Blurb: Prepare for Microsoft Exam AZ-801 and demonstrate your real-world mastery of configuring and managing Windows Server on-premises, hybrid, and Infrastructure as a Service (IaaS) platform workloads. Designed for professionals with Windows Server and Azure experience, this Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the Microsoft Certified: Windows Server Hybrid Administrator Associate level.
+--------------------------------------------------
+
+Book 16:
+Title: Exam Ref DP-500 Designing and Implementing Enterprise-Scale Analytics
+Author(s): Daniil Maslyuk, Justin Frebault
+---
+ISBN-10: 0138097534 - ISBN-13: 9780138097530 - ASIN: 0138097372
+Published Date: 2023-07-09
+Page Count: 489
+---
+Google Books Price: GBP 21.24
+Google Books URL: http://books.google.co.uk/books?id=TNfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+DP-500+Designing+and+Implementing+Enterprise-Scale+Analytics%2Binauthor:Daniil+Maslyuk,+Justin+Frebault&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.5 of 5 (4 reviews)
+Amazon.com URL: https://www.amazon.com/Designing-Implementing-Enterprise-Scale-Analytics-Solutions/dp/0138097372
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.2 of 5 (5 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Designing-Implementing-Enterprise-Scale-Analytics-Solutions/dp/0138097372
+---
+HB Blurb: Prepare for Microsoft Exam DP-500 and demonstrate your real-world ability to design, create, and deploy enterprise-scale data analytics solutions. Designed for business intelligence developers, architects, data analysts, and other professionals, this Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the Microsoft Certified: Azure Enterprise Data Analyst Associate level.
+--------------------------------------------------
+
+Book 17:
+Title: Exam Ref MS-500 Microsoft 365 Security Administration
+Author(s): Ed Fisher, Nate Chamberlain
+---
+ISBN-10: 0135802636 - ISBN-13: 9780135802632 - ASIN: 0135802644
+Published Date: 2020-09-30
+Page Count: 366
+---
+Google Books Price: GBP 15.99
+Google Books URL: http://books.google.co.uk/books?id=ZNfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+MS-500+Microsoft+365+Security+Administration%2Binauthor:Ed+Fisher,+Nate+Chamberlain&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.3 of 5 (53 reviews)
+Amazon.com URL: https://www.amazon.com/Exam-MS-500-Microsoft-Security-Administration/dp/0135802644
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (53 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Exam-MS-500-Microsoft-Security-Administration/dp/0135802644
+---
+HB Blurb: Prepare for Microsoft Exam MS-500: Demonstrate your real-world knowledge of Microsoft 365 security implementation and administration, including identity, access, threat and information protection, governance, and compliance. Designed for professionals with Microsoft security experience, this Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the Microsoft 365 Certified:Security Administrator Associate level.
+--------------------------------------------------
+
+Book 18:
+Title: Exam Ref SC-100 Microsoft Cybersecurity Architect
+Author(s): Yuri Diogenes, Sarah Young, Mark Simos, Gladys Rodriguez
+---
+ISBN-10: 0137997388 - ISBN-13: 9780137997381 - ASIN: 0137997302
+Published Date: 2023-02-06
+Page Count: 544
+---
+Google Books Price: GBP 20.49
+Google Books URL: http://books.google.co.uk/books?id=ONfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+SC-100+Microsoft+Cybersecurity+Architect%2Binauthor:Yuri+Diogenes,+Sarah+Young,+Mark+Simos,+Gladys+Rodriguez&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4 of 5 (13 reviews)
+Amazon.com URL: https://www.amazon.com/Exam-SC-100-Microsoft-Cybersecurity-Architect/dp/0137997302
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.9 of 5 (11 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Exam-SC-100-Microsoft-Cybersecurity-Architect/dp/0137997302
+---
+HB Blurb: Prepare for Microsoft Exam SC-100 and demonstrate your real-world mastery of skills and knowledge needed to design and evolve cybersecurity strategy for all aspects of enterprise architecture. Designed for experienced IT professionals, this Exam Ref focuses on critical thinking and decision-making acumen needed for success at the Microsoft Certified: Cybersecurity Architect Expert level.
+--------------------------------------------------
+
+Book 19:
+Title: Exam Ref SC-200 Microsoft Security Operations Analyst
+Author(s): Yuri Diogenes, Jake Mowrer, Sarah Young
+---
+ISBN-10: 0137568258 - ISBN-13: 9780137568253 - ASIN: B09939PH78
+Published Date: 2021-08-31
+Page Count: 518
+---
+Google Books Price: GBP 20.49
+Google Books URL: http://books.google.co.uk/books?id=INfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+SC-200+Microsoft+Security+Operations+Analyst%2Binauthor:Yuri+Diogenes,+Jake+Mowrer,+Sarah+Young&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $31.81Save $11.18 (26%)
+Amazon.com Reviews: 4.5 of 5 (41 reviews)
+Amazon.com URL: https://www.amazon.com/SC-200-Microsoft-Security-Operations-Analyst-ebook/dp/B09939PH78
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (40 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/SC-200-Microsoft-Security-Operations-Analyst/dp/0137568355
+---
+HB Blurb: Prepare for Microsoft Exam SC-200and help demonstrate your real-world mastery of skills and knowledge required to work with stakeholders to secure IT systems, and to rapidly remediate active attacks. Designed for Windows administrators, Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the Microsoft Certified Associate level.
+--------------------------------------------------
+
+Book 20:
+Title: Exam Ref SC-300 Microsoft Identity and Access Administrator
+Author(s): Razi Rais, Ilya Lushnikov, Jeevan Bisht, Padma Chilakapati, Vinayak Shenoy
+---
+ISBN-10: 0137886659 - ISBN-13: 9780137886654 - ASIN: 0137886527
+Published Date: 2022-12-30
+Page Count: 583
+---
+Google Books Price: GBP 20.49
+Google Books URL: http://books.google.co.uk/books?id=NtfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+SC-300+Microsoft+Identity+and+Access+Administrator%2Binauthor:Razi+Rais,+Ilya+Lushnikov,+Jeevan+Bisht,+Padma+Chilakapati,+Vinayak+Shenoy&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 3.8 of 5 (11 reviews)
+Amazon.com URL: https://www.amazon.com/Sc-300-Microsoft-Identity-Access-Administrator/dp/0137886527
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.7 of 5 (10 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/SC-300-Microsoft-Identity-Access-Administrator/dp/0137886527
+---
+HB Blurb: Prepare for Microsoft Exam SC-300 and demonstrate your real-world ability to design, implement, and operate identity and access management systems with Microsoft Azure Active Directory (AD). Designed for professionals involved in secure authentication, access, or identity management, this Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the Microsoft Certified: Identity and Access Administrator Associate level.
+--------------------------------------------------
+
+Book 21:
+Title: Exam Ref AI-900 Microsoft Azure AI Fundamentals
+Author(s): Julian Sharp
+---
+ISBN-10: 0137358148 - ISBN-13: 9780137358144 - ASIN: 0137358032
+Published Date: 2021-11-16
+Page Count: 288
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=PtfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+AI-900+Microsoft+Azure+AI+Fundamentals%2Binauthor:Julian+Sharp&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.4 of 5 (7 reviews)
+Amazon.com URL: https://www.amazon.com/Exam-AI-900-Microsoft-Azure-Fundamentals/dp/0137358032
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (27 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Exam-AI-900-Microsoft-Azure-Fundamentals/dp/0137358032
+---
+HB Blurb: Prepare for Microsoft Exam AI-900 and help demonstrate your real-world knowledge of diverse machine learning (ML) and artificial intelligence (AI) workloads, and how they can be implemented with Azure AI. Designed for business stakeholders, new and existing IT professionals, consultants, and students, this Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the Microsoft Certified: Azure AI Fundamentals level. Focus on the expertise measured by these objectives:  Describe AI workloads and considerations  Describe fundamental principles of machine learning on Azure  Describe features of computer vision workloads on Azure  Describe features of Natural Language Processing (NLP) workloads on Azure  Describe features of conversational AI workloads on Azure This Microsoft Exam Ref:  Organizes its coverage by exam objectives  Features strategic, what-if scenarios to challenge you  Assumes you are a business user, stakeholder, technical professional, or student who wants to become familiar with Azure AI; requires no data science or software engineering experience. About the Exam Exam AI-900 focuses on knowledge needed to identify features of common AI workloads and guiding principles for responsible AI; identify common ML types; describe core ML concepts; identify core tasks in creating an ML solution; describe capabilities of no-code ML with Azure Machine Learning Studio; identify common types of computer vision solutions; identify Azure tools and services for computer vision tasks; identify features of common NLP workload scenarios; identify Azure tools and services for NLP workloads; and identify common use cases and Azure services for conversational Al. About Microsoft Certification Passing this exam fulfills your requirements for the Microsoft Certified: Azure AI Fundamentals certification, demonstrating your knowledge of common ML and AI workloads and how to implement them on Azure. With this certification, you can move on to earn more advanced role-based certifications, including Microsoft Certified: Azure AI Engineer Associate or Azure Data Scientist Associate. See full details at: microsoft.com/learn
+--------------------------------------------------
+
+Book 22:
+Title: Exam Ref AZ-500 Microsoft Aure Security Technologies
+Author(s): Yuri Diogenes, Orin Thomas
+---
+ISBN-10: 9780136788935 - ISBN-13: 0136788939 - ASIN: 0137834462
+Published Date: 2020-09-25
+Page Count: 410
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=2-hrzQEACAAJ&dq=intitle:Exam+Ref+AZ-500+Microsoft+Aure+Security+Technologies%2Binauthor:Yuri+Diogenes,+Orin+Thomas&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.4 of 5 (87 reviews)
+Amazon.com URL: https://www.amazon.com/AZ-500-Microsoft-Azure-Security-Technologies/dp/0136788939
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (29 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/AZ-500-Microsoft-Azure-Security-Technologies/dp/0137834462
+---
+HB Blurb: Prepare for Microsoft Exam AZ-500 and demonstrate your real-world knowledge of Microsoft Azure security, including the skills needed to implement security controls, maintain an organizations security posture, and identify and remediate security vulnerabilities. Designed for professionals with Azure security experience, this Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the Microsoft Certified: Azure Security Engineer Associate level.
+--------------------------------------------------
+
+Book 23:
+Title: Exam Ref DP-600 Implementing Analytics Solutions Using Microsoft Fabric
+Author(s): Daniil Maslyuk, Stepan Resl, Johnny Winter
+---
+ISBN-10: 0135336074 - ISBN-13: 9780135336076 - ASIN: 0135336023
+Published Date: 2024-08-31
+Page Count: 570
+---
+Google Books Price: GBP 26.49
+Google Books URL: http://books.google.co.uk/books?id=OtcMEQAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+DP-600+Implementing+Analytics+Solutions+Using+Microsoft+Fabric%2Binauthor:Daniil+Maslyuk,+Stepan+Resl,+Johnny+Winter&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/DP-600-Implementing-Analytics-Solutions-Microsoft/dp/0135336023
+---
+HB Blurb: Prepare for Microsoft Exam DP-600 and demonstrate your real-world mastery of Microsoft Fabric analytics solution development. Designed for working Fabric analytics engineers, this Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the Microsoft Certified Solutions Associate level.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Exam Ref AZ-900 Microsoft Azure Fundamentals
+No Amazon.com URL found
+https://www.amazon.co.uk/Exam-AZ-900-Microsoft-Azure-Fundamentals/dp/0137955146
+http://books.google.co.uk/books?id=OrKbDwAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+AZ-900+Microsoft+Azure+Fundamentals%2Binauthor:Jim+Cheshire&hl=&cd=1&source=gbs_api
+
+Book 02 - Exam Ref AZ-104 Microsoft Azure Administrator
+https://www.amazon.com/Exam-AZ-104-Microsoft-Azure-Administrator-ebook/dp/B0D5D6HLNW
+https://www.amazon.co.uk/Exam-AZ-104-Microsoft-Azure-Administrator/dp/0138345937
+http://books.google.co.uk/books?id=FaEKEQAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+AZ-104+Microsoft+Azure+Administrator%2Binauthor:Charles+Pluta&hl=&cd=1&source=gbs_api
+
+Book 03 - Exam Ref MS-102 Microsoft 365 Administrator
+https://www.amazon.com/Exam-Ref-MS-102-Microsoft-Administrator/dp/0138199469
+https://www.amazon.co.uk/Exam-Ref-MS-102-Microsoft-Administrator/dp/0138199469
+http://books.google.co.uk/books?id=d95s0AEACAAJ&dq=intitle:Exam+Ref+MS-102+Microsoft+365+Administrator%2Binauthor:Orin+Thomas&hl=&cd=1&source=gbs_api
+
+Book 04 - Exam Ref MS-900 Microsoft 365 Fundamentals
+https://www.amazon.com/Exam-Ref-MS-900-Microsoft-Fundamentals-ebook/dp/B0CMS46295
+https://www.amazon.co.uk/Exam-Ref-MS-900-Microsoft-Fundamentals/dp/0138237115
+http://books.google.co.uk/books?id=f1jiEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+MS-900+Microsoft+365+Fundamentals%2Binauthor:Craig+Zacker&hl=&cd=1&source=gbs_api
+
+Book 05 - Exam Ref DP-900 Microsoft Azure Data Fundamentals
+https://www.amazon.com/Exam-DP-900-Microsoft-Azure-Fundamentals/dp/0138261903
+https://www.amazon.co.uk/Exam-DP-900-Microsoft-Azure-Fundamentals-ebook/dp/B0CVW2DHXX
+http://books.google.co.uk/books?id=z3niEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+DP-900+Microsoft+Azure+Data+Fundamentals%2Binauthor:Nicola+Farquharson&hl=&cd=1&source=gbs_api
+
+Book 06 - Microsoft Press Discounts on microsoftpressstore.com
+No Amazon.com URL found
+No Amazon.co.uk URL found
+No Google Books URL found.
+
+Book 07 - Exam Ref AZ-800 Administering Windows Server Hybrid Core Infrastructure
+https://www.amazon.com/AZ-800-Administering-Windows-Infrastructure-3570357-ebook/dp/B09Z7R89C9
+https://www.amazon.co.uk/AZ-800-Administering-Windows-Server-Infrastructure/dp/013772926X
+http://books.google.co.uk/books?id=etfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+AZ-800+Administering+Windows+Server+Hybrid+Core+Infrastructure%2Binauthor:Orin+Thomas&hl=&cd=1&source=gbs_api
+
+Book 08 - Exam Ref MS-700 Managing Microsoft Teams
+No Amazon.com URL found
+https://www.amazon.co.uk/Exam-MS-700-Managing-Microsoft-Teams/dp/0137578725
+http://books.google.co.uk/books?id=XtfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+MS-700+Managing+Microsoft+Teams%2Binauthor:Ed+Fisher&hl=&cd=1&source=gbs_api
+
+Book 09 - Exam Ref PL-300 Power BI Data Analyst
+https://www.amazon.com/Exam-PL-300-Power-Data-Analyst/dp/0137901232
+https://www.amazon.co.uk/Exam-PL-300-Power-Data-Analyst/dp/0137901232
+http://books.google.co.uk/books?id=SNfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+PL-300+Power+BI+Data+Analyst%2Binauthor:Daniil+Maslyuk&hl=&cd=1&source=gbs_api
+
+Book 10 - Exam Ref PL-900 Microsoft Power Platform Fundamentals
+https://www.amazon.com/PL-900-Microsoft-Power-Platform-Fundamentals/dp/0137956584
+https://www.amazon.co.uk/PL-900-Microsoft-Power-Platform-Fundamentals/dp/0136788769
+http://books.google.co.uk/books?id=kNfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+PL-900+Microsoft+Power+Platform+Fundamentals%2Binauthor:Craig+Zacker&hl=&cd=1&source=gbs_api
+
+Book 11 - Exam Ref SC-900 Microsoft Security, Compliance, and Identity Fundamentals
+https://www.amazon.com/Microsoft-Security-Compliance-Identity-Fundamentals/dp/1801815992
+https://www.amazon.co.uk/Microsoft-Security-Compliance-Identity-Fundamentals/dp/013756810X
+http://books.google.co.uk/books?id=UNfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+SC-900+Microsoft+Security,+Compliance,+and+Identity+Fundamentals%2Binauthor:Yuri+Diogenes,+Nicholas+DiCola,+Mark+Morowczynski,+Kevin+McKinnerney&hl=&cd=1&source=gbs_api
+
+Book 12 - Exam Ref AZ-204 Developing Solutions for Microsoft Azure
+https://www.amazon.com/AZ-204-Developing-Solutions-Microsoft-Azure-ebook/dp/B08F5HYFQR
+https://www.amazon.co.uk/AZ-204-Developing-Solutions-Microsoft-Azure-ebook/dp/B08F5HYFQR
+http://books.google.co.uk/books?id=WIvmEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+AZ-204+Developing+Solutions+for+Microsoft+Azure%2Binauthor:Santiago+Fernandez+Munoz&hl=&cd=1&source=gbs_api
+
+Book 13 - Exam Ref AZ-305 Designing Microsoft Azure Infrastructure Solutions
+https://www.amazon.com/AZ-305-Designing-Microsoft-Infrastructure-Solutions/dp/0137878788
+https://www.amazon.co.uk/AZ-305-Designing-Microsoft-Infrastructure-Solutions/dp/0137878788
+http://books.google.co.uk/books?id=MtfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+AZ-305+Designing+Microsoft+Azure+Infrastructure+Solutions%2Binauthor:Ashish+Agrawal,+Gurvinder+Singh,+Avinash+Bhavsar,+Mohammad+Sabir+Sopariwala&hl=&cd=1&source=gbs_api
+
+Book 14 - Exam Ref AZ-700 Designing and Implementing Microsoft Azure Networks
+No Amazon.com URL found
+https://www.amazon.co.uk/Designing-Implementing-Microsoft-Networking-Solutions/dp/0137682778
+http://books.google.co.uk/books?id=KtfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+AZ-700+Designing+and+Implementing+Microsoft+Azure+Networks%2Binauthor:Charles+Pluta&hl=&cd=1&source=gbs_api
+
+Book 15 - Exam Ref AZ-801 Configuring Windows Server Hybrid Advanced Services
+https://www.amazon.com/Configuring-Windows-Advanced-Services-premises/dp/1804615099
+https://www.amazon.co.uk/AZ-801-Configuring-Windows-Advanced-Services-ebook/dp/B0DFX2TRQ2
+http://books.google.co.uk/books?id=LtfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+AZ-801+Configuring+Windows+Server+Hybrid+Advanced+Services%2Binauthor:Orin+Thomas&hl=&cd=1&source=gbs_api
+
+Book 16 - Exam Ref DP-500 Designing and Implementing Enterprise-Scale Analytics
+https://www.amazon.com/Designing-Implementing-Enterprise-Scale-Analytics-Solutions/dp/0138097372
+https://www.amazon.co.uk/Designing-Implementing-Enterprise-Scale-Analytics-Solutions/dp/0138097372
+http://books.google.co.uk/books?id=TNfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+DP-500+Designing+and+Implementing+Enterprise-Scale+Analytics%2Binauthor:Daniil+Maslyuk,+Justin+Frebault&hl=&cd=1&source=gbs_api
+
+Book 17 - Exam Ref MS-500 Microsoft 365 Security Administration
+https://www.amazon.com/Exam-MS-500-Microsoft-Security-Administration/dp/0135802644
+https://www.amazon.co.uk/Exam-MS-500-Microsoft-Security-Administration/dp/0135802644
+http://books.google.co.uk/books?id=ZNfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+MS-500+Microsoft+365+Security+Administration%2Binauthor:Ed+Fisher,+Nate+Chamberlain&hl=&cd=1&source=gbs_api
+
+Book 18 - Exam Ref SC-100 Microsoft Cybersecurity Architect
+https://www.amazon.com/Exam-SC-100-Microsoft-Cybersecurity-Architect/dp/0137997302
+https://www.amazon.co.uk/Exam-SC-100-Microsoft-Cybersecurity-Architect/dp/0137997302
+http://books.google.co.uk/books?id=ONfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+SC-100+Microsoft+Cybersecurity+Architect%2Binauthor:Yuri+Diogenes,+Sarah+Young,+Mark+Simos,+Gladys+Rodriguez&hl=&cd=1&source=gbs_api
+
+Book 19 - Exam Ref SC-200 Microsoft Security Operations Analyst
+https://www.amazon.com/SC-200-Microsoft-Security-Operations-Analyst-ebook/dp/B09939PH78
+https://www.amazon.co.uk/SC-200-Microsoft-Security-Operations-Analyst/dp/0137568355
+http://books.google.co.uk/books?id=INfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+SC-200+Microsoft+Security+Operations+Analyst%2Binauthor:Yuri+Diogenes,+Jake+Mowrer,+Sarah+Young&hl=&cd=1&source=gbs_api
+
+Book 20 - Exam Ref SC-300 Microsoft Identity and Access Administrator
+https://www.amazon.com/Sc-300-Microsoft-Identity-Access-Administrator/dp/0137886527
+https://www.amazon.co.uk/SC-300-Microsoft-Identity-Access-Administrator/dp/0137886527
+http://books.google.co.uk/books?id=NtfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+SC-300+Microsoft+Identity+and+Access+Administrator%2Binauthor:Razi+Rais,+Ilya+Lushnikov,+Jeevan+Bisht,+Padma+Chilakapati,+Vinayak+Shenoy&hl=&cd=1&source=gbs_api
+
+Book 21 - Exam Ref AI-900 Microsoft Azure AI Fundamentals
+https://www.amazon.com/Exam-AI-900-Microsoft-Azure-Fundamentals/dp/0137358032
+https://www.amazon.co.uk/Exam-AI-900-Microsoft-Azure-Fundamentals/dp/0137358032
+http://books.google.co.uk/books?id=PtfPEAAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+AI-900+Microsoft+Azure+AI+Fundamentals%2Binauthor:Julian+Sharp&hl=&cd=1&source=gbs_api
+
+Book 22 - Exam Ref AZ-500 Microsoft Aure Security Technologies
+https://www.amazon.com/AZ-500-Microsoft-Azure-Security-Technologies/dp/0136788939
+https://www.amazon.co.uk/AZ-500-Microsoft-Azure-Security-Technologies/dp/0137834462
+http://books.google.co.uk/books?id=2-hrzQEACAAJ&dq=intitle:Exam+Ref+AZ-500+Microsoft+Aure+Security+Technologies%2Binauthor:Yuri+Diogenes,+Orin+Thomas&hl=&cd=1&source=gbs_api
+
+Book 23 - Exam Ref DP-600 Implementing Analytics Solutions Using Microsoft Fabric
+No Amazon.com URL found
+https://www.amazon.co.uk/DP-600-Implementing-Analytics-Solutions-Microsoft/dp/0135336023
+http://books.google.co.uk/books?id=OtcMEQAAQBAJ&printsec=frontcover&dq=intitle:Exam+Ref+DP-600+Implementing+Analytics+Solutions+Using+Microsoft+Fabric%2Binauthor:Daniil+Maslyuk,+Stepan+Resl,+Johnny+Winter&hl=&cd=1&source=gbs_api
+
