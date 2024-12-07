@@ -1,0 +1,699 @@
+Humble Tech Book Bundle- Hacking 2024 by No Starch - No Starch Press
+Processing date: 2024-12-06
+Data retrieved from: https://www.humblebundle.com/books/hacking-2024-no-starch-books
+
+Book 01 - Hacks, Leaks, and Revelations - Micah Lee - None found out of 5 (None found reviews)
+Book 02 - Windows Security Internals - James Forshaw - 4.5 out of 5 (10 reviews)
+Book 03 - Evading EDR - Matt Hand - 4.8 out of 5 (38 reviews)
+Book 04 - Evasive Malware - Kyle Cucci - 5 out of 5 (2 reviews)
+Book 05 - The Android Malware Book - Qian Han, Salvador Mandujano, Sebastian Porst, V.S. Subrahmanian, Sai Deep Tetali, Yanhai Xiong - 4.4 out of 5 (8 reviews)
+Book 06 - The Art of Mac Malware - Patrick Wardle - 4.7 out of 5 (34 reviews)
+Book 07 - Ethical Hacking - Daniel G. Graham - 4.7 out of 5 (182 reviews)
+Book 08 - Attacking Network Protocols - James Forshaw - 4.7 out of 5 (237 reviews)
+Book 09 - Foundations of Information Security - Jason Andress - 4.7 out of 5 (81 reviews)
+Book 10 - Practical IoT Hacking - Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, Beau Woods - 4.7 out of 5 (195 reviews)
+Book 11 - Linux Basics for Hackers - OccupyTheWeb - None found out of 5 (None found reviews)
+Book 12 - The Ghidra Book - Chris Eagle, Kara Nance - 4.8 out of 5 (168 reviews)
+Book 13 - Penetration Testing - Georgia Weidman - None found out of 5 (None found reviews)
+Book 14 - Cyberjutsu - Ben McCarty - 4.7 out of 5 (100 reviews)
+Book 15 - Black Hat Go - Tom Steele, Chris Patten, Dan Kottmann - 4.6 out of 5 (186 reviews)
+Book 16 - Malware Data Science - Joshua Saxe, Hillary Sanders - 4.6 out of 5 (103 reviews)
+Book 17 - Real-World Bug Hunting - Peter Yaworski - 4.6 out of 5 (223 reviews)
+Book 18 - The Tangled Web - Michal Zalewski - 4.4 out of 5 (93 reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Hacks, Leaks, and Revelations
+Author(s): Micah Lee
+---
+ISBN-10: 1718503121 - ISBN-13: 9781718503120 - ASIN: B0B9W11YNX
+Published Date: 2024-01-09
+Page Count: 546
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=HuytEAAAQBAJ&printsec=frontcover&dq=intitle:Hacks,+Leaks,+and+Revelations%2Binauthor:Micah+Lee&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (10 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Hacks-Leaks-Revelations-Micah-Lee-ebook/dp/B0B9W11YNX
+---
+HB Blurb: Unlock the internet’s treasure trove of public interest data with Hacks, Leaks, and Revelations by Micah Lee, an investigative reporter and security engineer. This hands-on guide blends real-world techniques for researching large datasets with lessons on coding, data authentication, and digital security. All of this is spiced up with gripping stories from the front lines of investigative journalism.
+Dive into exposed datasets from a wide array of sources: the FBI, the DHS, police intelligence agencies, extremist groups like the Oath Keepers, and even a Russian ransomware gang. Lee’s own in-depth case studies on disinformation-peddling pandemic profiteers and neo-Nazi chatrooms serve as blueprints for your research.
+Gain practical skills in searching massive troves of data for keywords like “antifa” and pinpointing documents with newsworthy revelations. Get a crash course in Python to automate the analysis of millions of files.
+You will also learn how to:
+
+Master encrypted messaging to safely communicate with whistleblowers
+Secure datasets over encrypted channels using Signal, Tor Browser, OnionShare, and SecureDrop
+Harvest data from the BlueLeaks collection of internal memos, financial records, and more from over 200 state, local, and federal agencies
+Probe leaked email archives about offshore detention centers and the Heritage Foundation
+Analyze metadata from videos of the January 6 attack on the US Capitol, sourced from the Parler social network
+
+We live in an age where hacking and whistleblowing can unearth secrets that alter history. Hacks, Leaks, and Revelations is your toolkit for uncovering new stories and hidden truths. Crack open your laptop, plug in a hard drive, and get ready to change history.
+--------------------------------------------------
+
+Book 02:
+Title: Windows Security Internals
+Author(s): James Forshaw
+---
+ISBN-10: 1718501986 - ISBN-13: 9781718501980 - ASIN: B0CD3H2X5P
+Published Date: 2024-04-30
+Page Count: 610
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=b_fNEAAAQBAJ&printsec=frontcover&dq=intitle:Windows+Security+Internals%2Binauthor:James+Forshaw&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $35.99
+Amazon.com Reviews: 4.5 of 5 (10 reviews)
+Amazon.com URL: https://www.amazon.com/Windows-Security-Internals-Authentication-Authorization-ebook/dp/B0CD3H2X5P
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (8 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Windows-Security-Internals-Authentication-Authorization-ebook/dp/B0CD3H2X5P
+---
+HB Blurb: Windows Security Internals is a must-have for anyone needing to understand the Windows operating system’s low-level implementations, whether to discover new vulnerabilities or protect against known ones. Developers, devops, and security researchers will all find unparalleled insight into the operating system’s key elements and weaknesses, surpassing even Microsoft’s official documentation.
+Author James Forshaw teaches through meticulously crafted PowerShell examples that can be experimented with and modified, covering everything from basic resource security analysis to advanced techniques like using network authentication. The examples will help you actively test and manipulate system behaviors, learn how Windows secures files and the registry, re-create from scratch how the system grants access to a resource, learn how Windows implements authentication both locally and over a network, and much more.
+You’ll also explore a wide range of topics, such as:
+
+Windows security architecture, including both the kernel and user-mode applications
+The Windows Security Reference Monitor (SRM), including access tokens, querying and setting a resource’s security descriptor, and access checking and auditing
+Interactive Windows authentication and credential storage in the Security Account Manager (SAM) and Active Directory
+Mechanisms of network authentication protocols, including NTLM and Kerberos
+
+In an era of sophisticated cyberattacks on Windows networks, mastering the operating system’s complex security mechanisms is more crucial than ever. Whether you’re defending against the latest cyber threats or delving into the intricacies of Windows security architecture, you’ll find Windows Security Internals indispensable in your efforts to navigate the complexities of today’s cybersecurity landscape.
+--------------------------------------------------
+
+Book 03:
+Title: Evading EDR
+Author(s): Matt Hand
+---
+ISBN-10: 1718503350 - ISBN-13: 9781718503359 - ASIN: B0BZH1RTVB
+Published Date: 2023-10-31
+Page Count: 314
+---
+Google Books Price: GBP 33.95
+Google Books URL: http://books.google.co.uk/books?id=SWy1EAAAQBAJ&printsec=frontcover&dq=intitle:Evading+EDR%2Binauthor:Matt+Hand&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $35.99Save $24.00 (40%)
+Amazon.com Reviews: 4.8 of 5 (38 reviews)
+Amazon.com URL: https://www.amazon.com/Evading-EDR-Definitive-Defeating-Detection-ebook/dp/B0BZH1RTVB
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (40 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Evading-EDR-Definitive-Defeating-Detection-ebook/dp/B0BZH1RTVB
+---
+HB Blurb: Nearly every enterprise uses an Endpoint Detection and Response (EDR) agent to monitor the devices on their network for signs of an attack. But that doesn’t mean security defenders grasp how these systems actually work. This book demystifies EDR, taking you on a deep dive into how EDRs detect adversary activity. Chapter by chapter, you’ll learn that EDR is not a magical black box—it’s just a complex software application built around a few easy-to-understand components.
+The author uses his years of experience as a red team operator to investigate each of the most common sensor components, discussing their purpose, explaining their implementation, and showing the ways they collect various data points from the Microsoft operating system. In addition to covering the theory behind designing an effective EDR, each chapter also reveals documented evasion strategies for bypassing EDRs that red teamers can use in their engagements.
+--------------------------------------------------
+
+Book 04:
+Title: Evasive Malware
+Author(s): Kyle Cucci
+---
+ISBN-10: 1718503261 - ISBN-13: 9781718503267 - ASIN: B0C1YGWP76
+Published Date: 2024-09-10
+Page Count: 488
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=DSu4EAAAQBAJ&printsec=frontcover&dq=intitle:Evasive+Malware%2Binauthor:Kyle+Cucci&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $43.99Save $26.00 (37%)
+Amazon.com Reviews: 5 of 5 (2 reviews)
+Amazon.com URL: https://www.amazon.com/Evasive-Malware-Understanding-Deceptive-Self-Defending-ebook/dp/B0C1YGWP76
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (3 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Evasive-Malware-Understanding-Deceptive-Self-Defending-ebook/dp/B0C1YGWP76
+---
+HB Blurb: We’re all aware of Stuxnet, ShadowHammer, Sunburst, and similar attacks that use evasion to remain hidden while defending themselves from detection and analysis. Because advanced threats like these can adapt and, in some cases, self-destruct to evade detection, even the most seasoned investigators can use a little help with analysis now and then. Evasive Malware will introduce you to the evasion techniques used by today’s malicious software and show you how to defeat them.
+Following a crash course on using static and dynamic code analysis to uncover malware’s true intentions, you’ll learn how malware weaponizes context awareness to detect and skirt virtual machines and sandboxes, plus the various tricks it uses to thwart analysis tools. You’ll explore the world of anti-reversing, from anti-disassembly methods and debugging interference to covert code execution and misdirection tactics. You’ll also delve into defense evasion, from process injection and rootkits to fileless malware. Finally, you’ll dissect encoding, encryption, and the complexities of malware obfuscators and packers to uncover the evil within.
+You’ll learn how malware:
+
+Abuses legitimate components of Windows, like the Windows API and LOLBins, to run undetected
+Uses environmental quirks and context awareness, like CPU timing and hypervisor enumeration, to detect attempts at analysis
+Bypasses network and endpoint defenses using passive circumvention techniques, like obfuscation and mutation, and active techniques, like unhooking and tampering
+Detects debuggers and circumvents dynamic and static code analysis
+
+You’ll also find tips for building a malware analysis lab and tuning it to better counter anti-analysis techniques in malware. Whether you’re a frontline defender, a forensic analyst, a detection engineer, or a researcher, Evasive Malware will arm you with the knowledge and skills you need to outmaneuver the stealthiest of today’s cyber adversaries.
+--------------------------------------------------
+
+Book 05:
+Title: The Android Malware Book
+Author(s): Qian Han, Salvador Mandujano, Sebastian Porst, V.S. Subrahmanian, Sai Deep Tetali, Yanhai Xiong
+---
+ISBN-10: 171850330X - ISBN-13: 9781718503304 - ASIN: 
+Published Date: 2023-11-07
+Page Count: 330
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=XnO1EAAAQBAJ&printsec=frontcover&dq=intitle:The+Android+Malware+Book%2Binauthor:Qian+Han,+Salvador+Mandujano,+Sebastian+Porst,+V.S.+Subrahmanian,+Sai+Deep+Tetali,+Yanhai+Xiong&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.4 of 5 (8 reviews)
+Amazon.com URL: https://www.amazon.com/Android-Malware-Handbook-Detection-Analysis/dp/171850330X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (8 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Android-Malware-Handbook-Analysis-Detection/dp/171850330X
+---
+HB Blurb: This groundbreaking guide to Android malware distills years of research by machine learning experts in academia and members of Meta and Google’s Android Security teams into a comprehensive introduction to detecting common threats facing the Android eco-system today.
+Explore the history of Android malware in the wild since the operating system first launched and then practice static and dynamic approaches to analyzing real malware specimens. Next, examine machine learning techniques that can be used to detect malicious apps, the types of classification models that defenders can implement to achieve these detections, and the various malware features that can be used as input to these models. Adapt these machine learning strategies to the identification of malware categories like banking trojans, ransomware, and SMS fraud.
+You’ll:
+
+Dive deep into the source code of real malware
+Explore the static, dynamic, and complex features you can extract from malware for analysis
+Master the machine learning algorithms useful for malware detection
+Survey the efficacy of machine learning techniques at detecting common Android malware categories
+
+The Android Malware Handbook’s team of expert authors will guide you through the Android threat landscape and prepare you for the next wave of malware to come.
+--------------------------------------------------
+
+Book 06:
+Title: The Art of Mac Malware
+Author(s): Patrick Wardle
+---
+ISBN-10: 1718501951 - ISBN-13: 9781718501959 - ASIN: 1718501943
+Published Date: 2022-06-28
+Page Count: 329
+---
+Google Books Price: GBP 28.42
+Google Books URL: http://books.google.co.uk/books?id=xGpCEAAAQBAJ&printsec=frontcover&dq=intitle:The+Art+of+Mac+Malware%2Binauthor:Patrick+Wardle&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (34 reviews)
+Amazon.com URL: https://www.amazon.com/Art-Mac-Malware-Analyzing-Malicious/dp/1718501943
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (29 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Art-Mac-Malware-Analyzing-Malicious-ebook/dp/B09BKLVBPR
+---
+HB Blurb: Defenders must fully understand how malicious software works if they hope to stay ahead of the increasingly sophisticated threats facing Apple products today. The Art of Mac Malware, Volume 1: The Guide to Analyzing Malicious Software is a comprehensive handbook to cracking open these malicious programs and seeing what’s inside.
+Discover the secrets of nation state backdoors, destructive ransomware, and subversive cryptocurrency miners as you uncover their infection methods, persistence strategies, and insidious capabilities. Then work with and extend foundational reverse-engineering tools to extract and decrypt embedded strings, unpack protected Mach-O malware, and even reconstruct binary code. Next, using a debugger, you’ll execute the malware, instruction by instruction, to discover exactly how it operates. In the book’s final section, you’ll put these lessons into practice by analyzing a complex Mac malware specimen on your own.
+You’ll learn to:
+
+Recognize common infections vectors, persistence mechanisms, and payloads leveraged by Mac malware
+Triage unknown samples in order to quickly classify them as benign or malicious
+Work with static analysis tools, including disassemblers, in order to study malicious scripts and compiled binaries
+Leverage dynamical analysis tools, such as monitoring tools and debuggers, to gain further insight into sophisticated threats
+Quickly identify and bypass anti-analysis techniques aimed at thwarting your analysis attempts
+
+A former NSA hacker and current leader in the field of macOS threat analysis, Patrick Wardle uses real-world examples pulled from his original research. The Art of Mac Malware, Volume 1: The Guide to Analyzing Malicious Software is the definitive resource to battling these ever more prevalent and insidious Apple-focused threats.
+--------------------------------------------------
+
+Book 07:
+Title: Ethical Hacking
+Author(s): Daniel G. Graham
+---
+ISBN-10: 1718501870 - ISBN-13: 9781718501874 - ASIN: B08Y5LH95M
+Published Date: 2021-11-02
+Page Count: 378
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=bG5BEAAAQBAJ&printsec=frontcover&dq=intitle:Ethical+Hacking%2Binauthor:Daniel+G.+Graham&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $29.99Save $20.00 (40%)
+Amazon.com Reviews: 4.7 of 5 (182 reviews)
+Amazon.com URL: https://www.amazon.com/Ethical-Hacking-Hands-Introduction-Breaking-ebook/dp/B08Y5LH95M
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (173 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Ethical-Hacking-Hands-Introduction-Breaking-ebook/dp/B08Y5LH95M
+---
+HB Blurb: Ethical Hacking is a crash course in modern hacking techniques. It’s already being used to prepare the next generation of offensive security experts. In its many hands-on labs, you’ll explore crucial skills for any aspiring penetration tester, security researcher, or malware analyst.
+You’ll begin with the basics: capturing a victim’s network traffic with an ARP spoofing attack and then viewing it in Wireshark. From there, you’ll deploy reverse shells that let you remotely run commands on a victim’s computer, encrypt files by writing your own ransomware in Python, and fake emails like the ones used in phishing attacks. In advanced chapters, you’ll learn how to fuzz for new vulnerabilities, craft trojans and rootkits, exploit websites with SQL injection, and escalate your privileges to extract credentials, which you’ll use to traverse a private network.
+You’ll work with a wide range of professional penetration testing tools—and learn to write your own tools in Python—as you practice tasks like:
+
+Deploying the Metasploit framework’s reverse shells and embedding them in innocent-seeming files
+Capturing passwords in a corporate Windows network using Mimikatz
+Scanning (almost) every device on the internet to find potential victims
+Installing Linux rootkits that modify a victim’s operating system
+Performing advanced Cross-Site Scripting (XSS) attacks that execute sophisticated JavaScript payloads
+
+Along the way, you’ll gain a foundation in the relevant computing technologies. Discover how advanced fuzzers work behind the scenes, learn how internet traffic gets encrypted, explore the inner mechanisms of nation-state malware like Drovorub, and much more.
+Developed with feedback from cybersecurity students, Ethical Hacking addresses contemporary issues in the field not often covered in other books and will prepare you for a career in penetration testing. Most importantly, you’ll be able to think like an ethical hacker: someone who can carefully analyze systems and creatively gain access to them.
+--------------------------------------------------
+
+Book 08:
+Title: Attacking Network Protocols
+Author(s): James Forshaw
+---
+ISBN-10: 1593277504 - ISBN-13: 9781593277505 - ASIN: B071V4DYVC
+Published Date: 2017-12-08
+Page Count: 338
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=EVv6DwAAQBAJ&printsec=frontcover&dq=intitle:Attacking+Network+Protocols%2Binauthor:James+Forshaw&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $35.99Save $13.96 (28%)
+Amazon.com Reviews: 4.7 of 5 (237 reviews)
+Amazon.com URL: https://www.amazon.com/Attacking-Network-Protocols-Analysis-Exploitation-ebook/dp/B071V4DYVC
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (224 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Attacking-Network-Protocols-Analysis-Exploitation-ebook/dp/B071V4DYVC
+---
+HB Blurb: Attacking Network Protocols is a deep dive into network protocol security from James Forshaw, one of the world's leading bug hunters. This comprehensive guide looks at networking from an attacker's perspective to help you discover, exploit, and ultimately protect vulnerabilities.
+You'll start with a rundown of networking basics and protocol traffic capture before moving on to static and dynamic protocol analysis, common protocol structures, cryptography, and protocol security. Then you'll turn your focus to finding and exploiting vulnerabilities, with an overview of common bug classes, fuzzing, debugging, and exhaustion attacks.
+Learn how to:
+
+Capture, manipulate, and replay packets
+Develop tools to dissect traffic and reverse engineer code to understand the inner workings of a network protocol
+Discover and exploit vulnerabilities such as memory corruptions, authentication bypasses, and denials of service
+Use capture and analysis tools like Wireshark and develop your own custom network proxies to manipulate network traffic
+
+Attacking Network Protocols is a must-have for any penetration tester, bug hunter, or developer looking to understand and discover network vulnerabilities."Very readable and accessible...worth reading even if your only interest in network security is as an applications developer.” —I Programmer
+--------------------------------------------------
+
+Book 09:
+Title: Foundations of Information Security
+Author(s): Jason Andress
+---
+ISBN-10: 171850005X - ISBN-13: 9781718500051 - ASIN: B07Q189TCM
+Published Date: 2019-10-15
+Page Count: 249
+---
+Google Books Price: GBP 28.42
+Google Books URL: http://books.google.co.uk/books?id=rFmSDwAAQBAJ&printsec=frontcover&dq=intitle:Foundations+of+Information+Security%2Binauthor:Jason+Andress&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $23.99
+Amazon.com Reviews: 4.7 of 5 (81 reviews)
+Amazon.com URL: https://www.amazon.com/Foundations-Information-Security-Straightforward-Introduction-ebook/dp/B07Q189TCM
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (71 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Foundations-Information-Security-Straightforward-Introduction-ebook/dp/B07Q189TCM
+---
+HB Blurb: A high-level survey of the information security field by best-selling author Jason Andress. The book covers the basics of a wide variety of topics, from authentication and authorization to maintaining confidentiality and performing penetration testing.
+Using real-world security breaches as examples, Foundations of Information Security explores common applications of these concepts, such as operations security, network design, hardening and patching operating systems, securing mobile devices, as well as tools for assessing the security of hosts and applications.
+You'll also learn the basics of topics like:
+
+Multifactor authentication and how biometrics and hardware tokens can be used to harden the authentication process
+The principles behind modern cryptography, including symmetric and asymmetric algorithms, hashes, and certificates
+The laws and regulations that protect systems and data
+Anti-malware tools, firewalls, and intrusion detection systems
+Vulnerabilities such as buffer overflows and race conditions
+
+A valuable resource for beginning security professionals, network systems administrators, or anyone new to the field, Foundations of Information Security is a great place to start your journey into the dynamic and rewarding field of information security.
+--------------------------------------------------
+
+Book 10:
+Title: Practical IoT Hacking
+Author(s): Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, Beau Woods
+---
+ISBN-10: 1718500904 - ISBN-13: 9781718500907 - ASIN: B085BVVSN6
+Published Date: 2021-04-09
+Page Count: 466
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=pNwfEAAAQBAJ&printsec=frontcover&dq=intitle:Practical+IoT+Hacking%2Binauthor:Fotios+Chantzis,+Ioannis+Stais,+Paulino+Calderon,+Evangelos+Deirmentzoglou,+Beau+Woods&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $29.99
+Amazon.com Reviews: 4.7 of 5 (195 reviews)
+Amazon.com URL: https://www.amazon.com/Practical-IoT-Hacking-Fotios-Chantzis/dp/1718500904
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (188 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Practical-IoT-Hacking-Fotios-Chantzis-ebook/dp/B085BVVSN6
+---
+HB Blurb: Drawing from the real-life exploits of five highly regarded IoT security researchers, Practical IoT Hacking teaches you how to test IoT systems, devices, and protocols to mitigate risk.
+The book begins by walking you through common threats and a threat modeling framework. You’ll develop a security testing methodology, discover the art of passive reconnaissance, and assess security on all layers of an IoT system. Next, you’ll perform VLAN hopping, crack MQTT authentication, abuse UPnP, develop an mDNS poisoner, and craft WS-Discovery attacks.
+You’ll tackle both hardware hacking and radio hacking, with in-depth coverage of attacks against embedded IoT devices and RFID systems.
+You’ll also learn how to:
+
+Write a DICOM service scanner as an NSE module
+Hack a microcontroller through the UART and SWD interfaces
+Reverse engineer firmware and analyze mobile companion apps
+Develop an NFC fuzzer using Proxmark3
+Hack a smart home by jamming wireless alarms, playing back IP camera feeds, and controlling a smart treadmill
+
+The tools and devices you’ll use are affordable and readily available, so you can easily practice what you learn. You can also download this book’s code examples at https://github.com/practical-iot-hacking.
+Whether you’re a security researcher, IT team member, or hacking hobbyist, you’ll find Practical IoT Hacking indispensable in your efforts to hack all the things.
+REQUIREMENTS: Basic knowledge of Linux command line, TCP/IP, and programming
+--------------------------------------------------
+
+Book 11:
+Title: Linux Basics for Hackers
+Author(s): OccupyTheWeb
+---
+ISBN-10: 1718503555 - ISBN-13: 9781718503557 - ASIN: 1718503547
+Published Date: 2024-05-14
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=MuDQEAAAQBAJ&dq=intitle:Linux+Basics+for+Hackers%2Binauthor:OccupyTheWeb&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Linux-Basics-Hackers-2nd-OccupyTheWeb/dp/1718503547
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (2397 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Hackers-Getting-Networking-Scripting-Security/dp/1593278551
+---
+HB Blurb: If you’re getting started along the exciting path of hacking, cybersecurity, and pentesting, Linux Basics for Hackers is an excellent first step. Using Kali Linux, an advanced penetration testing distribution of Linux, you’ll learn the basics of using the Linux operating system and acquire the tools and techniques you’ll need to take control of a Linux environment.
+First, you’ll learn how to install Kali on a virtual machine and get an introduction to basic Linux concepts. Next, you’ll tackle broader Linux topics like manipulating text, controlling file and directory permissions, and managing user environment variables. You’ll then focus in on foundational hacking concepts like security and anonymity and learn scripting skills with bash and Python. Practical tutorials and exercises throughout will reinforce and test your skills as you learn how to:
+
+Cover your tracks by changing your network information and manipulating the rsyslog logging utility
+Write a tool to scan for network connections, and connect and listen to wireless networks
+Keep your internet activity stealthy using Tor, proxy servers, VPNs, and encrypted email
+Write a bash script to scan open ports for potential targets
+Use and abuse services like MySQL, Apache web server, and OpenSSH
+Build your own hacking tools, such as a remote video spy camera and a password cracker
+
+Hacking is complex, and there is no single way in. Why not start at the beginning with Linux Basics for Hackers?
+Covers Kali Linux and Python 3
+--------------------------------------------------
+
+Book 12:
+Title: The Ghidra Book
+Author(s): Chris Eagle, Kara Nance
+---
+ISBN-10: 171850103X - ISBN-13: 9781718501034 - ASIN: 1718501021
+Published Date: 2020-09-08
+Page Count: 610
+---
+Google Books Price: GBP 33.95
+Google Books URL: http://books.google.co.uk/books?id=Bm_cDwAAQBAJ&printsec=frontcover&dq=intitle:The+Ghidra+Book%2Binauthor:Chris+Eagle,+Kara+Nance&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.8 of 5 (168 reviews)
+Amazon.com URL: https://www.amazon.com/Ghidra-Book-Definitive-Guide/dp/1718501021
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (181 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Ghidra-Book-Definitive-Guide-ebook/dp/B0852N9Y4Q
+---
+HB Blurb: The result of more than a decade of research and development within the NSA, the Ghidra platform was developed to address some of the agency’s most challenging reverse-engineering problems. With the open-source release of this formerly restricted tool suite, one of the world’s most capable disassemblers and intuitive decompilers is now in the hands of cybersecurity defenders everywhere—and The Ghidra Book is the one and only guide you need to master it.
+In addition to discussing RE techniques useful in analyzing software and malware of all kinds, the book thoroughly introduces Ghidra’s components, features, and unique capacity for group collaboration. You’ll learn how to:
+
+Navigate a disassembly
+Use Ghidra’s built-in decompiler to expedite analysis
+Analyze obfuscated binaries
+Extend Ghidra to recognize new data types
+Build new Ghidra analyzers and loaders
+Add support for new processors and instruction sets
+Script Ghidra tasks to automate workflows
+Set up and use a collaborative reverse engineering environment
+
+Designed for beginner and advanced users alike, The Ghidra Book will effectively prepare you to meet the needs and challenges of RE, so you can analyze files like a pro.
+--------------------------------------------------
+
+Book 13:
+Title: Penetration Testing
+Author(s): Georgia Weidman
+---
+ISBN-10: 1593275951 - ISBN-13: 9781593275952 - ASIN: B00KME7GN8
+Published Date: 2014-06-14
+Page Count: 531
+---
+Google Books Price: GBP 28.42
+Google Books URL: http://books.google.co.uk/books?id=DUMyDwAAQBAJ&printsec=frontcover&dq=intitle:Penetration+Testing%2Binauthor:Georgia+Weidman&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (570 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Penetration-Testing-Hands-Introduction-Hacking-ebook/dp/B00KME7GN8
+---
+HB Blurb: Penetration testers simulate cyber attacks to find security weaknesses in networks, operating systems, and applications. Information security experts worldwide use penetration techniques to evaluate enterprise defenses.
+In Penetration Testing, security expert, researcher, and trainer Georgia Weidman introduces you to the core skills and techniques that every pentester needs. Using a virtual machine–based lab that includes Kali Linux and vulnerable operating systems, you’ll run through a series of practical lessons with tools like Wireshark, Nmap, and Burp Suite. As you follow along with the labs and launch attacks, you’ll experience the key stages of an actual assessment—including information gathering, finding exploitable vulnerabilities, gaining access to systems, post exploitation, and more.
+Learn how to:
+
+Crack passwords and wireless network keys with brute-forcing and wordlists
+Test web applications for vulnerabilities
+Use the Metasploit Framework to launch exploits and write your own Metasploit modules
+Automate social-engineering attacks
+Bypass antivirus software
+Turn access to one machine into total control of the enterprise in the post exploitation phase
+
+You’ll even explore writing your own exploits. Then it’s on to mobile hacking—Weidman’s particular area of research—with her tool, the Smartphone Pentest Framework.
+With its collection of hands-on lessons that cover key tools and strategies, Penetration Testing is the introduction that every aspiring hacker needs.
+--------------------------------------------------
+
+Book 14:
+Title: Cyberjutsu
+Author(s): Ben McCarty
+---
+ISBN-10: 1718500548 - ISBN-13: 9781718500549 - ASIN: B0852NZ1JX
+Published Date: 2021-04-26
+Page Count: 266
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=IHwmEAAAQBAJ&printsec=frontcover&dq=intitle:Cyberjutsu%2Binauthor:Ben+McCarty&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (100 reviews)
+Amazon.com URL: https://www.amazon.com/Cyberjutsu-Cybersecurity-Modern-Ben-McCarty/dp/1718500548
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (98 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Cyberjutsu-Cybersecurity-Modern-Ben-McCarty-ebook/dp/B0852NZ1JX
+---
+HB Blurb: Cyberjutsu is a practical cybersecurity field guide based on the techniques, tactics, and procedures of the ancient ninja. Cyber warfare specialist Ben McCarty’s analysis of declassified Japanese scrolls will show how you can apply ninja methods to combat today’s security challenges like information warfare, deceptive infiltration, espionage, and zero-day attacks.
+Learn how to use key ninja techniques to find gaps in a target’s defense, strike where the enemy is negligent, master the art of invisibility, and more. McCarty outlines specific, in-depth security mitigations such as fending off social engineering attacks by being present with “the correct mind,” mapping your network like an adversary to prevent breaches, and leveraging ninja-like traps to protect your systems.
+You’ll also learn how to:
+
+Use threat modeling to reveal network vulnerabilities
+Identify insider threats in your organization
+Deploy countermeasures like network sensors, time-based controls, air gaps, and authentication protocols
+Guard against malware command-and-control servers
+Detect attackers, prevent supply-chain attacks, and counter zero-day exploits
+
+Cyberjutsu is the playbook that every modern cybersecurity professional needs to channel their inner ninja. Turn to the old ways to combat the latest cyber threats and stay one step ahead of your adversaries.
+--------------------------------------------------
+
+Book 15:
+Title: Black Hat Go
+Author(s): Tom Steele, Chris Patten, Dan Kottmann
+---
+ISBN-10: 1593278659 - ISBN-13: 9781593278656 - ASIN: B073NPY29N
+Published Date: 2020-01-24
+Page Count: 369
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=i1v6DwAAQBAJ&printsec=frontcover&dq=intitle:Black+Hat+Go%2Binauthor:Tom+Steele,+Chris+Patten,+Dan+Kottmann&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (186 reviews)
+Amazon.com URL: https://www.amazon.com/Black-Hat-Go-Programming-Pentesters/dp/1593278659
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (215 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Black-Hat-Go-Programming-Pentesters-ebook/dp/B073NPY29N
+---
+HB Blurb: Black Hat Go explores the darker side of Go, the popular programming language revered by hackers for its simplicity, efficiency, and reliability. It provides an arsenal of practical tactics from the perspective of security practitioners and hackers to help you test your systems, build and automate tools to fit your needs, and improve your offensive security skillset, all using the power of Go.
+You'll begin your journey with a basic overview of Go's syntax and philosophy and then start to explore examples that you can leverage for tool development, including common network protocols like HTTP, DNS, and SMB. You'll then dig into various tactics and problems that penetration testers encounter, addressing things like data pilfering, packet sniffing, and exploit development. You'll create dynamic, pluggable tools before diving into cryptography, attacking Microsoft Windows, and implementing steganography.
+You'll learn how to:
+
+Make performant tools that can be used for your own security projects
+Create usable tools that interact with remote APIs
+Scrape arbitrary HTML data
+Use Go's standard package, net/http, for building HTTP servers
+Write your own DNS server and proxy
+Use DNS tunneling to establish a C2 channel out of a restrictive network
+Create a vulnerability fuzzer to discover an application's security weaknesses
+Use plug-ins and extensions to future-proof products
+Build an RC2 symmetric-key brute-forcer
+Implant data within a Portable Network Graphics (PNG) image
+
+Are you ready to add to your arsenal of security tools? Then let's Go!
+--------------------------------------------------
+
+Book 16:
+Title: Malware Data Science
+Author(s): Joshua Saxe, Hillary Sanders
+---
+ISBN-10: 1593278608 - ISBN-13: 9781593278601 - ASIN: B077X1V9SY
+Published Date: 2018-09-25
+Page Count: 274
+---
+Google Books Price: GBP 33.95
+Google Books URL: http://books.google.co.uk/books?id=lURBDwAAQBAJ&printsec=frontcover&dq=intitle:Malware+Data+Science%2Binauthor:Joshua+Saxe,+Hillary+Sanders&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $29.99Save $19.96 (40%)
+Amazon.com Reviews: 4.6 of 5 (103 reviews)
+Amazon.com URL: https://www.amazon.com/Malware-Data-Science-Detection-Attribution-ebook/dp/B077X1V9SY
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (101 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Malware-Data-Science-Detection-Attribution-ebook/dp/B077X1V9SY
+---
+HB Blurb: Security has become a "big data" problem. The growth rate of malware has accelerated to tens of millions of new files per year while our networks generate an ever-larger flood of security-relevant data each day. In order to defend against these advanced attacks, you'll need to know how to think like a data scientist.
+In Malware Data Science, security data scientist Joshua Saxe introduces machine learning, statistics, social network analysis, and data visualization, and shows you how to apply these methods to malware detection and analysis.
+You'll learn how to:
+
+Analyze malware using static analysis
+Observe malware behavior using dynamic analysis
+Identify adversary groups through shared code analysis
+Catch 0-day vulnerabilities by building your own machine learning detector
+Measure malware detector accuracy
+Identify malware campaigns, trends, and relationships through data visualization
+
+Whether you're a malware analyst looking to add skills to your existing arsenal, or a data scientist interested in attack detection and threat intelligence, Malware Data Science will help you stay ahead of the curve.
+--------------------------------------------------
+
+Book 17:
+Title: Real-World Bug Hunting
+Author(s): Peter Yaworski
+---
+ISBN-10: 1593278624 - ISBN-13: 9781593278625 - ASIN: B072SQZ2LG
+Published Date: 2019-07-09
+Page Count: 265
+---
+Google Books Price: GBP 28.42
+Google Books URL: http://books.google.co.uk/books?id=CjY9DwAAQBAJ&printsec=frontcover&dq=intitle:Real-World+Bug+Hunting%2Binauthor:Peter+Yaworski&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (223 reviews)
+Amazon.com URL: https://www.amazon.com/-/es/Peter-Yaworski-ebook/dp/B072SQZ2LG
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (224 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Real-World-Bug-Hunting-Field-Hacking-ebook/dp/B072SQZ2LG
+---
+HB Blurb: Learn how people break websites and how you can, too. Real-World Bug Hunting is the premier field guide to finding software bugs. Whether you're a cyber-security beginner who wants to make the internet safer or a seasoned developer who wants to write secure code, ethical hacker Peter Yaworski will show you how it's done.
+You'll learn about the most common types of bugs like cross-site scripting, insecure direct object references, and server-side request forgery. Using real-life case studies of rewarded vulnerabilities from applications like Twitter, Facebook, Google, and Uber, you'll see how hackers manage to invoke race conditions while transferring money, use URL parameter to cause users to like unintended tweets, and more.
+Each chapter introduces a vulnerability type accompanied by a series of actual reported bug bounties. The book's collection of tales from the field will teach you how attackers trick users into giving away their sensitive information and how sites may reveal their vulnerabilities to savvy users. You'll even learn how you could turn your challenging new hobby into a successful career.
+You'll learn:
+
+How the internet works and basic web hacking concepts
+How attackers compromise websites
+How to identify functionality commonly associated with vulnerabilities
+Where to start when hunting bugs
+How to find bug bounty programs and submit effective vulnerability reports
+
+Real-World Bug Hunting is a fascinating soup-to-nuts primer on web security vulnerabilities, filled with stories from the trenches and practical wisdom. With your new understanding of site security and weaknesses, you can help make the web a safer place—and profit while you're at it.
+--------------------------------------------------
+
+Book 18:
+Title: The Tangled Web
+Author(s): Michal Zalewski
+---
+ISBN-10: 1593274173 - ISBN-13: 9781593274177 - ASIN: B006FZ3UNI
+Published Date: 2011-11-15
+Page Count: 324
+---
+Google Books Price: GBP 33.95
+Google Books URL: http://books.google.co.uk/books?id=6sxNzyRmxE4C&printsec=frontcover&dq=intitle:The+Tangled+Web%2Binauthor:Michal+Zalewski&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $35.99Save $24.00 (40%)
+Amazon.com Reviews: 4.4 of 5 (93 reviews)
+Amazon.com URL: https://www.amazon.com/Tangled-Web-Securing-Modern-Applications-ebook/dp/B006FZ3UNI
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (74 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Tangled-Web-Securing-Modern-Applications-ebook/dp/B006FZ3UNI
+---
+HB Blurb: Modern web applications are built on a tangle of technologies that have been developed over time and then haphazardly pieced together. Every piece of the web application stack, from HTTP requests to browser-side scripts, comes with important yet subtle security consequences. To keep users safe, it is essential for developers to confidently navigate this landscape.
+In The Tangled Web, Michal Zalewski, one of the world’s top browser security experts, offers a compelling narrative that explains exactly how browsers work and why they’re fundamentally insecure. Rather than dispense simplistic advice on vulnerabilities, Zalewski examines the entire browser security model, revealing weak points and providing crucial information for shoring up web application security. You’ll learn how to:
+
+Perform common but surprisingly complex tasks such as URL parsing and HTML sanitization
+Use modern security features like Strict Transport Security, Content Security Policy, and Cross-Origin Resource Sharing
+Leverage many variants of the same-origin policy to safely compartmentalize complex web applications and protect user credentials in case of XSS bugs
+Build mashups and embed gadgets without getting stung by the tricky frame navigation policy
+Embed or host user-supplied content without running into the trap of content sniffing
+
+For quick reference, “Security Engineering Cheat Sheets” at the end of each chapter offer ready solutions to problems you’re most likely to encounter. With coverage extending as far as planned HTML5 features, The Tangled Web will help you create secure web applications that stand the test of time.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Hacks, Leaks, and Revelations
+No Amazon.com URL found
+https://www.amazon.co.uk/Hacks-Leaks-Revelations-Micah-Lee-ebook/dp/B0B9W11YNX
+http://books.google.co.uk/books?id=HuytEAAAQBAJ&printsec=frontcover&dq=intitle:Hacks,+Leaks,+and+Revelations%2Binauthor:Micah+Lee&hl=&cd=1&source=gbs_api
+
+Book 02 - Windows Security Internals
+https://www.amazon.com/Windows-Security-Internals-Authentication-Authorization-ebook/dp/B0CD3H2X5P
+https://www.amazon.co.uk/Windows-Security-Internals-Authentication-Authorization-ebook/dp/B0CD3H2X5P
+http://books.google.co.uk/books?id=b_fNEAAAQBAJ&printsec=frontcover&dq=intitle:Windows+Security+Internals%2Binauthor:James+Forshaw&hl=&cd=1&source=gbs_api
+
+Book 03 - Evading EDR
+https://www.amazon.com/Evading-EDR-Definitive-Defeating-Detection-ebook/dp/B0BZH1RTVB
+https://www.amazon.co.uk/Evading-EDR-Definitive-Defeating-Detection-ebook/dp/B0BZH1RTVB
+http://books.google.co.uk/books?id=SWy1EAAAQBAJ&printsec=frontcover&dq=intitle:Evading+EDR%2Binauthor:Matt+Hand&hl=&cd=1&source=gbs_api
+
+Book 04 - Evasive Malware
+https://www.amazon.com/Evasive-Malware-Understanding-Deceptive-Self-Defending-ebook/dp/B0C1YGWP76
+https://www.amazon.co.uk/Evasive-Malware-Understanding-Deceptive-Self-Defending-ebook/dp/B0C1YGWP76
+http://books.google.co.uk/books?id=DSu4EAAAQBAJ&printsec=frontcover&dq=intitle:Evasive+Malware%2Binauthor:Kyle+Cucci&hl=&cd=1&source=gbs_api
+
+Book 05 - The Android Malware Book
+https://www.amazon.com/Android-Malware-Handbook-Detection-Analysis/dp/171850330X
+https://www.amazon.co.uk/Android-Malware-Handbook-Analysis-Detection/dp/171850330X
+http://books.google.co.uk/books?id=XnO1EAAAQBAJ&printsec=frontcover&dq=intitle:The+Android+Malware+Book%2Binauthor:Qian+Han,+Salvador+Mandujano,+Sebastian+Porst,+V.S.+Subrahmanian,+Sai+Deep+Tetali,+Yanhai+Xiong&hl=&cd=1&source=gbs_api
+
+Book 06 - The Art of Mac Malware
+https://www.amazon.com/Art-Mac-Malware-Analyzing-Malicious/dp/1718501943
+https://www.amazon.co.uk/Art-Mac-Malware-Analyzing-Malicious-ebook/dp/B09BKLVBPR
+http://books.google.co.uk/books?id=xGpCEAAAQBAJ&printsec=frontcover&dq=intitle:The+Art+of+Mac+Malware%2Binauthor:Patrick+Wardle&hl=&cd=1&source=gbs_api
+
+Book 07 - Ethical Hacking
+https://www.amazon.com/Ethical-Hacking-Hands-Introduction-Breaking-ebook/dp/B08Y5LH95M
+https://www.amazon.co.uk/Ethical-Hacking-Hands-Introduction-Breaking-ebook/dp/B08Y5LH95M
+http://books.google.co.uk/books?id=bG5BEAAAQBAJ&printsec=frontcover&dq=intitle:Ethical+Hacking%2Binauthor:Daniel+G.+Graham&hl=&cd=1&source=gbs_api
+
+Book 08 - Attacking Network Protocols
+https://www.amazon.com/Attacking-Network-Protocols-Analysis-Exploitation-ebook/dp/B071V4DYVC
+https://www.amazon.co.uk/Attacking-Network-Protocols-Analysis-Exploitation-ebook/dp/B071V4DYVC
+http://books.google.co.uk/books?id=EVv6DwAAQBAJ&printsec=frontcover&dq=intitle:Attacking+Network+Protocols%2Binauthor:James+Forshaw&hl=&cd=1&source=gbs_api
+
+Book 09 - Foundations of Information Security
+https://www.amazon.com/Foundations-Information-Security-Straightforward-Introduction-ebook/dp/B07Q189TCM
+https://www.amazon.co.uk/Foundations-Information-Security-Straightforward-Introduction-ebook/dp/B07Q189TCM
+http://books.google.co.uk/books?id=rFmSDwAAQBAJ&printsec=frontcover&dq=intitle:Foundations+of+Information+Security%2Binauthor:Jason+Andress&hl=&cd=1&source=gbs_api
+
+Book 10 - Practical IoT Hacking
+https://www.amazon.com/Practical-IoT-Hacking-Fotios-Chantzis/dp/1718500904
+https://www.amazon.co.uk/Practical-IoT-Hacking-Fotios-Chantzis-ebook/dp/B085BVVSN6
+http://books.google.co.uk/books?id=pNwfEAAAQBAJ&printsec=frontcover&dq=intitle:Practical+IoT+Hacking%2Binauthor:Fotios+Chantzis,+Ioannis+Stais,+Paulino+Calderon,+Evangelos+Deirmentzoglou,+Beau+Woods&hl=&cd=1&source=gbs_api
+
+Book 11 - Linux Basics for Hackers
+https://www.amazon.com/Linux-Basics-Hackers-2nd-OccupyTheWeb/dp/1718503547
+https://www.amazon.co.uk/Hackers-Getting-Networking-Scripting-Security/dp/1593278551
+http://books.google.co.uk/books?id=MuDQEAAAQBAJ&dq=intitle:Linux+Basics+for+Hackers%2Binauthor:OccupyTheWeb&hl=&cd=1&source=gbs_api
+
+Book 12 - The Ghidra Book
+https://www.amazon.com/Ghidra-Book-Definitive-Guide/dp/1718501021
+https://www.amazon.co.uk/Ghidra-Book-Definitive-Guide-ebook/dp/B0852N9Y4Q
+http://books.google.co.uk/books?id=Bm_cDwAAQBAJ&printsec=frontcover&dq=intitle:The+Ghidra+Book%2Binauthor:Chris+Eagle,+Kara+Nance&hl=&cd=1&source=gbs_api
+
+Book 13 - Penetration Testing
+No Amazon.com URL found
+https://www.amazon.co.uk/Penetration-Testing-Hands-Introduction-Hacking-ebook/dp/B00KME7GN8
+http://books.google.co.uk/books?id=DUMyDwAAQBAJ&printsec=frontcover&dq=intitle:Penetration+Testing%2Binauthor:Georgia+Weidman&hl=&cd=1&source=gbs_api
+
+Book 14 - Cyberjutsu
+https://www.amazon.com/Cyberjutsu-Cybersecurity-Modern-Ben-McCarty/dp/1718500548
+https://www.amazon.co.uk/Cyberjutsu-Cybersecurity-Modern-Ben-McCarty-ebook/dp/B0852NZ1JX
+http://books.google.co.uk/books?id=IHwmEAAAQBAJ&printsec=frontcover&dq=intitle:Cyberjutsu%2Binauthor:Ben+McCarty&hl=&cd=1&source=gbs_api
+
+Book 15 - Black Hat Go
+https://www.amazon.com/Black-Hat-Go-Programming-Pentesters/dp/1593278659
+https://www.amazon.co.uk/Black-Hat-Go-Programming-Pentesters-ebook/dp/B073NPY29N
+http://books.google.co.uk/books?id=i1v6DwAAQBAJ&printsec=frontcover&dq=intitle:Black+Hat+Go%2Binauthor:Tom+Steele,+Chris+Patten,+Dan+Kottmann&hl=&cd=1&source=gbs_api
+
+Book 16 - Malware Data Science
+https://www.amazon.com/Malware-Data-Science-Detection-Attribution-ebook/dp/B077X1V9SY
+https://www.amazon.co.uk/Malware-Data-Science-Detection-Attribution-ebook/dp/B077X1V9SY
+http://books.google.co.uk/books?id=lURBDwAAQBAJ&printsec=frontcover&dq=intitle:Malware+Data+Science%2Binauthor:Joshua+Saxe,+Hillary+Sanders&hl=&cd=1&source=gbs_api
+
+Book 17 - Real-World Bug Hunting
+https://www.amazon.com/-/es/Peter-Yaworski-ebook/dp/B072SQZ2LG
+https://www.amazon.co.uk/Real-World-Bug-Hunting-Field-Hacking-ebook/dp/B072SQZ2LG
+http://books.google.co.uk/books?id=CjY9DwAAQBAJ&printsec=frontcover&dq=intitle:Real-World+Bug+Hunting%2Binauthor:Peter+Yaworski&hl=&cd=1&source=gbs_api
+
+Book 18 - The Tangled Web
+https://www.amazon.com/Tangled-Web-Securing-Modern-Applications-ebook/dp/B006FZ3UNI
+https://www.amazon.co.uk/Tangled-Web-Securing-Modern-Applications-ebook/dp/B006FZ3UNI
+http://books.google.co.uk/books?id=6sxNzyRmxE4C&printsec=frontcover&dq=intitle:The+Tangled+Web%2Binauthor:Michal+Zalewski&hl=&cd=1&source=gbs_api
+
