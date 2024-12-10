@@ -1,0 +1,628 @@
+Humble Tech Book Bundle- Tools for Data Engineers by Packt - Packt
+Processing date: 2024-12-10
+Data retrieved from: https://www.humblebundle.com/books/tools-for-data-engineers-packt-books
+
+Book 01 - Data Governance Handbook - Wendy S. Batchelder - 4.9 out of 5 (11 reviews)
+Book 02 - Data Engineering with dbt - Roberto Zagni - 4.6 out of 5 (15 reviews)
+Book 03 - Databricks Certified Associate Developer for Apache Spark Using Python - Saba Shah, Rod Waltermann - 3.7 out of 5 (4 reviews)
+Book 04 - The Ultimate Guide to Snowpark - Shankar Narayanan SGS, Vivekanandan SS, Jeff Hollan - 5 out of 5 (6 reviews)
+Book 05 - The Definitive Guide to Data Integration - Pierre-Yves BONNEFOY, Emeric CHAIZE, Raphaël MANSUY, Mehdi TAZI, Stephane Heckel - 5 out of 5 (2 reviews)
+Book 06 - Big Data on Kubernetes - Neylson Crepalde - 5 out of 5 (2 reviews)
+Book 07 - Data Modeling with Snowflake - Serge Gershkovich, Kent Graziano - 4.8 out of 5 (49 reviews)
+Book 08 - Data Engineering with Google Cloud Platform 2E - Adi Wijaya, António Vilares - 4.7 out of 5 (14 reviews)
+Book 09 - In-Memory Analytics with Apache Arrow - Matthew Topol, Wes McKinney - 4.8 out of 5 (24 reviews)
+Book 10 - Data Engineering Best Practices - Richard J. Schiller and David Larochelle - 0 out of 5 (2 reviews)
+Book 11 - Data Engineering with Databricks Cookbook - Pulkit Chadha - 4.2 out of 5 (8 reviews)
+Book 12 - Data Engineering with Scala and Spark - Eric Tome, Rupam Bhattacharjee, David Radford - 4.1 out of 5 (7 reviews)
+Book 13 - Fundamentals of Analytics Engineering - Taís Laurindo Pereira, Ricardo Angel, Granados Lopez, Lasse Benninga, Juan Manuel Perafan, Jovan Gligorevic, Fanny Kassapian, Dumky De Wilde, Pádraic Slattery - 3.7 out of 5 (7 reviews)
+Book 14 - Polars Cookbook - Yuki Kakegawa, Marco Gorelli - 5 out of 5 (5 reviews)
+Book 15 - Getting Started with DuckDB - Simon Aubury, Ned Letcher, Kris Jenkins - 5 out of 5 (1 reviews)
+Book 16 - Data Engineering with AWS - Gareth Eagar - 4.6 out of 5 (29 reviews)
+Book 17 - Driving Data Quality with Data Contracts - Andrew Jones, Kevin Hu - 4.7 out of 5 (15 reviews)
+Book 18 - Cracking the Data Engineering Interview - Kedeisha Bryan, Taamir Ransome - 4.4 out of 5 (8 reviews)
+Book 19 - Data Literacy in Practice - Angelika Klidas, Kevin Hanegan - None found out of 5 (None found reviews)
+Book 20 - Practical Data Quality - Robert Hawker, Nicola Askham - 4.8 out of 5 (9 reviews)
+Book 21 - Data Observability for Data Engineering - Michele Pinto, Sammy El Khammal - 3.7 out of 5 (4 reviews)
+Book 22 - Data Engineering with Google Cloud Platform - Adi Wijaya - 4.7 out of 5 (14 reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Data Governance Handbook
+Author(s): Wendy S. Batchelder
+---
+ISBN-10: 1803242477 - ISBN-13: 9781803242477 - ASIN: 1803240725
+Published Date: 2024-05-31
+Page Count: 394
+---
+Google Books Price: GBP 19.49
+Google Books URL: http://books.google.co.uk/books?id=jvAJEQAAQBAJ&printsec=frontcover&dq=intitle:Data+Governance+Handbook%2Binauthor:Wendy+S.+Batchelder&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $39.99
+Amazon.com Reviews: 4.9 of 5 (11 reviews)
+Amazon.com URL: https://www.amazon.com/Data-Governance-Handbook-practical-approach/dp/1803240725
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (6 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Data-Governance-Handbook-practical-approach-ebook/dp/B0BYK29KG7
+---
+HB Blurb: Key FeaturesDevelop a solid foundation in data governance and increase your confidence in data solutions Align data governance solutions with measurable business results and apply practical knowledge from real-world projectsLearn from a three-time chief data officer who has worked in leading Fortune 500 companiesPurchase of the print or Kindle book includes a free PDF eBookWho this book is forChief data officers, data governance leaders, data stewards, and engineers who want to understand the business value of their work, and IT professionals seeking further understanding of data management, will find this book useful. You need a basic understanding of working with data, business needs, and how to meet those needs with data solutions. Prior coding experience or skills in selling data solutions to executives are not required.
+--------------------------------------------------
+
+Book 02:
+Title: Data Engineering with dbt
+Author(s): Roberto Zagni
+---
+ISBN-10: 1803241888 - ISBN-13: 9781803241883 - ASIN: B0C4LL19G7
+Published Date: 2023-06-30
+Page Count: 578
+---
+Google Books Price: GBP 19.49
+Google Books URL: http://books.google.co.uk/books?id=okLJEAAAQBAJ&pg=PR15&dq=intitle:Data+Engineering+with+dbt%2Binauthor:Roberto+Zagni&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $31.19Save $8.80 (22%)
+Amazon.com Reviews: 4.6 of 5 (15 reviews)
+Amazon.com URL: https://www.amazon.com/Data-Engineering-dbt-cloud-based-dependable-ebook/dp/B0C4LL19G7
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (10 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Data-Engineering-dbt-cloud-based-dependable-ebook/dp/B0C4LL19G7
+---
+HB Blurb: Key FeaturesBuild a solid dbt base and learn data modeling and the modern data stack to become an analytics engineerBuild automated and reliable pipelines to deploy, test, run, and monitor ELTs with dbt CloudGuided dbt + Snowflake project to build a pattern-based architecture that delivers reliable datasetsWho this book is forThis book is for data engineers, analytics engineers, BI professionals, and data analysts who want to learn how to build simple, futureproof, and maintainable data platforms in an agile way. Project managers, data team managers, and decision makers looking to understand the importance of building a data platform and foster a culture of high-performing data teams will also find this book useful. Basic knowledge of SQL and data modeling will help you get the most out of the many layers of this book. The book also includes primers on many data-related subjects to help juniors get started.
+--------------------------------------------------
+
+Book 03:
+Title: Databricks Certified Associate Developer for Apache Spark Using Python
+Author(s): Saba Shah, Rod Waltermann
+---
+ISBN-10: 1804616206 - ISBN-13: 9781804616208 - ASIN: 1804619787
+Published Date: 2024-06-14
+Page Count: 274
+---
+Google Books Price: GBP 13.64
+Google Books URL: http://books.google.co.uk/books?id=1gYJEQAAQBAJ&pg=PP1&dq=intitle:Databricks+Certified+Associate+Developer+for+Apache+Spark+Using+Python%2Binauthor:Saba+Shah,+Rod+Waltermann&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 3.7 of 5 (4 reviews)
+Amazon.com URL: https://www.amazon.com/Databricks-Certified-Associate-Developer-Apache/dp/1804619787
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Databricks-Certified-Associate-Developer-Apache/dp/1804619787
+---
+HB Blurb: Key FeaturesUnderstand the fundamentals of Apache Spark to design robust and fast Spark applicationsExplore various data manipulation components for each phase of your data engineering projectPrepare for the certification exam with sample questions and mock examsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for data professionals such as data engineers, data analysts, BI developers, and data scientists looking for a comprehensive resource to achieve Databricks Certified Associate Developer certification, as well as for individuals who want to venture into the world of big data and data engineering. Although working knowledge of Python is required, no prior knowledge of Spark is necessary. Additionally, experience with Pyspark will be beneficial.
+--------------------------------------------------
+
+Book 04:
+Title: The Ultimate Guide to Snowpark
+Author(s): Shankar Narayanan SGS, Vivekanandan SS, Jeff Hollan
+---
+ISBN-10: 1805124455 - ISBN-13: 9781805124450 - ASIN: B0CW17VFK8
+Published Date: 2024-05-30
+Page Count: 254
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=PskHEQAAQBAJ&pg=PP1&dq=intitle:The+Ultimate+Guide+to+Snowpark%2Binauthor:Shankar+Narayanan+SGS,+Vivekanandan+SS,+Jeff+Hollan&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $33.99Save $8.00 (19%)
+Amazon.com Reviews: 5 of 5 (6 reviews)
+Amazon.com URL: https://www.amazon.com/Ultimate-Guide-Snowpark-efficient-workloads-ebook/dp/B0CW17VFK8
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (3 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Ultimate-Guide-Snowpark-efficient-workloads/dp/1805123416
+---
+HB Blurb: Key FeaturesGet to grips with Snowflake Snowpark’s basic and advanced featuresImplement workloads in domains like data engineering, data science, and data applications using Snowpark with PythonDeploy Snowpark in production with practical examples and best practicesPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for data engineers, data scientists, developers, and data practitioners seeking an in-depth understanding of Snowpark’s features and best practices for deploying various workloads in Snowpark using the Python programming language. Basic knowledge of SQL, proficiency in Python, an understanding of data engineering and data science basics, and familiarity with the Snowflake Data Cloud platform are required to get the most out of this book.
+--------------------------------------------------
+
+Book 05:
+Title: The Definitive Guide to Data Integration
+Author(s): Pierre-Yves BONNEFOY, Emeric CHAIZE, Raphaël MANSUY, Mehdi TAZI, Stephane Heckel
+---
+ISBN-10: 1837634777 - ISBN-13: 9781837634774 - ASIN: 1837631913
+Published Date: 2024-03-29
+Page Count: 490
+---
+Google Books Price: GBP 15.59
+Google Books URL: http://books.google.co.uk/books?id=pqP6EAAAQBAJ&printsec=frontcover&dq=intitle:The+Definitive+Guide+to+Data+Integration%2Binauthor:Pierre-Yves+BONNEFOY,+Emeric+CHAIZE,+Rapha%C3%ABl+MANSUY,+Mehdi+TAZI,+Stephane+Heckel&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $22.49Save $9.50 (30%)
+Amazon.com Reviews: 5 of 5 (2 reviews)
+Amazon.com URL: https://www.amazon.com/Definitive-Guide-Data-Integration-integration/dp/1837631913
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Definitive-Guide-Data-Integration-integration/dp/1837631913
+---
+HB Blurb: Key FeaturesLearn how to leverage modern data stack tools and technologies for effective data integrationDesign and implement data integration solutions with practical advice and best practicesFocus on modern technologies such as cloud-based architectures, real-time data processing, and open-source tools and technologiesPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is perfect for data engineers, data architects, data analysts, and IT professionals looking to gain a comprehensive understanding of data integration in the modern era. Whether you’re a beginner or an experienced professional enhancing your knowledge of the modern data stack, this definitive guide will help you navigate the data integration landscape.
+--------------------------------------------------
+
+Book 06:
+Title: Big Data on Kubernetes
+Author(s): Neylson Crepalde
+---
+ISBN-10: 1835468993 - ISBN-13: 9781835468999 - ASIN: 1835462146
+Published Date: 2024-07-19
+Page Count: 297
+---
+Google Books Price: GBP 15.59
+Google Books URL: http://books.google.co.uk/books?id=1zUQEQAAQBAJ&printsec=frontcover&dq=intitle:Big+Data+on+Kubernetes%2Binauthor:Neylson+Crepalde&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (2 reviews)
+Amazon.com URL: https://www.amazon.com/Big-Data-Kubernetes-practical-efficient/dp/1835462146
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Big-Data-Kubernetes-practical-efficient-ebook/dp/B0D3M6X8RF
+---
+HB Blurb: Key FeaturesLeverage Kubernetes in a cloud environment to integrate seamlessly with a variety of toolsExplore best practices for optimizing the performance of big data pipelinesBuild end-to-end data pipelines and discover real-world use cases using popular tools like Spark, Airflow, and KafkaPurchase of the print or Kindle book includes a free PDF eBookWho this book is forIf you’re a data engineer, BI analyst, data team leader, data architect, or tech manager with a basic understanding of big data technologies, then this big data book is for you. Familiarity with the basics of Python programming, SQL queries, and YAML is required to understand the topics discussed in this book.
+--------------------------------------------------
+
+Book 07:
+Title: Data Modeling with Snowflake
+Author(s): Serge Gershkovich, Kent Graziano
+---
+ISBN-10: 1837632782 - ISBN-13: 9781837632787 - ASIN: B0BXSMGJDX
+Published Date: 2023-05-31
+Page Count: 324
+---
+Google Books Price: GBP 19.49
+Google Books URL: http://books.google.co.uk/books?id=-NO-EAAAQBAJ&printsec=frontcover&dq=intitle:Data+Modeling+with+Snowflake%2Binauthor:Serge+Gershkovich,+Kent+Graziano&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $31.19Save $8.80 (22%)
+Amazon.com Reviews: 4.8 of 5 (49 reviews)
+Amazon.com URL: https://www.amazon.com/Data-Modeling-Snowflake-accelerating-development-ebook/dp/B0BXSMGJDX
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (32 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Data-Modeling-Snowflake-accelerating-development/dp/1837634459
+---
+HB Blurb: Key FeaturesLearn core modeling techniques tied to practical examples using native Snowflake architectureAdopt a universal modeling language to communicate business value to functional teamsGo beyond physical modeling with SQL recipes to transform and shape your Snowflake dataWho this book is forThis book is for developers working with SQL who are looking to build a strong foundation in modeling best practices and gain an understanding of where they can be effectively applied to save time and effort. Whether you’re an ace in SQL logic or starting out in database design, this book will equip you with the practical foundations of data modeling to guide you on your data journey with Snowflake. Developers who’ve recently discovered Snowflake will be able to uncover its core features and learn to incorporate them into universal modeling frameworks.
+--------------------------------------------------
+
+Book 08:
+Title: Data Engineering with Google Cloud Platform 2E
+Author(s): Adi Wijaya, António Vilares
+---
+ISBN-10: 1835085369 - ISBN-13: 9781835085363 - ASIN: 1800561326
+Published Date: 2024-04-30
+Page Count: 476
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=f00EEQAAQBAJ&pg=PP1&dq=intitle:Data+Engineering+with+Google+Cloud+Platform+2E%2Binauthor:Adi+Wijaya,+Ant%C3%B3nio+Vilares&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (14 reviews)
+Amazon.com URL: https://www.amazon.com/Data-Engineering-Google-Cloud-Platform/dp/1800561326
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (3 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Data-Engineering-Google-Cloud-Platform/dp/1835080111
+---
+HB Blurb: Key FeaturesGet up to speed with data governance on Google CloudLearn how to use various Google Cloud products like Dataform, DLP, Dataplex, Dataproc Serverless, and DatastreamBoost your confidence by getting Google Cloud data engineering certification guidance from real exam experiencesPurchase of the print or Kindle book includes a free PDF eBookWho this book is forData analysts, IT practitioners, software engineers, or any data enthusiasts looking to have a successful data engineering career will find this book invaluable. Additionally, experienced data professionals who want to start using Google Cloud to build data platforms will get clear insights on how to navigate the path. Whether you're a beginner who wants to explore the fundamentals or a seasoned professional seeking to learn the latest data engineering concepts, this book is for you.
+--------------------------------------------------
+
+Book 09:
+Title: In-Memory Analytics with Apache Arrow
+Author(s): Matthew Topol, Wes McKinney
+---
+ISBN-10: 1801073430 - ISBN-13: 9781801073431 - ASIN: 1801071039
+Published Date: 2022-06-24
+Page Count: 392
+---
+Google Books Price: GBP 25.34
+Google Books URL: http://books.google.co.uk/books?id=K39yEAAAQBAJ&printsec=frontcover&dq=intitle:In-Memory+Analytics+with+Apache+Arrow%2Binauthor:Matthew+Topol,+Wes+McKinney&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.8 of 5 (24 reviews)
+Amazon.com URL: https://www.amazon.com/Memory-Analytics-Apache-Arrow-hierarchical/dp/1801071039
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (18 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Memory-Analytics-Apache-Arrow-hierarchical-ebook/dp/B09X76LNN9
+---
+HB Blurb: Key FeaturesExplore Apache Arrow's data types and integration with pandas, Polars, and ParquetWork with Arrow libraries such as Flight SQL, Acero compute engine, and Dataset APIs for tabular dataEnhance and accelerate machine learning data pipelines using Apache Arrow and its subprojectsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for developers, data engineers, and data scientists looking to explore the capabilities of Apache Arrow from the ground up. Whether you’re building utilities for data analytics and query engines, or building full pipelines with tabular data, this book can help you out regardless of your preferred programming language. A basic understanding of data analysis concepts is needed, but not necessary. Code examples are provided using C++, Python, and Go throughout the book.
+--------------------------------------------------
+
+Book 10:
+Title: Data Engineering Best Practices
+Author(s): Richard J. Schiller and David Larochelle
+---
+ISBN-10: 1803247363 - ISBN-13: 9781803247366 - ASIN: B0DG5HHLWK
+Published Date: 2024-10-11
+Page Count: 550
+---
+Google Books Price: GBP 19.49
+Google Books URL: http://books.google.co.uk/books?id=vr4gEQAAQBAJ&printsec=frontcover&dq=intitle:Data+Engineering+Best+Practices%2Binauthor:Richard+J.+Schiller+and+David+Larochelle&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 0 of 5 (2 reviews)
+Amazon.com URL: https://www.amazon.com/Data-Engineering-Best-Practices-cost-effective-ebook/dp/B0DG5HHLWK
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Data-Engineering-Best-Practices-cost-effective/dp/1803244984
+---
+HB Blurb: Key FeaturesArchitect and engineer optimized data solutions in the cloud with best practices for performance and cost-effectivenessExplore design patterns and use cases to balance roles, technology choices, and processes for a future-proof designLearn from experts to avoid common pitfalls in data engineering projectsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forIf you are a data engineer, ETL developer, or big data engineer who wants to master the principles and techniques of data engineering, this book is for you. A basic understanding of data engineering concepts, ETL processes, and big data technologies is expected. This book is also for professionals who want to explore advanced data engineering practices, including scalable data solutions, agile software development, and cloud-based data processing pipelines.
+--------------------------------------------------
+
+Book 11:
+Title: Data Engineering with Databricks Cookbook
+Author(s): Pulkit Chadha
+---
+ISBN-10: 1837632065 - ISBN-13: 9781837632060 - ASIN: B0C5MTLMMC
+Published Date: 2024-05-31
+Page Count: 438
+---
+Google Books Price: GBP 19.49
+Google Books URL: http://books.google.co.uk/books?id=OMkHEQAAQBAJ&printsec=frontcover&dq=intitle:Data+Engineering+with+Databricks+Cookbook%2Binauthor:Pulkit+Chadha&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $39.99Save $10.00 (20%)
+Amazon.com Reviews: 4.2 of 5 (8 reviews)
+Amazon.com URL: https://www.amazon.com/Engineering-Apache-Spark-Delta-Cookbook-ebook/dp/B0C5MTLMMC
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (8 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Engineering-Apache-Spark-Delta-Cookbook/dp/1837633355
+---
+HB Blurb: Key FeaturesLearn data ingestion, data transformation, and data management techniques using Apache Spark and Delta LakeGain practical guidance on using Delta Lake tables and orchestrating data pipelinesImplement reliable DataOps and DevOps practices, and enforce data governance policies on DatabricksPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for data engineers, data scientists, and data practitioners who want to learn how to build efficient and scalable data pipelines using Apache Spark, Delta Lake, and Databricks. To get the most out of this book, you should have basic knowledge of data architecture, SQL, and Python programming.
+--------------------------------------------------
+
+Book 12:
+Title: Data Engineering with Scala and Spark
+Author(s): Eric Tome, Rupam Bhattacharjee, David Radford
+---
+ISBN-10: 1804614327 - ISBN-13: 9781804614327 - ASIN: 1804612588
+Published Date: 2024-01-31
+Page Count: 300
+---
+Google Books Price: GBP 14.94
+Google Books URL: http://books.google.co.uk/books?id=WWHvEAAAQBAJ&printsec=frontcover&dq=intitle:Data+Engineering+with+Scala+and+Spark%2Binauthor:Eric+Tome,+Rupam+Bhattacharjee,+David+Radford&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $35.99
+Amazon.com Reviews: 4.1 of 5 (7 reviews)
+Amazon.com URL: https://www.amazon.com/Data-Engineering-Scala-Spark-streaming/dp/1804612588
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.8 of 5 (3 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Data-Engineering-Scala-Spark-streaming/dp/1804612588
+---
+HB Blurb: Key FeaturesTransform data into a clean and trusted source of information for your organization using ScalaBuild streaming and batch-processing pipelines with step-by-step explanationsImplement and orchestrate your pipelines by following CI/CD best practices and test-driven development (TDD) Purchase of the print or Kindle book includes a free PDF eBook Who this book is forThis book is for data engineers who have experience in working with data and want to understand how to transform raw data into a clean, trusted, and valuable source of information for their organization using Scala and the latest cloud technologies.
+--------------------------------------------------
+
+Book 13:
+Title: Fundamentals of Analytics Engineering
+Author(s): Taís Laurindo Pereira, Ricardo Angel, Granados Lopez, Lasse Benninga, Juan Manuel Perafan, Jovan Gligorevic, Fanny Kassapian, Dumky De Wilde, Pádraic Slattery
+---
+ISBN-10: 1837632111 - ISBN-13: 9781837632114 - ASIN: 1837636451
+Published Date: 2024-03-29
+Page Count: 332
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=lcj9EAAAQBAJ&pg=PP1&dq=intitle:Fundamentals+of+Analytics+Engineering%2Binauthor:Ta%C3%ADs+Laurindo+Pereira,+Ricardo+Angel,+Granados+Lopez,+Lasse+Benninga,+Juan+Manuel+Perafan,+Jovan+Gligorevic,+Fanny+Kassapian,+Dumky+De+Wilde,+P%C3%A1draic+Slattery&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 3.7 of 5 (7 reviews)
+Amazon.com URL: https://www.amazon.com/Fundamentals-Analytics-Engineering-end-end/dp/1837636451
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.7 of 5 (7 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Fundamentals-Analytics-Engineering-end-end/dp/1837636451
+---
+HB Blurb: Key FeaturesDiscover how analytics engineering aligns with your organization's data strategyAccess insights shared by a team of seven industry expertsTackle common analytics engineering problems faced by modern businessesPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for data engineers and data analysts considering pivoting their careers into analytics engineering. Analytics engineers who want to upskill and search for gaps in their knowledge will also find this book helpful, as will other data professionals who want to understand the value of analytics engineering in their organization's journey toward data maturity. To get the most out of this book, you should have a basic understanding of data analysis and engineering concepts such as data cleaning, visualization, ETL and data warehousing.
+--------------------------------------------------
+
+Book 14:
+Title: Polars Cookbook
+Author(s): Yuki Kakegawa, Marco Gorelli
+---
+ISBN-10: 180512515X - ISBN-13: 9781805125150 - ASIN: B0CLRS4B8T
+Published Date: 2024-08-23
+Page Count: 394
+---
+Google Books Price: GBP 19.49
+Google Books URL: http://books.google.co.uk/books?id=_IgXEQAAQBAJ&printsec=frontcover&dq=intitle:Polars+Cookbook%2Binauthor:Yuki+Kakegawa,+Marco+Gorelli&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $26.99Save $9.00 (25%)
+Amazon.com Reviews: 5 of 5 (5 reviews)
+Amazon.com URL: https://www.amazon.com/Polars-Cookbook-practical-transform-manipulate-ebook/dp/B0CLRS4B8T
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Polars-Cookbook-practical-transform-manipulate-ebook/dp/B0CLRS4B8T
+---
+HB Blurb: Key FeaturesUnlock the power of Python Polars for faster and more efficient data analysis workflowsMaster the fundamentals of Python Polars with step-by-step recipesDiscover data manipulation techniques to apply across multiple data problemsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for data analysts, data scientists, and data engineers who want to learn how to use Polars in their workflows. Working knowledge of the Python programming language is required. Experience working with a DataFrame library such as pandas or PySpark will also be helpful.
+--------------------------------------------------
+
+Book 15:
+Title: Getting Started with DuckDB
+Author(s): Simon Aubury, Ned Letcher, Kris Jenkins
+---
+ISBN-10: 1803232536 - ISBN-13: 9781803232539 - ASIN: 1803241004
+Published Date: 2024-06-24
+Page Count: 382
+---
+Google Books Price: GBP 21.44
+Google Books URL: http://books.google.co.uk/books?id=PXQKEQAAQBAJ&pg=PP1&dq=intitle:Getting+Started+with+DuckDB%2Binauthor:Simon+Aubury,+Ned+Letcher,+Kris+Jenkins&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $39.99
+Amazon.com Reviews: 5 of 5 (1 reviews)
+Amazon.com URL: https://www.amazon.com/Getting-Started-DuckDB-practical-efficiently/dp/1803241004
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Getting-Started-DuckDB-practical-efficiently/dp/1803241004
+---
+HB Blurb: Key FeaturesUse DuckDB to rapidly load, transform, and query data across a range of sources and formatsGain practical experience using SQL, Python, and R to effectively analyze dataLearn how open source tools and cloud services in the broader data ecosystem complement DuckDB’s versatile capabilitiesPurchase of the print or Kindle book includes a free PDF eBookWho this book is forIf you’re interested in expanding your analytical toolkit, this book is for you. It will be particularly valuable for data analysts wanting to rapidly explore and query complex data, data and software engineers looking for a lean and versatile data processing tool, along with data scientists needing a scalable data manipulation library that integrates seamlessly with Python and R. You will get the most from this book if you have some familiarity with SQL and foundational database concepts, as well as exposure to a programming language such as Python or R.
+--------------------------------------------------
+
+Book 16:
+Title: Data Engineering with AWS
+Author(s): Gareth Eagar
+---
+ISBN-10: 1800569041 - ISBN-13: 9781800569041 - ASIN: B0C61KXWQ5
+Published Date: 2021-12-29
+Page Count: 482
+---
+Google Books Price: GBP 25.34
+Google Books URL: http://books.google.co.uk/books?id=xrpREAAAQBAJ&printsec=frontcover&dq=intitle:Data+Engineering+with+AWS%2Binauthor:Gareth+Eagar&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $31.49Save $10.50 (25%)
+Amazon.com Reviews: 4.6 of 5 (29 reviews)
+Amazon.com URL: https://www.amazon.com/Data-Engineering-AWS-AWS-based-transformation-ebook/dp/B0C61KXWQ5
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (16 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Data-Engineering-AWS-AWS-based-transformation-ebook/dp/B0C61KXWQ5
+---
+HB Blurb: Key FeaturesDelve into robust AWS tools for ingesting, transforming, and consuming data, and for orchestrating pipelinesStay up to date with a comprehensive revised chapter on Data GovernanceBuild modern data platforms with a new section covering transactional data lakes and data meshWho this book is forThis book is for data engineers, data analysts, and data architects who are new to AWS and looking to extend their skills to the AWS cloud. Anyone new to data engineering who wants to learn about the foundational concepts, while gaining practical experience with common data engineering services on AWS, will also find this book useful. A basic understanding of big data-related topics and Python coding will help you get the most out of this book, but it’s not a prerequisite. Familiarity with the AWS console and core services will also help you follow along.
+--------------------------------------------------
+
+Book 17:
+Title: Driving Data Quality with Data Contracts
+Author(s): Andrew Jones, Kevin Hu
+---
+ISBN-10: 1837636249 - ISBN-13: 9781837636242 - ASIN: 1837635005
+Published Date: 2023-06-30
+Page Count: 206
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=OkTJEAAAQBAJ&pg=PR4&dq=intitle:Driving+Data+Quality+with+Data+Contracts%2Binauthor:Andrew+Jones,+Kevin+Hu&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (15 reviews)
+Amazon.com URL: https://www.amazon.com/Driving-Data-Quality-Contracts-comprehensive/dp/1837635005
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (15 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Driving-Data-Quality-Contracts-comprehensive/dp/1837635005
+---
+HB Blurb: Key FeaturesUnderstand data contracts and their power to resolving the problems in contemporary data platformsLearn how to design and implement a cutting-edge data platform powered by data contractsAccess practical guidance from the pioneer of data contracts to get expert insights on effective utilizationWho this book is forIf you’re a data engineer, data leader, architect, or practitioner thinking about your data architecture and looking to design one that enables your organization to get the most value from your data, this book is for you. Additionally, staff engineers, product managers, and software engineering leaders and executives will also find valuable insights.
+--------------------------------------------------
+
+Book 18:
+Title: Cracking the Data Engineering Interview
+Author(s): Kedeisha Bryan, Taamir Ransome
+---
+ISBN-10: 1837631077 - ISBN-13: 9781837631070 - ASIN: B0C9D4KRP2
+Published Date: 2023-11-07
+Page Count: 196
+---
+Google Books Price: GBP 11.69
+Google Books URL: http://books.google.co.uk/books?id=LufgEAAAQBAJ&printsec=frontcover&dq=intitle:Cracking+the+Data+Engineering+Interview%2Binauthor:Kedeisha+Bryan,+Taamir+Ransome&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $14.59Save $9.40 (39%)
+Amazon.com Reviews: 4.4 of 5 (8 reviews)
+Amazon.com URL: https://www.amazon.com/Cracking-Data-Engineering-Interview-resume-building-ebook/dp/B0C9D4KRP2
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (5 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Cracking-Data-Engineering-Interview-resume-building-ebook/dp/B0C9D4KRP2
+---
+HB Blurb: Key FeaturesDevelop your own brand, projects, and portfolio with expert help to stand out in the interview roundGet a quick refresher on core data engineering topics, such as Python, SQL, ETL, and data modelingPractice with 50 mock questions on SQL, Python, and more to ace the behavioral and technical roundsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forIf you’re an aspiring data engineer looking for guidance on how to land, prepare for, and excel in data engineering interviews, this book is for you. Familiarity with the fundamentals of data engineering, such as data modeling, cloud warehouses, programming (python and SQL), building data pipelines, scheduling your workflows (Airflow), and APIs, is a prerequisite.
+--------------------------------------------------
+
+Book 19:
+Title: Data Literacy in Practice
+Author(s): Angelika Klidas, Kevin Hanegan
+---
+ISBN-10: 1803232358 - ISBN-13: 9781803232355 - ASIN: B0B82JCW3D
+Published Date: 2022-11-30
+Page Count: 396
+---
+Google Books Price: GBP 12.34
+Google Books URL: http://books.google.co.uk/books?id=twWfEAAAQBAJ&pg=PA251&dq=intitle:Data+Literacy+in+Practice%2Binauthor:Angelika+Klidas,+Kevin+Hanegan&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (10 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Data-Literacy-Practice-decisions-intelligent-ebook/dp/B0B82JCW3D
+---
+HB Blurb: Key FeaturesGet a solid grasp of data literacy fundamentals to support your next steps in your careerLearn how to work with data and extract meaningful insights to take the right actionsApply your knowledge to real-world business intelligence projectsWho this book is forThis book is for data analysts, data professionals, and data teams starting or wanting to accelerate their data literacy journey. If you’re looking to develop the skills and mindset you need to work independently with data, as well as a solid knowledge base of the tools and frameworks, you’ll find this book useful.
+--------------------------------------------------
+
+Book 20:
+Title: Practical Data Quality
+Author(s): Robert Hawker, Nicola Askham
+---
+ISBN-10: 1804619434 - ISBN-13: 9781804619438 - ASIN: B0C8HTLCVX
+Published Date: 2023-09-29
+Page Count: 318
+---
+Google Books Price: GBP 14.29
+Google Books URL: http://books.google.co.uk/books?id=NffZEAAAQBAJ&printsec=frontcover&dq=intitle:Practical+Data+Quality%2Binauthor:Robert+Hawker,+Nicola+Askham&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $17.84Save $11.15 (38%)
+Amazon.com Reviews: 4.8 of 5 (9 reviews)
+Amazon.com URL: https://www.amazon.com/Practical-Data-Quality-real-world-organization-ebook/dp/B0C8HTLCVX
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (7 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Practical-Data-Quality-real-world-organization-ebook/dp/B0C8HTLCVX
+---
+HB Blurb: Key FeaturesGet a practical explanation of data quality concepts and the imperative for change when data is poorGain insights into linking business objectives and data to drive the right data quality prioritiesExplore the data quality lifecycle and accelerate improvement with the help of real-world examplesPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for data analysts, data engineers, and chief data officers looking to understand data quality practices and their implementation in their organization. This book will also be helpful for business leaders who see data adversely affecting their success and data teams that want to optimize their data quality approach. No prior knowledge of data quality basics is required.
+--------------------------------------------------
+
+Book 21:
+Title: Data Observability for Data Engineering
+Author(s): Michele Pinto, Sammy El Khammal
+---
+ISBN-10: 180461209X - ISBN-13: 9781804612095 - ASIN: B0B71HNZHR
+Published Date: 2023-12-29
+Page Count: 228
+---
+Google Books Price: GBP 14.94
+Google Books URL: http://books.google.co.uk/books?id=1dTrEAAAQBAJ&printsec=frontcover&dq=intitle:Data+Observability+for+Data+Engineering%2Binauthor:Michele+Pinto,+Sammy+El+Khammal&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $18.49Save $11.50 (38%)
+Amazon.com Reviews: 3.7 of 5 (4 reviews)
+Amazon.com URL: https://www.amazon.com/Data-Observability-Engineering-pipelines-actionable-ebook/dp/B0B71HNZHR
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Data-Observability-Engineering-pipelines-actionable-ebook/dp/B0B71HNZHR
+---
+HB Blurb: Key FeaturesLearn how to monitor your data pipelines in a scalable wayApply real-life use cases and projects to gain hands-on experience in implementing data observabilityInstil trust in your pipelines among data producers and consumers alikePurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for data engineers, data architects, data analysts, and data scientists who have encountered issues with broken data pipelines or dashboards. Organizations seeking to adopt data observability practices and managers responsible for data quality and processes will find this book especially useful to increase the confidence of data consumers and raise awareness among producers regarding their data pipelines.
+--------------------------------------------------
+
+Book 22:
+Title: Data Engineering with Google Cloud Platform
+Author(s): Adi Wijaya
+---
+ISBN-10: 1800565062 - ISBN-13: 9781800565067 - ASIN: 1800561326
+Published Date: 2022-03-31
+Page Count: 440
+---
+Google Books Price: GBP 27.29
+Google Books URL: http://books.google.co.uk/books?id=AH9gEAAAQBAJ&printsec=frontcover&dq=intitle:Data+Engineering+with+Google+Cloud+Platform%2Binauthor:Adi+Wijaya&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (14 reviews)
+Amazon.com URL: https://www.amazon.com/Data-Engineering-Google-Cloud-Platform/dp/1800561326
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (21 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Data-Engineering-Google-Cloud-Platform-ebook/dp/B09NC5XJ6D
+---
+HB Blurb: Key FeaturesUnderstand data engineering concepts, the role of a data engineer, and the benefits of using GCP for building your solutionLearn how to use the various GCP products to ingest, consume, and transform data and orchestrate pipelinesDiscover tips to prepare for and pass the Professional Data Engineer examWho this book is forThis book is for data engineers, data analysts, and anyone looking to design and manage data processing pipelines using GCP. You'll find this book useful if you are preparing to take Google's Professional Data Engineer exam. Beginner-level understanding of data science, the Python programming language, and Linux commands is necessary. A basic understanding of data processing and cloud computing, in general, will help you make the most out of this book.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Data Governance Handbook
+https://www.amazon.com/Data-Governance-Handbook-practical-approach/dp/1803240725
+https://www.amazon.co.uk/Data-Governance-Handbook-practical-approach-ebook/dp/B0BYK29KG7
+http://books.google.co.uk/books?id=jvAJEQAAQBAJ&printsec=frontcover&dq=intitle:Data+Governance+Handbook%2Binauthor:Wendy+S.+Batchelder&hl=&cd=1&source=gbs_api
+
+Book 02 - Data Engineering with dbt
+https://www.amazon.com/Data-Engineering-dbt-cloud-based-dependable-ebook/dp/B0C4LL19G7
+https://www.amazon.co.uk/Data-Engineering-dbt-cloud-based-dependable-ebook/dp/B0C4LL19G7
+http://books.google.co.uk/books?id=okLJEAAAQBAJ&pg=PR15&dq=intitle:Data+Engineering+with+dbt%2Binauthor:Roberto+Zagni&hl=&cd=1&source=gbs_api
+
+Book 03 - Databricks Certified Associate Developer for Apache Spark Using Python
+https://www.amazon.com/Databricks-Certified-Associate-Developer-Apache/dp/1804619787
+https://www.amazon.co.uk/Databricks-Certified-Associate-Developer-Apache/dp/1804619787
+http://books.google.co.uk/books?id=1gYJEQAAQBAJ&pg=PP1&dq=intitle:Databricks+Certified+Associate+Developer+for+Apache+Spark+Using+Python%2Binauthor:Saba+Shah,+Rod+Waltermann&hl=&cd=1&source=gbs_api
+
+Book 04 - The Ultimate Guide to Snowpark
+https://www.amazon.com/Ultimate-Guide-Snowpark-efficient-workloads-ebook/dp/B0CW17VFK8
+https://www.amazon.co.uk/Ultimate-Guide-Snowpark-efficient-workloads/dp/1805123416
+http://books.google.co.uk/books?id=PskHEQAAQBAJ&pg=PP1&dq=intitle:The+Ultimate+Guide+to+Snowpark%2Binauthor:Shankar+Narayanan+SGS,+Vivekanandan+SS,+Jeff+Hollan&hl=&cd=1&source=gbs_api
+
+Book 05 - The Definitive Guide to Data Integration
+https://www.amazon.com/Definitive-Guide-Data-Integration-integration/dp/1837631913
+https://www.amazon.co.uk/Definitive-Guide-Data-Integration-integration/dp/1837631913
+http://books.google.co.uk/books?id=pqP6EAAAQBAJ&printsec=frontcover&dq=intitle:The+Definitive+Guide+to+Data+Integration%2Binauthor:Pierre-Yves+BONNEFOY,+Emeric+CHAIZE,+Rapha%C3%ABl+MANSUY,+Mehdi+TAZI,+Stephane+Heckel&hl=&cd=1&source=gbs_api
+
+Book 06 - Big Data on Kubernetes
+https://www.amazon.com/Big-Data-Kubernetes-practical-efficient/dp/1835462146
+https://www.amazon.co.uk/Big-Data-Kubernetes-practical-efficient-ebook/dp/B0D3M6X8RF
+http://books.google.co.uk/books?id=1zUQEQAAQBAJ&printsec=frontcover&dq=intitle:Big+Data+on+Kubernetes%2Binauthor:Neylson+Crepalde&hl=&cd=1&source=gbs_api
+
+Book 07 - Data Modeling with Snowflake
+https://www.amazon.com/Data-Modeling-Snowflake-accelerating-development-ebook/dp/B0BXSMGJDX
+https://www.amazon.co.uk/Data-Modeling-Snowflake-accelerating-development/dp/1837634459
+http://books.google.co.uk/books?id=-NO-EAAAQBAJ&printsec=frontcover&dq=intitle:Data+Modeling+with+Snowflake%2Binauthor:Serge+Gershkovich,+Kent+Graziano&hl=&cd=1&source=gbs_api
+
+Book 08 - Data Engineering with Google Cloud Platform 2E
+https://www.amazon.com/Data-Engineering-Google-Cloud-Platform/dp/1800561326
+https://www.amazon.co.uk/Data-Engineering-Google-Cloud-Platform/dp/1835080111
+http://books.google.co.uk/books?id=f00EEQAAQBAJ&pg=PP1&dq=intitle:Data+Engineering+with+Google+Cloud+Platform+2E%2Binauthor:Adi+Wijaya,+Ant%C3%B3nio+Vilares&hl=&cd=1&source=gbs_api
+
+Book 09 - In-Memory Analytics with Apache Arrow
+https://www.amazon.com/Memory-Analytics-Apache-Arrow-hierarchical/dp/1801071039
+https://www.amazon.co.uk/Memory-Analytics-Apache-Arrow-hierarchical-ebook/dp/B09X76LNN9
+http://books.google.co.uk/books?id=K39yEAAAQBAJ&printsec=frontcover&dq=intitle:In-Memory+Analytics+with+Apache+Arrow%2Binauthor:Matthew+Topol,+Wes+McKinney&hl=&cd=1&source=gbs_api
+
+Book 10 - Data Engineering Best Practices
+https://www.amazon.com/Data-Engineering-Best-Practices-cost-effective-ebook/dp/B0DG5HHLWK
+https://www.amazon.co.uk/Data-Engineering-Best-Practices-cost-effective/dp/1803244984
+http://books.google.co.uk/books?id=vr4gEQAAQBAJ&printsec=frontcover&dq=intitle:Data+Engineering+Best+Practices%2Binauthor:Richard+J.+Schiller+and+David+Larochelle&hl=&cd=1&source=gbs_api
+
+Book 11 - Data Engineering with Databricks Cookbook
+https://www.amazon.com/Engineering-Apache-Spark-Delta-Cookbook-ebook/dp/B0C5MTLMMC
+https://www.amazon.co.uk/Engineering-Apache-Spark-Delta-Cookbook/dp/1837633355
+http://books.google.co.uk/books?id=OMkHEQAAQBAJ&printsec=frontcover&dq=intitle:Data+Engineering+with+Databricks+Cookbook%2Binauthor:Pulkit+Chadha&hl=&cd=1&source=gbs_api
+
+Book 12 - Data Engineering with Scala and Spark
+https://www.amazon.com/Data-Engineering-Scala-Spark-streaming/dp/1804612588
+https://www.amazon.co.uk/Data-Engineering-Scala-Spark-streaming/dp/1804612588
+http://books.google.co.uk/books?id=WWHvEAAAQBAJ&printsec=frontcover&dq=intitle:Data+Engineering+with+Scala+and+Spark%2Binauthor:Eric+Tome,+Rupam+Bhattacharjee,+David+Radford&hl=&cd=1&source=gbs_api
+
+Book 13 - Fundamentals of Analytics Engineering
+https://www.amazon.com/Fundamentals-Analytics-Engineering-end-end/dp/1837636451
+https://www.amazon.co.uk/Fundamentals-Analytics-Engineering-end-end/dp/1837636451
+http://books.google.co.uk/books?id=lcj9EAAAQBAJ&pg=PP1&dq=intitle:Fundamentals+of+Analytics+Engineering%2Binauthor:Ta%C3%ADs+Laurindo+Pereira,+Ricardo+Angel,+Granados+Lopez,+Lasse+Benninga,+Juan+Manuel+Perafan,+Jovan+Gligorevic,+Fanny+Kassapian,+Dumky+De+Wilde,+P%C3%A1draic+Slattery&hl=&cd=1&source=gbs_api
+
+Book 14 - Polars Cookbook
+https://www.amazon.com/Polars-Cookbook-practical-transform-manipulate-ebook/dp/B0CLRS4B8T
+https://www.amazon.co.uk/Polars-Cookbook-practical-transform-manipulate-ebook/dp/B0CLRS4B8T
+http://books.google.co.uk/books?id=_IgXEQAAQBAJ&printsec=frontcover&dq=intitle:Polars+Cookbook%2Binauthor:Yuki+Kakegawa,+Marco+Gorelli&hl=&cd=1&source=gbs_api
+
+Book 15 - Getting Started with DuckDB
+https://www.amazon.com/Getting-Started-DuckDB-practical-efficiently/dp/1803241004
+https://www.amazon.co.uk/Getting-Started-DuckDB-practical-efficiently/dp/1803241004
+http://books.google.co.uk/books?id=PXQKEQAAQBAJ&pg=PP1&dq=intitle:Getting+Started+with+DuckDB%2Binauthor:Simon+Aubury,+Ned+Letcher,+Kris+Jenkins&hl=&cd=1&source=gbs_api
+
+Book 16 - Data Engineering with AWS
+https://www.amazon.com/Data-Engineering-AWS-AWS-based-transformation-ebook/dp/B0C61KXWQ5
+https://www.amazon.co.uk/Data-Engineering-AWS-AWS-based-transformation-ebook/dp/B0C61KXWQ5
+http://books.google.co.uk/books?id=xrpREAAAQBAJ&printsec=frontcover&dq=intitle:Data+Engineering+with+AWS%2Binauthor:Gareth+Eagar&hl=&cd=1&source=gbs_api
+
+Book 17 - Driving Data Quality with Data Contracts
+https://www.amazon.com/Driving-Data-Quality-Contracts-comprehensive/dp/1837635005
+https://www.amazon.co.uk/Driving-Data-Quality-Contracts-comprehensive/dp/1837635005
+http://books.google.co.uk/books?id=OkTJEAAAQBAJ&pg=PR4&dq=intitle:Driving+Data+Quality+with+Data+Contracts%2Binauthor:Andrew+Jones,+Kevin+Hu&hl=&cd=1&source=gbs_api
+
+Book 18 - Cracking the Data Engineering Interview
+https://www.amazon.com/Cracking-Data-Engineering-Interview-resume-building-ebook/dp/B0C9D4KRP2
+https://www.amazon.co.uk/Cracking-Data-Engineering-Interview-resume-building-ebook/dp/B0C9D4KRP2
+http://books.google.co.uk/books?id=LufgEAAAQBAJ&printsec=frontcover&dq=intitle:Cracking+the+Data+Engineering+Interview%2Binauthor:Kedeisha+Bryan,+Taamir+Ransome&hl=&cd=1&source=gbs_api
+
+Book 19 - Data Literacy in Practice
+No Amazon.com URL found
+https://www.amazon.co.uk/Data-Literacy-Practice-decisions-intelligent-ebook/dp/B0B82JCW3D
+http://books.google.co.uk/books?id=twWfEAAAQBAJ&pg=PA251&dq=intitle:Data+Literacy+in+Practice%2Binauthor:Angelika+Klidas,+Kevin+Hanegan&hl=&cd=1&source=gbs_api
+
+Book 20 - Practical Data Quality
+https://www.amazon.com/Practical-Data-Quality-real-world-organization-ebook/dp/B0C8HTLCVX
+https://www.amazon.co.uk/Practical-Data-Quality-real-world-organization-ebook/dp/B0C8HTLCVX
+http://books.google.co.uk/books?id=NffZEAAAQBAJ&printsec=frontcover&dq=intitle:Practical+Data+Quality%2Binauthor:Robert+Hawker,+Nicola+Askham&hl=&cd=1&source=gbs_api
+
+Book 21 - Data Observability for Data Engineering
+https://www.amazon.com/Data-Observability-Engineering-pipelines-actionable-ebook/dp/B0B71HNZHR
+https://www.amazon.co.uk/Data-Observability-Engineering-pipelines-actionable-ebook/dp/B0B71HNZHR
+http://books.google.co.uk/books?id=1dTrEAAAQBAJ&printsec=frontcover&dq=intitle:Data+Observability+for+Data+Engineering%2Binauthor:Michele+Pinto,+Sammy+El+Khammal&hl=&cd=1&source=gbs_api
+
+Book 22 - Data Engineering with Google Cloud Platform
+https://www.amazon.com/Data-Engineering-Google-Cloud-Platform/dp/1800561326
+https://www.amazon.co.uk/Data-Engineering-Google-Cloud-Platform-ebook/dp/B09NC5XJ6D
+http://books.google.co.uk/books?id=AH9gEAAAQBAJ&printsec=frontcover&dq=intitle:Data+Engineering+with+Google+Cloud+Platform%2Binauthor:Adi+Wijaya&hl=&cd=1&source=gbs_api
+
