@@ -1,0 +1,476 @@
+Humble Tech Book Bundle- IT Manager's Toolkit by Taylor & Francis - Taylor & Francis Group
+Processing date: 2024-12-17
+Data retrieved from: https://www.humblebundle.com/books/it-managers-toolkit-taylor-francis-books
+
+Book 01 - Practical Guide to IT Problem Management - Andrew Dixon - 0 out of 5 (3 reviews)
+Book 02 - IT Project Health Checks: Driving Successful Implementation and Multiples of Business Value - Sanjiv Purba - 5 out of 5 (1 reviews)
+Book 03 - Business Recovery and Continuity in a Mega Disaster: Cybersecurity Lessons Learned from the COVID-19 Pandemic - Ravi Das - None found out of 5 (None found reviews)
+Book 04 - Metadata Matters - John Horodyski - 4.4 out of 5 (9 reviews)
+Book 05 - Management Lessons from the Great Explorers - Ralph L. Kliem - None found out of 5 (None found reviews)
+Book 06 - IT Governance and Information Security: Guides, Standards, and Frameworks - Yassine Maleh - None found out of 5 (None found reviews)
+Book 07 - Say What!? Communicate with Tact and Impact: What to say to get results at any point in an audit - Ann M. Butera - 4 out of 5 (1 reviews)
+Book 08 - Sustainability in Project Management: A Functional Approach - Anna Brzozowska - None found out of 5 (None found reviews)
+Book 09 - The IoT Architect's Guide to Attainable Security and Privacy - Damilare D. Fagbemi - 5 out of 5 (4 reviews)
+Book 10 - Retaining Expert Knowledge: What to Keep in an Age of Information Overload - Peggy Salvatore - None found out of 5 (None found reviews)
+Book 11 - The Innovation Factory - Gilles Garel - 5 out of 5 (1 reviews)
+Book 12 - Strategic Stakeholder Engagement - Chris Anastasi - 5 out of 5 (3 reviews)
+Book 13 - Making Projects Work: Effective Stakeholder and Communication Management - Dr Lynda Bourne - 3.6 out of 5 (3 reviews)
+Book 14 - Mind the Tech Gap: Addressing the Conflicts between IT and Security Teams - Nikki Robinson - 4.7 out of 5 (4 reviews)
+Book 15 - Strategic IT Governance 2.0: How CIOs Succeed at Digital Innovation - Phil Weinzimer - None found out of 5 (None found reviews)
+Book 16 - What To Do When You Get Hacked: A Practitioner's Guide to Incident Response in the 21st Century - Shimon Brathwaite - None found out of 5 (None found reviews)
+Book 17 - Big Data for Big Decisions: Building a Data-Driven Organization - Krishna Pera - None found out of 5 (None found reviews)
+Book 18 - Managing Business Projects: The Essentials - Frank Einhorn - None found out of 5 (None found reviews)
+Book 19 - Modern Management and Leadership: Best Practice Essentials with CISO/CSO Applications - Mark Tarallo - 4.4 out of 5 (2 reviews)
+Book 20 - Evolving Toolbox for Complex Project Management - Alex Gorod - None found out of 5 (None found reviews)
+Book 21 - Resource Proportional Software Design for Emerging Systems - Suparna Bhattacharya - None found out of 5 (None found reviews)
+Book 22 - A Simple Guide to Technology and Analytics - Dr. Brian John Evans - None found out of 5 (None found reviews)
+Book 23 - Enterprise Architecture for Digital Business: Integrated Transformation Strategies - Tushar Hazra - 5 out of 5 (3 reviews)
+Book 24 - Protecting Information Assets and IT Infrastructure in the Cloud - Ravi Das - None found out of 5 (None found reviews)
+Book 25 - The Innovator's Imperative: Rapid Technology Adoption for Digital Transformation - Stephen J. Andriole - None found out of 5 (None found reviews)
+Book 26 - A Guide to IT Contracting: Checklists, Tools, and Techniques - Michael R. Overly - None found out of 5 (None found reviews)
+Book 27 - The CIO's Guide to Risk - Jessica Keyes - 5 out of 5 (1 reviews)
+Book 28 - Business Continuity Planning: A Project Management Approach - Ralph L. Kliem - 5 out of 5 (5 reviews)
+Book 29 - Agile for Project Managers - Denise Canty - 4.2 out of 5 (7 reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: Practical Guide to IT Problem Management
+Author(s): Andrew Dixon
+---
+ISBN-10: 1000586626 - ISBN-13: 9781000586626 - ASIN: B09TQ3QJ63
+Published Date: 2022-05-11
+---
+HB Blurb: Whilst the concept of IT problem management is well understood, doing it in practice is much harder. Aligned with such well known frameworks as ITIL, This book offers practical advice on how to tackle real problems in complex environments. Each chapter explores a different aspect of problem solving and is illustrated with real life case studies that bring the discipline to life and make it easier for the reader to apply the principles to their own situation. This book is aimed at IT professionals and managers who face problems in their daily work.
+--------------------------------------------------
+
+Book 02:
+Title: IT Project Health Checks: Driving Successful Implementation and Multiples of Business Value
+Author(s): Sanjiv Purba
+---
+ISBN-10: 1000580997 - ISBN-13: 9781000580990 - ASIN: 036734288X
+Published Date: 2022-05-03
+---
+HB Blurb: This book provides a health-check framework to evaluate the status of IT projects and programs and to build out an actionable roadmap to improve the resulting business value and benefits. Whether a project is in red, yellow, or green status, this book provides information that can drive a better outcome and value for the investment in a project initiative. This is the book’s key differentiator. Using this book, any project stakeholder can improve a project’s outcome regardless of how well or poor the project is running. Projects that are performing well can benefit from this book to improve benefits to business, while projects that are under stress can be brought back to green status.
+--------------------------------------------------
+
+Book 03:
+Title: Business Recovery and Continuity in a Mega Disaster: Cybersecurity Lessons Learned from the COVID-19 Pandemic
+Author(s): Ravi Das
+---
+ISBN-10: 1000574598 - ISBN-13: 9781000574593 - ASIN: 1032245328
+Published Date: 2022-04-20
+---
+HB Blurb: The COVID-19 Pandemic has changed the entire world to levels that were not even thought of before. Many businesses, especially here in the United States were completely caught off guard by this, and as a result, they had no concrete plans put into place, from a cybersecurity standpoint, in how to deal with it. This publication is intended to be a how-to book to fully prepare the CIOs and CISOs for the next disaster to happen, whether natural or manmade, with the various lessons that have been learned thus far from COVID-19.
+--------------------------------------------------
+
+Book 04:
+Title: Metadata Matters
+Author(s): John Horodyski
+---
+ISBN-10: 100059744X - ISBN-13: 9781000597448 - ASIN: B09TQ3B7XF
+Published Date: 2022-04-03
+---
+HB Blurb: Metadata increases the return on investment of content systems by unlocking the potential to ingest, discover, and distribute assets. The book outlines the requirements for collecting data, and the guideposts for protecting and leveraging large datasets. It shows how metadata can empower content and digital operations from creation to distribution. Metadata development is a strategic imperative in the endeavor to effectively manage and exploit a company’s content and knowledge. The successful implementation of any content-related strategy for data, digital assets, or text requires implementation of a holistic metadata schema that is supported by technology, people, and process.
+--------------------------------------------------
+
+Book 05:
+Title: Management Lessons from the Great Explorers
+Author(s): Ralph L. Kliem
+---
+ISBN-10: 1000540650 - ISBN-13: 9781000540659 - ASIN: 0367464330
+Published Date: 2022-02-21
+---
+HB Blurb: This book looks at famous and, in some cases, infamous explorers to discuss and analyze the management practices (even though they may have never called them as such) that they used before, during, and even after their expeditions. Each chapter presents the historical background about the explorers and the details about their expeditions. Each chapter also discusses of the challenges they faced when planning and executing their expeditions as well as their successes and failures from a management perspective. The final chapter provides lessons learned.
+--------------------------------------------------
+
+Book 06:
+Title: IT Governance and Information Security: Guides, Standards, and Frameworks
+Author(s): Yassine Maleh
+---
+ISBN-10: 1000478963 - ISBN-13: 9781000478969 - ASIN: B09MTRS72Y
+Published Date: 2021-12-21
+---
+HB Blurb: In this new book, The authors share their experience to help you navigate today's dangerous information security terrain and take proactive steps to measure your company IT Governance and information security maturity and prepare your organization to survive, thrive and keep your data safe. It aspires to provide a relevant reference for Executive Managers, CISOs, Cybersecurity professionals, Engineers, and Researchers interested in exploring and implementing efficient IT governance and information security strategies.
+--------------------------------------------------
+
+Book 07:
+Title: Say What!? Communicate with Tact and Impact: What to say to get results at any point in an audit
+Author(s): Ann M. Butera
+---
+ISBN-10: 1000430537 - ISBN-13: 9781000430530 - ASIN: 0367555530
+Published Date: 2021-10-26
+---
+HB Blurb: The book is a guide for professionals who want to interact proactively and persuasively with those they work with, audit, or review. It describes techniques that could be used during virtual, in-person, telephone or video conferences (as opposed to emails, workpapers, and reports). It provides everyone (newer associates in particular) with the interpersonal skills needed to (1) develop and build relationships with their internal constituents and clients, (2) facilitate conversations and discussions before and during meetings, (3) handle impromptu questions with confidence and executive presence, and make positive first impressions.
+--------------------------------------------------
+
+Book 08:
+Title: Sustainability in Project Management: A Functional Approach
+Author(s): Anna Brzozowska
+---
+ISBN-10: 1000337758 - ISBN-13: 9781000337754 - ASIN: B0D4FC2RFG
+Published Date: 2021-04-01
+---
+HB Blurb: This book presents a new approach to the issue of project management, showing how it can be approached through the lens of sustainability. The focus is on a functional approach to the subject, allowing management and business to implement the methodology discussed. Topics discussed include sustainable planning, sustainable organizing, sustainable leading and sustainable controlling. The authors use their combined experience in the area to inform their novel approach.The book will be especially useful for people who are project managers, members of project teams and other project stakeholders.
+--------------------------------------------------
+
+Book 09:
+Title: The IoT Architect's Guide to Attainable Security and Privacy
+Author(s): Damilare D. Fagbemi
+---
+ISBN-10: 1000762610 - ISBN-13: 9781000762617 - ASIN: 1032475234
+Published Date: 2019-10-08
+---
+HB Blurb: This book explores how to secure the future state of the Internet of Things. Looking at an imminent future filled with computers that also moonlight as "things", the guide dissects the present and future threats to assets, digital and otherwise. To avoid the significant&nbsp;technical debt which is likely to manifest as IoT adoption increases, it’s important to think ahead. To that effect, the book examines how to design IoT solutions that provide end-to-end security and privacy at scale, delves into IoT economy from the perspective of both defenders and attackers, and discusses the implications of security usability.
+--------------------------------------------------
+
+Book 10:
+Title: Retaining Expert Knowledge: What to Keep in an Age of Information Overload
+Author(s): Peggy Salvatore
+---
+ISBN-10: 9781351002905 - ISBN-13: 1351002902 - ASIN: 1138296368
+Published Date: 2017
+---
+HB Blurb: This book explores the problem of the loss of corporate expertise. It explains how to meet the challenge of capturing hard-to-replicate knowledge, skills and attitudes from legacy employees and packaging it in a way to reach new generations of workers. Finally, the book presents a methodology for efficiently capturing critical corporate information in ways that make the process relatively simple and painless both for the subject matter experts and the people tasked with capturing their knowledge. This book gives you a way to analyze your company and identify your most critical experts whose knowledge must be preserved for business continuity.
+--------------------------------------------------
+
+Book 11:
+Title: The Innovation Factory
+Author(s): Gilles Garel
+---
+ISBN-10: 1498740227 - ISBN-13: 9781498740227 - ASIN: 1498740219
+Published Date: 2016-03-23
+---
+HB Blurb: The Innovation Factory takes a fresh look at the fine art of breakthrough innovation. Written by an experienced researcher and scholar and by an experienced inventor and entrepreneur, it marries theory with practical examples focusing on the Concept-Knowledge (C-K) Theory developed by the prestigious school Mines ParisTech. Elmar Mock, the creative engineering force behind the Swatch, passionately tells how he helped to create this revolutionary product that saved the Swiss watch industry in the 1980s. Gilles Garel, a professor of management, relates this tale of epic innovation to C-K Theory.
+--------------------------------------------------
+
+Book 12:
+Title: Strategic Stakeholder Engagement
+Author(s): Chris Anastasi
+---
+ISBN-10: 1351589105 - ISBN-13: 9781351589109 - ASIN: 0367605910
+Published Date: 2018-02-19
+---
+HB Blurb: New government policy and regulation affect the environments in which organisations operate, bringing both risks potential opportunities. A key question is whether organisations are engaging with decision-makers and other key actors as effectively as they could. Are they managing to influence the policy and regulatory regime that shapes the markets in which they operate? Even more fundamentally, do they know who they should be interacting with or understand the formal and informal processes whereby they can present their concerns, views and ideas? Strategic Stakeholder Engagement and Communication: A Voice Behind the Curtain addresses these important questions.
+--------------------------------------------------
+
+Book 13:
+Title: Making Projects Work: Effective Stakeholder and Communication Management
+Author(s): Dr Lynda Bourne
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1482206668
+Published Date: 
+---
+HB Blurb: This book provides a framework for understanding and managing factors required for achieving successful project and program outcomes. It presents guidelines to help readers develop an understanding of governance and its connection to strategy as the starting point for decisions on what work needs to be done. The book describes how to craft appropriate communication strategies to develop and maintain successful relationships with stakeholders. It highlights the strengths and weaknesses of existing project controls and outlines effective communication techniques for managing expectations and acquiring the support required for successful delivery.
+--------------------------------------------------
+
+Book 14:
+Title: Mind the Tech Gap: Addressing the Conflicts between IT and Security Teams
+Author(s): Nikki Robinson
+---
+ISBN-10: 1000647889 - ISBN-13: 9781000647884 - ASIN: B0BB138QSN
+Published Date: 2022-10-05
+---
+HB Blurb: IT and cybersecurity teams have had a long-standing battle between functionality and security. To understand where the problem lies, this book will explore the different job functions, goals, relationships, and other factors that may impact how IT and cybersecurity teams interact. With different levels of budget, competing goals, and a history of lack of communication, there is a lot of work to do to bring these teams together. The goal is to identify the problems in your own team or organization and apply the principles within to improve how teams communicate, collaborate, and compromise.
+--------------------------------------------------
+
+Book 15:
+Title: Strategic IT Governance 2.0: How CIOs Succeed at Digital Innovation
+Author(s): Phil Weinzimer
+---
+ISBN-10:  - ISBN-13:  - ASIN: 0367342863
+Published Date: 
+---
+HB Blurb: Strategic IT Governance 2.0: How CIOs Succeed at Digital Innovation explains how IT executives can take the lead and successfully drive digital transformation initiatives and its associated projects. The book presents the Strategic IT Governance 2.0 model that focuses on project alignment, process reinvention, and leadership excellence. It is filled with case studies of the model’s implementation, giving practical insight how organizations have successfully executed digital transformation.
+--------------------------------------------------
+
+Book 16:
+Title: What To Do When You Get Hacked: A Practitioner's Guide to Incident Response in the 21st Century
+Author(s): Shimon Brathwaite
+---
+ISBN-10: 1000779793 - ISBN-13: 9781000779790 - ASIN: 1032206071
+Published Date: 2022-11-16
+---
+HB Blurb: This book teaches you everything that you need to know about preparing your company for a potential data breach. We begin by talking about what the latest cybersecurity threats and attacks are that your company needs to be prepared for. Once we establish that we go into the different phases of the incident response lifecycle based on the NIST framework. This will teach you how to properly prepare and respond to cybersecurity incidents so that you can be sure to minimize the damage and fulfill all of your legal requirements during a cyberattack. This book is meant for the everyday business owner and makes these concepts simple to understand and apply.
+--------------------------------------------------
+
+Book 17:
+Title: Big Data for Big Decisions: Building a Data-Driven Organization
+Author(s): Krishna Pera
+---
+ISBN-10: 1000816966 - ISBN-13: 9781000816969 - ASIN: 1032017244
+Published Date: 2022-12-30
+---
+HB Blurb: While every enterprise aspires to become 100% data-driven, the Gartner Group estimates over 80% of all analytics projects fail to deliver intended value. This is a practitioner's guide for creating step-by-step a transformational roadmap, prioritize Big Data for big decisions--the key-decisions that influence 90% of business outcomes, and actually deliver value from analytics investments. For those CIOs struggling to explain the business-value from analytics, this book presents a methodology for assured success in deriving intended value from investments into analytics, and improvements in quality of decisions.
+--------------------------------------------------
+
+Book 18:
+Title: Managing Business Projects: The Essentials
+Author(s): Frank Einhorn
+---
+ISBN-10: 100078505X - ISBN-13: 9781000785050 - ASIN: 1032276029
+Published Date: 2022-11-23
+---
+HB Blurb: This book is written for the project manager as well as the many other stakeholders involved in business projects. It gives basic techniques that can be adapted to any business scenario. By following certain simple methods, and engaging with business stakeholders, a project manager's probability of success is vastly improved. This guide shows how to do what is essential with adequate quality, but to do it consistently only possible with simple, flexible, techniques presented in this book.
+--------------------------------------------------
+
+Book 19:
+Title: Modern Management and Leadership: Best Practice Essentials with CISO/CSO Applications
+Author(s): Mark Tarallo
+---
+ISBN-10: 1000412113 - ISBN-13: 9781000412116 - ASIN: B096WFCKC6
+Published Date: 2021-08-06
+---
+HB Blurb: In one modest-sized volume, this book offers three valuable sets of knowledge. It provides best practice guidance on virtually every large-scale task a modern manager may be involved in from recruiting and hiring to onboarding and leading teams, and from employee engagement and retention to performance management and working with difficult employees.The book also explains the essential concepts and practice of a range of effective leadership styles including (but not limited to) servant leadership, crisis leadership, change agent leadership, and diversity and inclusion leadership.
+--------------------------------------------------
+
+Book 20:
+Title: Evolving Toolbox for Complex Project Management
+Author(s): Alex Gorod
+---
+ISBN-10: 9781032400990 - ISBN-13: 1032400994 - ASIN: 
+Published Date: 2022-08-29
+---
+HB Blurb: This book enhances learning about complex project management principles and practices through introduction and discussion of a portfolio of tools presented as an evolving toolbox. Throughout the book, industry practitioners examine the toolsets that are part of the toolbox to develop a broader understanding of complex project management challenges and the available tools to address them.This approach establishes a dynamic, structured platform for a comprehensive analysis and assessment of the modern, rapidly changing, multifaceted business environment to teach the next generation of project managers to successfully cope with the ever increasing complexity of the 21st century.
+--------------------------------------------------
+
+Book 21:
+Title: Resource Proportional Software Design for Emerging Systems
+Author(s): Suparna Bhattacharya
+---
+ISBN-10: 1351682334 - ISBN-13: 9781351682336 - ASIN: 1138053546
+Published Date: 2020-02-21
+---
+HB Blurb: This book raises developer awareness to the central principles and benefits of resource proportional software design in creating an antidote to the problem of run-time bloat in deeply layered software stacks. It equips developers to practice resource proportional software design using the principles to build efficient software without compromising flexibility. The book further motivates similar practices in a discussion on implications for emerging technologies for system designers and provides an outline of open research questions for academic researchers.
+--------------------------------------------------
+
+Book 22:
+Title: A Simple Guide to Technology and Analytics
+Author(s): Dr. Brian John Evans
+---
+ISBN-10:  - ISBN-13:  - ASIN: B09BFH462L
+Published Date: 
+---
+HB Blurb: Richly furnished with over 200 illustrations, photos and with minimal equations, A Simple Guide to Technology and Analytics is a ready reference book for those times when you don’t really understand the technology and analytics being talked about. It explains complicated topics such as automated character recognition in a very simple way, and has simple exercises for the reader to fully understand the technology (with answers at the back). It even has explanations on how home appliances work, which are very useful the next time you go shopping for a microwave or TV.
+--------------------------------------------------
+
+Book 23:
+Title: Enterprise Architecture for Digital Business: Integrated Transformation Strategies
+Author(s): Tushar Hazra
+---
+ISBN-10: 1351646710 - ISBN-13: 9781351646710 - ASIN: 0367557185
+Published Date: 2020-10-14
+---
+HB Blurb: Enterprise Architecture (EA) is the most essential fabric of an enterprise. However, EA also transcends and transforms technology and moves it into business space. Therefore, EA needs to be discussed in an integrated, holistic, and comprehensive manner. This book focuses on preparing all organizations large and small, and those wishing to move into them, for the impact of leveraging emerging, disruptive, and innovative technologies within the EA framework.
+--------------------------------------------------
+
+Book 24:
+Title: Protecting Information Assets and IT Infrastructure in the Cloud
+Author(s): Ravi Das
+---
+ISBN-10: 0429523726 - ISBN-13: 9780429523724 - ASIN: 1138393320
+Published Date: 2019-04-30
+---
+HB Blurb: Today, many businesses and corporations are moving their on premises IT Infrastructure to the Cloud. There are numerous advantages to do doing so, including on-demand service, scalability, and fixed pricing. As a result, the Cloud has become a popular target of cyber-based attacks. Although an ISP is often charged with keeping virtual infrastructure secure, it is not safe to assume this. Back-up measures must be taken. This book explains how to guard against cyber-attacks by adding another layer of protection to the most valuable data in the Cloud: customer information and trade secrets.
+--------------------------------------------------
+
+Book 25:
+Title: The Innovator's Imperative: Rapid Technology Adoption for Digital Transformation
+Author(s): Stephen J. Andriole
+---
+ISBN-10: 1351773526 - ISBN-13: 9781351773522 - ASIN: 1032476583
+Published Date: 2017-10-17
+---
+HB Blurb: Based on research conducted at Villanova University’s School of Business, the book describes technology adoption in the 21st century. The innovator/early adopter/early majority/late majority/laggard innovation diffusion model first popularized by Everett Rogers in1962 is unrecognizable today. Even the rapid prototyping adoption models of the late 1990s have collapsed. This book presents a technology adoption process that is driven by competitive fear, speed and digital transformation. It is a process that is inexpensive, indiscriminate and completely disconnected from adoption categories or bell curves.
+--------------------------------------------------
+
+Book 26:
+Title: A Guide to IT Contracting: Checklists, Tools, and Techniques
+Author(s): Michael R. Overly
+---
+ISBN-10: 1439876576 - ISBN-13: 9781439876572 - ASIN: 0367489023
+Published Date: 2012-12-18
+---
+HB Blurb: This book presents a distillation of the most critical business and legal lessons learned from decades of drafting and negotiating virtually every type of technology-related agreement. Readers can quickly access information on almost every type of technology agreement and immediately understand what the agreement is intended to do, the key business and legal issues that must be addressed, tips and best practices for negotiation of certain terms of the agreement, and the most common pitfalls that are typically encountered. Readers are given tools to more intelligently address issues in technology contracting and how to negotiate these types of agreements.
+--------------------------------------------------
+
+Book 27:
+Title: The CIO's Guide to Risk
+Author(s): Jessica Keyes
+---
+ISBN-10: 1351610767 - ISBN-13: 9781351610766 - ASIN: 1032476478
+Published Date: 2017-11-22
+---
+HB Blurb: In an age of globalization, widely distributed systems and rapidly advancing technological change, IT professionals and their managers must understand that risk is inherent in all technological projects. The key to project success is to identify risk and then deal with it. The CIO's Guide to Risk addresses the many faces of risk, whether it be in procurement, development, innovation or even social media. Risk management planning, risk identification, qualitative and quantitative risk analysis, contingency planning and risk monitoring and control are all addressed on a macro as well as micro level.
+--------------------------------------------------
+
+Book 28:
+Title: Business Continuity Planning: A Project Management Approach
+Author(s): Ralph L. Kliem
+---
+ISBN-10: 1040071015 - ISBN-13: 9781040071014 - ASIN: 1482251787
+Published Date: 2015-08-21
+---
+HB Blurb: This book explains how to apply project management to implement and maintain business continuity. With a major emphasis on building business preparedness plans, it covers the basics of project management, risk management, business continuity, and business preparedness. Presenting a proven approach that firms can follow to become more resilient, the book provides diagrams, checklists, and other tools to help readers determine what they need to do for their firm to withstand or recover from the next emergency, disaster, or catastrophic event to impact their organization.
+--------------------------------------------------
+
+Book 29:
+Title: Agile for Project Managers
+Author(s): Denise Canty
+---
+ISBN-10: 149878268X - ISBN-13: 9781498782685 - ASIN: 1482244985
+Published Date: 2015-02-24
+---
+HB Blurb: The role of the project manager with agile differs significantly from traditional project management in that there is minimal up-front planning. This book will help project managers from any industry transition to agile project management. The book focuses on the project management component of agility, concentrating on industry standards, certifications, and being agile. The book's focus is in alignment with the Project Management Institute (PMI) Agile Certified Practitioner (PMI-ACP) credential-making it ideal for anyone preparing for the PMI-ACP exam.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Practical Guide to IT Problem Management
+https://www.amazon.com/Practical-Guide-Problem-Management-Practice-ebook/dp/B09TQ3QJ63
+https://www.amazon.co.uk/Practical-Guide-Problem-Management-Practice-ebook/dp/B09TQ3QJ63
+http://books.google.co.uk/books?id=uuNhEAAAQBAJ&printsec=frontcover&dq=intitle:Practical+Guide+to+IT+Problem+Management%2Binauthor:Andrew+Dixon&hl=&cd=1&source=gbs_api
+
+Book 02 - IT Project Health Checks: Driving Successful Implementation and Multiples of Business Value
+https://www.amazon.com/Project-Health-Checks-Successful-Implementation/dp/036734288X
+https://www.amazon.co.uk/Project-Health-Checks-Successful-Implementation/dp/036734288X
+http://books.google.co.uk/books?id=xGZjEAAAQBAJ&printsec=frontcover&dq=intitle:IT+Project+Health+Checks:+Driving+Successful+Implementation+and+Multiples+of+Business+Value%2Binauthor:Sanjiv+Purba&hl=&cd=1&source=gbs_api
+
+Book 03 - Business Recovery and Continuity in a Mega Disaster: Cybersecurity Lessons Learned from the COVID-19 Pandemic
+No Amazon.com URL found
+https://www.amazon.co.uk/Business-Recovery-Continuity-Mega-Disaster/dp/1032245328
+http://books.google.co.uk/books?id=OCBiEAAAQBAJ&printsec=frontcover&dq=intitle:Business+Recovery+and+Continuity+in+a+Mega+Disaster:+Cybersecurity+Lessons+Learned+from+the+COVID-19+Pandemic%2Binauthor:Ravi+Das&hl=&cd=1&source=gbs_api
+
+Book 04 - Metadata Matters
+https://www.amazon.com/Metadata-Matters-John-Horodyski-ebook/dp/B09TQ3B7XF
+https://www.amazon.co.uk/Metadata-Matters-John-Horodyski-ebook/dp/B09TQ3B7XF
+http://books.google.co.uk/books?id=vuNhEAAAQBAJ&printsec=frontcover&dq=intitle:Metadata+Matters%2Binauthor:John+Horodyski&hl=&cd=1&source=gbs_api
+
+Book 05 - Management Lessons from the Great Explorers
+https://www.amazon.com/Management-Lessons-Great-Explorers-Ralph/dp/0367464330
+https://www.amazon.co.uk/Management-Lessons-Great-Explorers-Ralph-ebook/dp/B09NM8XG5M
+http://books.google.co.uk/books?id=-sdUEAAAQBAJ&pg=PA10&dq=intitle:Management+Lessons+from+the+Great+Explorers%2Binauthor:Ralph+L.+Kliem&hl=&cd=1&source=gbs_api
+
+Book 06 - IT Governance and Information Security: Guides, Standards, and Frameworks
+https://www.amazon.com/Governance-Information-Security-Frameworks-Cybersecurity-ebook/dp/B09MTRS72Y
+https://www.amazon.co.uk/Governance-Information-Security-Frameworks-Cybersecurity/dp/0367753243
+http://books.google.co.uk/books?id=8ABSEAAAQBAJ&printsec=frontcover&dq=intitle:IT+Governance+and+Information+Security:+Guides,+Standards,+and+Frameworks%2Binauthor:Yassine+Maleh&hl=&cd=1&source=gbs_api
+
+Book 07 - Say What!? Communicate with Tact and Impact: What to say to get results at any point in an audit
+https://www.amazon.com/Say-What-Communicate-Tact-Impact/dp/0367555530
+https://www.amazon.co.uk/Say-What-Communicate-Tact-Impact/dp/0367555530
+http://books.google.co.uk/books?id=YTFCEAAAQBAJ&printsec=frontcover&dq=intitle:Say+What!%3F+Communicate+with+Tact+and+Impact:+What+to+say+to+get+results+at+any+point+in+an+audit%2Binauthor:Ann+M.+Butera&hl=&cd=1&source=gbs_api
+
+Book 08 - Sustainability in Project Management: A Functional Approach
+https://www.amazon.com/Sustainability-Project-Management-Functional-Approach-ebook/dp/B0D4FC2RFG
+https://www.amazon.co.uk/Sustainability-Project-Management-Functional-Approach/dp/0367518740
+http://books.google.co.uk/books?id=ZxYcEAAAQBAJ&printsec=frontcover&dq=intitle:Sustainability+in+Project+Management:+A+Functional+Approach%2Binauthor:Anna+Brzozowska&hl=&cd=1&source=gbs_api
+
+Book 09 - The IoT Architect's Guide to Attainable Security and Privacy
+https://www.amazon.com/Architects-Guide-Attainable-Security-Privacy/dp/1032475234
+https://www.amazon.co.uk/Architects-Guide-Attainable-Security-Privacy/dp/081536816X
+http://books.google.co.uk/books?id=2ZWzDwAAQBAJ&printsec=frontcover&dq=intitle:The+IoT+Architect%27s+Guide+to+Attainable+Security+and+Privacy%2Binauthor:Damilare+D.+Fagbemi&hl=&cd=1&source=gbs_api
+
+Book 10 - Retaining Expert Knowledge: What to Keep in an Age of Information Overload
+No Amazon.com URL found
+https://www.amazon.co.uk/Retaining-Expert-Knowledge-Information-Overload/dp/1138296368
+http://books.google.co.uk/books?id=H-kqtAEACAAJ&dq=intitle:Retaining+Expert+Knowledge:+What+to+Keep+in+an+Age+of+Information+Overload%2Binauthor:Peggy+Salvatore&hl=&cd=1&source=gbs_api
+
+Book 11 - The Innovation Factory
+https://www.amazon.com/Innovation-Factory-Gilles-Garel/dp/1498740219
+https://www.amazon.co.uk/Innovation-Factory-Gilles-Garel/dp/1498740219
+http://books.google.co.uk/books?id=3cjXCwAAQBAJ&printsec=frontcover&dq=intitle:The+Innovation+Factory%2Binauthor:Gilles+Garel&hl=&cd=1&source=gbs_api
+
+Book 12 - Strategic Stakeholder Engagement
+https://www.amazon.com/Strategic-Stakeholder-Engagement-Chris-Anastasi/dp/0367605910
+https://www.amazon.co.uk/Strategic-Stakeholder-Engagement-Chris-Anastasi-ebook/dp/B079XCJFRB
+http://books.google.co.uk/books?id=uNJMDwAAQBAJ&printsec=frontcover&dq=intitle:Strategic+Stakeholder+Engagement%2Binauthor:Chris+Anastasi&hl=&cd=1&source=gbs_api
+
+Book 13 - Making Projects Work: Effective Stakeholder and Communication Management
+https://www.amazon.com/Making-Projects-Work-Stakeholder-Communication/dp/1482206668
+https://www.amazon.co.uk/Making-Projects-Work-Stakeholder-Communication/dp/B00ZY8F698
+No Google Books URL found.
+
+Book 14 - Mind the Tech Gap: Addressing the Conflicts between IT and Security Teams
+https://www.amazon.com/Mind-Tech-Gap-Addressing-Leadership-ebook/dp/B0BB138QSN
+https://www.amazon.co.uk/Mind-Tech-Gap-Addressing-Leadership-ebook/dp/B0BB138QSN
+http://books.google.co.uk/books?id=OV2CEAAAQBAJ&printsec=frontcover&dq=intitle:Mind+the+Tech+Gap:+Addressing+the+Conflicts+between+IT+and+Security+Teams%2Binauthor:Nikki+Robinson&hl=&cd=1&source=gbs_api
+
+Book 15 - Strategic IT Governance 2.0: How CIOs Succeed at Digital Innovation
+https://www.amazon.com/Strategic-Governance-2-0-Philip-Weinzimer/dp/0367342863
+https://www.amazon.co.uk/Strategic-Governance-2-0-Succeed-Innovation/dp/1032329610
+No Google Books URL found.
+
+Book 16 - What To Do When You Get Hacked: A Practitioner's Guide to Incident Response in the 21st Century
+No Amazon.com URL found
+https://www.amazon.co.uk/What-When-You-Hacked-Practitioners/dp/1032206071
+http://books.google.co.uk/books?id=FNCREAAAQBAJ&printsec=frontcover&dq=intitle:What+To+Do+When+You+Get+Hacked:+A+Practitioner%27s+Guide+to+Incident+Response+in+the+21st+Century%2Binauthor:Shimon+Brathwaite&hl=&cd=1&source=gbs_api
+
+Book 17 - Big Data for Big Decisions: Building a Data-Driven Organization
+No Amazon.com URL found
+https://www.amazon.co.uk/Big-Data-Decisions-Data-Driven-Organization/dp/1032017244
+http://books.google.co.uk/books?id=gTaiEAAAQBAJ&printsec=frontcover&dq=intitle:Big+Data+for+Big+Decisions:+Building+a+Data-Driven+Organization%2Binauthor:Krishna+Pera&hl=&cd=1&source=gbs_api
+
+Book 18 - Managing Business Projects: The Essentials
+https://www.amazon.com/Managing-Business-Projects-Frank-Einhorn/dp/1032276029
+https://www.amazon.co.uk/Managing-Business-Projects-Frank-Einhorn-ebook/dp/B0D4CML66K
+http://books.google.co.uk/books?id=XhKMEAAAQBAJ&printsec=frontcover&dq=intitle:Managing+Business+Projects:+The+Essentials%2Binauthor:Frank+Einhorn&hl=&cd=1&source=gbs_api
+
+Book 19 - Modern Management and Leadership: Best Practice Essentials with CISO/CSO Applications
+https://www.amazon.com/Modern-Management-Leadership-Essentials-Applications-ebook/dp/B096WFCKC6
+https://www.amazon.co.uk/Modern-Management-Leadership-Essentials-Applications/dp/1032039795
+http://books.google.co.uk/books?id=rvMxEAAAQBAJ&printsec=frontcover&dq=intitle:Modern+Management+and+Leadership:+Best+Practice+Essentials+with+CISO/CSO+Applications%2Binauthor:Mark+Tarallo&hl=&cd=1&source=gbs_api
+
+Book 20 - Evolving Toolbox for Complex Project Management
+No Amazon.com URL found
+https://www.amazon.co.uk/Evolving-Toolbox-Management-Enterprise-Engineering/dp/1032400994
+http://books.google.co.uk/books?id=wV5QzwEACAAJ&dq=intitle:Evolving+Toolbox+for+Complex+Project+Management%2Binauthor:Alex+Gorod&hl=&cd=1&source=gbs_api
+
+Book 21 - Resource Proportional Software Design for Emerging Systems
+https://www.amazon.com/Resource-Proportional-Software-Emerging-Systems/dp/1138053546
+https://www.amazon.co.uk/Resource-Proportional-Software-Emerging-Systems-ebook/dp/B08LDR6PK3
+http://books.google.co.uk/books?id=16PSDwAAQBAJ&printsec=frontcover&dq=intitle:Resource+Proportional+Software+Design+for+Emerging+Systems%2Binauthor:Suparna+Bhattacharya&hl=&cd=1&source=gbs_api
+
+Book 22 - A Simple Guide to Technology and Analytics
+https://www.amazon.com/Simple-Guide-Technology-Analytics-ebook/dp/B09BFH462L
+https://www.amazon.co.uk/Simple-Guide-Technology-Analytics/dp/0367608618
+No Google Books URL found.
+
+Book 23 - Enterprise Architecture for Digital Business: Integrated Transformation Strategies
+https://www.amazon.com/Enterprise-Architecture-Digital-Business-Tushar/dp/0367557185
+https://www.amazon.co.uk/Enterprise-Architecture-Digital-Business-Transformation/dp/0367557185
+http://books.google.co.uk/books?id=hGL5DwAAQBAJ&printsec=frontcover&dq=intitle:Enterprise+Architecture+for+Digital+Business:+Integrated+Transformation+Strategies%2Binauthor:Tushar+Hazra&hl=&cd=1&source=gbs_api
+
+Book 24 - Protecting Information Assets and IT Infrastructure in the Cloud
+https://www.amazon.com/Protecting-Information-Assets-Infrastructure-Cloud/dp/1138393320
+https://www.amazon.co.uk/Protecting-Information-Assets-Infrastructure-Cloud-ebook/dp/B0CNJ574L2
+http://books.google.co.uk/books?id=HVOWDwAAQBAJ&printsec=frontcover&dq=intitle:Protecting+Information+Assets+and+IT+Infrastructure+in+the+Cloud%2Binauthor:Ravi+Das&hl=&cd=1&source=gbs_api
+
+Book 25 - The Innovator's Imperative: Rapid Technology Adoption for Digital Transformation
+No Amazon.com URL found
+https://www.amazon.co.uk/Innovators-Imperative-Technology-Adoption-Transformation/dp/1032476583
+http://books.google.co.uk/books?id=pFk6DwAAQBAJ&printsec=frontcover&dq=intitle:The+Innovator%27s+Imperative:+Rapid+Technology+Adoption+for+Digital+Transformation%2Binauthor:Stephen+J.+Andriole&hl=&cd=1&source=gbs_api
+
+Book 26 - A Guide to IT Contracting: Checklists, Tools, and Techniques
+No Amazon.com URL found
+https://www.amazon.co.uk/Guide-Contracting-Checklists-Tools-Techniques/dp/0367489023
+http://books.google.co.uk/books?id=-ECKqAsQzUIC&printsec=frontcover&dq=intitle:A+Guide+to+IT+Contracting:+Checklists,+Tools,+and+Techniques%2Binauthor:Michael+R.+Overly&hl=&cd=1&source=gbs_api
+
+Book 27 - The CIO's Guide to Risk
+https://www.amazon.com/CIOs-Guide-Risk-Jessica-Keyes/dp/1032476478
+https://www.amazon.co.uk/CIOs-Guide-Risk-Jessica-Keyes-ebook/dp/B08R17CL7H
+http://books.google.co.uk/books?id=-jcPEAAAQBAJ&printsec=frontcover&dq=intitle:The+CIO%27s+Guide+to+Risk%2Binauthor:Jessica+Keyes&hl=&cd=1&source=gbs_api
+
+Book 28 - Business Continuity Planning: A Project Management Approach
+https://www.amazon.com/Business-Continuity-Planning-Management-Approach/dp/1482251787
+https://www.amazon.co.uk/Business-Continuity-Planning-Management-Approach/dp/1032340134
+http://books.google.co.uk/books?id=cu_1EAAAQBAJ&printsec=frontcover&dq=intitle:Business+Continuity+Planning:+A+Project+Management+Approach%2Binauthor:Ralph+L.+Kliem&hl=&cd=1&source=gbs_api
+
+Book 29 - Agile for Project Managers
+https://www.amazon.com/Project-Managers-Practices-Portfolio-Management/dp/1482244985
+https://www.amazon.co.uk/Project-Managers-Practices-Portfolio-Management/dp/1482244985
+http://books.google.co.uk/books?id=TxTYCwAAQBAJ&printsec=frontcover&dq=intitle:Agile+for+Project+Managers%2Binauthor:Denise+Canty&hl=&cd=1&source=gbs_api
+
