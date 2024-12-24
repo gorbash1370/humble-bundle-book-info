@@ -1,0 +1,396 @@
+Humble Tech Book Bundle- Generative AI by Apress - Springer
+Processing date: 2024-12-24
+Data retrieved from: https://www.humblebundle.com/books/generative-ai-apress-books
+
+Book 01 - Understanding Generative AI Business Applications - Irena Cronin - 5 out of 5 (1 reviews)
+Book 02 - Building Generative AI-Powered Apps - Aarushi Kansal - None found out of 5 (None found reviews)
+Book 03 - Applied Generative AI for Beginners - Akshay Kulkarni - 3.6 out of 5 (4 reviews)
+Book 04 - Empowering the Public Sector with Generative AI - Sanjeev Pulapaka - None found out of 5 (None found reviews)
+Book 05 - Generative Artificial Intelligence - Shivam R Solanki - 5 out of 5 (12 reviews)
+Book 06 - ChatGPT for Beginners - Eric Sarrion - 3.3 out of 5 (3 reviews)
+Book 07 - Exploring the Power of ChatGPT - Eric Sarrion - 3 out of 5 (2 reviews)
+Book 08 - Large Language Models Projects - Pere Martra - 5 out of 5 (1 reviews)
+Book 09 - Machine Learning for Decision Makers - Patanjali Kashyap - None found out of 5 (None found reviews)
+Book 10 - Introduction to Responsible AI - Avinash Manure - None found out of 5 (None found reviews)
+Book 11 - Explainable AI Recipes - Pradeepta Mishra - None found out of 5 (None found reviews)
+Book 12 - Generative AI - Tom Taulli - 4 out of 5 (10 reviews)
+Book 13 - Brain Rush: How to Invest and Compete in the Real World of Generative AI - Peter Cohan - 5 out of 5 (2 reviews)
+Book 14 - Transforming Conversational AI - Michael McTear - 4.6 out of 5 (3 reviews)
+Book 15 - Predicting the Unknown - Stylianos Kampakis - 5 out of 5 (3 reviews)
+Book 16 - Creative Prototyping with Generative AI - Patrick Parra Pennefather - 4.4 out of 5 (4 reviews)
+Book 17 - Artificial Intelligence and Human Evolution - Ameet Joshi - None found out of 5 (None found reviews)
+Book 18 - ChatGPT for Java - Bruce Hopkins - 4.6 out of 5 (3 reviews)
+Book 19 - The Early-Career Professional's Guide to Generative AI - Jonas Bjerg - None found out of 5 (None found reviews)
+Book 20 - Interfaceless - Diana Olynick - 4 out of 5 (2 reviews)
+Book 21 - AI and the Law - Harry Borovick - None found out of 5 (None found reviews)
+Book 22 - AI Chatbots - James Crowder - None found out of 5 (None found reviews)
+Book 23 - Artificial Intelligence in Vision-Based Structural Health Monitoring - Khalid M. Mosalam - None found out of 5 (None found reviews)
+Book 24 - Normalization Techniques in Deep Learning - Lei Huang - None found out of 5 (None found reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: Understanding Generative AI Business Applications
+Author(s): Irena Cronin
+---
+ISBN-10: None - ISBN-13: 9798868802812 - ASIN: B0CVDDHJ5J
+Published Date: 2024-07-18
+---
+HB Blurb: This guide covers the fundamental technical principles and various business applications of Generative AI for planning, developing, and evaluating AI-driven products. It equips you with the knowledge you need to harness the potential of Generative AI for enhancing business creativity and productivity.The book is organized into three sections: text-based, senses-based, and rationale-based. Each section provides an in-depth exploration of the specific methods and applications of Generative AI. In the text-based section, you will find detailed discussions on designing algorithms to automate and enhance written communication, including insights into the technical aspects of transformer-based Natural Language Processing (NLP) and chatbot architecture, such as GPT-4, Claude 2, Google Bard, and others. The senses-based section offers a glimpse into the algorithms and data structures that underpin visual, auditory, and multisensory experiences, including NeRF, 3D Gaussian Splatting,Stable Diffusion, AR and VR technologies, and more. The rationale-based section illuminates the decision-making capabilities of AI, with a focus on machine learning and data analytics techniques that empower applications such as simulation models, agents, and autonomous systems. In summary, this book serves as a guide for those seeking to navigate the dynamic landscape of Generative AI. Whether you’re a seasoned AI professional or a business leader looking to harness the power of creative automation, these pages offer a roadmap to leverage Generative AI for your organization’s success.What You Will LearnWhat are the technical elements that constitute the makeup of Generative AI products?What are the practical applications of Generative AI?How can algorithms be designed to automate and improve written communication?What are the latest Generative AI architectures and algorithms?Who This Book Is ForData scientists, data analysts, decision makers, and business executives interested in gaining an understanding of Generative AI products
+--------------------------------------------------
+
+Book 02:
+Title: Building Generative AI-Powered Apps
+Author(s): Aarushi Kansal
+---
+ISBN-10: None - ISBN-13: 9798868802041 - ASIN: B0CQQPNMPK
+Published Date: 2024-04-16
+---
+HB Blurb: Generative AI has gone beyond the responsibility of researchers and data scientists and is being used by production engineers. However, there is a lot of confusion where to get started when building an end-to-end app with generative AI. This book consolidates core models, frameworks, and tools into a single source of knowledge. By providing hands-on examples, the book takes you through the generative AI ecosystem to build applications for production.The book starts with a brief and accessible introduction to transformer models before delving into some of the most popular large language models and diffusions models (image generation). These models are the foundations of both AI and your potential new apps. You will then go through various tools available to work with these models, starting with Langchain, a framework to develop foundational models, which is the next building block you should grasp after understanding generative AI models. The next chapters cover databases, caching, monitoring, etc., which are the topics necessary to build larger-scale applications. Real-world examples using these models and tools are included. By the end of this book, you should be able to build end-to-end apps that are powered by generative AI. You also should be able to apply the tools and techniques taught in this book to your use cases and business.What You Will LearnWhat is Generative AI?What is ChatGPT and GPT4?What are language models and diffusions models?How do we deploy LangChain and HuggingFace?Who This Book Is ForSoftware engineers with a few years of experience building applications in any language or infrastructure
+--------------------------------------------------
+
+Book 03:
+Title: Applied Generative AI for Beginners
+Author(s): Akshay Kulkarni
+---
+ISBN-10: 9781484299937 - ISBN-13: 1484299930 - ASIN: B0CK4D7KVM
+Published Date: 2023-12-21
+---
+HB Blurb: This book provides a deep dive into the world of generative AI, covering everything from the basics of neural networks to the intricacies of large language models like ChatGPT and Google Bard. It serves as a one-stop resource for anyone interested in understanding and applying this transformative technology and is particularly aimed at those just getting started with generative AI. Applied Generative AI for Beginners is structured around detailed chapters that will guide you from foundational knowledge to practical implementation. It starts with an introduction to generative AI and its current landscape, followed by an exploration of how the evolution of neural networks led to the development of large language models. The book then delves into specific architectures like ChatGPT and Google Bard, offering hands-on demonstrations for implementation using tools like Sklearn. You’ll also gain insight into the strategic aspects of implementing generative AI in an enterprise setting, with the authors covering crucial topics such as LLMOps, technology stack selection, and in-context learning. The latter part of the book explores generative AI for images and provides industry-specific use cases, making it a comprehensive guide for practical application in various domains. Whether you're a data scientist looking to implement advanced models, a business leader aiming to leverage AI for enterprise growth, or an academic interested in cutting-edge advancements, this book offers a concise yet thorough guide to mastering generative AI, balancing theoretical knowledge with practical insights.What You Will Learn Gain a solid understanding of generative AI, starting from the basics of neural networks and progressing to complex architectures like ChatGPT and Google BardImplement large language models using Sklearn, complete with code examples and best practices for real-world applicationLearn how to integrate LLM’s in enterprises, including aspects like LLMOps and technology stack selectionUnderstand how generative AI can be applied across various industries, from healthcare and marketing to legal compliance through detailed use cases and actionable insightsWho This Book Is For Data scientists, AI practitioners, Researchers and software engineers interested in generative AI and LLMs.
+--------------------------------------------------
+
+Book 04:
+Title: Empowering the Public Sector with Generative AI
+Author(s): Sanjeev Pulapaka
+---
+ISBN-10: None - ISBN-13: 9798868804724 - ASIN: B0D7GMPF1J
+Published Date: 2024-11-11
+---
+HB Blurb: This is your guide book to Generative AI (GenAI) and its application in addressing real-world challenges within the public sector. The book addresses a range of topics from GenAI concepts and strategy to public sector use cases, architecture patterns, and implementation best practices. With a general background in technology and the public sector, you will be able to understand the concepts in this book. The book will help you develop a deeper understanding of GenAI and learn how GenAI differs from traditional AI. You will explore best practices such as prompt engineering, and fine-tuning, and architectural patterns such as Retrieval Augmented Generation (RAG). And you will discover specific nuances, considerations, and strategies for implementation in a public sector organization. You will understand how to apply these concepts in a public sector setting and address industry-specific challenges and problems by studying a variety of use cases included in the book in the areas of content generation, chatbots, summarization, and program management.What You Will LearnGenAI concepts and how GenAI differs from traditional AI/MLPrompt engineering, fine-tuning, RAG, and customizing foundation models Strategy, methodologies, and frameworks for the public sectorPublic sector use cases in the areas of content generation, summarization, and chatbots, plus program management, analytics, business intelligence, and reportingArchitecture and design patternsImplementation, operations, and maintenance of GenAI applicationsWho This Book Is For Technology and business leaders in the public sector who are new to AI/ML and are keen on exploring and harnessing the potential of Generative AI in their respective organizations.
+--------------------------------------------------
+
+Book 05:
+Title: Generative Artificial Intelligence
+Author(s): Shivam R Solanki
+---
+ISBN-10: None - ISBN-13: 9798868804021 - ASIN: B0D1TJNYDK
+Published Date: 2024-07-30
+---
+HB Blurb: This book explains the field of Generative Artificial Intelligence (AI), focusing on its potential and applications, and aims to provide you with an understanding of the underlying principles, techniques, and practical use cases of Generative AI models. The book begins with an introduction to the foundations of Generative AI, including an overview of the field, its evolution, and its significance in today’s AI landscape. It focuses on generative visual models, exploring the exciting field of transforming text into images and videos. A chapter covering text-to-video generation provides insights into synthesizing videos from textual descriptions, opening up new possibilities for creative content generation. A chapter covers generative audio models and prompt-to-audio synthesis using Text-to-Speech (TTS) techniques. Then the book switch gears to dive into generative text models, exploring the concepts of Large Language Models (LLMs), natural language generation (NLG), fine-tuning, prompt tuning, and reinforcement learning. The book explores techniques for fixing LLMs and making them grounded and indestructible, along with practical applications in enterprise-grade applications such as question answering, summarization, and knowledge-based generation. By the end of this book, you will understand Generative text, and audio and visual models, and have the knowledge and tools necessary to harness the creative and transformative capabilities of Generative AI.What You Will Learn What is Generative Artificial Intelligence?What are text-to-image synthesis techniques and conditional image generation? What is prompt-to-audio synthesis using Text-to-Speech (TTS) techniques?What are text-to-video models and how do you tune them?What are large language models, and how do you tune them?Who This Book Is For Those with intermediate to advanced technical knowledge in artificial intelligence and machine learning
+--------------------------------------------------
+
+Book 06:
+Title: ChatGPT for Beginners
+Author(s): Eric Sarrion
+---
+ISBN-10: 9781484295281 - ISBN-13: 1484295285 - ASIN: B0CJ4BFPGZ
+Published Date: 2023-09-24
+---
+HB Blurb: If you’re a complete newbie who’s wondering exactly what ChatGPT is, what is does, and how it can be a valuable resource for non-coders, this is the book for you. With a comprehensive exploration of ChatGPT’s features, foundations, and applications, this guide will serve as a valuable resource for beginners venturing into the world of conversational AI. ChatGPT for Beginnershas four parts. Part one provides a step-by-step introduction to using ChatGPT, from accessing the OpenAI website and creating an account to starting conversations, changing responses, and getting conversation summaries. Part two delves into the foundations of the large language model that powers ChatGPT. It covers topics such as the definition of ChatGPT, its knowledge domains, the basics of natural language processing, machine learning techniques applied to language processing, and the role of neural networks in ChatGPT’s operation. Part three covers a wide range of practical applications,from letter writing to business content creation, text translation, language learning, recruitment processes, artistic content creation, and fostering innovation and creativity. Part four examines the strengths and limitations of ChatGPT, addressing ethical considerations related to data security, bias, and partiality. It also delves into the future advancements and challenges that lie ahead for ChatGPT, providing insights into the developing landscape of conversational AI. After completing this book, you will be able to harness the full potential of ChatGPT. Whether you are a student, professional, or are just curious about the capabilities of this AI technology, this book will serve as your essential companion in unlocking the possibilities of ChatGPT.What You Will Learn Access ChatGPT, create an account, and initiate conversationsUnderstand what ChatGPT is, its knowledge domains, and how it works through natural language processing, machine learning, and neural networksAsk relevant questions to ChatGPT, and obtain quality responsesManage the degree of randomness in the responses using parameters such as temperature, frequency, and presenceWho This Book Is For Students, professionals, and anyone else curious about the capabilities of ChatGPT.
+--------------------------------------------------
+
+Book 07:
+Title: Exploring the Power of ChatGPT
+Author(s): Eric Sarrion
+---
+ISBN-10: 9781484295281 - ISBN-13: 1484295285 - ASIN: B0C931M28C
+Published Date: 2023-09-24
+---
+HB Blurb: Learn how to use the large-scale natural language processing model developed by OpenAI: ChatGPT. This book explains how ChatGPT uses machine learning to autonomously generate text based on user input and explores the significant implications for human communication and interaction. Author Eric Sarrion examines various aspects of ChatGPT, including its internal workings, use in computer projects, and impact on employment and society. He also addresses long-term perspectives for ChatGPT, including possible future advancements, adoption challenges, and considerations for ethical and responsible use. The book starts with an introduction to ChatGPT covering its versions, application areas, how it works with neural networks, NLP, and its advantages and limitations. Next, you'll be introduced to applications and training development projects using ChatGPT, as well as best practices for it. You'll then explore the ethical implications of ChatGPT, such as potentialbiases and risks, regulations, and standards. This is followed by a discussion of future prospects for ChatGPT. The book concludes with practical use case examples, such as text content creation, software programming, and innovation and creativity. This essential book summarizes what may be one of the most significant developments in artificial intelligence in recent history and provides useful insights for researchers, policymakers, and anyone interested in the future of technology.What You Will LearnUnderstand the basics of deep learning and text generation using language models such as ChatGPTPrepare data and train a language model to generate textUse ChatGPT for various applications such as marketing text generation or answering questionsUnderstand the use of ChatGPT through the OpenAI API and how to optimize model performanceWho This Book Is ForSoftware developers and professionals, researchers, students, and people interested in learning more about this field and the future of technology.
+--------------------------------------------------
+
+Book 08:
+Title: Large Language Models Projects
+Author(s): Pere Martra
+---
+ISBN-10: None - ISBN-13: 9798868805141 - ASIN: B0D9PPKXLZ
+Published Date: 2024-10-20
+---
+HB Blurb: This book offers you a hands-on experience using models from OpenAI and the Hugging Face library. You will use various tools and work on small projects, gradually applying the new knowledge you gain. The book is divided into three parts. Part one covers techniques and libraries. Here, you'll explore different techniques through small examples, preparing to build projects in the next section. You'll learn to use common libraries in the world of Large Language Models. Topics and technologies covered include chatbots, code generation, OpenAI API, Hugging Face, vector databases, LangChain, fine tuning, PEFT fine tuning, soft prompt tuning, LoRA, QLoRA, evaluating models, and Direct Preference Optimization. Part two focuses on projects. You'll create projects, understanding design decisions. Each project may have more than one possible implementation, as there is often not just one good solution. You'll also explore LLMOps-related topics. Part three delves into enterprise solutions. Large Language Models are not a standalone solution; in large corporate environments, they are one piece of the puzzle. You'll explore how to structure solutions capable of transforming organizations with thousands of employees, highlighting the main role that Large Language Models play in these new solutions. This book equips you to confidently navigate and implement Large Language Models, empowering you to tackle diverse challenges in the evolving landscape of language processing.What You Will Learn Gain practical experience by working with models from OpenAI and the Hugging Face libraryUse essential libraries relevant to Large Language Models, covering topics such as Chatbots, Code Generation, OpenAI API, Hugging Face, and Vector databasesCreate and implement projects using LLM while understanding the design decisions involved Understand the role of Large Language Models in larger corporate settingsWho This Book Is For Data analysts, data science, Python developers, and software professionals interested in learning the foundations of NLP, LLMs, and the processes of building modern LLM applications for various tasks
+--------------------------------------------------
+
+Book 09:
+Title: Machine Learning for Decision Makers
+Author(s): Patanjali Kashyap
+---
+ISBN-10: 1484229886 - ISBN-13: 9781484229880 - ASIN: B0CKKLBM92
+Published Date: 2018-01-04
+---
+HB Blurb: This new and updated edition takes you through the details of machine learning to give you an understanding of cognitive computing, IoT, big data, AI, quantum computing, and more. The book explains how machine learning techniques are used to solve fundamental and complex societal and industry problems. This second edition builds upon the foundation of the first book, revises all of the chapters, and updates the research, case studies, and practical examples to bring the book up to date with changes that have occurred in machine learning. A new chapter on quantum computers and machine learning is included to prepare you for future challenges. Insights for decision makers will help you understand machine learning and associated technologies and make efficient, reliable, smart, and efficient business decisions. All aspects of machine learning are covered, ranging from algorithms to industry applications. Wherever possible, required practical guidelines and best practices related to machine learning and associated technologies are discussed.Also covered in this edition are hot-button topics such as ChatGPT, superposition, quantum machine learning, and reinforcement learning from human feedback (RLHF) technology. Upon completing this book, you will understand machine learning, IoT, and cognitive computing and be prepared to cope with future challenges related to machine learning.What You Will LearnMaster the essentials of machine learning, AI, cloud, and the cognitive computing technology stackUnderstand business and enterprise decision-making using machine learningBecome familiar with machine learning best practicesGain knowledge of quantum computing and quantum machine learningWho This Book Is ForManagers tasked with making key decisions who want to learn how and when machine learning and related technologies can help them
+--------------------------------------------------
+
+Book 10:
+Title: Introduction to Responsible AI
+Author(s): Avinash Manure
+---
+ISBN-10:  - ISBN-13:  - ASIN: B0CJLTTN4K
+Published Date: 
+---
+HB Blurb: Learn and implement responsible AI models using Python. This book will teach you how to balance ethical challenges with opportunities in artificial intelligence. The book starts with an introduction to the fundamentals of AI, with special emphasis given to the key principles of responsible AI. The authors then walk you through the critical issues of detecting and mitigating bias, making AI decisions understandable, preserving privacy, ensuring security, and designing robust models. Along the way, you’ll gain an overview of tools, techniques, and code examples to implement the key principles you learn in real-world scenarios. The book concludes with a chapter devoted to fostering a deeper understanding of responsible AI’s profound implications for the future. Each chapter offers a hands-on approach, enriched with practical insights and code snippets, enabling you to translate ethical considerations into actionable solutions.What You Will Learn Understand the principles of responsible AI and their importance in today's digital worldMaster techniques to detect and mitigate bias in AIExplore methods and tools for achieving transparency and explainabilityDiscover best practices for privacy preservation and security in AIGain insights into designing robust and reliable AI modelsWho This Book Is ForAI practitioners, data scientists, machine learning engineers, researchers, policymakers, and students interested in the ethical aspects of AI
+--------------------------------------------------
+
+Book 11:
+Title: Explainable AI Recipes
+Author(s): Pradeepta Mishra
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1484290283
+Published Date: 
+---
+HB Blurb: Understand how to use Explainable AI (XAI) libraries and build trust in AI and machine learning models. This book utilizes a problem-solution approach to explaining machine learning models and their algorithms. The book starts with model interpretation for supervised learning linear models, which includes feature importance, partial dependency analysis, and influential data point analysis for both classification and regression models. Next, it explains supervised learning using non-linear models and state-of-the-art frameworks such as SHAP values/scores and LIME for local interpretation. Explainability for time series models is covered using LIME and SHAP, as are natural language processing-related tasks such as text classification, and sentiment analysis with ELI5, and ALIBI. The book concludes with complex model classification and regression-like neural networks and deep learning models using the CAPTUM framework that shows feature attribution, neuron attribution,and activation attribution. After reading this book, you will understand AI and machine learning models and be able to put that knowledge into practice to bring more accuracy and transparency to your analyses.What You Will LearnCreate code snippets and explain machine learning models using PythonLeverage deep learning models using the latest code with agile implementationsBuild, train, and explain neural network models designed to scaleUnderstand the different variants of neural network modelsWho This Book Is For AI engineers, data scientists, and software developers interested in XAI
+--------------------------------------------------
+
+Book 12:
+Title: Generative AI
+Author(s): Tom Taulli
+---
+ISBN-10: 9781484293690 - ISBN-13: 148429369X - ASIN: 1484293665
+Published Date: 2023-06-10
+---
+HB Blurb: This book will show how generative technology works and the drivers. It will also look at the applications – showing what various startupsand large companies are doing in the space.There will also be a look at the challenges and risk factors. During the past decade, companies have spent billions on AI. But the focus has been on applying the technology to predictions – which is known as analytical AI. It can mean that you receive TikTok videos that you cannot resist. Or analytical AI can fend against spam or fraud or forecast when a package will be delivered. While such things are beneficial, there is much more to AI. The next megatrend will be leveraging the technology to be creative. For example, you could take a book and an AI model will turn it into a movie – at very little cost. This is all part of generative AI. It’s still in the nascent stages but it is progressing quickly. Generative AI can already create engaging blog posts, social media messages, beautiful artwork and compelling videos. The potential for this technology is enormous. It will be useful for many categories like sales, marketing, legal, product design, code generation, and even pharmaceutical creation.What You Will LearnThe importance of understanding generative AIThe fundamentals of the technology, like the foundation and diffusion modelsHow generative AI apps workHow generative AI will impact various categories like the law, marketing/sales, gaming, product development, and code generation.The risks, downsides and challenges.Who This Book is ForProfessionals that do not have a technical background. Rather, the audience will be mostly those in Corporate America (such as managers) as well as people in tech startups, who will need an understanding of generative AI to evaluate the solutions.
+--------------------------------------------------
+
+Book 13:
+Title: Brain Rush: How to Invest and Compete in the Real World of Generative AI
+Author(s): Peter Cohan
+---
+ISBN-10: 9789798868801 - ISBN-13: 9798868803 - ASIN: B0CVRSV43C
+Published Date: 2024
+---
+HB Blurb: After decades of false starts, artificial intelligence (AI) is entering the mainstream of society. That is largely due to the rapid adoption of ChatGPT, a service that responds to almost any natural language question with cogent paragraphs. ChatGPT is the leading example of generative AI -- technology that creates original text, images, video and computer code based on uncovering patterns in training data. The book will explain how generative AI works and how much economic value it could create and will map out the industry value network. For each value network stage, the book will define the industry, estimate its size, growth rate, and profit potential, identify the most successful participants, and explain how they have achieved their success and where they will compete in the future. The book will conclude with a section on what investors and business leaders should do to make an informed decision on where to place their bets.What You Will LearnInsights on how best to assemble the resources – whether by hiring a consultant or bringing on board a generative AI expert -- to build, train, and operate company specific generative AI applicationsHow management can brainstorm, evaluate and execute the right opportunitiesConcepts and processes to enable investors to place bets with the highest risk-adjusted returnsWho This Book is ForBusiness and enterprises seeking to get value from generative AI, current or potential suppliers of technology and services to companies that build generative AI, and venture capitalists and public equity investors seeking to make profitable bets on generative AI companies
+--------------------------------------------------
+
+Book 14:
+Title: Transforming Conversational AI
+Author(s): Michael McTear
+---
+ISBN-10: None - ISBN-13: 9798868801105 - ASIN: B0CN2GY3Q6
+Published Date: None
+---
+HB Blurb: Acquire the knowledge needed to work effectively in conversational artificial intelligence (AI)and understand the opportunities and threats it can potentially bring. This book will help you navigate from the traditional world of dialogue systems that revolve around hard coded scripts, to the world of large language models, prompt engineering,conversational AI platforms, multi-modality, and ultimately autonomous agents.In this new world, decisions are made by a system that may forever remain a ‘black box’ for most of us. This book aims to eliminate unnecessary noise and describe the fundamental components of conversational AI. Past experiences will prove invaluable in constructing seamless hybrid systems. This book will provide the most recommended solutions, recognizing that it is not always necessary to blindly pursue new tools.Written in unprecedented and turbulent times for conversational interfaces you’ll see that despite previous waves of advancement in conversational technology, now conversational interfaces are gaining unparalleled popularity. Specifically, the release of ChatGPT in November 2022 by Open AI revolutionized the conversational paradigm and showed how easy and intuitive communication with a computer can be. Old professions are being disrupted, new professions are emerging, and even the most conservative corporations are changing their strategy and experimenting with large language models, allocating an unprecedented amount of budget to these projects. No one knows for sure the exact future of conversational AI, but everyone agrees that it’s here to stay.What You'll Learn See how large language models are constructed and used in conversational systemsReview the risks and challenges of new technologies in conversational AIExamine techniques for prompt engineeringEnable practitioners to keep abreast of recent developments in conversational AIWho This Book Is For Conversation designers, product owners, and product or project managers in conversational AI who wish to learn about new methods and challenges posed by the recent emergence in the public domain of ChatGPT. Data scientists, final year undergraduates and graduates of computer science
+--------------------------------------------------
+
+Book 15:
+Title: Predicting the Unknown
+Author(s): Stylianos Kampakis
+---
+ISBN-10: 9781484295069 - ISBN-13: 1484295064 - ASIN: 1484295048
+Published Date: 2023
+---
+HB Blurb: As a society, we’re in a constant struggle to control uncertainty and predict the unknown. Quite often, we think of scientific fields and theories as being separate from each other. But a more careful investigation can uncover the common thread that ties many of those together. From ChatGPT, to Amazon’s Alexa, to Apple’s Siri, data science, and computer science have become part of our lives. In the meantime, the demand for data scientists has grown, as the field has been increasingly called the “sexiest profession.”This book attempts to specifically cover this gap in literature between data science, machine learning and artificial intelligence (AI). How was uncertainty approached historically, and how has it evolved since? What schools of thought exist in philosophy, mathematics, and engineering, and what role did they play in the development of data science? It uses the history of data science as a stepping stone to explain what the future might hold.Predicting the Unknown provides the framework that will help you understand where AI is headed, and how to best prepare for the world that’s coming in the next few years, both as a society and within a business. It is not technical and avoids equations or technical explanations, yet is written for the intellectually curious reader, and the technical expert interested in the historical details that can help contextualize how we got here.What You’ll LearnExplore the bigger picture of data science and see how to best anticipate future changes in that fieldUnderstand machine learning, AI, and data scienceExamine data science and AI through engaging historical and human-centric narrativesWho is This Book ForBusiness leaders and technology enthusiasts who are trying to understand how to think about data science and AI
+--------------------------------------------------
+
+Book 16:
+Title: Creative Prototyping with Generative AI
+Author(s): Patrick Parra Pennefather
+---
+ISBN-10: 9781484295786 - ISBN-13: 1484295781 - ASIN: 1484295803
+Published Date: 2023-08-01
+---
+HB Blurb: Reimagine different generative AI as useful creative prototyping tools that can be used to augment your own creative process and projects. Gain a deeper understanding of how generative AI can elevate your creative future.You will acquire a comprehensive understanding of how AI works, uncover tools that can enhance your AI interactions, learn how to extract maximum potential from AI-produced content, and experiment with methods for assessing, refining, and boosting the content to transform your creative projects. You'll also explore how creative professionals from varied disciplines are employing generative AI in their workflows to produce distinctive contributions to the world.Each chapter provides examples of how designers and other creative individuals can utilize these technological wonders, adopting various prototyping techniques to fast-track and optimize design processes and workflows. Creators from all disciplines can tap into the vast capabilities and benefits of generative AI, enabling them to rapidly experiment and prototype their ideas.You Will Learn:Understand how generative AI can support your own creative processLearn tools to get the most out of text-text, text-image, and text-video generative AIAugment your design practices using generative AIDraw inspiration from AI generated content to create unique creative workImprove and streamline creatives processes and workflowsWho This Book Is ForDigital media professionals who want to access off-the shelf creative tools to improve and accelerate their creativity and workflow.Designers and engineers who are looking at novel ways to improve their prototyping and testing processes.Students who want to use AI to rapidly generate ideas to support them in prototyping assignments.Instructors interested in pointing their students to a variety of accessible AI resources to manage their own creativity.
+--------------------------------------------------
+
+Book 17:
+Title: Artificial Intelligence and Human Evolution
+Author(s): Ameet Joshi
+---
+ISBN-10: 3030266222 - ISBN-13: 9783030266226 - ASIN: 1484298063
+Published Date: 2019-09-24
+---
+HB Blurb: This book explores, from a high level, the parallels between the evolution of humans and the evolution of machines. The book reviews practical questions about the future of AI but also engages in philosophical discussions about what machine intelligence could mean for the human experience. The book focuses on what is intelligence and what separates intelligent species from non-so-intelligent ones. It concludes this section with the description of true nature of humanintelligence can be. We discuss how we looked at machines few hundred years back and how their definition and the expectations from them has changed over time. We will consider when and how machines became intelligent and then explore in depth he latest developments in artificial intelligence with explanation of deep learning technology and humanlike chat interface provided with products like ChatGPT. We will define both human intelligence and artificial intelligence and the distinction between the two. In the third and final section of the book, we will focus on near- and longer-term futures with widespread use of machine intelligence, making the whole ambient environment that we will live in intelligent How is this going to change human lives, and what parts of human life will be encroached with machines and their intelligence? We will explore how the job market will look with some jobs being taken by machines, and if this is overall a positive or negative change.What You Will LearnHow human intelligence is connected with artificial intelligence as well as the differencesHow AI is going to change our lives in the coming years, decades and centuriesAn explanation of deep learning technology and humanlike chat interface provided with products like ChatGPTWho This Book is ForReaders looking to contextualize the evolution of artificial intelligence in human history
+--------------------------------------------------
+
+Book 18:
+Title: ChatGPT for Java
+Author(s): Bruce Hopkins
+---
+ISBN-10: None - ISBN-13: 9798868801167 - ASIN: B0CSW47SB9
+Published Date: None
+---
+HB Blurb: Embrace the future of software development! ChatGPT for Javais the perfect starting point for Java developers to learn how to build intelligent applications using ChatGPT and Open AI APIs.This book takes you from the ground up to demonstrate how to use ChatGPT programmatically. You will learn the basics of ChatGPT and OpenAI APIs, including how to authenticate, send prompts, generate responses, test in the Playground, and handle errors. Each chapter includes practical exercises which demonstrate different API functionalities and bring your concepts to life. You will learn how to AI-enable your own applications using models such as GPT-4, GPT-3.5, Whisper, DALL-E, and many more.As a result, developers will understand that generative AI tools will not replace software development jobs! Instead, you will leverage ChatGPT as your Java AI-pair programmer to increase speed and productivity. You will also learn how ChatGPT can provide powerful Natural Language Processing (NLP) capabilities to your Java apps in order to understand various formats of unstructured text. Step-by-step, you will apply the concepts covered to create your own intelligent chatbots that can automatically process messages from either Slack on Discord. With this book, Java developers will be empowered to take their applications to new heights by leveraging the power of AI as this exciting field continues to evolve and transform.What You Will LearnAuthenticate with the ChatGPT and OpenAI APIs and learn how to engineer and send promptsTest your prompts in the ChatGPT PlaygroundHow to use multiple artificial intelligence modelsHarness the power the temperature, top_p, and other parameters that can ONLY be accessed by developers to create more unique and engaging responses from ChatGPTCreate intelligent bots for Slack or Discord serversIncorporate context into prompts for better responses and apply advanced features of the APIs.Explore future directions for ChatGPT and OpenAIWho This Book Is ForBeginning and intermediate Java developers who have a basic understanding of Java programming concepts and are interested in learning how to add intelligence to their applications by using ChatGPT programmatically. No prior experience with ChatGPT or OpenAI APIs is required.
+--------------------------------------------------
+
+Book 19:
+Title: The Early-Career Professional's Guide to Generative AI
+Author(s): Jonas Bjerg
+---
+ISBN-10: None - ISBN-13: 9798868804557 - ASIN: B0D3X43ML5
+Published Date: 2024-10-14
+---
+HB Blurb: The world stands at a pivotal moment due to the emergence of Generative AI, specifically ChatGPT. This groundbreaking technology has provoked and impressed almost every industry globally, evoking every emotion from awe to anxiety. Many are apprehensive about the future, fearing job losses due to rapid artificial intelligence (AI advancements). But if history has taught us anything, progress, while challenging, often paves the way for broader opportunities and growth. This book explains in depth the core building blocks that make up the current landscape of transformer and language models and, more broadly speaking, AI as a whole. We have seen how the internet and the mobile revolution changed our world. Is AI following a similar trajectory? Are we on the verge of something even more transformative? This book strives to provide a complete picture of the challenges and opportunities and the implications for our shared futures. In subsequent chapters, the book will discuss language models in depth. These are not just algorithms; they represent a nexus of linguistics, cognitive science, and cutting-edge technology. You’ll trace AI’s unexpected and exhilarating evolution, observing how it has grown from a mere concept to a force reshaping entire industries. Finally, you’ll consider the rise of AI in the context of advancements. While ChatGPT has gained significant attention for certain applications, it’s essential to recognize that its capabilities extend far beyond what’s immediately evident. Artificial Intelligence, represented by models like ChatGPT, is not a static field. It’s dynamic and ever-evolving, and its potential applications are broadening each day. Technology is not, by any means, limited to chatbots or translation use cases. This book captures this vast and ever-expanding horizon of possibilities.What You Will Learn How large language models came to be, and how they workWhat ethical AI design looks likeThe role of regulation in artificial intelligenceWhy you should not be afraid of losing your jobWho This Book is For Working professionals and students in any field
+--------------------------------------------------
+
+Book 20:
+Title: Interfaceless
+Author(s): Diana Olynick
+---
+ISBN-10: None - ISBN-13: 9798868800825 - ASIN: B0CKYFRTH8
+Published Date: 2024-02-20
+---
+HB Blurb: Explore the possibilities spatial computing and its integration with AI can provide beyond the confines of a traditional user interface. Spatial computing brings together physical and virtual worlds and systems. This book offers an insightful journey into harmonizing user-centered design with the vast potential of AI in spatial computing.You'll start by exploring key concepts and processes in relation to conscious design and traditional computer interfaces. You'll then be introduced to the Mindful Spatial Design Framework (MSDF) and the rapidly evolving world of generative AI and its potential to transform design processes. Once the key concepts are mastered, you'll start to put them into practice and see how to design, prototype, and test interfaceless systems and environments that are seamless and user-friendly. In doing so you'll consider topics such as functionality and aesthetics, as well as how AI can improve automation and testing. The book concludes by looking at ethical AI considerations and best practices as well as looking at next steps and future developments of spatial computing and interfaceless design.As these invisible interfaces become more prevalent, understanding the key principles of conscious design is pivotal. Interfaceless will expand your knowledge base in these areas.What You'll LearnIncorporate conscious design principles in spatial computing projects.Leverage AI to enhance UX in spatial contexts.Develop strategies to address design challenges as we move beyond physical interfaces.See how VR/XR apps, devices, and generative AI are rapidly changing how we perceive and interact with the digital realm.Who This Book Is ForUX/UI designers, developers, and tech enthusiasts eager to grasp the future of HCI.
+--------------------------------------------------
+
+Book 21:
+Title: AI and the Law
+Author(s): Harry Borovick
+---
+ISBN-10: None - ISBN-13: 9798868804007 - ASIN: B0D1NQBVLD
+Published Date: None
+---
+HB Blurb: Learn how to maximize your use of, and benefit from AI, personally and professionally while staying safe. To satisfy professionals and businesses trying to modernize their approaches to work and personal tasks, this book will explain some of the basics of what AI is, what AI is likely to look like in the near future, and how not to get stung using it. You’ll quickly realize that AI isn’t coming, it’s here, along with its opportunities and challenges. While some of the advantages of using AI tools may seem too good to be true, you’ll discover that the key to navigating the early stages of the AI era is to understand its guiding principles and then to prioritize the guidelines. The book features general situations and use cases to help you experience AI for fun and for work while retaining the benefits, profits, creations, outputs, and efficiencies of it. If you’re going to use AI in your daily career, whether as a student, creative, executive, marketer or in sales this book will help you understand how to bypass obstacles and get value from AI with the guidance of an AI and tech lawyer.What You Will Learn Identify, debunk, and protect against business and legal risk in the AI eraDiscuss these issues on a high level with CTOs and COOsSee how professionals can mutually use AI to their benefitWho This Book is For Anyone who wants to know whether AI is really going to change the world through the lens of their industry, or to simply understand how AI can be safely harnessed to maximize daily value while minimizing practical risks.
+--------------------------------------------------
+
+Book 22:
+Title: AI Chatbots
+Author(s): James Crowder
+---
+ISBN-10: 9783031455117 - ISBN-13: 3031455118 - ASIN: 3031455088
+Published Date: 2024-11-20
+---
+HB Blurb: This book explores the subject of artificial psychology from the standpoint of how online Chatbots have infiltrated and affected societies and the world in general. The book explores the psychological effects of depending on an online entity for our needs – even if it’s a reminder of scheduled events. The author provides insight into the notion of human-Chatbot exchanges, understanding, and false emotions both from the Chatbot and from the human. He goes on to investigate and discuss the dangers of too much reliance on technology that learns from a variety of sources and how some sources can negatively influence Chatbots, and by doing so, negatively affect people. The book also discusses human-Chatbot interactions and the natural language interface(s) required to respond adequately to humans. Lastly, the author explores the notion of ethical considerations for people, based on their interactions with Chatbots, including information based on cultural differences between different regions of the world.
+--------------------------------------------------
+
+Book 23:
+Title: Artificial Intelligence in Vision-Based Structural Health Monitoring
+Author(s): Khalid M. Mosalam
+---
+ISBN-10: 9783031524066 - ISBN-13: 3031524063 - ASIN: 
+Published Date: 2024-03-21
+---
+HB Blurb: This book provides a comprehensive coverage of the state-of-the-art artificial intelligence (AI) technologies in vision-based structural health monitoring (SHM). In this data explosion epoch, AI-aided SHM and rapid damage assessment after natural hazards have become of great interest in civil and structural engineering, where using machine and deep learning in vision-based SHM brings new research direction. As researchers begin to apply these concepts to the structural engineering domain, especially in SHM, several critical scientific questions need to be addressed:(1) What can AI solve for the SHM problems?(2) What are the relevant AI technologies?(3) What is the effectiveness of the AI approaches in vision-based SHM?(4) How to improve the adaptability of the AI approaches for practical projects?(5) How to build a resilient AI-aided disaster prevention system making use of the vision-based SHM?This book introduces and implements the state-of-the-art machine learning and deep learning technologies for vision-based SHM applications. Specifically, corresponding to the above-mentioned scientific questions, it consists of: (1) motivation, background & progress of AI-aided vision-based SHM, (2) fundamentals of machine learning & deep learning approaches, (3) basic AI applications in vision-based SHM, (4) advanced topics & approaches, and (5) resilient AI-aided applications. In the introduction, a brief coverage about the development progress of AI technologies in the vision-based area is presented. It gives the readers the motivations and background of the relevant research. In Part I, basic knowledges of machine and deep learning are introduced, which provide the foundation for the readers irrespective of their background.In Part II, to verify the effectiveness of the AI methods, the key procedure of the typical AI-aided SHM applications (classification, localization, and segmentation) is explored, including vision data collection, data pre-processing,transfer learning-based training mechanism, evaluation, and analysis.In Part III, advanced AI topics, e.g., generative adversarial network, semi-supervised learning, and active learning, are discussed. They aim to address several critical issues in practical projects, e.g., the lack of well-labeled data and imbalanced labels, to improve the adaptability of the AI models.In Part IV, the new concept of “resilient AI” is introduced to establish an intelligent disaster prevention system, multi-modality learning, multi-task learning, and interpretable AI technologies. These advances are aimed towards increasing the robustness and explainability of the AI-enabled SHM system, and ultimately leading to improved resiliency.The scope covered in this book is not only beneficial for education purposes but also is essential for modern industrial applications. The target audience is broad and includes students, engineers, and researchers in civil engineering, statistics, and computer science.Unique Book Features:Provide a comprehensive review of the rapidly expanding field of vision-based structural health monitoring (SHM) using artificial intelligence approaches.Re-organize fundamental knowledge specific to the machine and deep learning in vision tasks.• Include comprehensive details about the procedure of conducting AI approaches for vision-based SHM along with examples and exercises.Cover a vast array of special topics and advanced AI-enabled vision-based SHM applications.List a few potential extensions for inspiring the readers for future investigation.
+--------------------------------------------------
+
+Book 24:
+Title: Normalization Techniques in Deep Learning
+Author(s): Lei Huang
+---
+ISBN-10: 303114595X - ISBN-13: 9783031145957 - ASIN: B0BHS5KPKX
+Published Date: 2022-10-08
+---
+HB Blurb: This book presents and surveys normalization techniques with a deep analysis in training deep neural networks. In addition, the author provides technical details in designing new normalization methods and network architectures tailored to specific tasks. Normalization methods can improve the training stability, optimization efficiency, and generalization ability of deep neural networks (DNNs) and have become basic components in most state-of-the-art DNN architectures. The author provides guidelines for elaborating, understanding, and applying normalization methods. This book is ideal for readers working on the development of novel deep learning algorithms and/or their applications to solve practical problems in computer vision and machine learning tasks. The book also serves as a resource researchers, engineers, and students who are new to the field and need to understand and train DNNs.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Understanding Generative AI Business Applications
+https://www.amazon.com/Understanding-Generative-Business-Applications-Principles/dp/B0CVDDHJ5J
+https://www.amazon.co.uk/Understanding-Generative-Business-Applications-Principles-ebook/dp/B0CZT6P5JH
+http://books.google.co.uk/books?id=eeuP0AEACAAJ&dq=intitle:Understanding+Generative+AI+Business+Applications%2Binauthor:Irena+Cronin&hl=&cd=1&source=gbs_api
+
+Book 02 - Building Generative AI-Powered Apps
+https://www.amazon.com/Building-Generative-AI-Powered-Apps-Hands/dp/B0CQQPNMPK
+https://www.amazon.co.uk/Building-Generative-AI-Powered-Apps-Hands-ebook/dp/B0CTXXP1S4
+http://books.google.co.uk/books?id=1EVi0AEACAAJ&dq=intitle:Building+Generative+AI-Powered+Apps%2Binauthor:Aarushi+Kansal&hl=&cd=1&source=gbs_api
+
+Book 03 - Applied Generative AI for Beginners
+https://www.amazon.com/Applied-Generative-Beginners-Practical-Knowledge-ebook/dp/B0CK4D7KVM
+https://www.amazon.co.uk/Applied-Generative-Beginners-Practical-Knowledge-ebook/dp/B0CK4D7KVM
+http://books.google.co.uk/books?id=Zh4n0AEACAAJ&dq=intitle:Applied+Generative+AI+for+Beginners%2Binauthor:Akshay+Kulkarni&hl=&cd=1&source=gbs_api
+
+Book 04 - Empowering the Public Sector with Generative AI
+https://www.amazon.com/Empowering-Public-Sector-Generative-Applications-ebook/dp/B0D7GMPF1J
+https://www.amazon.co.uk/Empowering-Public-Sector-Generative-Applications/dp/B0D4PG9MHZ
+http://books.google.co.uk/books?id=iWe10AEACAAJ&dq=intitle:Empowering+the+Public+Sector+with+Generative+AI%2Binauthor:Sanjeev+Pulapaka&hl=&cd=1&source=gbs_api
+
+Book 05 - Generative Artificial Intelligence
+https://www.amazon.com/Generative-Artificial-Intelligence-Exploring-Potential/dp/B0D1TJNYDK
+https://www.amazon.co.uk/Generative-Artificial-Intelligence-Exploring-Potential-ebook/dp/B0D3YRHB9Q
+http://books.google.co.uk/books?id=wW6s0AEACAAJ&dq=intitle:Generative+Artificial+Intelligence%2Binauthor:Shivam+R+Solanki&hl=&cd=1&source=gbs_api
+
+Book 06 - ChatGPT for Beginners
+https://www.amazon.com/ChatGPT-Beginners-Features-Foundations-Applications-ebook/dp/B0CJ4BFPGZ
+https://www.amazon.co.uk/ChatGPT-Beginners-Features-Foundations-Applications/dp/1484298039
+http://books.google.co.uk/books?id=yZ_XzwEACAAJ&dq=intitle:ChatGPT+for+Beginners%2Binauthor:Eric+Sarrion&hl=&cd=1&source=gbs_api
+
+Book 07 - Exploring the Power of ChatGPT
+https://www.amazon.com/Exploring-Power-ChatGPT-Applications-Implications-ebook/dp/B0C931M28C
+https://www.amazon.co.uk/Exploring-Power-ChatGPT-Applications-Implications/dp/1484295285
+http://books.google.co.uk/books?id=yZ_XzwEACAAJ&dq=intitle:Exploring+the+Power+of+ChatGPT%2Binauthor:Eric+Sarrion&hl=&cd=1&source=gbs_api
+
+Book 08 - Large Language Models Projects
+https://www.amazon.com/Large-Language-Models-Projects-Strategies-ebook/dp/B0D9PPKXLZ
+https://www.amazon.co.uk/Large-Language-Models-Projects-Strategies-ebook/dp/B0D9PPKXLZ
+http://books.google.co.uk/books?id=QYDK0AEACAAJ&dq=intitle:Large+Language+Models+Projects%2Binauthor:Pere+Martra&hl=&cd=1&source=gbs_api
+
+Book 09 - Machine Learning for Decision Makers
+https://www.amazon.com/Machine-Learning-Decision-Makers-Fundamentals-ebook/dp/B0CKKLBM92
+https://www.amazon.co.uk/Machine-Learning-Decision-Makers-Fundamentals/dp/1484229878
+http://books.google.co.uk/books?id=YKVFDwAAQBAJ&printsec=frontcover&dq=intitle:Machine+Learning+for+Decision+Makers%2Binauthor:Patanjali+Kashyap&hl=&cd=1&source=gbs_api
+
+Book 10 - Introduction to Responsible AI
+No Amazon.com URL found
+https://www.amazon.co.uk/Introduction-Responsible-AI-Implement-Ethical-ebook/dp/B0CJLTTN4K
+No Google Books URL found.
+
+Book 11 - Explainable AI Recipes
+https://www.amazon.com/Explainable-Recipes-Implement-Explainability-Interpretability/dp/1484290283
+https://www.amazon.co.uk/Explainable-Recipes-Implement-Explainability-Interpretability/dp/1484290283
+No Google Books URL found.
+
+Book 12 - Generative AI
+https://www.amazon.com/Generative-Non-Technical-Introduction-Tom-Taulli/dp/1484293665
+https://www.amazon.co.uk/Generative-AI-ChatGPT-Revolutionize-Business-ebook/dp/B0C2XYQQKZ
+http://books.google.co.uk/books?id=bEID0AEACAAJ&dq=intitle:Generative+AI%2Binauthor:Tom+Taulli&hl=&cd=1&source=gbs_api
+
+Book 13 - Brain Rush: How to Invest and Compete in the Real World of Generative AI
+https://www.amazon.com/Brain-Rush-Invest-Compete-Generative/dp/B0CVRSV43C
+https://www.amazon.co.uk/Brain-Rush-Invest-Compete-Generative/dp/B0CVRSV43C
+http://books.google.co.uk/books?id=H7jY0AEACAAJ&dq=intitle:Brain+Rush:+How+to+Invest+and+Compete+in+the+Real+World+of+Generative+AI%2Binauthor:Peter+Cohan&hl=&cd=1&source=gbs_api
+
+Book 14 - Transforming Conversational AI
+https://www.amazon.com/Transforming-Conversational-AI-Exploring-Interactive/dp/B0CN2GY3Q6
+https://www.amazon.co.uk/Transforming-Conversational-AI-Exploring-Interactive/dp/B0CN2GY3Q6
+http://books.google.co.uk/books?id=_ekXEQAAQBAJ&printsec=frontcover&dq=intitle:Transforming+Conversational+AI%2Binauthor:Michael+McTear&hl=&cd=1&source=gbs_api
+
+Book 15 - Predicting the Unknown
+https://www.amazon.com/Predicting-History-Science-Artificial-Intelligence/dp/1484295048
+https://www.amazon.co.uk/Predicting-History-Science-Artificial-Intelligence-ebook/dp/B0C2H2NFW5
+http://books.google.co.uk/books?id=o5cu0AEACAAJ&dq=intitle:Predicting+the+Unknown%2Binauthor:Stylianos+Kampakis&hl=&cd=1&source=gbs_api
+
+Book 16 - Creative Prototyping with Generative AI
+https://www.amazon.com/Creative-Prototyping-Generative-Augmenting-Workflows/dp/1484295781
+https://www.amazon.co.uk/Creative-Prototyping-Generative-Augmenting-Workflows/dp/1484295803
+http://books.google.co.uk/books?id=imvwzwEACAAJ&dq=intitle:Creative+Prototyping+with+Generative+AI%2Binauthor:Patrick+Parra+Pennefather&hl=&cd=1&source=gbs_api
+
+Book 17 - Artificial Intelligence and Human Evolution
+https://www.amazon.com/Artificial-Intelligence-Human-Evolution-Contextualizing/dp/1484298063
+https://www.amazon.co.uk/Artificial-Intelligence-Human-Evolution-Contextualizing-ebook/dp/B0CKKSZZ4V
+http://books.google.co.uk/books?id=ybyxDwAAQBAJ&pg=PA106&dq=intitle:Artificial+Intelligence+and+Human+Evolution%2Binauthor:Ameet+Joshi&hl=&cd=1&source=gbs_api
+
+Book 18 - ChatGPT for Java
+https://www.amazon.com/ChatGPT-Java-Hands-Developers-Guide-ebook/dp/B0CSW47SB9
+https://www.amazon.co.uk/ChatGPT-Java-Hands-Developers-Guide-ebook/dp/B0DF9ZB3PD
+http://books.google.co.uk/books?id=xekXEQAAQBAJ&printsec=frontcover&dq=intitle:ChatGPT+for+Java%2Binauthor:Bruce+Hopkins&hl=&cd=1&source=gbs_api
+
+Book 19 - The Early-Career Professional's Guide to Generative AI
+https://www.amazon.com/Early-Career-Professionals-Guide-Generative-Opportunities/dp/B0D3X43ML5
+https://www.amazon.co.uk/Early-Career-Professionals-Guide-Generative-Opportunities-ebook/dp/B0D9RFZZTS
+http://books.google.co.uk/books?id=iR610AEACAAJ&dq=intitle:The+Early-Career+Professional%27s+Guide+to+Generative+AI%2Binauthor:Jonas+Bjerg&hl=&cd=1&source=gbs_api
+
+Book 20 - Interfaceless
+https://www.amazon.com/Interfaceless-Conscious-Computing-Generative-Thinking/dp/B0CKYFRTH8
+https://www.amazon.co.uk/Interfaceless-Conscious-Computing-Generative-Thinking-ebook/dp/B0DF8RTFDH
+http://books.google.co.uk/books?id=q0470AEACAAJ&dq=intitle:Interfaceless%2Binauthor:Diana+Olynick&hl=&cd=1&source=gbs_api
+
+Book 21 - AI and the Law
+https://www.amazon.com/AI-Law-Practical-Artificial-Intelligence/dp/B0D1NQBVLD
+https://www.amazon.co.uk/AI-Law-Practical-Artificial-Intelligence-ebook/dp/B0D9R6R1RP
+http://books.google.co.uk/books?id=qXchEQAAQBAJ&printsec=frontcover&dq=intitle:AI+and+the+Law%2Binauthor:Harry+Borovick&hl=&cd=1&source=gbs_api
+
+Book 22 - AI Chatbots
+https://www.amazon.com/AI-Chatbots-Synthesis-Engineering-Technology/dp/3031455088
+https://www.amazon.co.uk/AI-Chatbots-Synthesis-Engineering-Technology-ebook/dp/B0DFFX2JY5
+http://books.google.co.uk/books?id=KFr_0AEACAAJ&dq=intitle:AI+Chatbots%2Binauthor:James+Crowder&hl=&cd=1&source=gbs_api
+
+Book 23 - Artificial Intelligence in Vision-Based Structural Health Monitoring
+No Amazon.com URL found
+https://www.amazon.co.uk/Artificial-Intelligence-Vision-Based-Structural-Engineering/dp/3031524063
+http://books.google.co.uk/books?id=nCNi0AEACAAJ&dq=intitle:Artificial+Intelligence+in+Vision-Based+Structural+Health+Monitoring%2Binauthor:Khalid+M.+Mosalam&hl=&cd=1&source=gbs_api
+
+Book 24 - Normalization Techniques in Deep Learning
+https://www.amazon.com/Normalization-Techniques-Learning-Synthesis-Lectures-ebook/dp/B0BHS5KPKX
+https://www.amazon.co.uk/Normalization-Techniques-Learning-Synthesis-Lectures-ebook/dp/B0BHS5KPKX
+http://books.google.co.uk/books?id=9AKUEAAAQBAJ&printsec=frontcover&dq=intitle:Normalization+Techniques+in+Deep+Learning%2Binauthor:Lei+Huang&hl=&cd=1&source=gbs_api
+
