@@ -1,0 +1,284 @@
+Humble Tech Audiobook Bundle- Cybersecurity and Forensics by Packt - Packt
+Processing date: 2024-12-31
+Data retrieved from: https://www.humblebundle.com/books/cybersecurity-and-forensics-packt-books
+
+Book 01 - Cyber Warfare - Truth, Tactics, and Strategies - Dr. Chase Cunningham - 4.6 out of 5 (141 reviews)
+Book 02 - Digital Forensics and Incident Response - Gerard Johansen - 4.7 out of 5 (100 reviews)
+Book 03 - Practical Cybersecurity Architecture - Ed Moyle and Diana Kelley - 4.3 out of 5 (44 reviews)
+Book 04 - CompTIA CASP+ CAS-004 Certification Guide - Mark Birch - 4.5 out of 5 (127 reviews)
+Book 05 - Operationalizing Threat Intelligence - Kyle Wilhoit and Joseph Opacki - 4.4 out of 5 (35 reviews)
+Book 06 - Building a Cyber Resilient Business - Dr. Magda Lilia Chelly, Shamane Tan and Hai Tran - 5 out of 5 (4 reviews)
+Book 07 - iOS Forensics for Investigators - Gianluca Tiepolo - 4.6 out of 5 (12 reviews)
+Book 08 - Adversarial Tradecraft in Cybersecurity - Dan Borges - 4.7 out of 5 (123 reviews)
+Book 09 - Cybersecurity Career Master Plan - Dr. Gerald Auger, Jaclyn “Jax” Scott, Jonathan Helmus, Kim Nguyen and Heath "The Cyber Mentor" Adams - 4.6 out of 5 (229 reviews)
+Book 10 - The Ultimate Kali Linux Book - Glen D. Singh - 4.6 out of 5 (45 reviews)
+Book 11 - Cybersecurity Leadership Demystified - Dr. Erdal Ozkaya - 3.9 out of 5 (6 reviews)
+Book 12 - Hack the Cybersecurity Interview - Kenneth Underhill, Christophe Foulon, Tia Hopkins and Mari Galloway - 4.6 out of 5 (3 reviews)
+Book 13 - Learn Computer Forensics - William Oettinger - 4.8 out of 5 (90 reviews)
+Book 14 - Cybersecurity and Privacy Law Handbook - Walter Rocchi - 4 out of 5 (6 reviews)
+Book 15 - Cyber Security Essentials - Assemble You Limited - None found out of 5 (None found reviews)
+Book 16 - Microsoft Cybersecurity Architect Exam Ref SC-100 - Dwayne Natwick and Rod Trent - 4.4 out of 5 (16 reviews)
+Book 17 - Cloud Auditing Best Practices - Shinesa Cambric and Michael Ratemo - 4.2 out of 5 (30 reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: Cyber Warfare - Truth, Tactics, and Strategies
+Author(s): Dr. Chase Cunningham
+---
+ISBN-10: 1839214481 - ISBN-13: 9781839214486 - ASIN: B084ZN2HBD
+Published Date: 2020-02-25
+---
+HB Blurb: Key FeaturesDefine and determine a cyber-defence strategy based on current and past real-life examplesUnderstand how future technologies will impact cyber warfare campaigns and societyFuture-ready yourself and your business against any cyber threatWho this book is forThis audiobook is for any engineer, leader, or professional with either a responsibility for cyber security within their organizations or an interest in working in this ever-growing field.
+--------------------------------------------------
+
+Book 02:
+Title: Digital Forensics and Incident Response
+Author(s): Gerard Johansen
+---
+ISBN-10: 1787285391 - ISBN-13: 9781787285392 - ASIN: B083KG13DB
+Published Date: 2017-07-24
+---
+HB Blurb: Key FeaturesCreate a solid incident response framework and manage cyber incidents effectivelyLearn to apply digital forensics tools and techniques to investigate cyber threats Explore the real-world threat of ransomware and apply proper incident response techniques for investigation and recoveryWho this book is forThis book is for cybersecurity and information security professionals who want to implement digital forensics and incident response in their organizations. You’ll also find the book helpful if you’re new to the concept of digital forensics and looking to get started with the fundamentals. A basic understanding of operating systems and some knowledge of networking fundamentals are required to get started with this book.
+--------------------------------------------------
+
+Book 03:
+Title: Practical Cybersecurity Architecture
+Author(s): Ed Moyle and Diana Kelley
+---
+ISBN-10: 1838982191 - ISBN-13: 9781838982195 - ASIN: 1838989927
+Published Date: 2020-11-20
+---
+HB Blurb: Key FeaturesLeverage practical use cases to successfully architect complex security structures Learn risk assessment methodologies for the cloud, networks, and connected devices Understand cybersecurity architecture to implement effective solutions in medium-to-large enterprisesWho this book is forIf you are involved in the process of implementing, planning, operating, or maintaining cybersecurity in an organization, then this security book is for you. This includes security practitioners, technology governance practitioners, systems auditors, and software developers invested in keeping their organizations secure. If you’re new to cybersecurity architecture, the book takes you through the process step by step; for those who already work in the field and have some experience, the book presents strategies and techniques that will help them develop their skills further.
+--------------------------------------------------
+
+Book 04:
+Title: CompTIA CASP+ CAS-004 Certification Guide
+Author(s): Mark Birch
+---
+ISBN-10: 1801814481 - ISBN-13: 9781801814485 - ASIN: 1801816778
+Published Date: 2022-03-03
+---
+HB Blurb: Key FeaturesLearn how to apply industry best practices and earn the CASP+ certification Explore over 400 CASP+ questions to test your understanding of key concepts and help you prepare for the exam Discover over 300 illustrations and diagrams that will assist you in understanding advanced CASP+ conceptsWho this book is forThis CompTIA audiobook is for CASP+ CAS-004 exam candidates who want to achieve CASP+ certification to advance their career. Security architects, senior security engineers, SOC managers, security analysts, IT cybersecurity specialists/INFOSEC specialists, and cyber risk analysts will benefit from this book. Experience in an IT technical role or CompTIA Security+ certification or equivalent is assumed.
+--------------------------------------------------
+
+Book 05:
+Title: Operationalizing Threat Intelligence
+Author(s): Kyle Wilhoit and Joseph Opacki
+---
+ISBN-10: 1801818665 - ISBN-13: 9781801818667 - ASIN: 1801814686
+Published Date: 2022-06-17
+---
+HB Blurb: Key FeaturesDevelop and implement a threat intelligence program from scratch Discover techniques to perform cyber threat intelligence, collection, and analysis using open-source tools Leverage a combination of theory and practice that will help you prepare a solid foundation for operationalizing threat intelligence programsWho this book is forThis book is for cybersecurity professionals, security analysts, security enthusiasts, and anyone who is just getting started and looking to explore threat intelligence in more detail. Those working in different security roles will also be able to explore threat intelligence with the help of this security book.
+--------------------------------------------------
+
+Book 06:
+Title: Building a Cyber Resilient Business
+Author(s): Dr. Magda Lilia Chelly, Shamane Tan and Hai Tran
+---
+ISBN-10: 1803239697 - ISBN-13: 9781803239699 - ASIN: 1803246480
+Published Date: 2022-11-04
+---
+HB Blurb: Key FeaturesEnable business acceleration by preparing your organization against cyber risks Discover tips and tricks to manage cyber risks in your organization and build a cyber resilient business Unpack critical questions for the C-suite to ensure the firm is intentionally building cyber resilienceWho this book is forThis book is for the C-suite and executives who are not necessarily working in cybersecurity. The guidebook will bridge the gaps between the CISO and the rest of the executives, helping CEOs, CFOs, CIOs, COOs, etc., to understand how they can work together with the CISO and their team to achieve organization-wide cyber resilience for business value preservation and growth.
+--------------------------------------------------
+
+Book 07:
+Title: iOS Forensics for Investigators
+Author(s): Gianluca Tiepolo
+---
+ISBN-10: 1803242515 - ISBN-13: 9781803242514 - ASIN: B09V19ZBKK
+Published Date: 2022-05-04
+---
+HB Blurb: Key FeaturesExplore free and commercial tools for carrying out data extractions and analysis for digital forensics Learn to look for key artifacts, recover deleted mobile data, and investigate processed data Get up and running with extracting full filesystem images and jailbreak devices to gather the most data possibleWho this book is forForensic analysts and investigators interested in extending their skills to extract data from iOS devices, including system logs, device usage, and third-party application data, will find this book useful. Anyone familiar with the principles of digital forensics and looking to expand their knowledge base in deep iOS examinations will also benefit from this book. Knowledge of mobile forensic principles, data extraction, Unix/Linux terminal, and some hands-on understanding of databases and SQL query language is assumed.
+--------------------------------------------------
+
+Book 08:
+Title: Adversarial Tradecraft in Cybersecurity
+Author(s): Dan Borges
+---
+ISBN-10: 1801078149 - ISBN-13: 9781801078146 - ASIN: B0957LV496
+Published Date: 2021-06-14
+---
+HB Blurb: Key FeaturesGain an advantage against live hackers in a competition or real computing environmentUnderstand advanced red team and blue team techniques with code examplesLearn to battle in short-term memory, whether remaining unseen (red teams) or monitoring an attacker's traffic (blue teams)Who this book is forPentesters to red teamers, security operations center analysts to incident responders, attackers, defenders, general hackers, advanced computer users, and security engineers will benefit from this book. Participants in purple teaming or adversarial simulations will also learn a lot from its practical examples of processes for gaining an advantage over the opposing team. Basic knowledge of Python, Go, Bash, PowerShell, system administration as well as knowledge of incident response in Linux and prior exposure to any kind of cybersecurity knowledge, penetration testing, and ethical hacking basics will help you follow along.
+--------------------------------------------------
+
+Book 09:
+Title: Cybersecurity Career Master Plan
+Author(s): Dr. Gerald Auger, Jaclyn “Jax” Scott, Jonathan Helmus, Kim Nguyen and Heath "The Cyber Mentor" Adams
+---
+ISBN-10: 1801078521 - ISBN-13: 9781801078528 - ASIN: 1801073562
+Published Date: 2021-09-13
+---
+HB Blurb: Key FeaturesLearn how to follow your desired career path that results in a well-paid, rewarding job in cybersecurity Explore expert tips relating to career growth and certification options Access informative content from a panel of experienced cybersecurity expertsWho this book is forThis audiobook is for college graduates, military veterans transitioning from active service, individuals looking to make a mid-career switch, and aspiring IT professionals. Anyone who considers cybersecurity as a potential career field but feels intimidated, overwhelmed, or unsure of where to get started will also find this book useful. No experience or cybersecurity knowledge is needed to get started.
+--------------------------------------------------
+
+Book 10:
+Title: The Ultimate Kali Linux Book
+Author(s): Glen D. Singh
+---
+ISBN-10: 1801819017 - ISBN-13: 9781801819015 - ASIN: B0CM6FSVCG
+Published Date: 2022-02-24
+---
+HB Blurb: Key FeaturesLearn to compromise enterprise networks with Kali Linux Gain comprehensive insights into security concepts using advanced real-life hacker techniques Use Kali Linux in the same way ethical hackers and penetration testers do to gain control of your environmentWho this book is forThis pentesting audiobook is for students, trainers, cybersecurity professionals, cyber enthusiasts, network security professionals, ethical hackers, penetration testers, and security engineers. If you do not have any prior knowledge and are looking to become an expert in penetration testing using the Kali Linux operating system (OS), then this book is for you.
+--------------------------------------------------
+
+Book 11:
+Title: Cybersecurity Leadership Demystified
+Author(s): Dr. Erdal Ozkaya
+---
+ISBN-10: 1801819599 - ISBN-13: 9781801819596 - ASIN: 1801819289
+Published Date: 2022-01-07
+---
+HB Blurb: Key FeaturesDiscover tips and expert advice from the leading CISO and author of many cybersecurity books Become well-versed with a CISO's day-to-day responsibilities and learn how to perform them with ease Understand real-world challenges faced by a CISO and find out the best way to solve themWho this book is forThis audiobook is for aspiring as well as existing CISOs. This audiobook will also help cybersecurity leaders and security professionals understand leadership in this domain and motivate them to become leaders. A clear understanding of cybersecurity posture and a few years of experience as a cybersecurity professional will help you to get the most out of this audiobook.
+--------------------------------------------------
+
+Book 12:
+Title: Hack the Cybersecurity Interview
+Author(s): Kenneth Underhill, Christophe Foulon, Tia Hopkins and Mari Galloway
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1835461298
+Published Date: 
+---
+HB Blurb: Key FeaturesGet well-versed with the interview process for cybersecurity job roles Prepare for SOC analyst, penetration tester, malware analyst, digital forensics analyst, CISO, and more roles Understand different key areas in each role and prepare for themWho this book is forThis cybersecurity audiobook is for college students, aspiring cybersecurity professionals, computer and software engineers, and anyone looking to prepare for a job interview for any cybersecurity role. The audiobook is also for experienced cybersecurity professionals who want to improve their technical and behavioral interview skills. Recruitment managers can also use this book to conduct interviews and tests.
+--------------------------------------------------
+
+Book 13:
+Title: Learn Computer Forensics
+Author(s): William Oettinger
+---
+ISBN-10: 1838641092 - ISBN-13: 9781838641092 - ASIN: 1803238305
+Published Date: 2020-04-30
+---
+HB Blurb: Key FeaturesInvestigate the core methods of computer forensics to procure and secure advanced digital evidence skillfully Record the digital evidence collected and organize a forensic examination on it Perform an assortment of Windows scientific examinations to analyze and overcome complex challengesWho this book is forThis book is for IT beginners, students, or an investigator in the public or private sector. This book will also help IT professionals who are new to incident response and digital forensics and are looking at choosing cybersecurity as their career. Individuals planning to pass the Certified Forensic Computer Examiner (CFCE) certification will also find this book useful.
+--------------------------------------------------
+
+Book 14:
+Title: Cybersecurity and Privacy Law Handbook
+Author(s): Walter Rocchi
+---
+ISBN-10: 1803243716 - ISBN-13: 9781803243719 - ASIN: B0BGSGZ59F
+Published Date: 2022-12-16
+---
+HB Blurb: Key FeaturesComply with cybersecurity standards and protect your data from hackers Find the gaps in your company's security posture with gap analysis and business impact analysis Understand what you need to do with security and privacy without needing to pay consultantsWho this book is forIf you’re a seasoned pro with IT security and / or cybersecurity, this book isn’t for you. This book is aimed at novices, freshers, students, experts in other fields, and managers, that, are willing to learn, understand, and manage how a security function is working, especially if you need to be. Although the reader will be able, by reading this book, to build and manage a security function on their own, it is highly recommended to supervise a team devoted to implementing cybersecurity and privacy practices in an organization.
+--------------------------------------------------
+
+Book 15:
+Title: Cyber Security Essentials
+Author(s): Assemble You Limited
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1439851239
+Published Date: 
+---
+HB Blurb: Key FeaturesLearn and protect yourself against malicious software Learn about the techniques you must use to avoid falling prey to a social engineer Learn the techniques to protect yourself against common attacksWho this book is forThis course is beneficial to the following anyone looking to develop a solid basic understanding of malware, how to use cybersecurity measures to limit its threat to a person or organization, and anyone looking to build a basic understanding of cyber security threats and how to deal with them.
+--------------------------------------------------
+
+Book 16:
+Title: Microsoft Cybersecurity Architect Exam Ref SC-100
+Author(s): Dwayne Natwick and Rod Trent
+---
+ISBN-10: 1803244879 - ISBN-13: 9781803244877 - ASIN: B0B39CSKP8
+Published Date: 2023-01-06
+---
+HB Blurb: Key FeaturesGain a deep understanding of all topics covered in the SC-100 exam Benefit from practical examples that will help you put your new knowledge to work Design a zero-trust architecture and strategies for data, applications, access management, identity, and infrastructureWho this book is forThis audiobook is for a wide variety of cybersecurity professionals – from security engineers and cybersecurity architects to Microsoft 365 administrators, user and identity administrators, infrastructure administrators, cloud security engineers, and other IT professionals preparing to take the SC-100 exam. It’s also a good resource for those designing cybersecurity architecture without preparing for the exam. To get started, you’ll need a solid understanding of the fundamental services within Microsoft 365, and Azure, along with knowledge of security, compliance, and identity capabilities in Microsoft and hybrid architectures.
+--------------------------------------------------
+
+Book 17:
+Title: Cloud Auditing Best Practices
+Author(s): Shinesa Cambric and Michael Ratemo
+---
+ISBN-10: 1803230924 - ISBN-13: 9781803230924 - ASIN: 1803243775
+Published Date: 2023-01-13
+---
+HB Blurb: Key FeaturesLeverage best practices and emerging technologies to effectively audit a cloud environment Get better at auditing and unlock career opportunities in cloud audits and compliance Explore multiple assessments of various features in a cloud environment to see how it's doneWho this book is forThis audiobook is for IT auditors looking to learn more about assessing cloud environments for compliance, as well as those looking for practical tips on how to audit them and what security controls are available to map to IT general computing controls. Other IT professionals whose job includes assessing compliance, such as DevSecOps teams, identity, and access management analysts, cloud engineers, and cloud security architects, will also find plenty of useful information in this audiobook. Before you get started, you’ll need a basic understanding of IT systems and a solid grasp of cybersecurity basics.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Cyber Warfare - Truth, Tactics, and Strategies
+https://www.amazon.com/Cyber-Warfare-Strategies-organization-battleground-ebook/dp/B084ZN2HBD
+https://www.amazon.co.uk/Cyber-Warfare-Strategies-organization-battleground-ebook/dp/B084ZN2HBD
+http://books.google.co.uk/books?id=Cd7SDwAAQBAJ&printsec=frontcover&dq=intitle:Cyber+Warfare+-+Truth,+Tactics,+and+Strategies%2Binauthor:Dr.+Chase+Cunningham&hl=&cd=1&source=gbs_api
+
+Book 02 - Digital Forensics and Incident Response
+https://www.amazon.com/Digital-Forensics-Incident-Response-techniques-ebook/dp/B083KG13DB
+https://www.amazon.co.uk/Digital-Forensics-Incident-Response-techniques-ebook/dp/B071JM42J1
+http://books.google.co.uk/books?id=4eZDDwAAQBAJ&printsec=frontcover&dq=intitle:Digital+Forensics+and+Incident+Response%2Binauthor:Gerard+Johansen&hl=&cd=1&source=gbs_api
+
+Book 03 - Practical Cybersecurity Architecture
+https://www.amazon.com/Practical-Cybersecurity-Architecture-implementing-cybersecurity/dp/1838989927
+https://www.amazon.co.uk/Practical-Cybersecurity-Architecture-implementing-cybersecurity/dp/1838989927
+http://books.google.co.uk/books?id=Nw0FEAAAQBAJ&printsec=frontcover&dq=intitle:Practical+Cybersecurity+Architecture%2Binauthor:Ed+Moyle+and+Diana+Kelley&hl=&cd=1&source=gbs_api
+
+Book 04 - CompTIA CASP+ CAS-004 Certification Guide
+https://www.amazon.com/CompTIA-CASP-CAS-004-Certification-Guide/dp/1801816778
+https://www.amazon.co.uk/CompTIA-CASP-CAS-004-Certification-Guide-ebook/dp/B09F3RFTWK
+http://books.google.co.uk/books?id=I7NZEAAAQBAJ&printsec=frontcover&dq=intitle:CompTIA+CASP%2B+CAS-004+Certification+Guide%2Binauthor:Mark+Birch&hl=&cd=1&source=gbs_api
+
+Book 05 - Operationalizing Threat Intelligence
+https://www.amazon.com/Operationalizing-Threat-Intelligence-operationalizing-intelligence/dp/1801814686
+https://www.amazon.co.uk/Operationalizing-Threat-Intelligence-operationalizing-intelligence/dp/1801814686
+http://books.google.co.uk/books?id=TSNvEAAAQBAJ&printsec=frontcover&dq=intitle:Operationalizing+Threat+Intelligence%2Binauthor:Kyle+Wilhoit+and+Joseph+Opacki&hl=&cd=1&source=gbs_api
+
+Book 06 - Building a Cyber Resilient Business
+https://www.amazon.com/Building-Cyber-Resilient-Business-executives/dp/1803246480
+https://www.amazon.co.uk/Building-Cyber-Resilient-Business-executives/dp/1803246480
+http://books.google.co.uk/books?id=JXyUEAAAQBAJ&printsec=frontcover&dq=intitle:Building+a+Cyber+Resilient+Business%2Binauthor:Dr.+Magda+Lilia+Chelly,+Shamane+Tan+and+Hai+Tran&hl=&cd=1&source=gbs_api
+
+Book 07 - iOS Forensics for Investigators
+https://www.amazon.com/iOS-Forensics-Investigators-forensics-extracting-ebook/dp/B09V19ZBKK
+https://www.amazon.co.uk/iOS-Forensics-Investigators-forensics-extracting/dp/1803234083
+http://books.google.co.uk/books?id=U11qEAAAQBAJ&printsec=frontcover&dq=intitle:iOS+Forensics+for+Investigators%2Binauthor:Gianluca+Tiepolo&hl=&cd=1&source=gbs_api
+
+Book 08 - Adversarial Tradecraft in Cybersecurity
+https://www.amazon.com/Adversarial-Tradecraft-Cybersecurity-real-time-computer-ebook/dp/B0957LV496
+https://www.amazon.co.uk/Adversarial-Tradecraft-Cybersecurity-real-time-computer-ebook/dp/B0957LV496
+http://books.google.co.uk/books?id=2mgyEAAAQBAJ&printsec=frontcover&dq=intitle:Adversarial+Tradecraft+in+Cybersecurity%2Binauthor:Dan+Borges&hl=&cd=1&source=gbs_api
+
+Book 09 - Cybersecurity Career Master Plan
+https://www.amazon.com/Cybersecurity-Career-Master-Plan-cybersecurity/dp/1801073562
+https://www.amazon.co.uk/Cybersecurity-Career-Master-Plan-cybersecurity-ebook/dp/B097HSV755
+http://books.google.co.uk/books?id=EQo8EAAAQBAJ&pg=PA64&dq=intitle:Cybersecurity+Career+Master+Plan%2Binauthor:Dr.+Gerald+Auger,+Jaclyn+%E2%80%9CJax%E2%80%9D+Scott,+Jonathan+Helmus,+Kim+Nguyen+and+Heath+%22The+Cyber+Mentor%22+Adams&hl=&cd=1&source=gbs_api
+
+Book 10 - The Ultimate Kali Linux Book
+https://www.amazon.com/Ultimate-Kali-Linux-Book-cutting-edge-ebook/dp/B0CM6FSVCG
+https://www.amazon.co.uk/Ultimate-Kali-Linux-Book-penetration-ebook/dp/B09NC59WS4
+http://books.google.co.uk/books?id=0zFYEAAAQBAJ&printsec=frontcover&dq=intitle:The+Ultimate+Kali+Linux+Book%2Binauthor:Glen+D.+Singh&hl=&cd=1&source=gbs_api
+
+Book 11 - Cybersecurity Leadership Demystified
+https://www.amazon.com/Cybersecurity-Leadership-Demystified-comprehensive-cybersecurity/dp/1801819289
+https://www.amazon.co.uk/Cybersecurity-Leadership-Demystified-comprehensive-cybersecurity/dp/1801819289
+http://books.google.co.uk/books?id=EXhYEAAAQBAJ&printsec=frontcover&dq=intitle:Cybersecurity+Leadership+Demystified%2Binauthor:Dr.+Erdal+Ozkaya&hl=&cd=1&source=gbs_api
+
+Book 12 - Hack the Cybersecurity Interview
+https://www.amazon.com/Hack-Cybersecurity-Interview-Interviews-Entry-level/dp/1835461298
+https://www.amazon.co.uk/Hack-Cybersecurity-Interview-jumpstarting-cybersecurity-ebook/dp/B09V2S1T35
+No Google Books URL found.
+
+Book 13 - Learn Computer Forensics
+https://www.amazon.com/Learn-Computer-Forensics-searching-analyzing/dp/1803238305
+https://www.amazon.co.uk/Learn-Computer-Forensics-searching-analyzing-ebook/dp/B09X74V884
+http://books.google.co.uk/books?id=eiLhDwAAQBAJ&printsec=frontcover&dq=intitle:Learn+Computer+Forensics%2Binauthor:William+Oettinger&hl=&cd=1&source=gbs_api
+
+Book 14 - Cybersecurity and Privacy Law Handbook
+https://www.amazon.com/Cybersecurity-Privacy-Law-Handbook-beginners-ebook/dp/B0BGSGZ59F
+https://www.amazon.co.uk/Cybersecurity-Privacy-Law-Handbook-beginners-ebook/dp/B0BGSGZ59F
+http://books.google.co.uk/books?id=FR2gEAAAQBAJ&printsec=frontcover&dq=intitle:Cybersecurity+and+Privacy+Law+Handbook%2Binauthor:Walter+Rocchi&hl=&cd=1&source=gbs_api
+
+Book 15 - Cyber Security Essentials
+No Amazon.com URL found
+https://www.amazon.co.uk/Cyber-Security-Essentials-James-Graham/dp/1439851239
+No Google Books URL found.
+
+Book 16 - Microsoft Cybersecurity Architect Exam Ref SC-100
+https://www.amazon.com/Microsoft-Cybersecurity-Architect-Exam-SC-100-ebook/dp/B0B39CSKP8
+https://www.amazon.co.uk/Microsoft-Cybersecurity-Architect-Exam-SC-100/dp/1803242396
+http://books.google.co.uk/books?id=oIOjEAAAQBAJ&printsec=frontcover&dq=intitle:Microsoft+Cybersecurity+Architect+Exam+Ref+SC-100%2Binauthor:Dwayne+Natwick+and+Rod+Trent&hl=&cd=1&source=gbs_api
+
+Book 17 - Cloud Auditing Best Practices
+https://www.amazon.com/Cloud-Auditing-Best-Practices-effective/dp/1803243775
+https://www.amazon.co.uk/Cloud-Auditing-Best-Practices-effective/dp/1803243775
+http://books.google.co.uk/books?id=J7KjEAAAQBAJ&printsec=frontcover&dq=intitle:Cloud+Auditing+Best+Practices%2Binauthor:Shinesa+Cambric+and+Michael+Ratemo&hl=&cd=1&source=gbs_api
+
