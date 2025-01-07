@@ -1,0 +1,348 @@
+Humble Tech Book Bundle- Machine Learning Engineer Masterclass by Packt - Packt
+Processing date: 2025-01-07
+Data retrieved from: https://www.humblebundle.com/books/machine-learning-engineer-masterclass-packt-books
+
+Book 01 - LLM Engineer's Handbook - Paul Iusztin, Maxime Labonne - None found out of 5 (None found reviews)
+Book 02 - Mastering PyTorch - Ashish Ranjan Jha - 4.5 out of 5 (28 reviews)
+Book 03 - The Machine Learning Solutions Architect Handbook - David Ping - 4.3 out of 5 (21 reviews)
+Book 04 - Mastering NLP from Foundations to LLMs - Lior Gazit, Meysam Ghaffari - 4.5 out of 5 (27 reviews)
+Book 05 - Python Machine Learning By Example - Yuxi (Hayden) Liu - 4.3 out of 5 (84 reviews)
+Book 06 - Modern Time Series Forecasting with Python - Manu Joseph, Jeffrey Tackes - 4.9 out of 5 (11 reviews)
+Book 07 - Deep Reinforcement Learning Hands-On - Maxim Lapan - 4.4 out of 5 (173 reviews)
+Book 08 - Python Feature Engineering Cookbook - Soledad Galli - None found out of 5 (None found reviews)
+Book 09 - Hands-On Genetic Algorithms with Python - Eyal Wirsansky - 4.7 out of 5 (4 reviews)
+Book 10 - 15 Math Concepts Every Data Scientist Should Know - David Hoyle - 4.2 out of 5 (7 reviews)
+Book 11 - Artificial Intelligence for Cybersecurity - Bojan Kolosnjaji, Huang Xiao, et al. - None found out of 5 (None found reviews)
+Book 12 - Causal Inference in R - Subhajit Das - 4.7 out of 5 (4 reviews)
+Book 13 - XGBoost for Regression Predictive Modeling and Time Series Analysis - Partha Pritam Deka, Joyce Weiner - None found out of 5 (None found reviews)
+Book 14 - Building LLM Powered Applications - Valentina Alto - 4.5 out of 5 (19 reviews)
+Book 15 - RAG-Driven Generative AI - Denis Rothman - 4.3 out of 5 (17 reviews)
+Book 16 - Bayesian Analysis with Python - Osvaldo Martin, Christopher Fonnesbeck, et al. - 4.6 out of 5 (25 reviews)
+Book 17 - Machine Learning with R - Brett Lantz - None found out of 5 (None found reviews)
+Book 18 - TinyML Cookbook - Gian Marco Iodice - 4.3 out of 5 (21 reviews)
+Book 19 - Machine Learning with PyTorch and Scikit-Learn - Sebastian Raschka, Yuxi (Hayden) Liu, et al. - 4.5 out of 5 (375 reviews)
+Book 20 - Causal Inference and Discovery in Python - Aleksander Molak - 4.5 out of 5 (64 reviews)
+Book 21 - Machine Learning Engineering with Python - Andrew McMahon - 4.7 out of 5 (46 reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: LLM Engineer's Handbook
+Author(s): Paul Iusztin, Maxime Labonne
+---
+ISBN-10: 1836200064 - ISBN-13: 9781836200062 - ASIN: B0D1WR77BZ
+Published Date: 2024-10-22
+---
+HB Blurb: Key FeaturesBuild and refine LLMs step by step, covering data preparation, RAG, and fine-tuningLearn essential skills for deploying and monitoring LLMs, ensuring optimal performance in productionUtilize preference alignment, evaluation, and inference optimization to enhance performance and adaptability of your LLM applicationsWho this book is forThis book is for AI engineers, NLP professionals, and LLM engineers looking to deepen their understanding of LLMs. Basic knowledge of LLMs and the Gen AI landscape, Python and AWS is recommended. Whether you are new to AI or looking to enhance your skills, this book provides comprehensive guidance on implementing LLMs in real-world scenarios
+--------------------------------------------------
+
+Book 02:
+Title: Mastering PyTorch
+Author(s): Ashish Ranjan Jha
+---
+ISBN-10: 1789616409 - ISBN-13: 9781789616408 - ASIN: 1801074305
+Published Date: 2021-02-12
+---
+HB Blurb: Key FeaturesUnderstand how to use PyTorch to build advanced neural network modelsGet the best from PyTorch by working with Hugging Face, fastai, PyTorch Lightning, PyTorch Geometric, Flask, and DockerUnlock faster training with multiple GPUs and optimize model deployment using efficient inference frameworksWho this book is forThis deep learning with PyTorch book is for data scientists, machine learning engineers, machine learning researchers, and deep learning practitioners looking to implement advanced deep learning models using PyTorch. This book is ideal for those looking to switch from TensorFlow to PyTorch. Working knowledge of deep learning with Python is required.
+--------------------------------------------------
+
+Book 03:
+Title: The Machine Learning Solutions Architect Handbook
+Author(s): David Ping
+---
+ISBN-10: 1801070415 - ISBN-13: 9781801070416 - ASIN: 1805122509
+Published Date: 2022-01-21
+---
+HB Blurb: Key FeaturesGo in-depth into the ML lifecycle, from ideation and data management to deployment and scalingApply risk management techniques in the ML lifecycle and design architectural patterns for various ML platforms and solutionsUnderstand the generative AI lifecycle, its core technologies, and implementation risksWho this book is forThis book is for solutions architects working on ML projects, ML engineers transitioning to ML solution architect roles, and MLOps engineers. Additionally, data scientists and analysts who want to enhance their practical knowledge of ML systems engineering, as well as AI/ML product managers and risk officers who want to gain an understanding of ML solutions and AI risk management, will also find this book useful. A basic knowledge of Python, AWS, linear algebra, probability, and cloud infrastructure is required before you get started with this handbook.
+--------------------------------------------------
+
+Book 04:
+Title: Mastering NLP from Foundations to LLMs
+Author(s): Lior Gazit, Meysam Ghaffari
+---
+ISBN-10: 1804616389 - ISBN-13: 9781804616383 - ASIN: 1804619183
+Published Date: 2024-04-26
+---
+HB Blurb: Key FeaturesLearn how to build Python-driven solutions with a focus on NLP, LLMs, RAGs, and GPT Master embedding techniques and machine learning principles for real-world applications Understand the mathematical foundations of NLP and deep learning designs Purchase of the print or Kindle book includes a free PDF eBook  Who this book is forThis book is for deep learning and machine learning researchers, NLP practitioners, ML/NLP educators, and STEM students. Professionals working with text data as part of their projects will also find plenty of useful information in this book. Beginner-level familiarity with machine learning and a basic working knowledge of Python will help you get the best out of this book.
+--------------------------------------------------
+
+Book 05:
+Title: Python Machine Learning By Example
+Author(s): Yuxi (Hayden) Liu
+---
+ISBN-10: 183508222X - ISBN-13: 9781835082225 - ASIN: 1800209711
+Published Date: 2024-07-31
+---
+HB Blurb: Key FeaturesDiscover new and updated content on NLP transformers, PyTorch, and computer vision modelingIncludes a dedicated chapter on best practices and additional best practice tips throughout the book to improve your ML solutionsImplement ML models, such as neural networks and linear and logistic regression, from scratchPurchase of the print or Kindle book includes a free PDF copyWho this book is forThis expanded fourth edition is ideal for data scientists, ML engineers, analysts, and students with Python programming knowledge. The real-world examples, best practices, and code prepare anyone undertaking their first serious ML project.
+--------------------------------------------------
+
+Book 06:
+Title: Modern Time Series Forecasting with Python
+Author(s): Manu Joseph, Jeffrey Tackes
+---
+ISBN-10: 1835883192 - ISBN-13: 9781835883198 - ASIN: B0D6G3SHD6
+Published Date: 2024-10-31
+---
+HB Blurb: Key FeaturesApply ML and global models to improve forecasting accuracy through practical examplesEnhance your time series toolkit by using deep learning models, including RNNs, transformers, and N-BEATSLearn probabilistic forecasting with conformal prediction, Monte Carlo dropout, and quantile regressionsPurchase of the print or Kindle book includes a free eBook in PDF formatWho this book is forThis book is ideal for data scientists, financial analysts, quantitative analysts, machine learning engineers, and researchers who need to model time-dependent data across industries, such as finance, energy, meteorology, risk analysis, and retail. Whether you are a professional looking to apply cutting-edge models to real-world problems or a student aiming to build a strong foundation in time series analysis and forecasting, this book will provide the tools and techniques you need. Familiarity with Python and basic machine learning concepts is recommended.
+--------------------------------------------------
+
+Book 07:
+Title: Deep Reinforcement Learning Hands-On
+Author(s): Maxim Lapan
+---
+ISBN-10: 1838820043 - ISBN-13: 9781838820046 - ASIN: B07ZKDLZCR
+Published Date: 2020-01-31
+---
+HB Blurb: Key FeaturesLearn with concise explanations, modern libraries, and diverse applications from games to stock trading and web navigationDevelop deep RL models, improve their stability, and efficiently solve complex environmentsNew content on RL from human feedback (RLHF), MuZero, and transformersWho this book is forThis book is ideal for machine learning engineers, software engineers, and data scientists looking to learn and apply deep reinforcement learning in practice. It assumes familiarity with Python, calculus, and machine learning concepts. With practical examples and high-level overviews, it’s also suitable for experienced professionals looking to deepen their understanding of advanced deep RL methods and apply them across industries, such as gaming and finance
+--------------------------------------------------
+
+Book 08:
+Title: Python Feature Engineering Cookbook
+Author(s): Soledad Galli
+---
+ISBN-10: 9781804611302 - ISBN-13: 1804611301 - ASIN: B083WHTMRP
+Published Date: 2022-10-31
+---
+HB Blurb: Key FeaturesCraft powerful features from tabular, transactional, and time-series dataDevelop efficient and reproducible real-world feature engineering pipelinesOptimize data transformation and save valuable timePurchase of the print or Kindle book includes a free PDF eBookWho this book is forIf you're a machine learning or data science enthusiast who wants to learn more about feature engineering, data preprocessing, and how to optimize these tasks, this book is for you. If you already know the basics of feature engineering and are looking to learn more advanced methods to craft powerful features, this book will help you. You should have basic knowledge of Python programming and machine learning to get started.
+--------------------------------------------------
+
+Book 09:
+Title: Hands-On Genetic Algorithms with Python
+Author(s): Eyal Wirsansky
+---
+ISBN-10: 1838559183 - ISBN-13: 9781838559182 - ASIN: 1805123793
+Published Date: 2020-01-31
+---
+HB Blurb: Key FeaturesLearn how to implement genetic algorithms using Python libraries DEAP, scikit-learn, and NumPyTake advantage of cloud computing technology to increase the performance of your solutionsDiscover bio-inspired algorithms such as particle swarm optimization (PSO) and NEATPurchase of the print or Kindle book includes a free PDF eBookWho this book is forIf you’re a data scientist, software developer,  AI enthusiast who wants to break into the world of genetic algorithms and apply them to real-world, intelligent applications as quickly as possible, this book is for you. Working knowledge of the Python programming language is required to get started with this book.
+--------------------------------------------------
+
+Book 10:
+Title: 15 Math Concepts Every Data Scientist Should Know
+Author(s): David Hoyle
+---
+ISBN-10: 9781837634187 - ISBN-13: 1837634181 - ASIN: 
+Published Date: 2024-08-16
+---
+HB Blurb: Key FeaturesUnderstand key data science algorithms with Python-based examplesIncrease the impact of your data science solutions by learning how to apply existing algorithmsTake your data science solutions to the next level by learning how to create new algorithmsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for data scientists, machine learning engineers, and data analysts who already use data science tools and libraries but want to learn more about the underlying math. Whether you’re looking to build upon the math you already know, or need insights into when and how to adopt tools and libraries to your data science problem, this book is for you. Organized into essential, general, and selected concepts, this book is for both practitioners just starting out on their data science journey and experienced data scientists.
+--------------------------------------------------
+
+Book 11:
+Title: Artificial Intelligence for Cybersecurity
+Author(s): Bojan Kolosnjaji, Huang Xiao, et al.
+---
+ISBN-10: 9781805124962 - ISBN-13: 180512496X - ASIN: 
+Published Date: 2024-10-31
+---
+HB Blurb: Key FeaturesFamiliarize yourself with AI methods and approaches and see how they fit into cybersecurityLearn how to design solutions in cybersecurity that include AI as a key featureAcquire practical AI skills using step-by-step exercises and code examplesPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for machine learning practitioners looking to apply their skills to overcome cybersecurity challenges. Cybersecurity workers who want to leverage machine learning methods will also find this book helpful. Fundamental concepts of machine learning and beginner-level knowledge of Python programming are needed to understand the concepts present in this book. Whether you’re a student or an experienced professional, this book offers a unique and valuable learning experience that will enable you to protect your network and data against the ever-evolving threat landscape.
+--------------------------------------------------
+
+Book 12:
+Title: Causal Inference in R
+Author(s): Subhajit Das
+---
+ISBN-10: 180323816X - ISBN-13: 9781803238166 - ASIN: 1837639027
+Published Date: 2024-11-29
+---
+HB Blurb: Key FeaturesExplore causal analysis with hands-on R tutorials and real-world examplesGrasp complex statistical methods by taking a detailed, easy-to-follow approachEquip yourself with actionable insights and strategies for making data-driven decisionsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for data practitioners, statisticians, and researchers keen on enhancing their skills in causal inference using R, as well as individuals who aspire to make data-driven decisions in complex scenarios. It serves as a valuable resource for both beginners and experienced professionals in data analysis, public policy, economics, and social sciences. Academics and students looking to deepen their understanding of causal models and their practical implementation will also find it highly beneficial.
+--------------------------------------------------
+
+Book 13:
+Title: XGBoost for Regression Predictive Modeling and Time Series Analysis
+Author(s): Partha Pritam Deka, Joyce Weiner
+---
+ISBN-10: 1805129600 - ISBN-13: 9781805129608 - ASIN: 180512305X
+Published Date: 2024-12-13
+---
+HB Blurb: Key FeaturesGet up and running with this quick-start guide to building a classifier using XGBoostGet an easy-to-follow, in-depth explanation of the XGBoost technical paperLeverage XGBoost for time series forecasting by using moving average, frequency, and window methodsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for data scientists, machine learning practitioners, analysts, and professionals interested in predictive modeling and time series analysis. Basic coding knowledge and familiarity with Python, GitHub, and other DevOps tools are required.
+--------------------------------------------------
+
+Book 14:
+Title: Building LLM Powered Applications
+Author(s): Valentina Alto
+---
+ISBN-10: 1835462634 - ISBN-13: 9781835462638 - ASIN: B0CMD2W6Q5
+Published Date: 2024-05-22
+---
+HB Blurb: Key FeaturesEmbed LLMs into real-world applicationsUse LangChain to orchestrate LLMs and their components within applicationsGrasp basic and advanced techniques of prompt engineeringWho this book is forSoftware engineers and data scientists who want hands-on guidance for applying LLMs to build applications. The book will also appeal to technical leaders, students, and researchers interested in applied LLM topics.We don’t assume previous experience with LLM specifically. But readers should have core ML/software engineering fundamentals to understand and apply the content.
+--------------------------------------------------
+
+Book 15:
+Title: RAG-Driven Generative AI
+Author(s): Denis Rothman
+---
+ISBN-10: 1836200900 - ISBN-13: 9781836200901 - ASIN: B0CW18RC6F
+Published Date: 2024-09-30
+---
+HB Blurb: Key FeaturesImplement RAG’s traceable outputs, linking each response to its source document to build reliable multimodal conversational agentsDeliver accurate generative AI models in pipelines integrating RAG, real-time human feedback improvements, and knowledge graphsBalance cost and performance between dynamic retrieval datasets and fine-tuning static dataWho this book is forThis book is ideal for data scientists, AI engineers, machine learning engineers, and MLOps engineers. If you are a solutions architect, software developer, product manager, or project manager looking to enhance the decision-making process of building RAG applications, then you’ll find this book useful.
+--------------------------------------------------
+
+Book 16:
+Title: Bayesian Analysis with Python
+Author(s): Osvaldo Martin, Christopher Fonnesbeck, et al.
+---
+ISBN-10: 1789349664 - ISBN-13: 9781789349665 - ASIN: B0C5RF22YP
+Published Date: 2018-12-26
+---
+HB Blurb: Key FeaturesConduct Bayesian data analysis with step-by-step guidanceGain insight into a modern, practical, and computational approach to Bayesian statistical modelingEnhance your learning with best practices through sample problems and practice exercisesPurchase of the print or Kindle book includes a free PDF eBook.Who this book is forIf you are a student, data scientist, researcher, or developer looking to get started with Bayesian data analysis and probabilistic programming, this book is for you. The book is introductory, so no previous statistical knowledge is required, although some experience in using Python and scientific libraries like NumPy is expected.
+--------------------------------------------------
+
+Book 17:
+Title: Machine Learning with R
+Author(s): Brett Lantz
+---
+ISBN-10: 1782162151 - ISBN-13: 9781782162155 - ASIN: B00G9581JM
+Published Date: 2013-10-25
+---
+HB Blurb: Key FeaturesGet to grips with the tidyverse, challenging data, and big dataCreate clear and concise data and model visualizations that effectively communicate results to stakeholdersSolve a variety of problems using regression, ensemble methods, clustering, deep learning, probabilistic models, and moreWho this book is forThis book is designed to help data scientists, actuaries, data analysts, financial analysts, social scientists, business and machine learning students, and any other practitioners who want a clear, accessible guide to machine learning with R. No R experience is required, although prior exposure to statistics and programming is helpful.
+--------------------------------------------------
+
+Book 18:
+Title: TinyML Cookbook
+Author(s): Gian Marco Iodice
+---
+ISBN-10: 1801812632 - ISBN-13: 9781801812634 - ASIN: 1837637369
+Published Date: 2022-04-01
+---
+HB Blurb: Key FeaturesOver 20+ new recipes, including recognizing music genres and detecting objects in a sceneCreate practical examples using TensorFlow Lite for Microcontrollers, Edge Impulse, and moreExplore cutting-edge technologies, such as on-device training for updating models without data leaving the deviceWho this book is forThis book is ideal for machine learning engineers or data scientists looking to build embedded/edge ML applications and IoT developers who want to add machine learning capabilities to their devices. If you’re an engineer, student, or hobbyist interested in exploring tinyML, then this book is your perfect companion.Basic familiarity with C/C++ and Python programming is a prerequisite; however, no prior knowledge of microcontrollers is necessary to get started with this book.
+--------------------------------------------------
+
+Book 19:
+Title: Machine Learning with PyTorch and Scikit-Learn
+Author(s): Sebastian Raschka, Yuxi (Hayden) Liu, et al.
+---
+ISBN-10: 1801816387 - ISBN-13: 9781801816380 - ASIN: 1801819319
+Published Date: 2022-02-25
+---
+HB Blurb: Key FeaturesLearn applied machine learning with a solid foundation in theoryClear, intuitive explanations take you deep into the theory and practice of Python machine learningFully updated and expanded to cover PyTorch, transformers, XGBoost, graph neural networks, and best practicesWho this book is forIf you have a good grasp of Python basics and want to start learning about machine learning and deep learning, then this is the book for you. This is an essential resource written for developers and data scientists who want to create practical machine learning and deep learning applications using scikit-learn and PyTorch.Before you get started with this book, you’ll need a good understanding of calculus, as well as linear algebra.
+--------------------------------------------------
+
+Book 20:
+Title: Causal Inference and Discovery in Python
+Author(s): Aleksander Molak
+---
+ISBN-10: 9781804612989 - ISBN-13: 1804612987 - ASIN: B0C4LKQ1X7
+Published Date: 2023-05-31
+---
+HB Blurb: Key FeaturesExamine Pearlian causal concepts such as structural causal models, interventions, counterfactuals, and moreDiscover modern causal inference techniques for average and heterogenous treatment effect estimationExplore and leverage traditional and modern causal discovery methodsWho this book is forThis book is for machine learning engineers, researchers, and data scientists looking to extend their toolkit and explore causal machine learning. It will also help people who’ve worked with causality using other programming languages and now want to switch to Python, those who worked with traditional causal inference and want to learn about causal machine learning, and tech-savvy entrepreneurs who want to go beyond the limitations of traditional ML. You are expected to have basic knowledge of Python and Python scientific libraries along with knowledge of basic probability and statistics.
+--------------------------------------------------
+
+Book 21:
+Title: Machine Learning Engineering with Python
+Author(s): Andrew McMahon
+---
+ISBN-10: 180107710X - ISBN-13: 9781801077101 - ASIN: B0BXXQJC2D
+Published Date: 2021-11-05
+---
+HB Blurb: Key FeaturesThis second edition delves deeper into key machine learning topics, CI/CD, and system designExplore core MLOps practices, such as model management and performance monitoringBuild end-to-end examples of deployable ML microservices and pipelines using AWS and open-source toolsWho this book is forThis book is designed for MLOps and ML engineers, data scientists, and software developers who want to build robust solutions that use machine learning to solve real-world problems. If you’re not a developer but want to manage or understand the product lifecycle of these systems, you’ll also find this book useful. It assumes a basic knowledge of machine learning concepts and intermediate programming experience in Python. With its focus on practical skills and real-world examples, this book is an essential resource for anyone looking to advance their machine learning engineering career.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - LLM Engineer's Handbook
+No Amazon.com URL found
+https://www.amazon.co.uk/LLM-Engineers-Handbook-engineering-production-ebook/dp/B0D1WR77BZ
+http://books.google.co.uk/books?id=jHEqEQAAQBAJ&printsec=frontcover&dq=intitle:LLM+Engineer%27s+Handbook%2Binauthor:Paul+Iusztin,+Maxime+Labonne&hl=&cd=1&source=gbs_api
+
+Book 02 - Mastering PyTorch
+https://www.amazon.com/Mastering-PyTorch-powerful-learning-architectures/dp/1801074305
+https://www.amazon.co.uk/Mastering-PyTorch-powerful-learning-architectures-ebook/dp/B0BJ62TKC6
+http://books.google.co.uk/books?id=C7EVEAAAQBAJ&printsec=frontcover&dq=intitle:Mastering+PyTorch%2Binauthor:Ashish+Ranjan+Jha&hl=&cd=1&source=gbs_api
+
+Book 03 - The Machine Learning Solutions Architect Handbook
+https://www.amazon.com/Machine-Learning-Solutions-Architect-Handbook/dp/1805122509
+https://www.amazon.co.uk/Machine-Learning-Solutions-Architect-Handbook-ebook/dp/B0CDPWLD7T
+http://books.google.co.uk/books?id=dllVEAAAQBAJ&printsec=frontcover&dq=intitle:The+Machine+Learning+Solutions+Architect+Handbook%2Binauthor:David+Ping&hl=&cd=1&source=gbs_api
+
+Book 04 - Mastering NLP from Foundations to LLMs
+https://www.amazon.com/Mastering-NLP-Foundations-LLMs-Techniques/dp/1804619183
+https://www.amazon.co.uk/Mastering-NLP-Foundations-LLMs-rule-based-ebook/dp/B0CHMC6J8T
+http://books.google.co.uk/books?id=FzcAEQAAQBAJ&printsec=frontcover&dq=intitle:Mastering+NLP+from+Foundations+to+LLMs%2Binauthor:Lior+Gazit,+Meysam+Ghaffari&hl=&cd=1&source=gbs_api
+
+Book 05 - Python Machine Learning By Example
+https://www.amazon.com/Python-Machine-Learning-Example-scikit-learn/dp/1800209711
+https://www.amazon.co.uk/Python-Machine-Learning-Example-real-world-ebook/dp/B0CP6JFCQQ
+http://books.google.co.uk/books?id=VTMTEQAAQBAJ&printsec=frontcover&dq=intitle:Python+Machine+Learning+By+Example%2Binauthor:Yuxi+(Hayden)+Liu&hl=&cd=1&source=gbs_api
+
+Book 06 - Modern Time Series Forecasting with Python
+https://www.amazon.com/Modern-Time-Forecasting-Python-Industry-ready/dp/B0D6G3SHD6
+https://www.amazon.co.uk/Modern-Time-Forecasting-Python-Industry-ready/dp/B0D6G3SHD6
+http://books.google.co.uk/books?id=FCQtEQAAQBAJ&printsec=frontcover&dq=intitle:Modern+Time+Series+Forecasting+with+Python%2Binauthor:Manu+Joseph,+Jeffrey+Tackes&hl=&cd=1&source=gbs_api
+
+Book 07 - Deep Reinforcement Learning Hands-On
+https://www.amazon.com/Deep-Reinforcement-Learning-Hands-optimization-ebook/dp/B07ZKDLZCR
+https://www.amazon.co.uk/Deep-Reinforcement-Learning-Hands-Q-networks-ebook/dp/B076H9VQH6
+http://books.google.co.uk/books?id=O0vODwAAQBAJ&printsec=frontcover&dq=intitle:Deep+Reinforcement+Learning+Hands-On%2Binauthor:Maxim+Lapan&hl=&cd=1&source=gbs_api
+
+Book 08 - Python Feature Engineering Cookbook
+No Amazon.com URL found
+https://www.amazon.co.uk/Python-Feature-Engineering-Cookbook-transforming-ebook/dp/B083WHTMRP
+http://books.google.co.uk/books?id=JiV5zwEACAAJ&dq=intitle:Python+Feature+Engineering+Cookbook%2Binauthor:Soledad+Galli&hl=&cd=1&source=gbs_api
+
+Book 09 - Hands-On Genetic Algorithms with Python
+https://www.amazon.com/Hands-Genetic-Algorithms-Python-algorithms/dp/1805123793
+https://www.amazon.co.uk/Hands-Genetic-Algorithms-Python-intelligence/dp/1838557741
+http://books.google.co.uk/books?id=A0vODwAAQBAJ&printsec=frontcover&dq=intitle:Hands-On+Genetic+Algorithms+with+Python%2Binauthor:Eyal+Wirsansky&hl=&cd=1&source=gbs_api
+
+Book 10 - 15 Math Concepts Every Data Scientist Should Know
+https://www.amazon.com/Math-Concepts-Every-Scientist-Should/dp/1837634181
+https://www.amazon.co.uk/Math-Concepts-Every-Scientist-Should/dp/1837634181
+http://books.google.co.uk/books?id=9Sba0AEACAAJ&dq=intitle:15+Math+Concepts+Every+Data+Scientist+Should+Know%2Binauthor:David+Hoyle&hl=&cd=1&source=gbs_api
+
+Book 11 - Artificial Intelligence for Cybersecurity
+https://www.amazon.com/Artificial-Intelligence-Cybersecurity-intersects-organization/dp/180512496X
+https://www.amazon.co.uk/Artificial-Intelligence-Cybersecurity-intersects-organization/dp/180512496X
+http://books.google.co.uk/books?id=32yO0AEACAAJ&dq=intitle:Artificial+Intelligence+for+Cybersecurity%2Binauthor:Bojan+Kolosnjaji,+Huang+Xiao,+et+al.&hl=&cd=1&source=gbs_api
+
+Book 12 - Causal Inference in R
+https://www.amazon.com/Causal-Inference-relationships-data-driven-decision-making/dp/1837639027
+https://www.amazon.co.uk/Causal-Inference-relationships-data-driven-decision-making/dp/1837639027
+http://books.google.co.uk/books?id=b3AvEQAAQBAJ&printsec=frontcover&dq=intitle:Causal+Inference+in+R%2Binauthor:Subhajit+Das&hl=&cd=1&source=gbs_api
+
+Book 13 - XGBoost for Regression Predictive Modeling and Time Series Analysis
+https://www.amazon.com/XGBoost-Regression-Predictive-Modeling-Analysis/dp/180512305X
+https://www.amazon.co.uk/XGBoost-Regression-Predictive-Modeling-Analysis/dp/180512305X
+http://books.google.co.uk/books?id=bykyEQAAQBAJ&printsec=frontcover&dq=intitle:XGBoost+for+Regression+Predictive+Modeling+and+Time+Series+Analysis%2Binauthor:Partha+Pritam+Deka,+Joyce+Weiner&hl=&cd=1&source=gbs_api
+
+Book 14 - Building LLM Powered Applications
+https://www.amazon.com/Building-LLM-Apps-Intelligent-Language-ebook/dp/B0CMD2W6Q5
+https://www.amazon.co.uk/Building-LLM-Apps-Intelligent-Language-ebook/dp/B0CMD2W6Q5
+http://books.google.co.uk/books?id=P1oIEQAAQBAJ&printsec=frontcover&dq=intitle:Building+LLM+Powered+Applications%2Binauthor:Valentina+Alto&hl=&cd=1&source=gbs_api
+
+Book 15 - RAG-Driven Generative AI
+https://www.amazon.com/RAG-Driven-Generative-retrieval-generation-LlamaIndex-ebook/dp/B0CW18RC6F
+https://www.amazon.co.uk/RAG-Driven-Generative-retrieval-generation-LlamaIndex-ebook/dp/B0CW18RC6F
+http://books.google.co.uk/books?id=KJgkEQAAQBAJ&printsec=frontcover&dq=intitle:RAG-Driven+Generative+AI%2Binauthor:Denis+Rothman&hl=&cd=1&source=gbs_api
+
+Book 16 - Bayesian Analysis with Python
+https://www.amazon.com/Bayesian-Analysis-Python-Practical-probabilistic-ebook/dp/B0C5RF22YP
+https://www.amazon.co.uk/Bayesian-Analysis-Python-Practical-probabilistic/dp/1805127160
+http://books.google.co.uk/books?id=1Z2BDwAAQBAJ&printsec=frontcover&dq=intitle:Bayesian+Analysis+with+Python%2Binauthor:Osvaldo+Martin,+Christopher+Fonnesbeck,+et+al.&hl=&cd=1&source=gbs_api
+
+Book 17 - Machine Learning with R
+No Amazon.com URL found
+https://www.amazon.co.uk/Machine-Learning-R-Brett-Lantz-ebook/dp/B00G9581JM
+http://books.google.co.uk/books?id=ZQu8AQAAQBAJ&printsec=frontcover&dq=intitle:Machine+Learning+with+R%2Binauthor:Brett+Lantz&hl=&cd=1&source=gbs_api
+
+Book 18 - TinyML Cookbook
+https://www.amazon.com/TinyML-Cookbook-learning-microcontrollers-real-world/dp/1837637369
+https://www.amazon.co.uk/TinyML-Cookbook-learning-microcontrollers-real-world-ebook/dp/B0C33N9KH6
+http://books.google.co.uk/books?id=SfliEAAAQBAJ&printsec=frontcover&dq=intitle:TinyML+Cookbook%2Binauthor:Gian+Marco+Iodice&hl=&cd=1&source=gbs_api
+
+Book 19 - Machine Learning with PyTorch and Scikit-Learn
+https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning/dp/1801819319
+https://www.amazon.co.uk/Machine-Learning-PyTorch-Scikit-Learn-learning/dp/1801819319
+http://books.google.co.uk/books?id=SVxaEAAAQBAJ&printsec=frontcover&dq=intitle:Machine+Learning+with+PyTorch+and+Scikit-Learn%2Binauthor:Sebastian+Raschka,+Yuxi+(Hayden)+Liu,+et+al.&hl=&cd=1&source=gbs_api
+
+Book 20 - Causal Inference and Discovery in Python
+https://www.amazon.com/Causal-Inference-Discovery-Python-learning-ebook/dp/B0C4LKQ1X7
+https://www.amazon.co.uk/Causal-Inference-Discovery-Python-learning/dp/1804612987
+http://books.google.co.uk/books?id=XNf8zwEACAAJ&dq=intitle:Causal+Inference+and+Discovery+in+Python%2Binauthor:Aleksander+Molak&hl=&cd=1&source=gbs_api
+
+Book 21 - Machine Learning Engineering with Python
+https://www.amazon.com/Machine-Learning-Engineering-Python-lifecycle-ebook/dp/B0BXXQJC2D
+https://www.amazon.co.uk/Machine-Learning-Engineering-Python-production-ebook/dp/B09CHHK2RJ
+http://books.google.co.uk/books?id=Wo5FEAAAQBAJ&printsec=frontcover&dq=intitle:Machine+Learning+Engineering+with+Python%2Binauthor:Andrew+McMahon&hl=&cd=1&source=gbs_api
+
