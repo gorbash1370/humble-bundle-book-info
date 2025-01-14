@@ -1,0 +1,1636 @@
+Humble RPG Bundle- 5th Edition Adventures, Crafting, Monsters and VTT Assets - Frog God Games
+Processing date: 2025-01-12
+Data retrieved from: https://www.humblebundle.com/books/5th-edition-adventures-crafting-monsters-and-vtt-assets-books
+
+Book 01 - Deck of Dirty Tricks Vol 1. - Frog God Games - None found out of 5 (None found reviews)
+Book 02 - Endless Encounters: Dungeons - Pacesetter Games - None found out of 5 (None found reviews)
+Book 03 - The Ultimate Guide to Alchemy, Crafting, and Enchanting - Nord Games - 4.7 out of 5 (43 reviews)
+Book 04 - Splinters of Faith 2022 5e - Frog God Games - None found out of 5 (None found reviews)
+Book 05 - Ultimate Bestiary - The Dreaded Accursed - Nord Games - 4.7 out of 5 (246 reviews)
+Book 06 - Splinters of Faith 2022 VTT Asset Pack - Frog God Games - None found out of 5 (None found reviews)
+Book 07 - Whisper & Venom 5e - Frog God Games - None found out of 5 (None found reviews)
+Book 08 - Whisper & Venom VTT Asset Pack - Frog God Games - None found out of 5 (None found reviews)
+Book 09 - The Ultimate Guide to Foraging, Harvesting & Natural Discovery - Nord Games - None found out of 5 (None found reviews)
+Book 10 - Treacherous Traps - Nord Games - 5 out of 5 (2 reviews)
+Book 11 - Ultimate Bestiary - Revenge of the Horde - Nord Games - 4.8 out of 5 (80 reviews)
+Book 12 - Ultimate NPCs - Skulduggery - Nord Games - 4.7 out of 5 (54 reviews)
+Book 13 - Ultimate NPCs - Warfare - Nord Games - 4.8 out of 5 (46 reviews)
+Book 14 - Elements of Inspiration - Nord Games - 4.5 out of 5 (2 reviews)
+Book 15 - Objects of Intrigue - Nord Games - 5 out of 5 (1 reviews)
+Book 16 - Records of the Faithful: Journeys of Faith (A Splinters of Faith Map Folio) - Frog God Games - None found out of 5 (None found reviews)
+Book 17 - Sea King's Malice 5e - Frog God Games - 5 out of 5 (2 reviews)
+Book 18 - The Lost Triptych - Pacesetter Games - None found out of 5 (None found reviews)
+Book 19 - Path of the Vanished - Pacesetter Games - None found out of 5 (None found reviews)
+Book 20 - Tome of Quests - Pacesetter Games - None found out of 5 (None found reviews)
+Book 21 - Tome of Horrors 2020 Cards Deck ONE - Frog God Games - None found out of 5 (None found reviews)
+Book 22 - Tome of Horrors 2020 Cards Deck TWO - Frog God Games - 4.9 out of 5 (40 reviews)
+Book 23 - Tome of Horrors 2020 Cards Deck THREE - Frog God Games - None found out of 5 (None found reviews)
+Book 24 - Into the Unknown - Pacesetter Games - 3.4 out of 5 (4 reviews)
+Book 25 - Book of Beginnings - Pacesetter Games - None found out of 5 (None found reviews)
+Book 26 - Exwyn's Handbook to Heroism - Pacesetter Games - None found out of 5 (None found reviews)
+Book 27 - Cry Havoc! (Dogs of Orcus) - Frog God Games - None found out of 5 (None found reviews)
+Book 28 - Sea King's Malice: VTT Asset Pack - Frog God Games - None found out of 5 (None found reviews)
+Book 29 - Sea King's Malice Art Book - Frog God Games - 5 out of 5 (2 reviews)
+Book 30 - Deck of Dirty Tricks Vol 2. - Frog God Games - None found out of 5 (None found reviews)
+Book 31 - Deck of Dirty Tricks Vol 3. - Frog God Games - None found out of 5 (None found reviews)
+Book 32 - Records of Faith: GM's Journal (A Splinters of Faith 2022 Supplement) - Frog God Games - None found out of 5 (None found reviews)
+Book 33 - Records of Faith: Player's Journal (A Splinters of Faith 2022 Supplement) - Frog God Games - None found out of 5 (None found reviews)
+Book 34 - Undead Horrors - Frog God Games - 4.1 out of 5 (57 reviews)
+Book 35 - A Watery Death - Frog God Games - None found out of 5 (None found reviews)
+Book 36 - All Creatures Great and Small - Frog God Games - None found out of 5 (None found reviews)
+Book 37 - Terrible Trouble - Frog God Games - None found out of 5 (None found reviews)
+Book 38 - Wings and Weather - Frog God Games - None found out of 5 (None found reviews)
+Book 39 - Giants and Other Problem - Frog God Games - None found out of 5 (None found reviews)
+Book 40 - Demons - Frog God Games - 4.1 out of 5 (5 reviews)
+Book 41 - Abberations and Celestials - Frog God Games - None found out of 5 (None found reviews)
+Book 42 - Dinosaurs and More - Frog God Games - None found out of 5 (None found reviews)
+Book 43 - Dragons, Elementals, Fey, and Giants - Frog God Games - None found out of 5 (None found reviews)
+Book 44 - Fiends and Demons - Frog God Games - None found out of 5 (None found reviews)
+Book 45 - Powers of the Planes - Frog God Games - 0 out of 5 (11 reviews)
+Book 46 - Ships, Docks, and Other Moving Structures 1 - Frog God Games - None found out of 5 (None found reviews)
+Book 47 - Ships, Docks, and Other Moving Structures 2 - Frog God Games - None found out of 5 (None found reviews)
+Book 48 - Ships, Docks, and Other Moving Structures 3 - Frog God Games - None found out of 5 (None found reviews)
+Book 49 - Islands 1 - Frog God Games - None found out of 5 (None found reviews)
+Book 50 - Islands 2 - Frog God Games - None found out of 5 (None found reviews)
+Book 51 - Islands 3 - Frog God Games - None found out of 5 (None found reviews)
+Book 52 - City 1 - Frog God Games - None found out of 5 (None found reviews)
+Book 53 - City 3 - Frog God Games - 4.5 out of 5 (2 reviews)
+Book 54 - City 2 - Frog God Games - 4.5 out of 5 (2 reviews)
+Book 55 - Coast and Shorefront 1 - Frog God Games - None found out of 5 (None found reviews)
+Book 56 - Coast and Shorefront 2 - Frog God Games - 0 out of 5 (2 reviews)
+Book 57 - Coast and Shorefront 3 - Frog God Games - None found out of 5 (None found reviews)
+Book 58 - New Old-School Preview - Frog God Games - None found out of 5 (None found reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Deck of Dirty Tricks Vol 1.
+Author(s): Frog God Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: Made for use during game sessions to encourage unexpected events and player interactivity. With suggestions for changes in the narration and their potential mechanical implications. It is system neutral but works best with any one of the many variations of the world’s most popular roleplaying game.
+--------------------------------------------------
+
+Book 02:
+Title: Endless Encounters: Dungeons
+Author(s): Pacesetter Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: Within these pages are dozens of charts for each level (1-10) that generate memorable encounters with just a few dice rolls. Whether you need to add an encounter to your adventure or design an entire dungeon, EE: Dungeons is an exhaustive resource and easy to use. Charts include everything you need to create an amazing encounter including illumination, room type, room contents, traps, monsters (full statistic blocks), treasures, and much more. EE: Dungeons also has 53 new monsters and 64 new magical items! Of course there is more in the form of a complete sample dungeon for each level with room descriptions and full-color map. All ten levels connect and form a mega-dungeon with more than 500 encounters! EE: Dungeons is designed for use with the 5e RPG and compatible with all other OSR classic game systems based on the world’s largest fantasy RPG. Endless Encounters: Dungeons is an encounter and adventure generator for characters level 1-10 using the 5th edition game system!
+--------------------------------------------------
+
+Book 03:
+Title: The Ultimate Guide to Alchemy, Crafting, and Enchanting
+Author(s): Nord Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1946669474
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (43 reviews)
+Amazon.com URL: https://www.amazon.com/Ultimate-Guide-Alchemy-Crafting-Enchanting/dp/1946669474
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Ultimate-Guide-Alchemy-Crafting-Enchanting/dp/1946669474
+---
+HB Blurb: Crafting & Enchanting is a comprehensive companion for not only magic items, but organically integrating item creation into your 5E games. Rise through the ranks of the associations that oversee the varied studies of alchemy, crafting, and enchanting. Each rank comes with new recipes and benefits, but be careful, because if you don’t adhere to the association’s principles, you could fall into bad standing, or worse. Don't worry - for the rule-breakers and rebels, there’s always the black market... Finally, this book contains tables for the harvesting and foraging of ingredients, hundreds of recipes for both new and existing items, and 200 brand new, ready-to-use magic items. With this guide’s help, you can become a master crafter, and forge some of the most powerful artifacts the realms have ever seen.
+--------------------------------------------------
+
+Book 04:
+Title: Splinters of Faith 2022 5e
+Author(s): Frog God Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 166560526X
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Splinters-Faith-2022-5e-PB/dp/166560526X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Splinters-Faith-2022-5e-PB/dp/166560526X
+---
+HB Blurb: Splinters of Faith is a series of 11 linked adventures centered on stopping the return of the dread death-priest Akruel Rathamon and his undead minions. The campaign takes characters across hundreds of miles as they race to different temples to restore the broken Scepter of Faiths, a powerful weapon that once stopped the warlord. It all starts when some chickens go missing. But this fowl beginning might mean a foul ending for your characters. The Splinters of Faith Campaign is a series of linked adventures that starts with a few chickens going missing and eventually leads to a deadly confrontation with a reawakened death-priest. Along the way, characters must recreate a relic called the scepter of faiths to aid them when they finally face off against the death-priest. This campaign is designed to take characters from 1st level all the way to 14th level or higher.
+--------------------------------------------------
+
+Book 05:
+Title: Ultimate Bestiary - The Dreaded Accursed
+Author(s): Nord Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1946669431
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (246 reviews)
+Amazon.com URL: https://www.amazon.com/Ultimate-Bestiary-Accursed-Nord-Games/dp/1946669431
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Ultimate-Bestiary-Accursed-Nord-Games/dp/1946669431
+---
+HB Blurb: Ultimate Bestiary: The Dreaded Accursed presents a variety of the classic undead and cursed creatures, including ghosts, ghouls, liches, lycanthropes and vampires, fleshing out their origins, habits and habitats, and introducing a wealth of stat blocks to challenge your players from level one to the end of their adventuring careers.
+--------------------------------------------------
+
+Book 06:
+Title: Splinters of Faith 2022 VTT Asset Pack
+Author(s): Frog God Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: These are the maps and tokens for the adventure, Splinters of Faith, but they can be used for any adventure.
+--------------------------------------------------
+
+Book 07:
+Title: Whisper & Venom 5e
+Author(s): Frog God Games
+---
+ISBN-10: 9781622835027 - ISBN-13: 1622835026 - ASIN: 1665605022
+Published Date: 2018-08
+Page Count: None
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=DJbCtgEACAAJ&dq=intitle:Whisper+%26+Venom+5e%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Whisper-Venom-5e-Zach-Glazar/dp/1665605022
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Whisper-Venom-5e-Zach-Glazar/dp/1665605022
+---
+HB Blurb: Whisper & Venom is a setting and adventure located in the Whisper Vale, an isolated community of insular villagers beset by an outside supernatural force and hardships of their own making. Whisper & Venom is an epic adventure designed to be deadly for parties of 4–8 Old-School Essentials characters of levels 3–5 or 4–8 Fifth Edition (5e) Tier One characters (henchmen available, but not included) and useful to players, gamemasters, and referees.
+--------------------------------------------------
+
+Book 08:
+Title: Whisper & Venom VTT Asset Pack
+Author(s): Frog God Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: These are the maps and tokens for the adventure, Whisper & Venom, but they can be used for any mountainous or tundra-themed adventure.
+--------------------------------------------------
+
+Book 09:
+Title: The Ultimate Guide to Foraging, Harvesting & Natural Discovery
+Author(s): Nord Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1946669628
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Nord-Games-Ultimate-Harvesting-Discovery/dp/1946669628
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: The Ultimate Guide to Foraging, Harvesting & Natural Discovery is the follow-up to our ever-popular Ultimate Guide to Alchemy, Crafting & Enchanting. In that book, we provided a framework for player characters to create their own magical and non magical items in their 5th Edition D&D campaigns. This book expands on the Foraging and Harvesting appendices from Alchemy, Crafting & Enchanting, as well as offering new player options for downtime activities that allow them to upgrade items, advance in their guild, and enrich their character with new experiences outside of adventuring. It also continues the Magic Item Compendium, originally found in Alchemy, Crafting & Enchanting, with its own chapter featuring 200 new magic items.
+--------------------------------------------------
+
+Book 10:
+Title: Treacherous Traps
+Author(s): Nord Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1946669598
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (2 reviews)
+Amazon.com URL: https://www.amazon.com/Nord-Games-Treacherous-Storytelling-Roleplaying/dp/1946669598
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Treacherous-Traps-Nord-Games/dp/1946669369
+---
+HB Blurb: Treacherous Traps is an incredible resource for game masters looking to get more out of their dungeon design. Contained within are over 250 pre-built traps ranging in level and lethality, so that you can always find the perfect trap to challenge your players. Also included is a random trap generator, consisting of 50 trap triggers and 50 trap effects that, when combined, create up to 2,500 different combinations. Along with the tips and tricks for using traps, puzzles, and riddles in your fantasy games, Treacherous Traps is the perfect accessory for any dungeon architect!
+--------------------------------------------------
+
+Book 11:
+Title: Ultimate Bestiary - Revenge of the Horde
+Author(s): Nord Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1946669016
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.8 of 5 (80 reviews)
+Amazon.com URL: https://www.amazon.com/Game-Masters-Toolbox-Ultimate-Bestiary/dp/1946669016
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: UNLEASH THE HORDE! Ultimate Bestiary: Revenge of the Horde is not another A-Z of monsters. Instead, we have focused on some of the commonly encountered monstrous races like goblins, gnolls, and orcs. Detailing their cultures, environments, and attitudes; as well as introducing a wide variety of stat blocks to suit a range of challenge levels, each with their own unique artwork.
+--------------------------------------------------
+
+Book 12:
+Title: Ultimate NPCs - Skulduggery
+Author(s): Nord Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1946669229
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (54 reviews)
+Amazon.com URL: https://www.amazon.com/Nord-Games-Dungeons-Dragons-5th/dp/1946669229
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: Step into the tavern. The rooms are warm (ish), and the rates are low (almost suspiciously so), just don't ask what's in the pies and don't expect to have all your valuables come morning. A tool for Games Masters and Players alike, Ultimate NPCs: Skulduggery features: A full-world character collection Game backstories Character quick-reference stats NPC or player character options Occupying the seedy tap-houses and criminal underbelly of civilization, you'll find a variety of thieves, assassins and mercenaries within, each with the backstory and statistics necessary to run as an NPC or player character in your favorite tabletop RPG game. So pull up a stool, try the ale (don't mind the lumps), and meet the regulars… Product Specs: 30 finely crafted NPCs (levels 1, 4, 8, 12, 16, and 20) 180 unique characters Compatible with 5th Edition.
+--------------------------------------------------
+
+Book 13:
+Title: Ultimate NPCs - Warfare
+Author(s): Nord Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1946669261
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.8 of 5 (46 reviews)
+Amazon.com URL: https://www.amazon.com/Game-Masters-Toolbox-Ultimate-Warfare/dp/1946669261
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: In this tome you will find 30 finely crafted NPCs stated out at levels 1, 4, 8, 12, 16, and 20. This produces 180 unique characters with backstories, personality traits, role playing cues, unique items, and more! Compatible with 5th Edition. Make sure to get your copy today!
+--------------------------------------------------
+
+Book 14:
+Title: Elements of Inspiration
+Author(s): Nord Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1946669563
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.5 of 5 (2 reviews)
+Amazon.com URL: https://www.amazon.com/Nord-Games-Inspiration-Storytelling-Exploration/dp/1946669563
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: Set off for adventure with Elements of Inspiration - our most expansive, detailed, and dynamic tool for fantasy roleplaying games and storytelling yet. This PDF contains exploration, roleplay, and combat encounter cues, each for a different environment, for fantasy roleplaying games, writers, and storytellers. No matter where your heroes roam, exciting events are ready for them to experience, with each deck based on an environment found in fantasy adventures, including: Deserts, Forests, Mountains, Plains, Swamps, Tundra, Underground, Urban, and Waterways
+--------------------------------------------------
+
+Book 15:
+Title: Objects of Intrigue
+Author(s): Nord Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 194666958X
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (1 reviews)
+Amazon.com URL: https://www.amazon.com/Nord-Games-Storytelling-Environments-Roleplaying/dp/194666958X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: Objects of Intrigue can be used to generate random quest starters, monster encounters, and exciting trinkets in a variety of environments. Outcome has four possible outcomes for added versatility. This PDF contains five uniquely themed sections, sorted by environment including: Dungeon Underground Urban Waterways Wilderlands
+--------------------------------------------------
+
+Book 16:
+Title: Records of the Faithful: Journeys of Faith (A Splinters of Faith Map Folio)
+Author(s): Frog God Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1665605510
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Journeys-Faith-Splinters-Mapbook-Faithful/dp/1665605510
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Journeys-Faith-Splinters-Mapbook-Faithful/dp/1665605510
+---
+HB Blurb: Compatible with Frog God Games Splinters of Faith, a continent-spanning quest beginning with a fowl and culminating in a fight against formidable wickedness, the maps provide various topographical settings for the campaign or can be customized for use in your own world, such as pastoral hamlets, subterranean mines, and monumental sanctuaries. This book boasts vivid, landscape-oriented maps from Splinters of Faith, crafted by the author to provide a reliable, aesthetically pleasing reference during gameplay.
+--------------------------------------------------
+
+Book 17:
+Title: Sea King's Malice 5e
+Author(s): Frog God Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1622837290
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (2 reviews)
+Amazon.com URL: https://www.amazon.com/Sea-Kings-Malice-Alex-Kammer/dp/1622837290
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Sea-Kings-Malice-5th-Edition/dp/1622837274
+---
+HB Blurb: In the murky depths sits a brooding menace, ancient, indescribably evil, and ravenously hungry. Perched on his massive throne, the Sea King dreams of his massive jaws bathing in runnels of fresh land-dweller blood. He dreams of the ecstasy of rending air-breather flesh. His hate-filled dreams suffuse him with visions of presiding over a glorious and bloody feast where his despised enemies — those both above and below the waves — drown in a tide of their own blood, torn apart by his fierce warriors. In this sprawling adventure, the characters will come face to face with this terrible menace. Only the most stalwart and bravest of heroes will have any chance of surviving the hazards of the open sea and the perils of other strange and yet unknown lands, both above and below the waves, as they search for clues surrounding the disappearance of the missing ship. For in the sea-green depths a brooding menace awaits them, filled with inhuman hatred of all things of the surface world. The adventurers’ journey will end — one way or the other — in the Court of the terrifying Sea King. This edge-of-your-seat 5e adventure takes characters to level 10.
+--------------------------------------------------
+
+Book 18:
+Title: The Lost Triptych
+Author(s): Pacesetter Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: B006M6LVHC
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4 of 5 (186 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Lost-Triptych-Danny-Rawlings-Mysteries-ebook/dp/B006M6LVHC
+---
+HB Blurb: Minions of a rival deity have stolen a sacred artifact of your order with the intent to transform it to suit their own nefarious machinations. They have brought the holy device to the Mountain of Whispers, the stomping grounds of evil sycophants and zealot soldiers who serve the goddess Egramish without question. Your precious artifact has been broken into separate pieces and hidden in secret locations to make it harder for your order to recover. No doubt, the high priest Miltotok is preparing the rituals and spells to make the device a vessel for evil at this very moment. Is your faith strong enough to endure the evil horrors of the mountain, where your gods can barely be felt? Can you persevere through overwhelming odds to defeat Egramish and recover the Lost Triptych? The Lost Triptych is a campaign for characters level 8-12 for the 5th Edition game system!
+--------------------------------------------------
+
+Book 19:
+Title: Path of the Vanished
+Author(s): Pacesetter Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: It has been 50 years since the purple-sailed ships terrorized the coasts; however, they have returned, and this time they have become more ruthless and horrifically efficient. Entire villages disappear in a single night; no survivor nor corpse has been recovered. Darker still is the purpose that drives these new Raiders as those that they captured do not appear in any of the black markets, near or far. A brave group of adventurers managed to defeat the Raiders in the past, and such a group must be summoned to follow the Path of the Vanished! Path of the Vanished is designed for characters levels 1-10 for the 5th Edition game system.
+--------------------------------------------------
+
+Book 20:
+Title: Tome of Quests
+Author(s): Pacesetter Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: The Tome of Quests: Volume One is an adventure compendium for the 5th Edition game system! This tome will take you through five adventures that can be run separately or linked together with a seamless and compelling narrative. Each adventure features full color art and maps as well as new magic items and monsters to challenge, and reward, your players!The Tome of Quests has been in the works at Pacesetter Games for over 10 years! Each adventure featured in Volume One comes from the very first year as a publishing company. Now years later, we have updated the adventures and given them the posh upgrades they deserve! Now is a better time than ever to start adding Pacesetter legacy works to your library!
+--------------------------------------------------
+
+Book 21:
+Title: Tome of Horrors 2020 Cards Deck ONE
+Author(s): Frog God Games
+---
+ISBN-10: 9781622835027 - ISBN-13: 1622835026 - ASIN: 1665601175
+Published Date: 2018-08
+Page Count: None
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=DJbCtgEACAAJ&dq=intitle:Tome+of+Horrors+2020+Cards+Deck+ONE%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Frog-God-Games-Horrors-Deck/dp/1665601175
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (61 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Horrors-5e-Frog-God-Games/dp/1622838289
+---
+HB Blurb: Game Masters, lighten your workload with Tome of Horrors Monster Cards. These cards can help you quickly set up your games. Shuffle them with cards from all three decks, and deal them for random encounters. Use them when preparing a game, or retrieve monsters' details easily during a game.
+--------------------------------------------------
+
+Book 22:
+Title: Tome of Horrors 2020 Cards Deck TWO
+Author(s): Frog God Games
+---
+ISBN-10: 9781622835027 - ISBN-13: 1622835026 - ASIN: 166560140X
+Published Date: 2018-08
+Page Count: None
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=DJbCtgEACAAJ&dq=intitle:Tome+of+Horrors+2020+Cards+Deck+TWO%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.9 of 5 (40 reviews)
+Amazon.com URL: https://www.amazon.com/Horrors-2020-Necromancer-Games/dp/166560140X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (61 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Horrors-5e-Frog-God-Games/dp/1622838238
+---
+HB Blurb: Game Masters, lighten your workload with Tome of Horrors Monster Cards. These cards can help you quickly set up your games. Shuffle them with cards from all three decks, and deal them for random encounters. Use them when preparing a game, or retrieve monsters' details easily during a game.
+--------------------------------------------------
+
+Book 23:
+Title: Tome of Horrors 2020 Cards Deck THREE
+Author(s): Frog God Games
+---
+ISBN-10: 9781622835027 - ISBN-13: 1622835026 - ASIN: 1665601213
+Published Date: 2018-08
+Page Count: None
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=DJbCtgEACAAJ&dq=intitle:Tome+of+Horrors+2020+Cards+Deck+THREE%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Frog-God-Games-Horrors-Three/dp/1665601213
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: Game Masters, lighten your workload with Tome of Horrors Monster Cards. These cards can help you quickly set up your games. Shuffle them with cards from all three decks, and deal them for random encounters. Use them when preparing a game, or retrieve monsters' details easily during a game.
+--------------------------------------------------
+
+Book 24:
+Title: Into the Unknown
+Author(s): Pacesetter Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 091760900X
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 3.4 of 5 (4 reviews)
+Amazon.com URL: https://www.amazon.com/Chill-Adventures-into-Frightfully-Playing/dp/091760900X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Into-the-Unknown/dp/B07G8R1JL9
+---
+HB Blurb: Welcome to a world of new adventure! The day has finally come. Your training at Farrador Keep has come to its end. You are now a fully-fledged adventurer ready to make your name known in all the lands. However, this time, you will go it alone. Farrador is a relatively peaceful region; however, menacing monsters reside in the shadows of even the brightest lights. You are being called to explore abandoned mines, save villages from devastating foes, and claim your name as the next true adventurer. All this and more will be possible as you go Into the Unknown! Into the Unknown is a true solo adventure for characters level 1-5 for the 5th Edition game system.
+--------------------------------------------------
+
+Book 25:
+Title: Book of Beginnings
+Author(s): Pacesetter Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1685649424
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Beginnings-Second-Printing-Pacesetter-Games/dp/1685649424
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Beginnings-Second-Printing-Pacesetter-Games/dp/1685649424
+---
+HB Blurb: The Book of Beginnings offers you and your table a multitude of thrilling adventures used to kick off your 5th edition campaign. All are designed to cover the three main pillars of play: combat, exploration, and roleplay. However, some adventures are more heavily geared to certain pillars. This offers groups with specific interests the most amount of familiarity as possible. There are beginnings for 1st, 3rd, and 5th level; however, any can be easily adapted to different levels of play by altering monsters, DCs, and severity of environmental hazards (traps, noxious gases, evil GMs, etc). Even if you have already begun your latest and greatest campaign, these adventures can easily be adapted to be side quests. Despite level of play, you should know your next best adventure is around the corner! Book of Beginnings is designed for a variety of character levels for the 5th edition game system.
+--------------------------------------------------
+
+Book 26:
+Title: Exwyn's Handbook to Heroism
+Author(s): Pacesetter Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: The wonderful world of Dagmoor is gleaming with magic and unexplored knowledge. One brave mage set out to explore these lesser known corners of the world in search of techniques of the body, mind, and soul to enhance any adventurer's journey. Lucky for us, Exwyn has decided to compile his notes and publish them in his very own field guide, Exwyn's Handbook to Heroism! Exwyn's Handbook to Heroism features new character options such as subclasses, races/subraces, spells, and feats to level up your 5e games! The following new content is currently included in this book:38 subclasses10 races/subraces31 spells10 feats
+--------------------------------------------------
+
+Book 27:
+Title: Cry Havoc! (Dogs of Orcus)
+Author(s): Frog God Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1665602503
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Cry-Havoc-Dogs-War-OSR/dp/1665602503
+---
+HB Blurb: Let Slip the Dogs of War! Need villains for your campaign? Look no further than Cry Havoc!, a sourcebook detailing the Dogs of Orcus! These dastardly evildoers occupy every level of society, with the shared goal of doing the Prince of the Undead's bidding. This color-printed softcover booklet details different members of this nefarious faction (with stats for 5e and OSR systems) for you to introduce into your game.
+--------------------------------------------------
+
+Book 28:
+Title: Sea King's Malice: VTT Asset Pack
+Author(s): Frog God Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: Ahoy, landlubbers! If you are looking for some aquatic tokens to spice up your VTT game, you've come to the right port. This token pack was designed to work with the Sea King's Malice adventure but feel free to use them in any water-based adventure you want.This is a map pack set for Sea King’s Malice and for the ships of Sea King’s Malice. They contain both the Player Maps and GM Maps.
+--------------------------------------------------
+
+Book 29:
+Title: Sea King's Malice Art Book
+Author(s): Frog God Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1622837290
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (2 reviews)
+Amazon.com URL: https://www.amazon.com/Sea-Kings-Malice-Alex-Kammer/dp/1622837290
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Sea-Kings-Malice-Swords-Wizardry/dp/1622837320
+---
+HB Blurb: Useful for illustrating scenes and areas from the book without showing your players the book itself, in full color.
+--------------------------------------------------
+
+Book 30:
+Title: Deck of Dirty Tricks Vol 2.
+Author(s): Frog God Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: Made for use during game sessions to encourage unexpected events and player interactivity. With suggestions for changes in the narration and their potential mechanical implications. It is system neutral but works best with any one of the many variations of the world’s most popular roleplaying game.
+--------------------------------------------------
+
+Book 31:
+Title: Deck of Dirty Tricks Vol 3.
+Author(s): Frog God Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: Made for use during game sessions to encourage unexpected events and player interactivity. With suggestions for changes in the narration and their potential mechanical implications. It is system neutral but works best with any one of the many variations of the world’s most popular roleplaying game.
+--------------------------------------------------
+
+Book 32:
+Title: Records of Faith: GM's Journal (A Splinters of Faith 2022 Supplement)
+Author(s): Frog God Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1665605529
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Gamemasters-Journal-5e-Faithful-Splinters/dp/1665605529
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Gamemasters-Journal-5e-Faithful-Splinters/dp/1665605529
+---
+HB Blurb: Compatible with Frog God Games Splinters of Faith, a continent-spanning quest beginning with a fowl and culminating in a fight against formidable wickedness, the maps provide various topographical settings for the campaign or can be customized for use in your own world, such as pastoral hamlets, subterranean mines, and monumental sanctuaries.
+--------------------------------------------------
+
+Book 33:
+Title: Records of Faith: Player's Journal (A Splinters of Faith 2022 Supplement)
+Author(s): Frog God Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: Compatible with Frog God Games' Splinters of Faith, a continent-spanning quest beginning with a fowl and culminating in a fight against formidable wickedness, the maps provide various topographical settings for the campaign or can be customized for use in your own world, such as pastoral hamlets, subterranean mines, and monumental sanctuaries.
+--------------------------------------------------
+
+Book 34:
+Title: Undead Horrors
+Author(s): Frog God Games
+---
+ISBN-10: 9781622835027 - ISBN-13: 1622835026 - ASIN: 1622838289
+Published Date: 2018-08
+Page Count: None
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=DJbCtgEACAAJ&dq=intitle:Undead+Horrors%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.1 of 5 (57 reviews)
+Amazon.com URL: https://www.amazon.com/Frog-God-Games-5E-Horrors/dp/1622835026
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (61 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Horrors-5e-Frog-God-Games/dp/1622838289
+---
+HB Blurb: No game is complete without an assortment of undead, and it’s even better when the players have no idea what they’re facing! The pack contains 25 bordered, full-body tokens for monsters published by Frog God Games.
+--------------------------------------------------
+
+Book 35:
+Title: A Watery Death
+Author(s): Frog God Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1622838238
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (61 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Horrors-5e-Frog-God-Games/dp/1622838238
+---
+HB Blurb: This pack contains sea and water creatures of all types, perfect for adventure on the high seas and great rivers! The pack contains 25 bordered, full-body tokens for monsters published by Frog God Games.
+--------------------------------------------------
+
+Book 36:
+Title: All Creatures Great and Small
+Author(s): Frog God Games
+---
+ISBN-10: 9781665603904 - ISBN-13: 1665603909 - ASIN: B0060QM0AG
+Published Date: 2024-10-25
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=tTwG0QEACAAJ&dq=intitle:All+Creatures+Great+and+Small%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (19206 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Creatures-Great-Small-James-Herriot-ebook/dp/B0060QM0AG
+---
+HB Blurb: This pack contains animals of all types, excellent for wilderness adventures! The pack contains 25 bordered, full-body tokens for monsters published by Frog God Games.
+--------------------------------------------------
+
+Book 37:
+Title: Terrible Trouble
+Author(s): Frog God Games
+---
+ISBN-10: 9781622835027 - ISBN-13: 1622835026 - ASIN: No ASIN found
+Published Date: 2018-08
+Page Count: None
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=DJbCtgEACAAJ&dq=intitle:Terrible+Trouble%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Books-Frog-God-Games/s?rh=n%3A283155%2Cp_27%3AFrog+God+Games
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: This set of 25 tokens Includes a variety of gargoyles, golems, variant bulettes, and trolls (plus a couple of genies to round out the set). The pack contains 25 bordered, full-body tokens for monsters published by Frog God Games.
+--------------------------------------------------
+
+Book 38:
+Title: Wings and Weather
+Author(s): Frog God Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: No ASIN found
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Books-Frog-God-Games/s?rh=n%3A283155%2Cp_27%3AFrog+God+Games
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Frogs-Had-Wings-Allison-Divine-ebook/dp/B0D9CC8T9J
+---
+HB Blurb: This set of tokens contains dragons and elementals for those times when you absolutely, positively, need to set things on fire (or bury them, blow them away, or drown them)!
+--------------------------------------------------
+
+Book 39:
+Title: Giants and Other Problem
+Author(s): Frog God Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: No ASIN found
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Books-Frog-God-Games/s?rh=n%3A283155%2Cp_27%3AFrog+God+Games
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (37 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Monstrosities-Swords-Wizardry-Matt-Finch/dp/1943067341
+---
+HB Blurb: Giants aren’t the only problem adventurers face with this tokens pack, but they’re a pretty big problem! The pack contains 25 bordered, full-body tokens for monsters published by Frog God Games.
+--------------------------------------------------
+
+Book 40:
+Title: Demons
+Author(s): Frog God Games
+---
+ISBN-10: 9781622835027 - ISBN-13: 1622835026 - ASIN: 1622838637
+Published Date: 2018-08
+Page Count: None
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=DJbCtgEACAAJ&dq=intitle:Demons%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.1 of 5 (5 reviews)
+Amazon.com URL: https://www.amazon.com/Grey-Citadel-5E-Nathan-Paul/dp/1622838637
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (61 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Horrors-5e-Frog-God-Games/dp/1622838238
+---
+HB Blurb: Get your holy water ready, because this set of 25 demon tokens puts the forces of the underworld at your disposal. The pack contains 25 bordered, full-body tokens for monsters published by Frog God Games.
+--------------------------------------------------
+
+Book 41:
+Title: Abberations and Celestials
+Author(s): Frog God Games
+---
+ISBN-10: 9781665603799 - ISBN-13: 1665603798 - ASIN: No ASIN found
+Published Date: 2024-10-25
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=PDII0QEACAAJ&dq=intitle:Abberations+and+Celestials%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Books-Frog-God-Games/s?rh=n%3A283155%2Cp_27%3AFrog+God+Games
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: This Token Pack includes all things from weird to wonderful!
+--------------------------------------------------
+
+Book 42:
+Title: Dinosaurs and More
+Author(s): Frog God Games
+---
+ISBN-10: 9781665603799 - ISBN-13: 1665603798 - ASIN: No ASIN found
+Published Date: 2024-10-25
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=PDII0QEACAAJ&dq=intitle:Dinosaurs+and+More%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Books-Frog-God-Games/s?rh=n%3A283155%2Cp_27%3AFrog+God+Games
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 2.6 of 5 (3 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Dinosaurs-Frog-Friends-Book-100-ebook/dp/B0CTQST3SV
+---
+HB Blurb: When it’s time to get prehistoric, these tokens have got you covered!
+--------------------------------------------------
+
+Book 43:
+Title: Dragons, Elementals, Fey, and Giants
+Author(s): Frog God Games
+---
+ISBN-10: 9781622839797 - ISBN-13: 162283979X - ASIN: 
+Published Date: 2020-03
+Page Count: 554
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=TnxZzQEACAAJ&dq=intitle:Dragons,+Elementals,+Fey,+and+Giants%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: An assortment of basic but powerful creatures that appear in many adventures.
+--------------------------------------------------
+
+Book 44:
+Title: Fiends and Demons
+Author(s): Frog God Games
+---
+ISBN-10: 9781622835027 - ISBN-13: 1622835026 - ASIN: 1622838238
+Published Date: 2018-08
+Page Count: None
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=DJbCtgEACAAJ&dq=intitle:Fiends+and+Demons%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (61 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Horrors-5e-Frog-God-Games/dp/1622838238
+---
+HB Blurb: A set of fiends and demons for those who dabble in things they really shouldn’t dabble in.
+--------------------------------------------------
+
+Book 45:
+Title: Powers of the Planes
+Author(s): Frog God Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 162283979X
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 0 of 5 (11 reviews)
+Amazon.com URL: https://www.amazon.com/City-Brass-5E-Casey-Christofferson/dp/162283979X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/City-Brass-SW-Casey-Christofferson/dp/1622839803
+---
+HB Blurb: A set of the extremely powerful creatures and beings who rule planes of existence beyond material reality!
+--------------------------------------------------
+
+Book 46:
+Title: Ships, Docks, and Other Moving Structures 1
+Author(s): Frog God Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: This ring of ships belongs to the "Isle of the Angry Apes," but creative game masters can place this map in any lake, river, or sea adventure. The building and tent on the shore, along with the nearby trail, are yours to flesh out.
+--------------------------------------------------
+
+Book 47:
+Title: Ships, Docks, and Other Moving Structures 2
+Author(s): Frog God Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: No ASIN found
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/
+---
+HB Blurb: Need a chaotic scene like a port town on fire with ships ablaze as it comes under attack? Here's your map. Hailing from "Razor Coast," this stunning map will be of use to inventive GMs who require a town fighting fires (and maybe invaders) to host their gameplay.
+--------------------------------------------------
+
+Book 48:
+Title: Ships, Docks, and Other Moving Structures 3
+Author(s): Frog God Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: No ASIN found
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/ships-Books/s?k=ships&rh=n%3A266239
+---
+HB Blurb: This map can represent an intact or ruined ship. Fresh from Rappan Athuk, this map could be rated, "Arrr, matey!" should pirates ransack the party and abscond with their ill-gotten gains.
+--------------------------------------------------
+
+Book 49:
+Title: Islands 1
+Author(s): Frog God Games
+---
+ISBN-10: 9781665603799 - ISBN-13: 1665603798 - ASIN: 194306704X
+Published Date: 2024-10-25
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=PDII0QEACAAJ&dq=intitle:Islands+1%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $19.99
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Frog-God-Games-Island-Pathfinder/dp/194306704X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/1975-Adventure-Frog-God-Games-ebook/dp/B08X1KNLW9
+---
+HB Blurb: Island adventures can be set on this map with several encounter areas ready for a savvy Game Master to populate.
+--------------------------------------------------
+
+Book 50:
+Title: Islands 2
+Author(s): Frog God Games
+---
+ISBN-10: 9781665603799 - ISBN-13: 1665603798 - ASIN: No ASIN found
+Published Date: 2024-10-25
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=PDII0QEACAAJ&dq=intitle:Islands+2%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $19.99
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Books-Frog-God-Games/s?rh=n%3A283155%2Cp_27%3AFrog+God+Games
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (182 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Golden-Frog-Games-Witchlings-ebook/dp/B0B849M9N2
+---
+HB Blurb: Political, naval, and mercantile intrigue are all possibilities while using this map (originally from "The Blight") in your campaign. A nice regional map ready to be assimilated in an ocean of your campaign.
+--------------------------------------------------
+
+Book 51:
+Title: Islands 3
+Author(s): Frog God Games
+---
+ISBN-10: 9781665603799 - ISBN-13: 1665603798 - ASIN: No ASIN found
+Published Date: 2024-10-25
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=PDII0QEACAAJ&dq=intitle:Islands+3%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $19.99
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Books-Frog-God-Games/s?rh=n%3A283155%2Cp_27%3AFrog+God+Games
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/1975-Adventure-Frog-God-Games-ebook/dp/B08X1KNLW9
+---
+HB Blurb: Volcanic eruptions in the middle of the sea birthed this island. Maybe lava children now call it home. Add to that some NPC machinations and referee plot devices, and this island can be a memorable location for adventure and danger.
+--------------------------------------------------
+
+Book 52:
+Title: City 1
+Author(s): Frog God Games
+---
+ISBN-10: 9781665603799 - ISBN-13: 1665603798 - ASIN: 1622836456
+Published Date: 2024-10-25
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=PDII0QEACAAJ&dq=intitle:City+1%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Swords-Wizardry-Frog-God-Games/dp/1622836456
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/City-Brass-SW-Casey-Christofferson/dp/1622839803
+---
+HB Blurb: Port Shaw presents players with a waterside city ready to be explored and lived in. Whether a home base, a stay on the road, a port for seafaring pathways, or somewhere to ferret out some hidden person or item, this map will provide plenty of urban play while lending itself to adventures by land or by sea.
+--------------------------------------------------
+
+Book 53:
+Title: City 3
+Author(s): Frog God Games
+---
+ISBN-10: 9781665603799 - ISBN-13: 1665603798 - ASIN: 1622839803
+Published Date: 2024-10-25
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=PDII0QEACAAJ&dq=intitle:City+3%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.5 of 5 (2 reviews)
+Amazon.com URL: https://www.amazon.com/City-Brass-SW-Casey-Christofferson/dp/1622839803
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/City-Brass-SW-Casey-Christofferson/dp/1622839803
+---
+HB Blurb: Every nautical adventure starts somewhere. GMs can add this port city to the campaign as a beginning haven for PCs, a stop along the way for their sea quests, or the new home of privateers who seek riches on the ocean blue.
+--------------------------------------------------
+
+Book 54:
+Title: City 2
+Author(s): Frog God Games
+---
+ISBN-10: 9781665603799 - ISBN-13: 1665603798 - ASIN: 1622839803
+Published Date: 2024-10-25
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=PDII0QEACAAJ&dq=intitle:City+2%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.5 of 5 (2 reviews)
+Amazon.com URL: https://www.amazon.com/City-Brass-SW-Casey-Christofferson/dp/1622839803
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/City-Brass-SW-Casey-Christofferson/dp/1622839803
+---
+HB Blurb: This virtual map comes from the adventure "The City that Dripped Blood" but can easily be incorporated into whatever game you have the desire to use them for. GMs can never have too many city maps at their disposal!
+--------------------------------------------------
+
+Book 55:
+Title: Coast and Shorefront 1
+Author(s): Frog God Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1622831853
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Razor-Coast-Campaign-Book/dp/1622831853
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/1975-Adventure-Frog-God-Games-ebook/dp/B08X1KNLW9
+---
+HB Blurb: The mouth of this river empties to the sea of your choosing. The river's arteries, isles, and lagoons can hide treasures, monsters, perils, and death for the curious and adventurous.
+--------------------------------------------------
+
+Book 56:
+Title: Coast and Shorefront 2
+Author(s): Frog God Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1622831780
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 0 of 5 (2 reviews)
+Amazon.com URL: https://www.amazon.com/Razor-Coast-PDF-Limited-Pathfinder/dp/1622831780
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/1975-Adventure-Frog-God-Games-ebook/dp/B08X1KNLW9
+---
+HB Blurb: Baal, that ominous being of old, has this sea named for him. Thanks to the dangers and perils that prevent the civilized world from probing its lands and uncovering its riches, only the hardiest of sailors and thrill-seekers dare navigate these waters.
+--------------------------------------------------
+
+Book 57:
+Title: Coast and Shorefront 3
+Author(s): Frog God Games
+---
+ISBN-10:  - ISBN-13:  - ASIN: 1622831853
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Razor-Coast-Campaign-Book/dp/1622831853
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/City-Brass-SW-Casey-Christofferson/dp/1622839803
+---
+HB Blurb: This map features a beaver dam, a beaver lodge, and the nearby coastline. Of course, GMs are encouraged to fill in the beaver-made pond with other hazards and denizens for their enjoyment.
+--------------------------------------------------
+
+Book 58:
+Title: New Old-School Preview
+Author(s): Frog God Games
+---
+ISBN-10: 9781665603799 - ISBN-13: 1665603798 - ASIN: 1943067341
+Published Date: 2024-10-25
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=PDII0QEACAAJ&dq=intitle:New+Old-School+Preview%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (37 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Monstrosities-Swords-Wizardry-Matt-Finch/dp/1943067341
+---
+HB Blurb: A preview of upcoming products, including The Necromancer's Game and Arden's Adventures 'zine
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Deck of Dirty Tricks Vol 1.
+No Amazon.com URL found
+No Amazon.co.uk URL found
+No Google Books URL found.
+
+Book 02 - Endless Encounters: Dungeons
+No Amazon.com URL found
+No Amazon.co.uk URL found
+No Google Books URL found.
+
+Book 03 - The Ultimate Guide to Alchemy, Crafting, and Enchanting
+https://www.amazon.com/Ultimate-Guide-Alchemy-Crafting-Enchanting/dp/1946669474
+https://www.amazon.co.uk/Ultimate-Guide-Alchemy-Crafting-Enchanting/dp/1946669474
+No Google Books URL found.
+
+Book 04 - Splinters of Faith 2022 5e
+https://www.amazon.com/Splinters-Faith-2022-5e-PB/dp/166560526X
+https://www.amazon.co.uk/Splinters-Faith-2022-5e-PB/dp/166560526X
+No Google Books URL found.
+
+Book 05 - Ultimate Bestiary - The Dreaded Accursed
+https://www.amazon.com/Ultimate-Bestiary-Accursed-Nord-Games/dp/1946669431
+https://www.amazon.co.uk/Ultimate-Bestiary-Accursed-Nord-Games/dp/1946669431
+No Google Books URL found.
+
+Book 06 - Splinters of Faith 2022 VTT Asset Pack
+No Amazon.com URL found
+No Amazon.co.uk URL found
+No Google Books URL found.
+
+Book 07 - Whisper & Venom 5e
+https://www.amazon.com/Whisper-Venom-5e-Zach-Glazar/dp/1665605022
+https://www.amazon.co.uk/Whisper-Venom-5e-Zach-Glazar/dp/1665605022
+http://books.google.co.uk/books?id=DJbCtgEACAAJ&dq=intitle:Whisper+%26+Venom+5e%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+
+Book 08 - Whisper & Venom VTT Asset Pack
+No Amazon.com URL found
+No Amazon.co.uk URL found
+No Google Books URL found.
+
+Book 09 - The Ultimate Guide to Foraging, Harvesting & Natural Discovery
+https://www.amazon.com/Nord-Games-Ultimate-Harvesting-Discovery/dp/1946669628
+No Amazon.co.uk URL found
+No Google Books URL found.
+
+Book 10 - Treacherous Traps
+https://www.amazon.com/Nord-Games-Treacherous-Storytelling-Roleplaying/dp/1946669598
+https://www.amazon.co.uk/Treacherous-Traps-Nord-Games/dp/1946669369
+No Google Books URL found.
+
+Book 11 - Ultimate Bestiary - Revenge of the Horde
+https://www.amazon.com/Game-Masters-Toolbox-Ultimate-Bestiary/dp/1946669016
+No Amazon.co.uk URL found
+No Google Books URL found.
+
+Book 12 - Ultimate NPCs - Skulduggery
+https://www.amazon.com/Nord-Games-Dungeons-Dragons-5th/dp/1946669229
+No Amazon.co.uk URL found
+No Google Books URL found.
+
+Book 13 - Ultimate NPCs - Warfare
+https://www.amazon.com/Game-Masters-Toolbox-Ultimate-Warfare/dp/1946669261
+No Amazon.co.uk URL found
+No Google Books URL found.
+
+Book 14 - Elements of Inspiration
+https://www.amazon.com/Nord-Games-Inspiration-Storytelling-Exploration/dp/1946669563
+No Amazon.co.uk URL found
+No Google Books URL found.
+
+Book 15 - Objects of Intrigue
+https://www.amazon.com/Nord-Games-Storytelling-Environments-Roleplaying/dp/194666958X
+No Amazon.co.uk URL found
+No Google Books URL found.
+
+Book 16 - Records of the Faithful: Journeys of Faith (A Splinters of Faith Map Folio)
+https://www.amazon.com/Journeys-Faith-Splinters-Mapbook-Faithful/dp/1665605510
+https://www.amazon.co.uk/Journeys-Faith-Splinters-Mapbook-Faithful/dp/1665605510
+No Google Books URL found.
+
+Book 17 - Sea King's Malice 5e
+https://www.amazon.com/Sea-Kings-Malice-Alex-Kammer/dp/1622837290
+https://www.amazon.co.uk/Sea-Kings-Malice-5th-Edition/dp/1622837274
+No Google Books URL found.
+
+Book 18 - The Lost Triptych
+No Amazon.com URL found
+https://www.amazon.co.uk/Lost-Triptych-Danny-Rawlings-Mysteries-ebook/dp/B006M6LVHC
+No Google Books URL found.
+
+Book 19 - Path of the Vanished
+No Amazon.com URL found
+No Amazon.co.uk URL found
+No Google Books URL found.
+
+Book 20 - Tome of Quests
+No Amazon.com URL found
+No Amazon.co.uk URL found
+No Google Books URL found.
+
+Book 21 - Tome of Horrors 2020 Cards Deck ONE
+https://www.amazon.com/Frog-God-Games-Horrors-Deck/dp/1665601175
+https://www.amazon.co.uk/Horrors-5e-Frog-God-Games/dp/1622838289
+http://books.google.co.uk/books?id=DJbCtgEACAAJ&dq=intitle:Tome+of+Horrors+2020+Cards+Deck+ONE%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+
+Book 22 - Tome of Horrors 2020 Cards Deck TWO
+https://www.amazon.com/Horrors-2020-Necromancer-Games/dp/166560140X
+https://www.amazon.co.uk/Horrors-5e-Frog-God-Games/dp/1622838238
+http://books.google.co.uk/books?id=DJbCtgEACAAJ&dq=intitle:Tome+of+Horrors+2020+Cards+Deck+TWO%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+
+Book 23 - Tome of Horrors 2020 Cards Deck THREE
+https://www.amazon.com/Frog-God-Games-Horrors-Three/dp/1665601213
+No Amazon.co.uk URL found
+http://books.google.co.uk/books?id=DJbCtgEACAAJ&dq=intitle:Tome+of+Horrors+2020+Cards+Deck+THREE%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+
+Book 24 - Into the Unknown
+https://www.amazon.com/Chill-Adventures-into-Frightfully-Playing/dp/091760900X
+https://www.amazon.co.uk/Into-the-Unknown/dp/B07G8R1JL9
+No Google Books URL found.
+
+Book 25 - Book of Beginnings
+https://www.amazon.com/Beginnings-Second-Printing-Pacesetter-Games/dp/1685649424
+https://www.amazon.co.uk/Beginnings-Second-Printing-Pacesetter-Games/dp/1685649424
+No Google Books URL found.
+
+Book 26 - Exwyn's Handbook to Heroism
+No Amazon.com URL found
+No Amazon.co.uk URL found
+No Google Books URL found.
+
+Book 27 - Cry Havoc! (Dogs of Orcus)
+No Amazon.com URL found
+https://www.amazon.co.uk/Cry-Havoc-Dogs-War-OSR/dp/1665602503
+No Google Books URL found.
+
+Book 28 - Sea King's Malice: VTT Asset Pack
+No Amazon.com URL found
+No Amazon.co.uk URL found
+No Google Books URL found.
+
+Book 29 - Sea King's Malice Art Book
+https://www.amazon.com/Sea-Kings-Malice-Alex-Kammer/dp/1622837290
+https://www.amazon.co.uk/Sea-Kings-Malice-Swords-Wizardry/dp/1622837320
+No Google Books URL found.
+
+Book 30 - Deck of Dirty Tricks Vol 2.
+No Amazon.com URL found
+No Amazon.co.uk URL found
+No Google Books URL found.
+
+Book 31 - Deck of Dirty Tricks Vol 3.
+No Amazon.com URL found
+No Amazon.co.uk URL found
+No Google Books URL found.
+
+Book 32 - Records of Faith: GM's Journal (A Splinters of Faith 2022 Supplement)
+https://www.amazon.com/Gamemasters-Journal-5e-Faithful-Splinters/dp/1665605529
+https://www.amazon.co.uk/Gamemasters-Journal-5e-Faithful-Splinters/dp/1665605529
+No Google Books URL found.
+
+Book 33 - Records of Faith: Player's Journal (A Splinters of Faith 2022 Supplement)
+No Amazon.com URL found
+No Amazon.co.uk URL found
+No Google Books URL found.
+
+Book 34 - Undead Horrors
+https://www.amazon.com/Frog-God-Games-5E-Horrors/dp/1622835026
+https://www.amazon.co.uk/Horrors-5e-Frog-God-Games/dp/1622838289
+http://books.google.co.uk/books?id=DJbCtgEACAAJ&dq=intitle:Undead+Horrors%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+
+Book 35 - A Watery Death
+No Amazon.com URL found
+https://www.amazon.co.uk/Horrors-5e-Frog-God-Games/dp/1622838238
+No Google Books URL found.
+
+Book 36 - All Creatures Great and Small
+No Amazon.com URL found
+https://www.amazon.co.uk/Creatures-Great-Small-James-Herriot-ebook/dp/B0060QM0AG
+http://books.google.co.uk/books?id=tTwG0QEACAAJ&dq=intitle:All+Creatures+Great+and+Small%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+
+Book 37 - Terrible Trouble
+https://www.amazon.com/Books-Frog-God-Games/s?rh=n%3A283155%2Cp_27%3AFrog+God+Games
+No Amazon.co.uk URL found
+http://books.google.co.uk/books?id=DJbCtgEACAAJ&dq=intitle:Terrible+Trouble%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+
+Book 38 - Wings and Weather
+https://www.amazon.com/Books-Frog-God-Games/s?rh=n%3A283155%2Cp_27%3AFrog+God+Games
+https://www.amazon.co.uk/Frogs-Had-Wings-Allison-Divine-ebook/dp/B0D9CC8T9J
+No Google Books URL found.
+
+Book 39 - Giants and Other Problem
+https://www.amazon.com/Books-Frog-God-Games/s?rh=n%3A283155%2Cp_27%3AFrog+God+Games
+https://www.amazon.co.uk/Monstrosities-Swords-Wizardry-Matt-Finch/dp/1943067341
+No Google Books URL found.
+
+Book 40 - Demons
+https://www.amazon.com/Grey-Citadel-5E-Nathan-Paul/dp/1622838637
+https://www.amazon.co.uk/Horrors-5e-Frog-God-Games/dp/1622838238
+http://books.google.co.uk/books?id=DJbCtgEACAAJ&dq=intitle:Demons%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+
+Book 41 - Abberations and Celestials
+https://www.amazon.com/Books-Frog-God-Games/s?rh=n%3A283155%2Cp_27%3AFrog+God+Games
+No Amazon.co.uk URL found
+http://books.google.co.uk/books?id=PDII0QEACAAJ&dq=intitle:Abberations+and+Celestials%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+
+Book 42 - Dinosaurs and More
+https://www.amazon.com/Books-Frog-God-Games/s?rh=n%3A283155%2Cp_27%3AFrog+God+Games
+https://www.amazon.co.uk/Dinosaurs-Frog-Friends-Book-100-ebook/dp/B0CTQST3SV
+http://books.google.co.uk/books?id=PDII0QEACAAJ&dq=intitle:Dinosaurs+and+More%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+
+Book 43 - Dragons, Elementals, Fey, and Giants
+No Amazon.com URL found
+No Amazon.co.uk URL found
+http://books.google.co.uk/books?id=TnxZzQEACAAJ&dq=intitle:Dragons,+Elementals,+Fey,+and+Giants%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+
+Book 44 - Fiends and Demons
+No Amazon.com URL found
+https://www.amazon.co.uk/Horrors-5e-Frog-God-Games/dp/1622838238
+http://books.google.co.uk/books?id=DJbCtgEACAAJ&dq=intitle:Fiends+and+Demons%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+
+Book 45 - Powers of the Planes
+https://www.amazon.com/City-Brass-5E-Casey-Christofferson/dp/162283979X
+https://www.amazon.co.uk/City-Brass-SW-Casey-Christofferson/dp/1622839803
+No Google Books URL found.
+
+Book 46 - Ships, Docks, and Other Moving Structures 1
+No Amazon.com URL found
+No Amazon.co.uk URL found
+No Google Books URL found.
+
+Book 47 - Ships, Docks, and Other Moving Structures 2
+No Amazon.com URL found
+https://www.amazon.co.uk/
+No Google Books URL found.
+
+Book 48 - Ships, Docks, and Other Moving Structures 3
+No Amazon.com URL found
+https://www.amazon.co.uk/ships-Books/s?k=ships&rh=n%3A266239
+No Google Books URL found.
+
+Book 49 - Islands 1
+https://www.amazon.com/Frog-God-Games-Island-Pathfinder/dp/194306704X
+https://www.amazon.co.uk/1975-Adventure-Frog-God-Games-ebook/dp/B08X1KNLW9
+http://books.google.co.uk/books?id=PDII0QEACAAJ&dq=intitle:Islands+1%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+
+Book 50 - Islands 2
+https://www.amazon.com/Books-Frog-God-Games/s?rh=n%3A283155%2Cp_27%3AFrog+God+Games
+https://www.amazon.co.uk/Golden-Frog-Games-Witchlings-ebook/dp/B0B849M9N2
+http://books.google.co.uk/books?id=PDII0QEACAAJ&dq=intitle:Islands+2%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+
+Book 51 - Islands 3
+https://www.amazon.com/Books-Frog-God-Games/s?rh=n%3A283155%2Cp_27%3AFrog+God+Games
+https://www.amazon.co.uk/1975-Adventure-Frog-God-Games-ebook/dp/B08X1KNLW9
+http://books.google.co.uk/books?id=PDII0QEACAAJ&dq=intitle:Islands+3%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+
+Book 52 - City 1
+https://www.amazon.com/Swords-Wizardry-Frog-God-Games/dp/1622836456
+https://www.amazon.co.uk/City-Brass-SW-Casey-Christofferson/dp/1622839803
+http://books.google.co.uk/books?id=PDII0QEACAAJ&dq=intitle:City+1%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+
+Book 53 - City 3
+https://www.amazon.com/City-Brass-SW-Casey-Christofferson/dp/1622839803
+https://www.amazon.co.uk/City-Brass-SW-Casey-Christofferson/dp/1622839803
+http://books.google.co.uk/books?id=PDII0QEACAAJ&dq=intitle:City+3%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+
+Book 54 - City 2
+https://www.amazon.com/City-Brass-SW-Casey-Christofferson/dp/1622839803
+https://www.amazon.co.uk/City-Brass-SW-Casey-Christofferson/dp/1622839803
+http://books.google.co.uk/books?id=PDII0QEACAAJ&dq=intitle:City+2%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+
+Book 55 - Coast and Shorefront 1
+https://www.amazon.com/Razor-Coast-Campaign-Book/dp/1622831853
+https://www.amazon.co.uk/1975-Adventure-Frog-God-Games-ebook/dp/B08X1KNLW9
+No Google Books URL found.
+
+Book 56 - Coast and Shorefront 2
+https://www.amazon.com/Razor-Coast-PDF-Limited-Pathfinder/dp/1622831780
+https://www.amazon.co.uk/1975-Adventure-Frog-God-Games-ebook/dp/B08X1KNLW9
+No Google Books URL found.
+
+Book 57 - Coast and Shorefront 3
+https://www.amazon.com/Razor-Coast-Campaign-Book/dp/1622831853
+https://www.amazon.co.uk/City-Brass-SW-Casey-Christofferson/dp/1622839803
+No Google Books URL found.
+
+Book 58 - New Old-School Preview
+No Amazon.com URL found
+https://www.amazon.co.uk/Monstrosities-Swords-Wizardry-Matt-Finch/dp/1943067341
+http://books.google.co.uk/books?id=PDII0QEACAAJ&dq=intitle:New+Old-School+Preview%2Binauthor:Frog+God+Games&hl=&cd=1&source=gbs_api
+
