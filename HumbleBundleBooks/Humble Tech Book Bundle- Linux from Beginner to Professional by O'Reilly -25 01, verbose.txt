@@ -1,0 +1,441 @@
+Humble Tech Book Bundle- Linux from Beginner to Professional by O'Reilly - O'Reilly
+Processing date: 2025-01-29
+Data retrieved from: https://www.humblebundle.com/books/linux-from-beginner-to-professional-oreilly-books
+
+Book 01 - Learning Modern Linux - Michael Hausenblas - 4 out of 5 (28 reviews)
+Book 02 - Practical Linux System Administration - Kenneth Hess - 5 out of 5 (4 reviews)
+Book 03 - Python for DevOps - Noah Gift, Kennedy Behrman, Alfredo Deza, & Grig Gheorghiu - 4.5 out of 5 (269 reviews)
+Book 04 - Network Programmability and Automation, 2nd Edition - Matt Oswalt, Christian Adell, Scott S. Lowe, Jason Edelman - 5 out of 5 (9 reviews)
+Book 05 - Ansible: Up and Running - Bas Meijer, Lorin Hochstein, René Moser - 4.7 out of 5 (20 reviews)
+Book 06 - Efficient Linux at the Command Line: Boost Your Command-Line Skills - Daniel J. Barrett - 4.8 out of 5 (36 reviews)
+Book 07 - Kubernetes: Up and Running - Brendan Burns, Joe Beda, Kelsey Hightower, Lachlan Evenson - 4.6 out of 5 (72 reviews)
+Book 08 - Docker: Up & Running - Sean P. Kane, Karl Matthias - 4.2 out of 5 (20 reviews)
+Book 09 - Learning DevSecOps - Steve Suehring - 5 out of 5 (1 reviews)
+Book 10 - Learning Git - Anna Skoulikari - 4.8 out of 5 (40 reviews)
+Book 11 - Linux Pocket Guide - Daniel J. Barrett - 4.9 out of 5 (28 reviews)
+Book 12 - Web Application Security - Andrew Hoffman - 5 out of 5 (6 reviews)
+Book 13 - Learning GitHub Actions - Brent Laster - 4.3 out of 5 (5 reviews)
+Book 14 - FastAPI - Bill Lubanovic - 3.9 out of 5 (17 reviews)
+Book 15 - Terraform: Up and Running - Yevgeniy Brikman - 4.7 out of 5 (192 reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Learning Modern Linux
+Author(s): Michael Hausenblas
+---
+ISBN-10: 9781098108946 - ISBN-13: 1098108949 - ASIN: B09Y2LFQQS
+Published Date: 2022-05-31
+Page Count: 250
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=5C_MzgEACAAJ&dq=intitle:Learning+Modern+Linux%2Binauthor:Michael+Hausenblas&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $34.67Save $22.32 (39%)
+Amazon.com Reviews: 4 of 5 (28 reviews)
+Amazon.com URL: https://www.amazon.com/Learning-Modern-Linux-Michael-Hausenblas-ebook/dp/B09Y2LFQQS
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.1 of 5 (28 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learning-Modern-Linux-Michael-Hausenblas-ebook/dp/B09Y2LFQQS
+---
+HB Blurb: If you use Linux in development or operations and need a structured approach to help you dive deeper, this book is for you. Author Michael Hausenblas also provides tips and tricks for improving your workflow with this open source operating system. Whether you're a developer, software architect, or site reliability engineer, this hands-on guide focuses on ways to use Linux for your everyday needs, from development to office-related tasks.Along the way, you'll gain hands-on experience with modern Linux terminals and shells, and learn how to manage your workloads. You'll understand how to run Linux applications by using containers, systemd, modern filesystems, and immutable distros such as Flatcar and Bottlerocket.Use Linux as a modern work environment, rather than just from an admin perspectiveLearn critical components such as the Linux kernel, terminal multiplexer, human-friendly shells, and portable shell scriptingBecome familiar with access control, from file permissions to capabilities, and understand the role of filesystems as a fundamental building blockLearn about application dependency management and containersGain hands-on experience with the Linux networking stack and tooling, including DNSApply modern operating system observability to manage your workloadsBecome familiar with interprocess communication, virtual machines, and selected security topics
+--------------------------------------------------
+
+Book 02:
+Title: Practical Linux System Administration
+Author(s): Kenneth Hess
+---
+ISBN-10: 1098108981 - ISBN-13: 9781098108984 - ASIN: B0C2XFWX1N
+Published Date: 2023-04-18
+Page Count: 261
+---
+Google Books Price: GBP 47.99
+Google Books URL: http://books.google.co.uk/books?id=UVG6EAAAQBAJ&printsec=frontcover&dq=intitle:Practical+Linux+System+Administration%2Binauthor:Kenneth+Hess&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $39.76Save $28.23 (42%)
+Amazon.com Reviews: 5 of 5 (4 reviews)
+Amazon.com URL: https://www.amazon.com/Practical-Linux-System-Administration-Kenneth-ebook/dp/B0C2XFWX1N
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (6 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Practical-Linux-System-Administration-Kenneth-ebook/dp/B0C2XFWX1N
+---
+HB Blurb: This essential guide covers all aspects of Linux system administration, from user maintenance, backups, filesystem housekeeping, storage management, and network setup to hardware and software troubleshooting and some application management. It's both a practical daily reference manual for sysadmins and IT pros and a handy study guide for those taking Linux certification exams.You'll turn to it frequently, not only because of the sheer volume of valuable information it provides but because of the real-world examples within and the clear, useful way the information is presented. With this book at your side, you'll be able to:Install Linux and perform initial setup duties, such as connecting to a networkNavigate the Linux filesystem via the command lineInstall software from repositories and source and satisfy dependenciesSet permissions on files and directoriesCreate, modify, and remove user accountsSet up networkingFormat and mount filesystemsPerform basic troubleshooting on hardware and softwareCreate and manage logical volumesWork with SELinuxManage a firewall and iptablesShut down, reboot, and recover a systemPerform backups and restores
+--------------------------------------------------
+
+Book 03:
+Title: Python for DevOps
+Author(s): Noah Gift, Kennedy Behrman, Alfredo Deza, & Grig Gheorghiu
+---
+ISBN-10: 1492057649 - ISBN-13: 9781492057642 - ASIN: 149205769X
+Published Date: 2019-12-12
+Page Count: 490
+---
+Google Books Price: GBP 40.99
+Google Books URL: http://books.google.co.uk/books?id=gvrDDwAAQBAJ&printsec=frontcover&dq=intitle:Python+for+DevOps%2Binauthor:Noah+Gift,+Kennedy+Behrman,+Alfredo+Deza,+%26+Grig+Gheorghiu&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $31.34Save $19.65 (39%)
+Amazon.com Reviews: 4.5 of 5 (269 reviews)
+Amazon.com URL: https://www.amazon.com/Python-DevOps-Ruthlessly-Effective-Automation/dp/149205769X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (251 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Python-DevOps-Ruthlessly-Effective-Automation/dp/149205769X
+---
+HB Blurb: Much has changed in technology over the past decade. Data is hot, the cloud is ubiquitous, and many organizations need some form of automation. Throughout these transformations, Python has become one of the most popular languages in the world. This practical resource shows you how to use Python for everyday Linux systems administration tasks with today‚Äôs most useful DevOps tools, including Docker, Kubernetes, and Terraform.Learning how to interact and automate with Linux is essential for millions of professionals. Python makes it much easier. With this book, you‚Äôll learn how to develop software and solve problems using containers, as well as how to monitor, instrument, load-test, and operationalize your software. Looking for effective ways to "get stuff done" in Python? This is your guide.Python foundations, including a brief introduction to the languageHow to automate text, write command-line tools, and automate the filesystemLinux utilities, package management, build systems, monitoring and instrumentation, and automated testingCloud computing, infrastructure as code, Kubernetes, and serverlessMachine learning operations and data engineering from a DevOps perspectiveBuilding, deploying, and operationalizing a machine learning project
+--------------------------------------------------
+
+Book 04:
+Title: Network Programmability and Automation, 2nd Edition
+Author(s): Matt Oswalt, Christian Adell, Scott S. Lowe, Jason Edelman
+---
+ISBN-10: 1098110803 - ISBN-13: 9781098110802 - ASIN: 1098110838
+Published Date: 2022-06-23
+Page Count: 828
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=bEnREAAAQBAJ&printsec=frontcover&dq=intitle:Network+Programmability+and+Automation,+2nd+Edition%2Binauthor:Matt+Oswalt,+Christian+Adell,+Scott+S.+Lowe,+Jason+Edelman&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (9 reviews)
+Amazon.com URL: https://www.amazon.com/Network-Programmability-Automation-Next-Generation-Engineer/dp/1098110838
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Network-Programmability-Automation-Next-Generation-Engineer/dp/1098110838
+---
+HB Blurb: Network engineers are finding it harder than ever to rely solely on manual processes to get their jobs done. New protocols, technologies, delivery models, and the need for businesses to become more agile and flexible have made network automation essential. The updated second edition of this practical guide shows network engineers how to use a range of technologies and tools, including Linux, Python, APIs, and Git, to automate systems through code. This edition also includes brand new topics such as network development environments, cloud, programming with Go, and a reference network automation architecture.Network Programmability and Automation will help you automate tasks involved in configuring, managing, and operating network equipment, topologies, services, and connectivity. Through the course of the book, you'll learn the basic skills and tools you need to make this critical transition.You'll learn:Programming skills with Python and Go: data types, conditionals, loops, functions, and moreNew Linux-based networking technologies and cloud native environments, and how to use them to bootstrap development environments for your network projectsData formats and models: JSON, XML, YAML, Protobuf, and YANGJinja templating for creating network device configurationsA holistic approach to architecting network automation servicesThe role of application programming interfaces (APIs) in network automationSource control with Git to manage code changes during the automation processCloud-native technologies like Docker and KubernetesHow to automate network devices and services using Ansible, Nornir, and TerraformTools and technologies for developing and continuously integrating network automation
+--------------------------------------------------
+
+Book 05:
+Title: Ansible: Up and Running
+Author(s): Bas Meijer, Lorin Hochstein, René Moser
+---
+ISBN-10: 9781098109158 - ISBN-13: 1098109155 - ASIN: B0B6DDF6RP
+Published Date: 2022-09-30
+Page Count: 530
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=0jWIzgEACAAJ&dq=intitle:Ansible:+Up+and+Running%2Binauthor:Bas+Meijer,+Lorin+Hochstein,+Ren%C3%A9+Moser&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $41.99Save $15.00 (26%)
+Amazon.com Reviews: 4.7 of 5 (20 reviews)
+Amazon.com URL: https://www.amazon.com/Ansible-Automating-Configuration-Management-Deployment/dp/1098109155
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (60 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Ansible-Up-Running-Bas-Meijer-ebook/dp/B0B6DDF6RP
+---
+HB Blurb: Among the many configuration management tools available, Ansible has some distinct advantages: It's minimal in nature. You don't need to install agents on your nodes. And there's an easy learning curve. With this updated third edition, you'll quickly learn how to be productive with Ansible whether you're a developer deploying code or a system administrator looking for a better automation solution.Authors Bas Meijer, Lorin Hochstein, and Rene Moser show you how to write playbooks (Ansible's configuration management scripts), manage remote servers, and explore the tool's real power: built-in declarative modules. You'll learn how Ansible has all the functionality you need--and the simplicity you desire.Explore Ansible configuration management and deploymentManage Linux, Windows, and network devicesLearn how to apply Ansible best practicesUnderstand how to use the new collections formatCreate custom modules and plug-insGenerate reusable Ansible content for open source middlewareBuild container images, images for cloud instances, and cloud infrastructureAutomate CI/CD development environmentsLearn how to use Ansible Automation Platform for DevOps
+--------------------------------------------------
+
+Book 06:
+Title: Efficient Linux at the Command Line: Boost Your Command-Line Skills
+Author(s): Daniel J. Barrett
+---
+ISBN-10: 1098113373 - ISBN-13: 9781098113377 - ASIN: 1098113403
+Published Date: 2022-02-16
+Page Count: 248
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=upFfEAAAQBAJ&printsec=frontcover&dq=intitle:Efficient+Linux+at+the+Command+Line:+Boost+Your+Command-Line+Skills%2Binauthor:Daniel+J.+Barrett&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $34.99Save $13.00 (27%)
+Amazon.com Reviews: 4.8 of 5 (36 reviews)
+Amazon.com URL: https://www.amazon.com/Efficient-Linux-Command-Line-Command-Line/dp/1098113403
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (92 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Efficient-Linux-Command-Line-Command-Line/dp/1098113403
+---
+HB Blurb: Take your Linux skills to the next level! Whether you're a system administrator, software developer, site reliability engineer, or enthusiastic hobbyist, this practical, hands-on book will help you work faster, smarter, and more efficiently. You'll learn how to create and run complex commands that solve real business problems, process and retrieve information, and automate manual tasks. You'll also truly understand what happens behind the shell prompt, so no matter which commands you run, you can be more successful in everyday Linux use and more competitive on the job market.As you build intermediate to advanced command-line skills, you'll learn how to:Choose or construct commands that get your work done quicklyRun commands efficiently and navigate the Linux filesystem with easeBuild powerful, complex commands out of simpler onesTransform text files and query them like databases to achieve business goals Control Linux point-and-click features from the command line
+--------------------------------------------------
+
+Book 07:
+Title: Kubernetes: Up and Running
+Author(s): Brendan Burns, Joe Beda, Kelsey Hightower, Lachlan Evenson
+---
+ISBN-10: 1098110153 - ISBN-13: 9781098110154 - ASIN: B0B8G22T5L
+Published Date: 2022-08-02
+Page Count: 327
+---
+Google Books Price: GBP 40.99
+Google Books URL: http://books.google.co.uk/books?id=KeB-EAAAQBAJ&printsec=frontcover&dq=intitle:Kubernetes:+Up+and+Running%2Binauthor:Brendan+Burns,+Joe+Beda,+Kelsey+Hightower,+Lachlan+Evenson&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $37.90Save $30.09 (44%)
+Amazon.com Reviews: 4.6 of 5 (72 reviews)
+Amazon.com URL: https://www.amazon.com/Kubernetes-Up-Running-Brendan-Burns-ebook/dp/B0B8G22T5L
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (72 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Kubernetes-Running-Dive-Future-Infrastructure/dp/109811020X
+---
+HB Blurb: In just five years, Kubernetes has radically changed the way developers and ops personnel build, deploy, and maintain applications in the cloud. With this book's updated third edition, you'll learn how this popular container orchestrator can help your company achieve new levels of velocity, agility, reliability, and efficiency--whether you're new to distributed systems or have been deploying cloud native apps for some time.Brendan Burns, Joe Beda, Kelsey Hightower, and Lachlan Evenson--who have worked on Kubernetes at Google and beyond--explain how this system fits into the life cycle of a distributed application. Software developers, engineers, and architects will learn ways to use tools and APIs to automate scalable distributed systems for online services, machine learning applications, or even a cluster of Raspberry Pi computers.This guide shows you how to:Create a simple cluster to learn how Kubernetes worksDive into the details of deploying an application using KubernetesLearn specialized objects in Kubernetes, such as DaemonSets, jobs, ConfigMaps, and secretsExplore deployments that tie together the lifecycle of a complete applicationGet practical examples of how to develop and deploy real-world applications in Kubernetes
+--------------------------------------------------
+
+Book 08:
+Title: Docker: Up & Running
+Author(s): Sean P. Kane, Karl Matthias
+---
+ISBN-10: 9781491917572 - ISBN-13: 1491917571 - ASIN: B0C2FPMTJ6
+Published Date: 2015-06-25
+Page Count: 214
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=6BUMogEACAAJ&dq=intitle:Docker:+Up+%26+Running%2Binauthor:Sean+P.+Kane,+Karl+Matthias&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $41.99Save $15.00 (26%)
+Amazon.com Reviews: 4.2 of 5 (20 reviews)
+Amazon.com URL: https://www.amazon.com/Docker-Running-Sean-P-Kane-ebook/dp/B0C2FPMTJ6
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.2 of 5 (20 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Docker-Shipping-Reliable-Containers-Production/dp/1098131827
+---
+HB Blurb: Docker and Linux containers have fundamentally changed the way that organizations develop, deliver, and run software at scale. But understanding why these tools are important and how they can be successfully integrated into your organization's ecosystem can be challenging. This fully updated guide provides developers, operators, architects, and technical managers with a thorough understanding of the Docker tool set and how containers can improve almost every aspect of modern software delivery and management.This edition includes significant updates to the examples and explanations that reflect the substantial changes that have occurred since Docker was first released almost a decade ago. Sean Kane and Karl Matthias have updated the text to reflect best practices and to provide additional coverage of new features like BuildKit, multi-architecture image support, rootless containers, and much more.Learn how Docker and Linux containers integrate with cloud services and KubernetesExperience building OCI images, plus deploying and managing Linux containers with powerful command-line toolsUnderstand how OCI images simplify dependency management and deployment workflow for your applicationsLearn practical techniques for deploying and testing Linux containers in productionDeploy production containers at scale wherever you need themExplore advanced Docker topics, including deployment tools, networking, orchestration, security, and configuration
+--------------------------------------------------
+
+Book 09:
+Title: Learning DevSecOps
+Author(s): Steve Suehring
+---
+ISBN-10: 1098144821 - ISBN-13: 9781098144821 - ASIN: B0D4F4YH66
+Published Date: 2024-05-17
+Page Count: 197
+---
+Google Books Price: GBP 34.5
+Google Books URL: http://books.google.co.uk/books?id=x7oIEQAAQBAJ&printsec=frontcover&dq=intitle:Learning+DevSecOps%2Binauthor:Steve+Suehring&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $47.99
+Amazon.com Reviews: 5 of 5 (1 reviews)
+Amazon.com URL: https://www.amazon.com/Learning-DevSecOps-Practical-Guide-Processes-ebook/dp/B0D4F4YH66
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learning-Devsecops-Practical-Guide-Processes/dp/1098144864
+---
+HB Blurb: How do some organizations maintain 24-7 internet-scale operations? How can organizations integrate security while continuously deploying new features? How do organizations increase security within their DevOps processes?This practical guide helps you answer those questions and more. Author Steve Suehring provides unique content to help practitioners and leadership successfully implement DevOps and DevSecOps. Learning DevSecOps emphasizes prerequisites that lead to success through best practices and then takes you through some of the tools and software used by successful DevSecOps-enabled organizations.You'll learn how DevOps and DevSecOps can eliminate the walls that stand between development, operations, and security so that you can tackle the needs of other teams early in the development lifecycle. With this book, you will:Learn why DevSecOps is about culture and processes, with tools to support the processes Understand why DevSecOps practices are key elements to deploying software in a 24-7 environmentDeploy software using a DevSecOps toolchain and create scripts to assist Integrate processes from other teams earlier in the software development lifecycleHelp team members learn the processes important for successful software development
+--------------------------------------------------
+
+Book 10:
+Title: Learning Git
+Author(s): Anna Skoulikari
+---
+ISBN-10: 1098133889 - ISBN-13: 9781098133887 - ASIN: B0C768PDQ3
+Published Date: 2023-05-16
+Page Count: 321
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=LWfDEAAAQBAJ&printsec=frontcover&dq=intitle:Learning+Git%2Binauthor:Anna+Skoulikari&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $33.17Save $6.82 (17%)
+Amazon.com Reviews: 4.8 of 5 (40 reviews)
+Amazon.com URL: https://www.amazon.com/Learning-Git-Anna-Skoulikari-ebook/dp/B0C768PDQ3
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (33 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learning-Git-Anna-Skoulikari-ebook/dp/B0C768PDQ3
+---
+HB Blurb: This book teaches Git in a simple, visual, and tangible manner so that you can build a solid mental model of how Git version control works. Through the use of color, storytelling, and hands-on exercises, you will learn to use this tool with confidence.The information is introduced incrementally so that you don't get bogged down with unknown terms or concepts. Learning Git is ideal for anyone who needs to use Git for personal or professional projects: coding bootcamp students, junior developers, data professionals, and technical writers, to name just a few!This book covers how to:Download Git and initialize a local repositoryAdd files to the staging area and make commitsCreate, switch, and delete branchesMerge and rebase branchesWork with remote repositories including cloning, pushing, pulling, and fetchingUse pull requests to collaborate with others
+--------------------------------------------------
+
+Book 11:
+Title: Linux Pocket Guide
+Author(s): Daniel J. Barrett
+---
+ISBN-10: 1491927518 - ISBN-13: 9781491927519 - ASIN: B0CWX5XFQT
+Published Date: 2016-06-01
+Page Count: 230
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=MO5FDAAAQBAJ&printsec=frontcover&dq=intitle:Linux+Pocket+Guide%2Binauthor:Daniel+J.+Barrett&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $22.32Save $3.67 (14%)
+Amazon.com Reviews: 4.9 of 5 (28 reviews)
+Amazon.com URL: https://www.amazon.com/Linux-Pocket-Guide-Essential-Commands-ebook/dp/B0CWX5XFQT
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (7 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Linux-Pocket-Guide-Daniel-Barrett-ebook/dp/B0CWX5XFQT
+---
+HB Blurb: If you use Linux in your day-to-day work, then Linux Pocket Guide is the perfect on-the-job reference. This thoroughly updated 20th anniversary edition explains more than 200 Linux commands, including new commands for file handling, package management, version control, file format conversions, and more.In this concise guide, author Daniel Barrett provides the most useful Linux commands grouped by functionality. Whether you're a novice or an experienced user, this practical book is an ideal reference for the most important Linux commands.You'll learn:Essential concepts—commands, shells, users, and the filesystemFile commands-creating, organizing, manipulating, and processing files of all kindsSysadmin basics-superusers, processes, user management, and software installationFilesystem maintenance-disks, RAID, logical volumes, backups, and moreNetworking commands-working with hosts, network connections, email, and the webGetting stuff done-everything from math to version control to graphics and audio
+--------------------------------------------------
+
+Book 12:
+Title: Web Application Security
+Author(s): Andrew Hoffman
+---
+ISBN-10: 1098143892 - ISBN-13: 9781098143893 - ASIN: B0CSMGRLRR
+Published Date: 2024-01-17
+Page Count: 430
+---
+Google Books Price: GBP 40.99
+Google Books URL: http://books.google.co.uk/books?id=aL7uEAAAQBAJ&printsec=frontcover&dq=intitle:Web+Application+Security%2Binauthor:Andrew+Hoffman&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $42.99Save $14.00 (25%)
+Amazon.com Reviews: 5 of 5 (6 reviews)
+Amazon.com URL: https://www.amazon.com/Web-Application-Security-Andrew-Hoffman-ebook/dp/B0CSMGRLRR
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (6 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Web-Application-Security-Andrew-Hoffman-ebook/dp/B0CSMGRLRR
+---
+HB Blurb: While many resources for network and IT security are available, detailed knowledge regarding modern web application security has been lacking until now. This practical guide provides both offensive and defensive security concepts that software engineers can easily learn and apply.
+Andrew Hoffman, a senior security engineer at Salesforce, introduces three pillars of web application security: recon, offense, and defense. You'll learn methods for effectively researching and analyzing modern web applications including those you don't have direct access to. You'll also learn how to break into web applications using the latest hacking techniques. Finally, you'll learn how to develop mitigations for use in your own web applications to protect against hackers.
+
+Explore common vulnerabilities plaguing today's web applications
+Learn essential hacking techniques attackers use to exploit applications
+Map and document web applications for which you don't have direct access
+Develop and deploy customized exploits that can bypass common defenses
+Develop and deploy mitigations to protect your applications against hackers
+Integrate secure coding best practices into your development lifecycle
+Get practical tips to help you improve the overall security of your web applications
+--------------------------------------------------
+
+Book 13:
+Title: Learning GitHub Actions
+Author(s): Brent Laster
+---
+ISBN-10: 1098131045 - ISBN-13: 9781098131043 - ASIN: B0CG2QBN3Q
+Published Date: 2023-08-17
+Page Count: 414
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=YanREAAAQBAJ&printsec=frontcover&dq=intitle:Learning+GitHub+Actions%2Binauthor:Brent+Laster&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $45.59Save $11.40 (20%)
+Amazon.com Reviews: 4.3 of 5 (5 reviews)
+Amazon.com URL: https://www.amazon.com/Learning-GitHub-Actions-Brent-Laster-ebook/dp/B0CG2QBN3Q
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 0 of 5 (5 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learning-GitHub-Actions-Brent-Laster-ebook/dp/B0CG2QBN3Q
+---
+HB Blurb: Automate your software development processes with GitHub Actions, the continuous integration and continuous delivery platform that integrates seamlessly with GitHub. With this practical book, open source author, trainer, and DevOps director Brent Laster explains everything you need to know about using and getting value from GitHub Actions. You'll learn what actions and workflows are and how they can be used, created, and incorporated into your processes to simplify, standardize, and automate your work in GitHub.This book explains the platform, components, use cases, implementation, and integration points of actions, so you can leverage them to provide the functionality and features needed in today's complex pipelines and software development processes. You'll learn how to design and implement automated workflows that respond to common events like pushes, pull requests, and review updates. You'll understand how to use the components of the GitHub Actions platform to gain maximum automation and benefit.With this book, you will:Learn what GitHub Actions are, the various use cases for them, and how to incorporate them into your processesUnderstand GitHub Actions' structure, syntax, and semanticsAutomate processes and implement functionalityCreate your own custom actions with Docker, JavaScript, or shell approachesTroubleshoot and debug workflows that use actionsCombine actions with GitHub APIs and other integration optionsIdentify ways to securely implement workflows with GitHub ActionsUnderstand how GitHub Actions compares to other options
+--------------------------------------------------
+
+Book 14:
+Title: FastAPI
+Author(s): Bill Lubanovic
+---
+ISBN-10: 1098135466 - ISBN-13: 9781098135461 - ASIN: B0CLKZJSGV
+Published Date: 2023-11-06
+Page Count: 244
+---
+Google Books Price: GBP 34.5
+Google Books URL: http://books.google.co.uk/books?id=XJHhEAAAQBAJ&printsec=frontcover&dq=intitle:FastAPI%2Binauthor:Bill+Lubanovic&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $28.49Save $19.50 (41%)
+Amazon.com Reviews: 3.9 of 5 (17 reviews)
+Amazon.com URL: https://www.amazon.com/FastAPI-Bill-Lubanovic-ebook/dp/B0CLKZJSGV
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4 of 5 (16 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/FastAPI-Bill-Lubanovic-ebook/dp/B0CLKZJSGV
+---
+HB Blurb: FastAPI is a young yet solid framework that takes advantage of newer Python features in a clean design. As its name implies, FastAPI is indeed fast, rivaling similar frameworks in languages such as Golang. With this practical book, developers familiar with Python will learn how FastAPI lets you accomplish more in less time with less code.Author Bill Lubanovic covers the nuts and bolts of FastAPI development with how-to guides on various topics such as forms, database access, graphics, maps, and more that will take you beyond the basics. This book also includes how-to guides that will get you up to speed on RESTful APIs, data validation, authorization, and performance. With its similarities to frameworks like Flask and Django, you'll find it easy to get started with FastAPI.Through the course of this book, you will:Learn how to build web applications with FastAPIUnderstand the differences between FastAPI, Starlette, and pydanticLearn two features that set FastAPI apart: asynchronous functions and data type checking and validationExamine new features of Python 3.8+, especially type annotationsUnderstand the differences between sync and async PythonLearn how to connect with external APIs and services
+--------------------------------------------------
+
+Book 15:
+Title: Terraform: Up and Running
+Author(s): Yevgeniy Brikman
+---
+ISBN-10: 1492046876 - ISBN-13: 9781492046875 - ASIN: B0BFVT6XS4
+Published Date: 2019-09-06
+Page Count: 365
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=57ytDwAAQBAJ&printsec=frontcover&dq=intitle:Terraform:+Up+and+Running%2Binauthor:Yevgeniy+Brikman&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $42.99Save $14.00 (25%)
+Amazon.com Reviews: 4.7 of 5 (192 reviews)
+Amazon.com URL: https://www.amazon.com/Terraform-Up-Running-Yevgeniy-Brikman-ebook/dp/B0BFVT6XS4
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 0 of 5 (184 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Terraform-Up-Running-Yevgeniy-Brikman-ebook/dp/B0BFVT6XS4
+---
+HB Blurb: Terraform has become a key player in the DevOps world for defining, launching, and managing infrastructure as code (IaC) across a variety of cloud and virtualization platforms, including AWS, Google Cloud, Azure, and more. This hands-on third edition, expanded and thoroughly updated for version 1.0 and beyond, shows you the fastest way to get up and running with Terraform.Gruntwork cofounder Yevgeniy (Jim) Brikman takes you through code examples that demonstrate Terraform's simple, declarative programming language for deploying and managing infrastructure with a few commands. Veteran sysadmins, DevOps engineers, and novice developers will quickly go from Terraform basics to running a full stack that can support a massive amount of traffic and a large team of developers.Compare Terraform with Chef, Puppet, Ansible, CloudFormation, and PulumiDeploy servers, load balancers, and databasesCreate reusable infrastructure with Terraform modulesTest your Terraform modules with static analysis, unit tests, and integration testsConfigure CI/CD pipelines for both your apps and infrastructure codeUse advanced Terraform syntax for loops, conditionals, and zero-downtime deploymentGet up to speed on Terraform 0.13 to 1.0 and beyondWork with multiple clouds and providers (including Kubernetes!)
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Learning Modern Linux
+https://www.amazon.com/Learning-Modern-Linux-Michael-Hausenblas-ebook/dp/B09Y2LFQQS
+https://www.amazon.co.uk/Learning-Modern-Linux-Michael-Hausenblas-ebook/dp/B09Y2LFQQS
+http://books.google.co.uk/books?id=5C_MzgEACAAJ&dq=intitle:Learning+Modern+Linux%2Binauthor:Michael+Hausenblas&hl=&cd=1&source=gbs_api
+
+Book 02 - Practical Linux System Administration
+https://www.amazon.com/Practical-Linux-System-Administration-Kenneth-ebook/dp/B0C2XFWX1N
+https://www.amazon.co.uk/Practical-Linux-System-Administration-Kenneth-ebook/dp/B0C2XFWX1N
+http://books.google.co.uk/books?id=UVG6EAAAQBAJ&printsec=frontcover&dq=intitle:Practical+Linux+System+Administration%2Binauthor:Kenneth+Hess&hl=&cd=1&source=gbs_api
+
+Book 03 - Python for DevOps
+https://www.amazon.com/Python-DevOps-Ruthlessly-Effective-Automation/dp/149205769X
+https://www.amazon.co.uk/Python-DevOps-Ruthlessly-Effective-Automation/dp/149205769X
+http://books.google.co.uk/books?id=gvrDDwAAQBAJ&printsec=frontcover&dq=intitle:Python+for+DevOps%2Binauthor:Noah+Gift,+Kennedy+Behrman,+Alfredo+Deza,+%26+Grig+Gheorghiu&hl=&cd=1&source=gbs_api
+
+Book 04 - Network Programmability and Automation, 2nd Edition
+https://www.amazon.com/Network-Programmability-Automation-Next-Generation-Engineer/dp/1098110838
+https://www.amazon.co.uk/Network-Programmability-Automation-Next-Generation-Engineer/dp/1098110838
+http://books.google.co.uk/books?id=bEnREAAAQBAJ&printsec=frontcover&dq=intitle:Network+Programmability+and+Automation,+2nd+Edition%2Binauthor:Matt+Oswalt,+Christian+Adell,+Scott+S.+Lowe,+Jason+Edelman&hl=&cd=1&source=gbs_api
+
+Book 05 - Ansible: Up and Running
+https://www.amazon.com/Ansible-Automating-Configuration-Management-Deployment/dp/1098109155
+https://www.amazon.co.uk/Ansible-Up-Running-Bas-Meijer-ebook/dp/B0B6DDF6RP
+http://books.google.co.uk/books?id=0jWIzgEACAAJ&dq=intitle:Ansible:+Up+and+Running%2Binauthor:Bas+Meijer,+Lorin+Hochstein,+Ren%C3%A9+Moser&hl=&cd=1&source=gbs_api
+
+Book 06 - Efficient Linux at the Command Line: Boost Your Command-Line Skills
+https://www.amazon.com/Efficient-Linux-Command-Line-Command-Line/dp/1098113403
+https://www.amazon.co.uk/Efficient-Linux-Command-Line-Command-Line/dp/1098113403
+http://books.google.co.uk/books?id=upFfEAAAQBAJ&printsec=frontcover&dq=intitle:Efficient+Linux+at+the+Command+Line:+Boost+Your+Command-Line+Skills%2Binauthor:Daniel+J.+Barrett&hl=&cd=1&source=gbs_api
+
+Book 07 - Kubernetes: Up and Running
+https://www.amazon.com/Kubernetes-Up-Running-Brendan-Burns-ebook/dp/B0B8G22T5L
+https://www.amazon.co.uk/Kubernetes-Running-Dive-Future-Infrastructure/dp/109811020X
+http://books.google.co.uk/books?id=KeB-EAAAQBAJ&printsec=frontcover&dq=intitle:Kubernetes:+Up+and+Running%2Binauthor:Brendan+Burns,+Joe+Beda,+Kelsey+Hightower,+Lachlan+Evenson&hl=&cd=1&source=gbs_api
+
+Book 08 - Docker: Up & Running
+https://www.amazon.com/Docker-Running-Sean-P-Kane-ebook/dp/B0C2FPMTJ6
+https://www.amazon.co.uk/Docker-Shipping-Reliable-Containers-Production/dp/1098131827
+http://books.google.co.uk/books?id=6BUMogEACAAJ&dq=intitle:Docker:+Up+%26+Running%2Binauthor:Sean+P.+Kane,+Karl+Matthias&hl=&cd=1&source=gbs_api
+
+Book 09 - Learning DevSecOps
+https://www.amazon.com/Learning-DevSecOps-Practical-Guide-Processes-ebook/dp/B0D4F4YH66
+https://www.amazon.co.uk/Learning-Devsecops-Practical-Guide-Processes/dp/1098144864
+http://books.google.co.uk/books?id=x7oIEQAAQBAJ&printsec=frontcover&dq=intitle:Learning+DevSecOps%2Binauthor:Steve+Suehring&hl=&cd=1&source=gbs_api
+
+Book 10 - Learning Git
+https://www.amazon.com/Learning-Git-Anna-Skoulikari-ebook/dp/B0C768PDQ3
+https://www.amazon.co.uk/Learning-Git-Anna-Skoulikari-ebook/dp/B0C768PDQ3
+http://books.google.co.uk/books?id=LWfDEAAAQBAJ&printsec=frontcover&dq=intitle:Learning+Git%2Binauthor:Anna+Skoulikari&hl=&cd=1&source=gbs_api
+
+Book 11 - Linux Pocket Guide
+https://www.amazon.com/Linux-Pocket-Guide-Essential-Commands-ebook/dp/B0CWX5XFQT
+https://www.amazon.co.uk/Linux-Pocket-Guide-Daniel-Barrett-ebook/dp/B0CWX5XFQT
+http://books.google.co.uk/books?id=MO5FDAAAQBAJ&printsec=frontcover&dq=intitle:Linux+Pocket+Guide%2Binauthor:Daniel+J.+Barrett&hl=&cd=1&source=gbs_api
+
+Book 12 - Web Application Security
+https://www.amazon.com/Web-Application-Security-Andrew-Hoffman-ebook/dp/B0CSMGRLRR
+https://www.amazon.co.uk/Web-Application-Security-Andrew-Hoffman-ebook/dp/B0CSMGRLRR
+http://books.google.co.uk/books?id=aL7uEAAAQBAJ&printsec=frontcover&dq=intitle:Web+Application+Security%2Binauthor:Andrew+Hoffman&hl=&cd=1&source=gbs_api
+
+Book 13 - Learning GitHub Actions
+https://www.amazon.com/Learning-GitHub-Actions-Brent-Laster-ebook/dp/B0CG2QBN3Q
+https://www.amazon.co.uk/Learning-GitHub-Actions-Brent-Laster-ebook/dp/B0CG2QBN3Q
+http://books.google.co.uk/books?id=YanREAAAQBAJ&printsec=frontcover&dq=intitle:Learning+GitHub+Actions%2Binauthor:Brent+Laster&hl=&cd=1&source=gbs_api
+
+Book 14 - FastAPI
+https://www.amazon.com/FastAPI-Bill-Lubanovic-ebook/dp/B0CLKZJSGV
+https://www.amazon.co.uk/FastAPI-Bill-Lubanovic-ebook/dp/B0CLKZJSGV
+http://books.google.co.uk/books?id=XJHhEAAAQBAJ&printsec=frontcover&dq=intitle:FastAPI%2Binauthor:Bill+Lubanovic&hl=&cd=1&source=gbs_api
+
+Book 15 - Terraform: Up and Running
+https://www.amazon.com/Terraform-Up-Running-Yevgeniy-Brikman-ebook/dp/B0BFVT6XS4
+https://www.amazon.co.uk/Terraform-Up-Running-Yevgeniy-Brikman-ebook/dp/B0BFVT6XS4
+http://books.google.co.uk/books?id=57ytDwAAQBAJ&printsec=frontcover&dq=intitle:Terraform:+Up+and+Running%2Binauthor:Yevgeniy+Brikman&hl=&cd=1&source=gbs_api
+
