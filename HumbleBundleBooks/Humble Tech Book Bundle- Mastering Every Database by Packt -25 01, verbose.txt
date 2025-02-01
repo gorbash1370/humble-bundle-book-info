@@ -1,0 +1,544 @@
+Humble Tech Book Bundle- Mastering Every Database by Packt - Packt
+Processing date: 2025-01-24
+Data retrieved from: https://www.humblebundle.com/books/mastering-every-database-packt-books
+
+Book 01 - Mastering PostgreSQL 17 - Hans-Jürgen Schönig - 2 out of 5 (1 reviews)
+Book 02 - Amazon DynamoDB - The Definitive Guide - Aman Dhingra, Mike Mackay - None found out of 5 (None found reviews)
+Book 03 - Learn T-SQL Querying - Pedro Lopes, Pam Lahoud - 4.5 out of 5 (2 reviews)
+Book 04 - Database Design and Modeling with Google Cloud - Abirami Sukumaran, Priyanka Vergadia, et al. - 4.8 out of 5 (7 reviews)
+Book 05 - PostgreSQL 16 Administration Cookbook - Gianni Ciolli, Boriss Mejías, et al. - 4.8 out of 5 (26 reviews)
+Book 06 - Learn PostgreSQL - Luca Ferrari, Enrico Pirozzi - 4.3 out of 5 (36 reviews)
+Book 07 - SQL Query Design Patterns and Best Practices - Steve Hughes, Dennis Neer, et al. - 4.8 out of 5 (11 reviews)
+Book 08 - SQL for Data Analytics - Steve Hughes, Dennis Neer, et al. - 4.8 out of 5 (11 reviews)
+Book 09 - SQL Server Query Tuning and Optimization - Benjamin Nevarez - 4.5 out of 5 (27 reviews)
+Book 10 - The MySQL Workshop - Thomas Pettit, Scott Cosentino - 4.7 out of 5 (17 reviews)
+Book 11 - SQL Server 2019 Administrator's Guide - Marek Chmel - 4.3 out of 5 (42 reviews)
+Book 12 - Professional Azure SQL Managed Database Administration - Ahmad Osama - 4.5 out of 5 (16 reviews)
+Book 13 - MongoDB Fundamentals - Amit Phaltankar, Juned Ahsan - 4.5 out of 5 (39 reviews)
+Book 14 - Redis Stack for Application Modernization - Luigi Fugaro, Mirko Ortensi - 4.8 out of 5 (7 reviews)
+Book 15 - Getting Started with CockroachDB - Kishen Das Kondabagilu Rajanna - 4.7 out of 5 (6 reviews)
+Book 16 - Hands-On SQL Server 2019 Analysis Services - Steven Hughes, Adam Jorgensen - 4.6 out of 5 (21 reviews)
+Book 17 - Learn SQL Database Programming - Josephine Bush - 4.4 out of 5 (31 reviews)
+Book 18 - The Applied SQL Data Analytics Workshop - Matt Goldwasser, Upom Malik, et al. - 4.6 out of 5 (43 reviews)
+Book 19 - Professional SQL Server High Availability and Disaster Recovery - Ahmad Osama - 4.7 out of 5 (4 reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Mastering PostgreSQL 17
+Author(s): Hans-Jürgen Schönig
+---
+ISBN-10: 1836205961 - ISBN-13: 9781836205968 - ASIN: 183620597X
+Published Date: 2024-12-27
+Page Count: 474
+---
+Google Books Price: GBP 20.79
+Google Books URL: http://books.google.co.uk/books?id=Xxc3EQAAQBAJ&printsec=frontcover&dq=intitle:Mastering+PostgreSQL+17%2Binauthor:Hans-J%C3%BCrgen+Sch%C3%B6nig&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 2 of 5 (1 reviews)
+Amazon.com URL: https://www.amazon.com/Mastering-PostgreSQL-deployment-optimization-strategies/dp/183620597X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Mastering-PostgreSQL-deployment-optimization-strategies-ebook/dp/B0DQ4WQSC9
+---
+HB Blurb: Key FeaturesOptimize queries and performance for PostgreSQL installationsSecure databases with advanced access controls and encryptionMaster replication, backups, and disaster recovery strategiesPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for database administrators, PostgreSQL developers, and IT professionals who want to implement advanced functionalities and tackle complex administrative tasks using PostgreSQL 17. A foundational understanding of PostgreSQL and core database concepts is essential, along with familiarity with SQL. Prior experience in database administration will enhance your ability to leverage the advanced techniques presented in this book.
+--------------------------------------------------
+
+Book 02:
+Title: Amazon DynamoDB - The Definitive Guide
+Author(s): Aman Dhingra, Mike Mackay
+---
+ISBN-10: 1803248327 - ISBN-13: 9781803248325 - ASIN: B0D989ZJN7
+Published Date: 2024-08-30
+Page Count: 415
+---
+Google Books Price: GBP 17.54
+Google Books URL: http://books.google.co.uk/books?id=KW0bEQAAQBAJ&printsec=frontcover&dq=intitle:Amazon+DynamoDB+-+The+Definitive+Guide%2Binauthor:Aman+Dhingra,+Mike+Mackay&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $35.99
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: https://www.amazon.com/Amazon-DynamoDB-enterprise-ready-predictable-performance-ebook/dp/B0D989ZJN7
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Amazon-DynamoDB-enterprise-ready-predictable-performance/dp/1803246898
+---
+HB Blurb: Key FeaturesDiscover how DynamoDB works behind the scenes to make the most of its featuresLearn how to keep latency and costs minimal even when scaling upIntegrate DynamoDB with other AWS services to create a full data analytics systemPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for software architects designing scalable systems, developers optimizing performance with DynamoDB, and engineering managers guiding decision-making. Data engineers will learn to integrate DynamoDB into workflows, while product owners will explore its innovative capabilities. DBAs transitioning to NoSQL will find valuable insights on DynamoDB and RDBMS integration. Basic knowledge of software engineering, Python, and cloud computing is helpful. Hands-on AWS or DynamoDB experience is beneficial but not required.
+--------------------------------------------------
+
+Book 03:
+Title: Learn T-SQL Querying
+Author(s): Pedro Lopes, Pam Lahoud
+---
+ISBN-10: 178934297X - ISBN-13: 9781789342970 - ASIN: B0CVQSGPK6
+Published Date: 2019-05-03
+Page Count: 474
+---
+Google Books Price: GBP 23.39
+Google Books URL: http://books.google.co.uk/books?id=Y1qWDwAAQBAJ&printsec=frontcover&dq=intitle:Learn+T-SQL+Querying%2Binauthor:Pedro+Lopes,+Pam+Lahoud&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $24.99Save $1.00 (4%)
+Amazon.com Reviews: 4.5 of 5 (2 reviews)
+Amazon.com URL: https://www.amazon.com/Learn-T-SQL-Querying-developing-efficient-ebook/dp/B0CVQSGPK6
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 3.5 of 5 (2 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learn-T-SQL-Querying-developing-efficient-ebook/dp/B0CVQSGPK6
+---
+HB Blurb: Key FeaturesA definitive guide to mastering the techniques of writing efficient T-SQL codeLearn query optimization fundamentals, query analysis, and how query structure impacts performanceDiscover insightful solutions to detect, analyze, and tune query performance issuesPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for database administrators, database developers, data analysts, data scientists and T-SQL practitioners who want to master the art of writing efficient T-SQL code and troubleshooting query performance issues through practical examples. A basic understanding of T-SQL syntax, writing queries in SQL Server, and using the SQL Server Management Studio tool will be helpful to get started.
+--------------------------------------------------
+
+Book 04:
+Title: Database Design and Modeling with Google Cloud
+Author(s): Abirami Sukumaran, Priyanka Vergadia, et al.
+---
+ISBN-10: 9781804611456 - ISBN-13: 180461145X - ASIN: B0CQG9QD7C
+Published Date: 2023-12-29
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=cDps0AEACAAJ&dq=intitle:Database+Design+and+Modeling+with+Google+Cloud%2Binauthor:Abirami+Sukumaran,+Priyanka+Vergadia,+et+al.&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.8 of 5 (7 reviews)
+Amazon.com URL: https://www.amazon.com/Database-Design-Modeling-Google-Cloud/dp/180461145X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (3 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Database-Design-Modeling-Google-Cloud-ebook/dp/B0CQG9QD7C
+---
+HB Blurb: Key FeaturesFamiliarize yourself with business and technical considerations involved in modeling the right databaseTake your data to applications, analytics, and AI with real-world examplesLearn how to code, build, and deploy end-to-end solutions with expert advicePurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for database developers, data engineers, and architects looking to design, model, and build database applications on the cloud with an extended focus on operational consideration and taking their data to AI. Data scientists, as well ML and AI engineers who want to use Google Cloud services in the data to AI journey will also find plenty of useful information in this book. It will also be useful to data analysts and BI developers who want to use SQL impactfully to generate ML and generative AI insights from their data.
+--------------------------------------------------
+
+Book 05:
+Title: PostgreSQL 16 Administration Cookbook
+Author(s): Gianni Ciolli, Boriss Mejías, et al.
+---
+ISBN-10:  - ISBN-13:  - ASIN: B0CP5PPSTQ
+Published Date: 
+Page Count: 
+---
+Google Books Price: 
+Google Books URL: No Google Books URL found.
+---
+Amazon.com Price: $31.72Save $12.27 (28%)
+Amazon.com Reviews: 4.8 of 5 (26 reviews)
+Amazon.com URL: https://www.amazon.com/PostgreSQL-Administration-Cookbook-real-world-challenges-ebook/dp/B0CP5PPSTQ
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (21 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/PostgreSQL-Administration-Cookbook-real-world-challenges/dp/1835460585
+---
+HB Blurb: Key FeaturesSkill-up as a database administrator by achieving improved query performance, backup, and recovery management, setting up replication and so onGet to grips with the essentials of database management with a recipe-based approach using the latest features of PostgreSQL 16New and updated recipes on crucial PostgreSQL topics like Monitoring, Logging, Scalability and so onWho this book is forThis Postgres book is for database administrators, data architects, database developers, and anyone with an interest in planning and running live production databases using PostgreSQL 16. Those looking for hands-on solutions to any problem associated with PostgreSQL 16 administration will also find this book useful. Some experience with handling PostgreSQL databases will help you to make the most out of this book, however, it is a useful resource even if you are just beginning your Postgres journey.
+--------------------------------------------------
+
+Book 06:
+Title: Learn PostgreSQL
+Author(s): Luca Ferrari, Enrico Pirozzi
+---
+ISBN-10: 1838986898 - ISBN-13: 9781838986896 - ASIN: 1837635641
+Published Date: 2020-10-09
+Page Count: 636
+---
+Google Books Price: GBP 18.84
+Google Books URL: http://books.google.co.uk/books?id=WXUCEAAAQBAJ&printsec=frontcover&dq=intitle:Learn+PostgreSQL%2Binauthor:Luca+Ferrari,+Enrico+Pirozzi&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.3 of 5 (36 reviews)
+Amazon.com URL: https://www.amazon.com/Learn-PostgreSQL-Second-scalable-databases/dp/1837635641
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.2 of 5 (22 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learn-PostgreSQL-manage-scalable-databases-ebook/dp/B0CJRRF2FP
+---
+HB Blurb: Key FeaturesLearn the fundamentals of PostgreSQL 16, including SQL statements, replication, and securityEnhance your learning journey with the provided Docker images for practical hands-on exercises and tests at the end of each chapterGet new and improved examples, use-cases, and scenarios specifically for concepts like partitioning, replication, back-up and restore, cluster configuration, monitoring and othersWho this book is forLearning PostgresSQL 16 book is for anyone interested in learning about the PostgreSQL database from scratch. Anyone looking to build robust data warehousing applications and scale the database for high-availability and performance using the latest features of PostgreSQL will also find this book useful. Although prior knowledge of PostgreSQL is not required, familiarity with databases is expected.
+--------------------------------------------------
+
+Book 07:
+Title: SQL Query Design Patterns and Best Practices
+Author(s): Steve Hughes, Dennis Neer, et al.
+---
+ISBN-10: 1837630089 - ISBN-13: 9781837630080 - ASIN: 1837633282
+Published Date: 2023-03-31
+Page Count: 270
+---
+Google Books Price: GBP 15.59
+Google Books URL: http://books.google.co.uk/books?id=CTWxEAAAQBAJ&printsec=frontcover&dq=intitle:SQL+Query+Design+Patterns+and+Best+Practices%2Binauthor:Steve+Hughes,+Dennis+Neer,+et+al.&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.8 of 5 (11 reviews)
+Amazon.com URL: https://www.amazon.com/Query-Design-Patterns-Best-Practices/dp/1837633282
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 0 of 5 (4 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Query-Design-Patterns-Best-Practices/dp/1837633282
+---
+HB Blurb: Key FeaturesExamine query design and performance using query plans and indexesSolve business problems using advanced techniques such as common table expressions and window functionsUse SQL in modern data platform solutions with JSON and Jupyter notebooksWho this book is forThis book is for SQL developers, data analysts, report writers, data scientists, and other data gatherers looking to expand their skills for complex querying as well as for building more efficient and performant queries.For those new to SQL, this book can help you accelerate your learning and keep you from making common mistakes.
+--------------------------------------------------
+
+Book 08:
+Title: SQL for Data Analytics
+Author(s): Steve Hughes, Dennis Neer, et al.
+---
+ISBN-10: 9781837633289 - ISBN-13: 1837633282 - ASIN: 
+Published Date: 2023-03-22
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=kVW6zwEACAAJ&dq=intitle:SQL+for+Data+Analytics%2Binauthor:Steve+Hughes,+Dennis+Neer,+et+al.&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $19.79Save $8.20 (29%)
+Amazon.com Reviews: 4.8 of 5 (11 reviews)
+Amazon.com URL: https://www.amazon.com/Query-Design-Patterns-Best-Practices/dp/1837633282
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 0 of 5 (4 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Query-Design-Patterns-Best-Practices/dp/1837633282
+---
+HB Blurb: Key FeaturesMaster each concept through practical exercises and activitiesDiscover various statistical techniques to analyze your dataImplement everything you’ve learned on a real-world case study to uncover valuable insightsWho this book is forIf you're a database engineer looking to transition into analytics or a backend engineer who wants to develop a deeper understanding of production data and gain practical SQL knowledge, you will find this book useful. This book is also ideal for data scientists or business analysts who want to improve their data analytics skills using SQL.Basic familiarity with SQL (such as basic SELECT, WHERE, and GROUP BY clauses) as well as a good understanding of linear algebra, statistics, and PostgreSQL 14 are necessary to make the most of this SQL data analytics book.
+--------------------------------------------------
+
+Book 09:
+Title: SQL Server Query Tuning and Optimization
+Author(s): Benjamin Nevarez
+---
+ISBN-10: 1803239786 - ISBN-13: 9781803239781 - ASIN: 1803242620
+Published Date: 2022-08-12
+Page Count: 446
+---
+Google Books Price: GBP 20.14
+Google Books URL: http://books.google.co.uk/books?id=7KF9EAAAQBAJ&printsec=frontcover&dq=intitle:SQL+Server+Query+Tuning+and+Optimization%2Binauthor:Benjamin+Nevarez&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $31.91Save $10.08 (24%)
+Amazon.com Reviews: 4.5 of 5 (27 reviews)
+Amazon.com URL: https://www.amazon.com/SQL-Server-Query-Tuning-Optimization/dp/1803242620
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: No Amazon.co.uk URL found
+---
+HB Blurb: Key FeaturesSpeed up queries and dramatically improve application performance by both understanding query engine internals and practical query optimizationUnderstand how the query optimizer worksLearn about intelligent query processing and what is new in SQL Server 2022Who this book is forThis book is for SQL Server developers who are struggling with slow query execution, database administrators who are tasked with troubleshooting slow application performance, and database architects who design SQL Server databases in support of line-of-business and data warehousing applications.
+--------------------------------------------------
+
+Book 10:
+Title: The MySQL Workshop
+Author(s): Thomas Pettit, Scott Cosentino
+---
+ISBN-10: 183921547X - ISBN-13: 9781839215476 - ASIN: B084T32T3B
+Published Date: 2022-04-29
+Page Count: 726
+---
+Google Books Price: GBP 12.34
+Google Books URL: http://books.google.co.uk/books?id=7H1rEAAAQBAJ&printsec=frontcover&dq=intitle:The+MySQL+Workshop%2Binauthor:Thomas+Pettit,+Scott+Cosentino&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $15.24Save $9.75 (39%)
+Amazon.com Reviews: 4.7 of 5 (17 reviews)
+Amazon.com URL: https://www.amazon.com/MySQL-Workshop-Interactive-Approach-Learning-ebook/dp/B084T32T3B
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (7 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/MySQL-Workshop-Interactive-Approach-Learning-ebook/dp/B084T32T3B
+---
+HB Blurb: Key FeaturesLearn how to set up and maintain a MySQL databaseRun SQL queries to create, retrieve, and manipulate dataUse MySQL effectively with common business applications such as Excel and MS AccessWho this book is forThis book is for anyone who wants to learn how to use MySQL in a productive, efficient way. If you’re totally new to MySQL, it'll help you get started or if you've used MySQL before, it'll fill in any gaps, consolidate key concepts, and offer valuable hands-on practice. Prior knowledge of simple SQL or basic programming techniques will help you in quickly grasping the concepts covered, but is not necessary.
+--------------------------------------------------
+
+Book 11:
+Title: SQL Server 2019 Administrator's Guide
+Author(s): Marek Chmel
+---
+ISBN-10: 9781789954326 - ISBN-13: 1789954320 - ASIN: B08D9CDC9L
+Published Date: 2020-09-11
+Page Count: 522
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=ZmW6zQEACAAJ&dq=intitle:SQL+Server+2019+Administrator%27s+Guide%2Binauthor:Marek+Chmel&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $22.39Save $13.60 (38%)
+Amazon.com Reviews: 4.3 of 5 (42 reviews)
+Amazon.com URL: https://www.amazon.com/SQL-Server-2019-Administrators-Guide-ebook/dp/B08D9CDC9L
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.2 of 5 (33 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/SQL-Server-2019-Administrators-Guide-ebook/dp/B08D9CDC9L
+---
+HB Blurb: Key FeaturesExplore new features of SQL Server 2019 to set up, administer, and maintain your database solution successfullyDevelop a dynamic SQL Server environment and streamline big data pipelinesDiscover best practices for fixing performance issues, database access management, replication, and securityWho this book is forThis book is for database administrators, database developers, and anyone who wants to administer large and multiple databases single-handedly using Microsoft's SQL Server 2019. Basic awareness of database concepts and experience with previous SQL Server versions is required.
+--------------------------------------------------
+
+Book 12:
+Title: Professional Azure SQL Managed Database Administration
+Author(s): Ahmad Osama
+---
+ISBN-10: 1801073325 - ISBN-13: 9781801073325 - ASIN: B08YJRJ3TJ
+Published Date: 2021-03-08
+Page Count: 725
+---
+Google Books Price: GBP 21.44
+Google Books URL: http://books.google.co.uk/books?id=yUQiEAAAQBAJ&printsec=frontcover&dq=intitle:Professional+Azure+SQL+Managed+Database+Administration%2Binauthor:Ahmad+Osama&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $29.49Save $9.50 (24%)
+Amazon.com Reviews: 4.5 of 5 (16 reviews)
+Amazon.com URL: https://www.amazon.com/Professional-Azure-Managed-Database-Administration-ebook/dp/B08YJRJ3TJ
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (17 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Professional-Azure-Managed-Database-Administration-ebook/dp/B08YJRJ3TJ
+---
+HB Blurb: Key FeaturesLearn to automate common management tasks with PowerShell.Understand different methods to generate elastic pools and shards to scale Azure SQL databases.Learn to develop a scalable cloud solution through over 40 practical activities and exercises.Who this book is forThis book is designed to benefit database administrators, database developers, or application developers who are interested in developing new applications or migrating existing ones with Azure SQL database.  Prior experience of working with an on-premise SQL Server or Azure SQL database along with a basic understanding of PowerShell scripts and C# code is necessary to grasp the concepts covered in this book.
+--------------------------------------------------
+
+Book 13:
+Title: MongoDB Fundamentals
+Author(s): Amit Phaltankar, Juned Ahsan
+---
+ISBN-10: 1839213043 - ISBN-13: 9781839213045 - ASIN: B084T31VDR
+Published Date: 2020-12-22
+Page Count: 749
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=uaEQEAAAQBAJ&printsec=frontcover&dq=intitle:MongoDB+Fundamentals%2Binauthor:Amit+Phaltankar,+Juned+Ahsan&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $18.49Save $11.50 (38%)
+Amazon.com Reviews: 4.5 of 5 (39 reviews)
+Amazon.com URL: https://www.amazon.com/MongoDB-Workshop-Interactive-Approach-Learning-ebook/dp/B084T31VDR
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.2 of 5 (19 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/MongoDB-Workshop-Interactive-Approach-Learning/dp/1839210648
+---
+HB Blurb: Key FeaturesLearn the fundamentals of NoSQL databases with MongoDBCreate, manage, and optimize a MongoDB database in the cloud using AtlasUse a real-world dataset to gain practical experience of handling big dataWho this book is forThis book is designed for people who are new to MongoDB. It is suitable for developers, database administrators, system administrators, and cloud architects who are looking to use MongoDB for smooth data processing in the cloud. Although not necessary, basic knowledge of a general programming language and experience with other databases will help you grasp the topics covered more easily.
+--------------------------------------------------
+
+Book 14:
+Title: Redis Stack for Application Modernization
+Author(s): Luigi Fugaro, Mirko Ortensi
+---
+ISBN-10: 1837637598 - ISBN-13: 9781837637591 - ASIN: B0CMR28RT1
+Published Date: 2023-12-29
+Page Count: 336
+---
+Google Books Price: GBP 14.94
+Google Books URL: http://books.google.co.uk/books?id=yHjqEAAAQBAJ&printsec=frontcover&dq=intitle:Redis+Stack+for+Application+Modernization%2Binauthor:Luigi+Fugaro,+Mirko+Ortensi&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $31.19Save $8.80 (22%)
+Amazon.com Reviews: 4.8 of 5 (7 reviews)
+Amazon.com URL: https://www.amazon.com/Redis-Stack-Application-Modernization-applications-ebook/dp/B0CMR28RT1
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (6 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Redis-Stack-Application-Modernization-applications/dp/1837638187
+---
+HB Blurb: Key FeaturesModel, index, and search data using JSON and vector data typesModernize your applications with vector similarity search, documents hybrid search, and moreConfigure a scalable, highly available, and secure server using RedisInsightPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for database administrators, database developers, software developers, and software architects who want to discover the powerful real-time, multi-model capabilities of the Redis Stack database. A basic understanding of Redis and databases in general, coupled with software development skills in at least one of Java, Python, C#, Golang, or JavaScript languages will help you understand the concepts covered in this book.
+--------------------------------------------------
+
+Book 15:
+Title: Getting Started with CockroachDB
+Author(s): Kishen Das Kondabagilu Rajanna
+---
+ISBN-10: 1800567758 - ISBN-13: 9781800567757 - ASIN: B09JCCHTSQ
+Published Date: 2022-03-11
+Page Count: 246
+---
+Google Books Price: GBP 18.84
+Google Books URL: http://books.google.co.uk/books?id=Kl9lEAAAQBAJ&pg=PA77&dq=intitle:Getting+Started+with+CockroachDB%2Binauthor:Kishen+Das+Kondabagilu+Rajanna&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $39.99
+Amazon.com Reviews: 4.7 of 5 (6 reviews)
+Amazon.com URL: https://www.amazon.com/Getting-Started-CockroachDB-cloud-native-data-intensive-ebook/dp/B09JCCHTSQ
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Getting-Started-CockroachDB-cloud-native-data-intensive-ebook/dp/B09JCCHTSQ
+---
+HB Blurb: Key FeaturesGain insights into CockroachDB and build highly reliable cloud-native applicationsExplore the power of a scalable and highly available cloud-native SQL database to distribute data and workloads automaticallyBuild high-speed database services using CockroachDB and troubleshoot performance issuesWho this book is forSoftware engineers, database developers, database administrators, and anyone who wishes to learn about the features of CockroachDB and how to build database solutions that are fast, highly available, and cater to business-critical applications, will find this book useful. Although no prior exposure to CockroachDB is required, familiarity with database concepts will help you to get the most out of this book.
+--------------------------------------------------
+
+Book 16:
+Title: Hands-On SQL Server 2019 Analysis Services
+Author(s): Steven Hughes, Adam Jorgensen
+---
+ISBN-10: 180020163X - ISBN-13: 9781800201637 - ASIN: 1800204760
+Published Date: 2020-10-22
+Page Count: 475
+---
+Google Books Price: GBP 21.44
+Google Books URL: http://books.google.co.uk/books?id=17IEEAAAQBAJ&printsec=frontcover&dq=intitle:Hands-On+SQL+Server+2019+Analysis+Services%2Binauthor:Steven+Hughes,+Adam+Jorgensen&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $34.99Save $4.00 (10%)
+Amazon.com Reviews: 4.6 of 5 (21 reviews)
+Amazon.com URL: https://www.amazon.com/Hands-Server-Analysis-Services-multi-dimensional/dp/1800204760
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (18 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Hands-Server-Analysis-Services-multi-dimensional/dp/1800204760
+---
+HB Blurb: Key FeaturesExplore tips and tricks to design, develop, and optimize end-to-end data analytics solutions using Microsoft's technologiesLearn tabular modeling and multi-dimensional cube design development using real-world examplesImplement Analysis Services to help you make productive business decisionsWho this book is forThis Microsoft SQL Server book is for BI professionals and data analysts who are looking for a practical guide to creating and maintaining tabular and multi-dimensional models using SQL Server 2019 Analysis Services. A basic working knowledge of BI solutions such as Power BI and database querying is required.
+--------------------------------------------------
+
+Book 17:
+Title: Learn SQL Database Programming
+Author(s): Josephine Bush
+---
+ISBN-10: 1838981705 - ISBN-13: 9781838981709 - ASIN: 1838984763
+Published Date: 2020-05-29
+Page Count: 550
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=94LoDwAAQBAJ&printsec=frontcover&dq=intitle:Learn+SQL+Database+Programming%2Binauthor:Josephine+Bush&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $18.49Save $11.50 (38%)
+Amazon.com Reviews: 4.4 of 5 (31 reviews)
+Amazon.com URL: https://www.amazon.com/Learn-SQL-Database-Programming-manipulate/dp/1838984763
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (30 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Learn-SQL-Database-Programming-manipulate-ebook/dp/B08663TZLT
+---
+HB Blurb: Key FeaturesExplore all SQL statements in depth using a variety of examplesGet to grips with database querying, data aggregate, manipulation, and much moreUnderstand how to explore and process data of varying complexity to tell a storyWho this book is forThis book is for business analysts, SQL developers, database administrators, and students learning SQL. If you want to learn how to query and manipulate SQL data for database administration tasks or simply extract and organize relevant data for analysis, you’ll find this book useful. No prior SQL experience is required.
+--------------------------------------------------
+
+Book 18:
+Title: The Applied SQL Data Analytics Workshop
+Author(s): Matt Goldwasser, Upom Malik, et al.
+---
+ISBN-10: 9781800203679 - ISBN-13: 1800203675 - ASIN: 
+Published Date: 2020-02-27
+Page Count: 404
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=SetjzQEACAAJ&dq=intitle:The+Applied+SQL+Data+Analytics+Workshop%2Binauthor:Matt+Goldwasser,+Upom+Malik,+et+al.&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (43 reviews)
+Amazon.com URL: https://www.amazon.com/Applied-SQL-Data-Analytics-Workshop/dp/1800203675
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (40 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Applied-SQL-Data-Analytics-Workshop/dp/1800203675
+---
+HB Blurb: Key FeaturesExplore ways to use SQL for data analytics and gain key insights from your dataStudy advanced analytics, such as geospatial and text analyticsDiscover ways to integrate your SQL pipelines with other analytics technologiesWho this book is forIf you are a database engineer who is looking to transition into analytics or someone who knows SQL basics but doesn't know how to use it to create business insights, then this book is for you.
+--------------------------------------------------
+
+Book 19:
+Title: Professional SQL Server High Availability and Disaster Recovery
+Author(s): Ahmad Osama
+---
+ISBN-10: 1789800811 - ISBN-13: 9781789800814 - ASIN: 1789802598
+Published Date: 2019-01-31
+Page Count: 564
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=liWGDwAAQBAJ&printsec=frontcover&dq=intitle:Professional+SQL+Server+High+Availability+and+Disaster+Recovery%2Binauthor:Ahmad+Osama&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $29.99
+Amazon.com Reviews: 4.7 of 5 (4 reviews)
+Amazon.com URL: https://www.amazon.com/Professional-Server-Availability-Disaster-Recovery/dp/1789802598
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: None found of 5 (None found reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Professional-Server-Availability-Disaster-Recovery/dp/1789802598
+---
+HB Blurb: Key FeaturesExplore more than 20 real-world use cases to understand SQL Server featuresGet to grips with the SQL Server Always On technologyLearn how to choose HA and DR topologies for your systemWho this book is forProfessional SQL Server High Availability and Disaster Recovery is for you if you are a database administrator or database developer who wants to improve the performance of your production environment. Prior experience of working with SQL Server will help you get the most out of this book.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Mastering PostgreSQL 17
+https://www.amazon.com/Mastering-PostgreSQL-deployment-optimization-strategies/dp/183620597X
+https://www.amazon.co.uk/Mastering-PostgreSQL-deployment-optimization-strategies-ebook/dp/B0DQ4WQSC9
+http://books.google.co.uk/books?id=Xxc3EQAAQBAJ&printsec=frontcover&dq=intitle:Mastering+PostgreSQL+17%2Binauthor:Hans-J%C3%BCrgen+Sch%C3%B6nig&hl=&cd=1&source=gbs_api
+
+Book 02 - Amazon DynamoDB - The Definitive Guide
+https://www.amazon.com/Amazon-DynamoDB-enterprise-ready-predictable-performance-ebook/dp/B0D989ZJN7
+https://www.amazon.co.uk/Amazon-DynamoDB-enterprise-ready-predictable-performance/dp/1803246898
+http://books.google.co.uk/books?id=KW0bEQAAQBAJ&printsec=frontcover&dq=intitle:Amazon+DynamoDB+-+The+Definitive+Guide%2Binauthor:Aman+Dhingra,+Mike+Mackay&hl=&cd=1&source=gbs_api
+
+Book 03 - Learn T-SQL Querying
+https://www.amazon.com/Learn-T-SQL-Querying-developing-efficient-ebook/dp/B0CVQSGPK6
+https://www.amazon.co.uk/Learn-T-SQL-Querying-developing-efficient-ebook/dp/B0CVQSGPK6
+http://books.google.co.uk/books?id=Y1qWDwAAQBAJ&printsec=frontcover&dq=intitle:Learn+T-SQL+Querying%2Binauthor:Pedro+Lopes,+Pam+Lahoud&hl=&cd=1&source=gbs_api
+
+Book 04 - Database Design and Modeling with Google Cloud
+https://www.amazon.com/Database-Design-Modeling-Google-Cloud/dp/180461145X
+https://www.amazon.co.uk/Database-Design-Modeling-Google-Cloud-ebook/dp/B0CQG9QD7C
+http://books.google.co.uk/books?id=cDps0AEACAAJ&dq=intitle:Database+Design+and+Modeling+with+Google+Cloud%2Binauthor:Abirami+Sukumaran,+Priyanka+Vergadia,+et+al.&hl=&cd=1&source=gbs_api
+
+Book 05 - PostgreSQL 16 Administration Cookbook
+https://www.amazon.com/PostgreSQL-Administration-Cookbook-real-world-challenges-ebook/dp/B0CP5PPSTQ
+https://www.amazon.co.uk/PostgreSQL-Administration-Cookbook-real-world-challenges/dp/1835460585
+No Google Books URL found.
+
+Book 06 - Learn PostgreSQL
+https://www.amazon.com/Learn-PostgreSQL-Second-scalable-databases/dp/1837635641
+https://www.amazon.co.uk/Learn-PostgreSQL-manage-scalable-databases-ebook/dp/B0CJRRF2FP
+http://books.google.co.uk/books?id=WXUCEAAAQBAJ&printsec=frontcover&dq=intitle:Learn+PostgreSQL%2Binauthor:Luca+Ferrari,+Enrico+Pirozzi&hl=&cd=1&source=gbs_api
+
+Book 07 - SQL Query Design Patterns and Best Practices
+https://www.amazon.com/Query-Design-Patterns-Best-Practices/dp/1837633282
+https://www.amazon.co.uk/Query-Design-Patterns-Best-Practices/dp/1837633282
+http://books.google.co.uk/books?id=CTWxEAAAQBAJ&printsec=frontcover&dq=intitle:SQL+Query+Design+Patterns+and+Best+Practices%2Binauthor:Steve+Hughes,+Dennis+Neer,+et+al.&hl=&cd=1&source=gbs_api
+
+Book 08 - SQL for Data Analytics
+https://www.amazon.com/Query-Design-Patterns-Best-Practices/dp/1837633282
+https://www.amazon.co.uk/Query-Design-Patterns-Best-Practices/dp/1837633282
+http://books.google.co.uk/books?id=kVW6zwEACAAJ&dq=intitle:SQL+for+Data+Analytics%2Binauthor:Steve+Hughes,+Dennis+Neer,+et+al.&hl=&cd=1&source=gbs_api
+
+Book 09 - SQL Server Query Tuning and Optimization
+https://www.amazon.com/SQL-Server-Query-Tuning-Optimization/dp/1803242620
+No Amazon.co.uk URL found
+http://books.google.co.uk/books?id=7KF9EAAAQBAJ&printsec=frontcover&dq=intitle:SQL+Server+Query+Tuning+and+Optimization%2Binauthor:Benjamin+Nevarez&hl=&cd=1&source=gbs_api
+
+Book 10 - The MySQL Workshop
+https://www.amazon.com/MySQL-Workshop-Interactive-Approach-Learning-ebook/dp/B084T32T3B
+https://www.amazon.co.uk/MySQL-Workshop-Interactive-Approach-Learning-ebook/dp/B084T32T3B
+http://books.google.co.uk/books?id=7H1rEAAAQBAJ&printsec=frontcover&dq=intitle:The+MySQL+Workshop%2Binauthor:Thomas+Pettit,+Scott+Cosentino&hl=&cd=1&source=gbs_api
+
+Book 11 - SQL Server 2019 Administrator's Guide
+https://www.amazon.com/SQL-Server-2019-Administrators-Guide-ebook/dp/B08D9CDC9L
+https://www.amazon.co.uk/SQL-Server-2019-Administrators-Guide-ebook/dp/B08D9CDC9L
+http://books.google.co.uk/books?id=ZmW6zQEACAAJ&dq=intitle:SQL+Server+2019+Administrator%27s+Guide%2Binauthor:Marek+Chmel&hl=&cd=1&source=gbs_api
+
+Book 12 - Professional Azure SQL Managed Database Administration
+https://www.amazon.com/Professional-Azure-Managed-Database-Administration-ebook/dp/B08YJRJ3TJ
+https://www.amazon.co.uk/Professional-Azure-Managed-Database-Administration-ebook/dp/B08YJRJ3TJ
+http://books.google.co.uk/books?id=yUQiEAAAQBAJ&printsec=frontcover&dq=intitle:Professional+Azure+SQL+Managed+Database+Administration%2Binauthor:Ahmad+Osama&hl=&cd=1&source=gbs_api
+
+Book 13 - MongoDB Fundamentals
+https://www.amazon.com/MongoDB-Workshop-Interactive-Approach-Learning-ebook/dp/B084T31VDR
+https://www.amazon.co.uk/MongoDB-Workshop-Interactive-Approach-Learning/dp/1839210648
+http://books.google.co.uk/books?id=uaEQEAAAQBAJ&printsec=frontcover&dq=intitle:MongoDB+Fundamentals%2Binauthor:Amit+Phaltankar,+Juned+Ahsan&hl=&cd=1&source=gbs_api
+
+Book 14 - Redis Stack for Application Modernization
+https://www.amazon.com/Redis-Stack-Application-Modernization-applications-ebook/dp/B0CMR28RT1
+https://www.amazon.co.uk/Redis-Stack-Application-Modernization-applications/dp/1837638187
+http://books.google.co.uk/books?id=yHjqEAAAQBAJ&printsec=frontcover&dq=intitle:Redis+Stack+for+Application+Modernization%2Binauthor:Luigi+Fugaro,+Mirko+Ortensi&hl=&cd=1&source=gbs_api
+
+Book 15 - Getting Started with CockroachDB
+https://www.amazon.com/Getting-Started-CockroachDB-cloud-native-data-intensive-ebook/dp/B09JCCHTSQ
+https://www.amazon.co.uk/Getting-Started-CockroachDB-cloud-native-data-intensive-ebook/dp/B09JCCHTSQ
+http://books.google.co.uk/books?id=Kl9lEAAAQBAJ&pg=PA77&dq=intitle:Getting+Started+with+CockroachDB%2Binauthor:Kishen+Das+Kondabagilu+Rajanna&hl=&cd=1&source=gbs_api
+
+Book 16 - Hands-On SQL Server 2019 Analysis Services
+https://www.amazon.com/Hands-Server-Analysis-Services-multi-dimensional/dp/1800204760
+https://www.amazon.co.uk/Hands-Server-Analysis-Services-multi-dimensional/dp/1800204760
+http://books.google.co.uk/books?id=17IEEAAAQBAJ&printsec=frontcover&dq=intitle:Hands-On+SQL+Server+2019+Analysis+Services%2Binauthor:Steven+Hughes,+Adam+Jorgensen&hl=&cd=1&source=gbs_api
+
+Book 17 - Learn SQL Database Programming
+https://www.amazon.com/Learn-SQL-Database-Programming-manipulate/dp/1838984763
+https://www.amazon.co.uk/Learn-SQL-Database-Programming-manipulate-ebook/dp/B08663TZLT
+http://books.google.co.uk/books?id=94LoDwAAQBAJ&printsec=frontcover&dq=intitle:Learn+SQL+Database+Programming%2Binauthor:Josephine+Bush&hl=&cd=1&source=gbs_api
+
+Book 18 - The Applied SQL Data Analytics Workshop
+https://www.amazon.com/Applied-SQL-Data-Analytics-Workshop/dp/1800203675
+https://www.amazon.co.uk/Applied-SQL-Data-Analytics-Workshop/dp/1800203675
+http://books.google.co.uk/books?id=SetjzQEACAAJ&dq=intitle:The+Applied+SQL+Data+Analytics+Workshop%2Binauthor:Matt+Goldwasser,+Upom+Malik,+et+al.&hl=&cd=1&source=gbs_api
+
+Book 19 - Professional SQL Server High Availability and Disaster Recovery
+https://www.amazon.com/Professional-Server-Availability-Disaster-Recovery/dp/1789802598
+https://www.amazon.co.uk/Professional-Server-Availability-Disaster-Recovery/dp/1789802598
+http://books.google.co.uk/books?id=liWGDwAAQBAJ&printsec=frontcover&dq=intitle:Professional+SQL+Server+High+Availability+and+Disaster+Recovery%2Binauthor:Ahmad+Osama&hl=&cd=1&source=gbs_api
+
