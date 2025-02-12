@@ -1,0 +1,613 @@
+Humble Tech Book Bundle- Game Programming by Pearson - Pearson
+Processing date: 2025-02-05
+Data retrieved from: https://www.humblebundle.com/books/game-programming-pearson-books
+
+Book 01 - Roblox Game Development in 24 Hours: The Official Roblox Guide - Roblox - 4.5 out of 5 (178 reviews)
+Book 02 - Introduction to Game Design, Prototyping, and Development - Gibson-Bond - 4.5 out of 5 (15 reviews)
+Book 03 - Captain Code: Unleash Your Coding Superpower with Python - Forta - None found out of 5 (None found reviews)
+Book 04 - Begin to Code: Building apps and games in the Cloud - Miles - None found out of 5 (None found reviews)
+Book 05 - Fundamentals of Game Design - Adams - None found out of 5 (None found reviews)
+Book 06 - Unity Game Development in 24 Hours, Sams Teach Yourself - Geig - None found out of 5 (None found reviews)
+Book 07 - Games, Design, and Play - Macklin / Sharp - 4.7 out of 5 (101 reviews)
+Book 08 - Game Programming Algorithms and Techniques - Madhav - 4.3 out of 5 (65 reviews)
+Book 09 - Visual Effects and Compositing - Gress - 4.4 out of 5 (38 reviews)
+Book 10 - 3D User Interfaces - Laviola et al - 4.2 out of 5 (13 reviews)
+Book 11 - Agile Game Development - Keith - 4.5 out of 5 (53 reviews)
+Book 12 - Advanced Game Design - Sellers - 4.3 out of 5 (66 reviews)
+Book 13 - Players Making Decisions - Hiwiller - 4.7 out of 5 (22 reviews)
+Book 14 - Multiplayer Game Programming - Glazer / Madhav - 4.4 out of 5 (63 reviews)
+Book 15 - Writing Interactive Music for Video Games - Sweet - 4.7 out of 5 (63 reviews)
+Book 16 - Augmented Reality - Jon Peddie - 5 out of 5 (1 reviews)
+Book 17 - Coding with Roblox Lua in 24 Hours: The Official Roblox Guide - Roblox - 4.6 out of 5 (243 reviews)
+Book 18 - Unreal Engine VR Cookbook - McCaffrey - 4.5 out of 5 (55 reviews)
+Book 19 - Introduction to Game System Design - Gazaway - 4.2 out of 5 (23 reviews)
+Book 20 - Game Programming in C++ - Madhav - 4.5 out of 5 (99 reviews)
+
+--------------------------------------------------
+Book Details (Full)
+-------------------------
+
+Book 01:
+Title: Roblox Game Development in 24 Hours: The Official Roblox Guide
+Author(s): Roblox
+---
+ISBN-10: 9780136829737 - ISBN-13: 0136829732 - ASIN: 
+Published Date: 2020-10-15
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=iEB1zQEACAAJ&dq=intitle:Roblox+Game+Development+in+24+Hours:+The+Official+Roblox+Guide%2Binauthor:Roblox&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.5 of 5 (178 reviews)
+Amazon.com URL: https://www.amazon.com/Teach-Yourself-Roblox-Development-Hours/dp/0136829732
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (164 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Teach-Yourself-Roblox-Development-Hours/dp/0136829732
+---
+HB Blurb: Roblox Game Development in 24 Hours is your fast-track to mastering Roblox game development, even for beginners. This official Roblox guide offers 24 bite-sized lessons covering everything from terrain and lighting to coding mechanics and monetization. Each lesson builds on the previous, making it easy to progress and become a Roblox game development expert.
+ 
+ Whether you're a beginner or looking to level up your skills, this is your ultimate guide to building and profiting from your dream Roblox games!
+--------------------------------------------------
+
+Book 02:
+Title: Introduction to Game Design, Prototyping, and Development
+Author(s): Gibson-Bond
+---
+ISBN-10: 0133439623 - ISBN-13: 9780133439625 - ASIN: 0136619940
+Published Date: 2014-07-04
+Page Count: 944
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=40T1AwAAQBAJ&printsec=frontcover&dq=intitle:Introduction+to+Game+Design,+Prototyping,+and+Development%2Binauthor:Gibson-Bond&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.5 of 5 (15 reviews)
+Amazon.com URL: https://www.amazon.com/Introduction-Game-Design-Prototyping-Development/dp/0136619940
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (14 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Introduction-Game-Design-Prototyping-Development-ebook/dp/B08J5BNFDV
+---
+HB Blurb: Master the art of game design and development with Unity, the industry's gold standard, with this comprehensive book by Jeremy Gibson Bond. It's packed with practical knowledge and takes you from understanding core game design principles like the Layered Tetrad to building functional prototypes and mastering C# programming.
+ 
+ This book is ideal for aspiring game designers and developers seeking hands-on experience with modern techniques and tools, using Unity's powerful platform to bring their game ideas to life.
+--------------------------------------------------
+
+Book 03:
+Title: Captain Code: Unleash Your Coding Superpower with Python
+Author(s): Forta
+---
+ISBN-10: 0137653611 - ISBN-13: 9780137653614 - ASIN: B09HK7HS6R
+Published Date: 2021-12-21
+Page Count: 768
+---
+Google Books Price: GBP 10.04
+Google Books URL: http://books.google.co.uk/books?id=1tnPEAAAQBAJ&printsec=frontcover&dq=intitle:Captain+Code:+Unleash+Your+Coding+Superpower+with+Python%2Binauthor:Forta&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (17 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Captain-Code-Unleash-Coding-Superpower-ebook/dp/B09HK7HS6R
+---
+HB Blurb: Becoming a coder is like learning to draw or play music: a creative journey of building amazing things. Coding isn't just about lines of code; it develops crucial skills like problem-solving, logic, and creativity. Captain Code is your friendly guide to the world of coding with Python.
+ This vibrant book teaches through fun game projects, from simple beginnings to full-fledged arcade games. With colorful visuals, easy-to-follow instructions, and bonus content links, Captain Code makes learning to code an exciting and rewarding adventure. Are you ready to unleash your coding superpower?
+--------------------------------------------------
+
+Book 04:
+Title: Begin to Code: Building apps and games in the Cloud
+Author(s): Miles
+---
+ISBN-10: 0138065454 - ISBN-13: 9780138065454 - ASIN: B0BVF4C9HZ
+Published Date: 2023-05-29
+Page Count: 1125
+---
+Google Books Price: GBP 20.14
+Google Books URL: http://books.google.co.uk/books?id=PNfPEAAAQBAJ&printsec=frontcover&dq=intitle:Begin+to+Code:+Building+apps+and+games+in+the+Cloud%2Binauthor:Miles&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (1 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Begin-Code-Building-games-Cloud-ebook/dp/B0BVF4C9HZ
+---
+HB Blurb: Become a cloud developer and have fun doing it! Rob Miles makes it easy to start creating cloud-based apps and games, even if you've never coded before. You'll learn JavaScript for the cloud, build exciting projects like dynamic websites and multiplayer games, and gain valuable skills like understanding cloud services, security, and how to build reliable, scalable applications. Miles has reinvented the tutorial, making it friendly and engaging with step-by-step exercises and accompanying YouTube videos. This book is perfect for first-time coders, those frustrated with other learning materials, and anyone looking to transition to cloud development.
+--------------------------------------------------
+
+Book 05:
+Title: Fundamentals of Game Design
+Author(s): Adams
+---
+ISBN-10: 0133435717 - ISBN-13: 9780133435719 - ASIN: B00HF8IJXU
+Published Date: 2013-12-19
+Page Count: 577
+---
+Google Books Price: GBP 21.99
+Google Books URL: http://books.google.co.uk/books?id=Lm1jAgAAQBAJ&printsec=frontcover&dq=intitle:Fundamentals+of+Game+Design%2Binauthor:Adams&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (102 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Fundamentals-Game-Design-Ernest-Adams-ebook/dp/B00HF8IJXU
+---
+HB Blurb: The 3rd edition of this classic game design textbook offers a comprehensive and completely updated guide for aspiring game creators. It covers all the fundamentals, from concept development to balancing, with emphasis on mobile and motion-controlled games.
+ 
+ Learn how indie developers are innovating and how new business models like free-to-play impact design. This practical resource features firsthand insights into the entire game creation process, from concept to final polish, along with engaging exercises, design tools, and case studies.
+--------------------------------------------------
+
+Book 06:
+Title: Unity Game Development in 24 Hours, Sams Teach Yourself
+Author(s): Geig
+---
+ISBN-10: 0137445156 - ISBN-13: 9780137445158 - ASIN: 0137445083
+Published Date: 2021-10-08
+Page Count: 719
+---
+Google Books Price: GBP 16.89
+Google Books URL: http://books.google.co.uk/books?id=GtfPEAAAQBAJ&printsec=frontcover&dq=intitle:Unity+Game+Development+in+24+Hours,+Sams+Teach+Yourself%2Binauthor:Geig&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: None found of 5 (None found reviews)
+Amazon.com URL: No Amazon.com URL found
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.8 of 5 (25 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Unity-Development-Hours-Teach-Yourself/dp/0137445083
+---
+HB Blurb: Master the Unity 2021 game engine in just 24 hours! This beginner-friendly book guides you through the basics and advanced techniques with step-by-step instructions, hands-on examples, and practical projects. Learn how to build stunning worlds, program complex behaviors, design intuitive interfaces, and deploy your games across platforms.
+ 
+ This comprehensive guide is your perfect companion to mastering Unity and creating engaging games in just 24 hours!
+--------------------------------------------------
+
+Book 07:
+Title: Games, Design, and Play
+Author(s): Macklin / Sharp
+---
+ISBN-10: 0134392221 - ISBN-13: 9780134392226 - ASIN: 0134392078
+Published Date: 2016-05-19
+Page Count: 372
+---
+Google Books Price: GBP 12.99
+Google Books URL: http://books.google.co.uk/books?id=usQwDAAAQBAJ&printsec=frontcover&dq=intitle:Games,+Design,+and+Play%2Binauthor:Macklin+/+Sharp&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (101 reviews)
+Amazon.com URL: https://www.amazon.com/Games-Design-Play-detailed-iterative/dp/0134392078
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (95 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Games-Design-Play-detailed-iterative-ebook/dp/B01FWERIOY
+---
+HB Blurb: This play-centered guide demystifies the process of crafting captivating game designs. Drawing on 35 years of experience, authors Macklin and Sharp unveil how to translate playful concepts into tangible mechanics and engaging experiences. Through detailed examples and practical exercises, you'll master core elements like actions, goals, and challenges, while exploring diverse playstyles from cooperative to competitive.
+ 
+ Whether you're a student, aspiring designer, or seasoned pro, this book empowers you to create games people will truly love to play.
+--------------------------------------------------
+
+Book 08:
+Title: Game Programming Algorithms and Techniques
+Author(s): Madhav
+---
+ISBN-10: 0133463230 - ISBN-13: 9780133463231 - ASIN: B00HCHUU90
+Published Date: 2013-12-16
+Page Count: 352
+---
+Google Books Price: GBP 15.99
+Google Books URL: http://books.google.co.uk/books?id=RFF0AgAAQBAJ&printsec=frontcover&dq=intitle:Game+Programming+Algorithms+and+Techniques%2Binauthor:Madhav&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $46.39Save $11.60 (20%)
+Amazon.com Reviews: 4.3 of 5 (65 reviews)
+Amazon.com URL: https://www.amazon.com/Game-Programming-Algorithms-Techniques-Platform-Agnostic-ebook/dp/B00HCHUU90
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (63 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Game-Programming-Algorithms-Techniques-Platform-Agnostic-ebook/dp/B00HCHUU90
+---
+HB Blurb: "Game Programming Algorithms and Techniques" dives deep into the practical algorithms and techniques powering modern video games, regardless of platform or framework. Tailored for object-oriented programmers, it equips you with tools for building any type of game, from 2D mobile scrollers to 3D tower defense titles.
+ 
+ This in-depth resource empowers you to master the algorithms and techniques behind captivating video games, regardless of your chosen platform or framework.
+--------------------------------------------------
+
+Book 09:
+Title: Visual Effects and Compositing
+Author(s): Gress
+---
+ISBN-10: 013380724X - ISBN-13: 9780133807240 - ASIN: B00OP37IIU
+Published Date: 2014-10-20
+Page Count: 553
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=9XrjBAAAQBAJ&printsec=frontcover&dq=intitle:Visual+Effects+and+Compositing%2Binauthor:Gress&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $47.99Save $16.00 (25%)
+Amazon.com Reviews: 4.4 of 5 (38 reviews)
+Amazon.com URL: https://www.amazon.com/digital-Visual-Effects-Compositing-ebook/dp/B00OP37IIU
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (37 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/digital-Visual-Effects-Compositing-ebook/dp/B00OP37IIU
+---
+HB Blurb: This comprehensive guide by Jon Gress, a seasoned VFX producer, takes you from the basics of compositing and greenscreen keying to advanced techniques like 3D CGI, digital matte painting, and stereoscopic 3D.
+ 
+ With companion graphics files and video tutorials, this book is your one-stop shop for mastering the art and science of visual effects and launching your VFX career.
+--------------------------------------------------
+
+Book 10:
+Title: 3D User Interfaces
+Author(s): Laviola et al
+---
+ISBN-10: 0134034465 - ISBN-13: 9780134034461 - ASIN: 0134034325
+Published Date: 2017-04-07
+Page Count: 884
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=fxWSDgAAQBAJ&printsec=frontcover&dq=intitle:3D+User+Interfaces%2Binauthor:Laviola+et+al&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.2 of 5 (13 reviews)
+Amazon.com URL: https://www.amazon.com/3D-User-Interfaces-Practice-Usability/dp/0134034325
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (14 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/3D-User-Interfaces-Practice-Usability/dp/0134034325
+---
+HB Blurb: Mastering 3D user interfaces (UIs) is no longer just about VR! 3D User Interfaces: Theory and Practice, Second Edition dives deep into the full spectrum of 3D UI applications, from mobile AR to robot teleoperation. This groundbreaking guide, penned by four industry pioneers, equips you with the knowledge and skills to design exceptional 3D UIs for any context.
+ 
+ Whether you're a game developer, AR enthusiast, or robotics engineer, this book empowers you to craft exceptional 3D UIs that push the boundaries of user experience.
+--------------------------------------------------
+
+Book 11:
+Title: Agile Game Development
+Author(s): Keith
+---
+ISBN-10: 0321670280 - ISBN-13: 9780321670281 - ASIN: 0136527817
+Published Date: 2010-05-23
+Page Count: 615
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=OYWWRFFc29gC&printsec=frontcover&dq=intitle:Agile+Game+Development%2Binauthor:Keith&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.5 of 5 (53 reviews)
+Amazon.com URL: https://www.amazon.com/Agile-Game-Development-Addison-Wesley-Signature/dp/0136527817
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (55 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Agile-Development-Reader-Addison-Wesley-Signature-ebook/dp/B003QP42G4
+---
+HB Blurb: Struggling with game development burnout and bloated budgets? Agile Game Development, now with a decade of fresh insights, offers a lifeline for studios drowning in complexity and overtime.
+ 
+ Packed with updated chapters and new sections, this definitive guide is your passport to a happier, more productive game development journey. Discover how Agile can benefit every role, from artists to QA, and witness the return of profitability, creativity, and fun to game development.
+ 
+ Whether you're a seasoned pro or just starting out, Agile Game Development rewrites the rules and empowers you to create exceptional games, while loving the process.
+--------------------------------------------------
+
+Book 12:
+Title: Advanced Game Design
+Author(s): Sellers
+---
+ISBN-10: 9780134667607 - ISBN-13: 0134667603 - ASIN: B076YD21JW
+Published Date: 2018
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=KcooswEACAAJ&dq=intitle:Advanced+Game+Design%2Binauthor:Sellers&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $44.68Save $13.31 (23%)
+Amazon.com Reviews: 4.3 of 5 (66 reviews)
+Amazon.com URL: https://www.amazon.com/Advanced-Game-Design-Systems-Approach-ebook/dp/B076YD21JW
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.3 of 5 (64 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Advanced-Game-Design-Systems-Approach-ebook/dp/B076YD21JW
+---
+HB Blurb: "Advanced Game Design" by Michael Sellers unlocks a new level of game design mastery, fueled by a powerful framework rooted in systems thinking. This deep-dive guide helps you think critically, design strategically, and craft games that truly captivate players, regardless of platform.
+ 
+ This meticulously crafted resource empowers you to think like a master game designer, producing exceptional games that stand out and captivate players across all platforms.
+--------------------------------------------------
+
+Book 13:
+Title: Players Making Decisions
+Author(s): Hiwiller
+---
+ISBN-10: 013439464X - ISBN-13: 9780134394640 - ASIN: 0134396758
+Published Date: 2015-12-09
+Page Count: 646
+---
+Google Books Price: GBP 12.99
+Google Books URL: http://books.google.co.uk/books?id=FkQpCwAAQBAJ&printsec=frontcover&dq=intitle:Players+Making+Decisions%2Binauthor:Hiwiller&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.7 of 5 (22 reviews)
+Amazon.com URL: https://www.amazon.com/Players-Making-Decisions-Essentials-Understanding/dp/0134396758
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (21 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Players-Making-Decisions-Essentials-Understanding-ebook/dp/B0195N89HS
+---
+HB Blurb: Players Making Decisions dives into the essence of compelling game design, equipping you with the core concepts and tools to craft experiences that spark meaningful player choices. Forget the overwhelming multi-disciplinary demands – this book focuses on the fundamental art of creating games where every decision matters.
+ 
+ Whether you're crafting digital worlds or analog board games, Players Making Decisions is your roadmap to creating games that resonate with players, one meaningful decision at a time.
+--------------------------------------------------
+
+Book 14:
+Title: Multiplayer Game Programming
+Author(s): Glazer / Madhav
+---
+ISBN-10: 0134034341 - ISBN-13: 9780134034348 - ASIN: 0134034309
+Published Date: 2015-11-20
+Page Count: 721
+---
+Google Books Price: GBP 15.99
+Google Books URL: http://books.google.co.uk/books?id=RKT-CgAAQBAJ&printsec=frontcover&dq=intitle:Multiplayer+Game+Programming%2Binauthor:Glazer+/+Madhav&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $35.99Save $12.00 (25%)
+Amazon.com Reviews: 4.4 of 5 (63 reviews)
+Amazon.com URL: https://www.amazon.com/Multiplayer-Game-Programming-Architecting-Networked/dp/0134034309
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.4 of 5 (63 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Multiplayer-Game-Programming-Architecting-Networked/dp/0134034309
+---
+HB Blurb: Multiplayer Game Programming unlocks the secrets behind crafting captivating online experiences, drawing on the expertise of industry veterans Joshua Glazer and Sanjay Madhav. This code-rich resource equips you with the knowledge and tools to build robust multiplayer architectures, optimize performance, and conquer the challenges of networked gameplay.
+ 
+ Whether you're a student or a seasoned game developer, this guide provides the ultimate roadmap to building exceptional networked multiplayer games.
+--------------------------------------------------
+
+Book 15:
+Title: Writing Interactive Music for Video Games
+Author(s): Sweet
+---
+ISBN-10: 0133563510 - ISBN-13: 9780133563511 - ASIN: 0321961587
+Published Date: 2014-09-19
+Page Count: 513
+---
+Google Books Price: GBP 12.99
+Google Books URL: http://books.google.co.uk/books?id=CQqSBAAAQBAJ&printsec=frontcover&dq=intitle:Writing+Interactive+Music+for+Video+Games%2Binauthor:Sweet&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $29.99Save $10.00 (25%)
+Amazon.com Reviews: 4.7 of 5 (63 reviews)
+Amazon.com URL: https://www.amazon.com/Writing-Interactive-Music-Video-Games/dp/0321961587
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.7 of 5 (61 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Writing-Interactive-Music-Video-Games-ebook/dp/B00NQ9PK8E
+---
+HB Blurb: Written by the developer of Berklee School of Music’s pioneering game scoring program, this guide covers everything professional composers and music students need to know about composing interactive music for video games, and contains exclusive tools for interactive scoring—tools that were previously available only at Berklee.
+ 
+ Packed with real-world examples from small indie games to AAA titles, this guide empowers you to compose music that elevates your games and leaves a lasting impact on players. Whether you're a seasoned composer seeking to refine your craft or a passionate musician embarking on your video game journey, this is the ultimate resource for achieving your musical ambitions.
+--------------------------------------------------
+
+Book 16:
+Title: Augmented Reality
+Author(s): Jon Peddie
+---
+ISBN-10: 9783031325809 - ISBN-13: 303132580X - ASIN: B071R4869P
+Published Date: 2023-08-19
+Page Count: 0
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=uEfXzwEACAAJ&dq=intitle:Augmented+Reality%2Binauthor:Jon+Peddie&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 5 of 5 (1 reviews)
+Amazon.com URL: https://www.amazon.com/Augmented-Reality-Where-Will-Live/dp/303132580X
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 5 of 5 (3 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Augmented-Reality-Where-Will-Live-ebook/dp/B071R4869P
+---
+HB Blurb: Augmented Reality: Principles and Practice integrates knowledge of multiple disciplines, including computer vision, computer graphics, and human-computer interaction into a single-source reference, equipping you with the knowledge and skills to excel in this rapidly evolving field.
+ 
+ This guide is indispensable for anyone interested in AR, including developers, engineers, students, instructors, researchers, and serious hobbyists.
+--------------------------------------------------
+
+Book 17:
+Title: Coding with Roblox Lua in 24 Hours: The Official Roblox Guide
+Author(s): Roblox
+---
+ISBN-10: 0136829287 - ISBN-13: 9780136829287 - ASIN: 0136829422
+Published Date: 2021-12-07
+Page Count: 944
+---
+Google Books Price: GBP 14.94
+Google Books URL: http://books.google.co.uk/books?id=FtfPEAAAQBAJ&printsec=frontcover&dq=intitle:Coding+with+Roblox+Lua+in+24+Hours:+The+Official+Roblox+Guide%2Binauthor:Roblox&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: None found
+Amazon.com Reviews: 4.6 of 5 (243 reviews)
+Amazon.com URL: https://www.amazon.com/Teach-Yourself-Coding-Roblox-Hours/dp/0136829422
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.6 of 5 (239 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Teach-Yourself-Coding-Roblox-Hours/dp/0136829422
+---
+HB Blurb: Want to build amazing games on Roblox? This official beginner's guide is your perfect starting point! Learn through 24 engaging, one-hour lessons, covering everything from the basics to advanced techniques. Build your skills with practical instructions, realistic examples, hands-on workshops, and interactive quizzes. All example projects are available for download, so you can learn by doing and create your own unique games. This is the only official guide, making it the best way to learn and master Roblox game development.
+--------------------------------------------------
+
+Book 18:
+Title: Unreal Engine VR Cookbook
+Author(s): McCaffrey
+---
+ISBN-10: 0134649788 - ISBN-13: 9780134649788 - ASIN: 0134649176
+Published Date: 2017-02-09
+Page Count: 386
+---
+Google Books Price: GBP 14.49
+Google Books URL: http://books.google.co.uk/books?id=m3kQDgAAQBAJ&printsec=frontcover&dq=intitle:Unreal+Engine+VR+Cookbook%2Binauthor:McCaffrey&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $28.49Save $9.50 (25%)
+Amazon.com Reviews: 4.5 of 5 (55 reviews)
+Amazon.com URL: https://www.amazon.com/Unreal-Engine-VR-Cookbook-Developing/dp/0134649176
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (56 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Unreal-Engine-VR-Cookbook-Developing-ebook/dp/B01MV6ZKU2
+---
+HB Blurb: Unreal Engine VR Cookbook by renowned VR developer Mitch McCaffrey is your complete guide to conquering the frontier of VR development using Unreal Engine 4. Backed by McCaffrey's YouTube channel success and Epic Games endorsement, this comprehensive guide empowers you to build stunning VR experiences across various platforms, from Oculus Rift to PSVR.
+ 
+ McCaffrey's "recipes" offer step-by-step instructions for key VR mechanics, along with clear explanations of underlying principles. Whether crafting action-packed shooters or serene relaxation simulators, you'll gain both immediate results and invaluable "big picture" knowledge applicable to any VR project.
+--------------------------------------------------
+
+Book 19:
+Title: Introduction to Game System Design
+Author(s): Gazaway
+---
+ISBN-10: 9780137440702 - ISBN-13: 0137440707 - ASIN: B08WZ8FXD7
+Published Date: 2021
+Page Count: 384
+---
+Google Books Price: None found
+Google Books URL: http://books.google.co.uk/books?id=g-adzgEACAAJ&dq=intitle:Introduction+to+Game+System+Design%2Binauthor:Gazaway&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $30.39Save $7.60 (20%)
+Amazon.com Reviews: 4.2 of 5 (23 reviews)
+Amazon.com URL: https://www.amazon.com/Introduction-Systems-Design-Developers-Library-ebook/dp/B08WZ8FXD7
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.2 of 5 (22 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Introduction-Systems-Design-Developers-Library-ebook/dp/B08WZ8FXD7
+---
+HB Blurb: Game systems designers plan a game's rules and balance, its characters' attributes, most of its data, and how its AI, weapons, and objects work and interact. Introduction to Game Systems Design is the first complete beginner's guide to this crucial discipline.
+ 
+ Writing for all aspiring game professionals, even those with absolutely no experience, leading game designer and instructor Dax Gazaway presents a step-by-step, hands-on approach to designing game systems with industry-standard tools.
+ 
+ Whether you're a college freshman entering a game design program, an indie developer using Unreal or Unity, a Dungeon Master, or anyone who wants to really understand modern games, this guide will help you get where you want to go.
+--------------------------------------------------
+
+Book 20:
+Title: Game Programming in C++
+Author(s): Madhav
+---
+ISBN-10: 0134597311 - ISBN-13: 9780134597317 - ASIN: B07B2ZG8V4
+Published Date: 2018-03-06
+Page Count: 1268
+---
+Google Books Price: GBP 22.74
+Google Books URL: http://books.google.co.uk/books?id=VfxNDwAAQBAJ&printsec=frontcover&dq=intitle:Game+Programming+in+C%2B%2B%2Binauthor:Madhav&hl=&cd=1&source=gbs_api
+---
+Amazon.com Price: $35.99Save $12.00 (25%)
+Amazon.com Reviews: 4.5 of 5 (99 reviews)
+Amazon.com URL: https://www.amazon.com/Game-Programming-Creating-Games-Design-ebook/dp/B07B2ZG8V4
+---
+Amazon.co.uk Price: None found
+Amazon.co.uk Reviews: 4.5 of 5 (95 reviews)
+Amazon.co.uk URL: https://www.amazon.co.uk/Game-Programming-Creating-Games-Design-ebook/dp/B07B2ZG8V4
+---
+HB Blurb: Game Programming in C++ is a practical, hands-on approach to programming 3D video games in C++. Modeled on Sanjay Madhav’s game programming courses at USC, it’s fun, easy, practical, hands-on, and complete.
+ 
+ Forget dry theory - dive straight into crafting stunning 2D and 3D graphics, breathing life into your creations with physics, AI, and audio, and mastering the essential math that empowers professional developers.
+ 
+ Whether you’re a working developer or a student with prior knowledge of C++ and data structures, Game Programming in C++ will prepare you to solve real problems with C++ in roles throughout the game development lifecycle. You’ll master the language that top studios are hiring for—and that’s a proven route to success.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Roblox Game Development in 24 Hours: The Official Roblox Guide
+https://www.amazon.com/Teach-Yourself-Roblox-Development-Hours/dp/0136829732
+https://www.amazon.co.uk/Teach-Yourself-Roblox-Development-Hours/dp/0136829732
+http://books.google.co.uk/books?id=iEB1zQEACAAJ&dq=intitle:Roblox+Game+Development+in+24+Hours:+The+Official+Roblox+Guide%2Binauthor:Roblox&hl=&cd=1&source=gbs_api
+
+Book 02 - Introduction to Game Design, Prototyping, and Development
+https://www.amazon.com/Introduction-Game-Design-Prototyping-Development/dp/0136619940
+https://www.amazon.co.uk/Introduction-Game-Design-Prototyping-Development-ebook/dp/B08J5BNFDV
+http://books.google.co.uk/books?id=40T1AwAAQBAJ&printsec=frontcover&dq=intitle:Introduction+to+Game+Design,+Prototyping,+and+Development%2Binauthor:Gibson-Bond&hl=&cd=1&source=gbs_api
+
+Book 03 - Captain Code: Unleash Your Coding Superpower with Python
+No Amazon.com URL found
+https://www.amazon.co.uk/Captain-Code-Unleash-Coding-Superpower-ebook/dp/B09HK7HS6R
+http://books.google.co.uk/books?id=1tnPEAAAQBAJ&printsec=frontcover&dq=intitle:Captain+Code:+Unleash+Your+Coding+Superpower+with+Python%2Binauthor:Forta&hl=&cd=1&source=gbs_api
+
+Book 04 - Begin to Code: Building apps and games in the Cloud
+No Amazon.com URL found
+https://www.amazon.co.uk/Begin-Code-Building-games-Cloud-ebook/dp/B0BVF4C9HZ
+http://books.google.co.uk/books?id=PNfPEAAAQBAJ&printsec=frontcover&dq=intitle:Begin+to+Code:+Building+apps+and+games+in+the+Cloud%2Binauthor:Miles&hl=&cd=1&source=gbs_api
+
+Book 05 - Fundamentals of Game Design
+No Amazon.com URL found
+https://www.amazon.co.uk/Fundamentals-Game-Design-Ernest-Adams-ebook/dp/B00HF8IJXU
+http://books.google.co.uk/books?id=Lm1jAgAAQBAJ&printsec=frontcover&dq=intitle:Fundamentals+of+Game+Design%2Binauthor:Adams&hl=&cd=1&source=gbs_api
+
+Book 06 - Unity Game Development in 24 Hours, Sams Teach Yourself
+No Amazon.com URL found
+https://www.amazon.co.uk/Unity-Development-Hours-Teach-Yourself/dp/0137445083
+http://books.google.co.uk/books?id=GtfPEAAAQBAJ&printsec=frontcover&dq=intitle:Unity+Game+Development+in+24+Hours,+Sams+Teach+Yourself%2Binauthor:Geig&hl=&cd=1&source=gbs_api
+
+Book 07 - Games, Design, and Play
+https://www.amazon.com/Games-Design-Play-detailed-iterative/dp/0134392078
+https://www.amazon.co.uk/Games-Design-Play-detailed-iterative-ebook/dp/B01FWERIOY
+http://books.google.co.uk/books?id=usQwDAAAQBAJ&printsec=frontcover&dq=intitle:Games,+Design,+and+Play%2Binauthor:Macklin+/+Sharp&hl=&cd=1&source=gbs_api
+
+Book 08 - Game Programming Algorithms and Techniques
+https://www.amazon.com/Game-Programming-Algorithms-Techniques-Platform-Agnostic-ebook/dp/B00HCHUU90
+https://www.amazon.co.uk/Game-Programming-Algorithms-Techniques-Platform-Agnostic-ebook/dp/B00HCHUU90
+http://books.google.co.uk/books?id=RFF0AgAAQBAJ&printsec=frontcover&dq=intitle:Game+Programming+Algorithms+and+Techniques%2Binauthor:Madhav&hl=&cd=1&source=gbs_api
+
+Book 09 - Visual Effects and Compositing
+https://www.amazon.com/digital-Visual-Effects-Compositing-ebook/dp/B00OP37IIU
+https://www.amazon.co.uk/digital-Visual-Effects-Compositing-ebook/dp/B00OP37IIU
+http://books.google.co.uk/books?id=9XrjBAAAQBAJ&printsec=frontcover&dq=intitle:Visual+Effects+and+Compositing%2Binauthor:Gress&hl=&cd=1&source=gbs_api
+
+Book 10 - 3D User Interfaces
+https://www.amazon.com/3D-User-Interfaces-Practice-Usability/dp/0134034325
+https://www.amazon.co.uk/3D-User-Interfaces-Practice-Usability/dp/0134034325
+http://books.google.co.uk/books?id=fxWSDgAAQBAJ&printsec=frontcover&dq=intitle:3D+User+Interfaces%2Binauthor:Laviola+et+al&hl=&cd=1&source=gbs_api
+
+Book 11 - Agile Game Development
+https://www.amazon.com/Agile-Game-Development-Addison-Wesley-Signature/dp/0136527817
+https://www.amazon.co.uk/Agile-Development-Reader-Addison-Wesley-Signature-ebook/dp/B003QP42G4
+http://books.google.co.uk/books?id=OYWWRFFc29gC&printsec=frontcover&dq=intitle:Agile+Game+Development%2Binauthor:Keith&hl=&cd=1&source=gbs_api
+
+Book 12 - Advanced Game Design
+https://www.amazon.com/Advanced-Game-Design-Systems-Approach-ebook/dp/B076YD21JW
+https://www.amazon.co.uk/Advanced-Game-Design-Systems-Approach-ebook/dp/B076YD21JW
+http://books.google.co.uk/books?id=KcooswEACAAJ&dq=intitle:Advanced+Game+Design%2Binauthor:Sellers&hl=&cd=1&source=gbs_api
+
+Book 13 - Players Making Decisions
+https://www.amazon.com/Players-Making-Decisions-Essentials-Understanding/dp/0134396758
+https://www.amazon.co.uk/Players-Making-Decisions-Essentials-Understanding-ebook/dp/B0195N89HS
+http://books.google.co.uk/books?id=FkQpCwAAQBAJ&printsec=frontcover&dq=intitle:Players+Making+Decisions%2Binauthor:Hiwiller&hl=&cd=1&source=gbs_api
+
+Book 14 - Multiplayer Game Programming
+https://www.amazon.com/Multiplayer-Game-Programming-Architecting-Networked/dp/0134034309
+https://www.amazon.co.uk/Multiplayer-Game-Programming-Architecting-Networked/dp/0134034309
+http://books.google.co.uk/books?id=RKT-CgAAQBAJ&printsec=frontcover&dq=intitle:Multiplayer+Game+Programming%2Binauthor:Glazer+/+Madhav&hl=&cd=1&source=gbs_api
+
+Book 15 - Writing Interactive Music for Video Games
+https://www.amazon.com/Writing-Interactive-Music-Video-Games/dp/0321961587
+https://www.amazon.co.uk/Writing-Interactive-Music-Video-Games-ebook/dp/B00NQ9PK8E
+http://books.google.co.uk/books?id=CQqSBAAAQBAJ&printsec=frontcover&dq=intitle:Writing+Interactive+Music+for+Video+Games%2Binauthor:Sweet&hl=&cd=1&source=gbs_api
+
+Book 16 - Augmented Reality
+https://www.amazon.com/Augmented-Reality-Where-Will-Live/dp/303132580X
+https://www.amazon.co.uk/Augmented-Reality-Where-Will-Live-ebook/dp/B071R4869P
+http://books.google.co.uk/books?id=uEfXzwEACAAJ&dq=intitle:Augmented+Reality%2Binauthor:Jon+Peddie&hl=&cd=1&source=gbs_api
+
+Book 17 - Coding with Roblox Lua in 24 Hours: The Official Roblox Guide
+https://www.amazon.com/Teach-Yourself-Coding-Roblox-Hours/dp/0136829422
+https://www.amazon.co.uk/Teach-Yourself-Coding-Roblox-Hours/dp/0136829422
+http://books.google.co.uk/books?id=FtfPEAAAQBAJ&printsec=frontcover&dq=intitle:Coding+with+Roblox+Lua+in+24+Hours:+The+Official+Roblox+Guide%2Binauthor:Roblox&hl=&cd=1&source=gbs_api
+
+Book 18 - Unreal Engine VR Cookbook
+https://www.amazon.com/Unreal-Engine-VR-Cookbook-Developing/dp/0134649176
+https://www.amazon.co.uk/Unreal-Engine-VR-Cookbook-Developing-ebook/dp/B01MV6ZKU2
+http://books.google.co.uk/books?id=m3kQDgAAQBAJ&printsec=frontcover&dq=intitle:Unreal+Engine+VR+Cookbook%2Binauthor:McCaffrey&hl=&cd=1&source=gbs_api
+
+Book 19 - Introduction to Game System Design
+https://www.amazon.com/Introduction-Systems-Design-Developers-Library-ebook/dp/B08WZ8FXD7
+https://www.amazon.co.uk/Introduction-Systems-Design-Developers-Library-ebook/dp/B08WZ8FXD7
+http://books.google.co.uk/books?id=g-adzgEACAAJ&dq=intitle:Introduction+to+Game+System+Design%2Binauthor:Gazaway&hl=&cd=1&source=gbs_api
+
+Book 20 - Game Programming in C++
+https://www.amazon.com/Game-Programming-Creating-Games-Design-ebook/dp/B07B2ZG8V4
+https://www.amazon.co.uk/Game-Programming-Creating-Games-Design-ebook/dp/B07B2ZG8V4
+http://books.google.co.uk/books?id=VfxNDwAAQBAJ&printsec=frontcover&dq=intitle:Game+Programming+in+C%2B%2B%2Binauthor:Madhav&hl=&cd=1&source=gbs_api
+
