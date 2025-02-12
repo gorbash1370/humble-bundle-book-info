@@ -1,0 +1,348 @@
+Humble Tech Book Bundle- Ultimate Cybersecurity Career by Packt - Packt
+Processing date: 2025-02-12
+Data retrieved from: https://www.humblebundle.com/books/ultimate-cybersecurity-career-packt-books
+
+Book 01 - Practical Cybersecurity Architecture - Diana Kelley, Ed Moyle - 4.1 out of 5 (11 reviews)
+Book 02 - Enhancing Your Cloud Security with a CNAPP Solution - Yuri Diogenes - None found out of 5 (None found reviews)
+Book 03 - Automating Security Detection Engineering - Dennis Chow, David Bruskin - 4.2 out of 5 (17 reviews)
+Book 04 - AWS Certified Security - Specialty (SCS-C02) Exam Guide - Adam Book, Stuart Scott - 4.4 out of 5 (49 reviews)
+Book 05 - Pentesting Active Directory and Windows-based Infrastructure - Denis Isakov - 4.4 out of 5 (24 reviews)
+Book 06 - Ghidra Software Reverse-Engineering for Beginners - David Álvarez Pérez, Ravikant Tiwari - None found out of 5 (None found reviews)
+Book 07 - Resilient Cybersecurity - Mark Dunkerley - 5 out of 5 (1 reviews)
+Book 08 - Incident Response for Windows - Anatoly Tykushin, Svetlana Ostrovskaya, Dmitry Volkov - 4.7 out of 5 (8 reviews)
+Book 09 - Zero Trust Overview and Playbook Introduction - Mark Simos, Nikhil Kumar, Ann Johnson - 4.6 out of 5 (15 reviews)
+Book 10 - The OSINT Handbook - Dale Meredith, Greg Shields - 4.4 out of 5 (10 reviews)
+Book 11 - Microsoft Defender for Identity in Depth - Pierre Thoor, Matthew Zorich - 5 out of 5 (2 reviews)
+Book 12 - PowerShell Automation and Scripting for Cybersecurity - Miriam C. Wiesner, Tanya Janca - 4.7 out of 5 (45 reviews)
+Book 13 - Mastering Microsoft 365 Defender - Ru Campbell, Viktor Hedberg, Heike Ritter - 4.7 out of 5 (36 reviews)
+Book 14 - Effective Threat Investigation for SOC Analysts - Mostafa Yahia - 4.5 out of 5 (48 reviews)
+Book 15 - Python for Security and Networking - José Manuel Ortega - 4.4 out of 5 (37 reviews)
+Book 16 - Security Monitoring with Wazuh - Rajneesh Gupta, Santiago Bassett - 4.4 out of 5 (12 reviews)
+Book 17 - Cryptography Algorithms - Massimo Bertaccini - 4.2 out of 5 (41 reviews)
+Book 18 - Hack the Cybersecurity Interview - Christophe Foulon, Ken Underhill, Tia Hopkins - 4.8 out of 5 (6 reviews)
+Book 19 - The Ultimate Kali Linux Book - Glen D. Singh - None found out of 5 (None found reviews)
+Book 20 - CISA - Certified Information Systems Auditor Study Guide - Hemang Doshi, Javen Khoo Ai Wee - 4.4 out of 5 (230 reviews)
+Book 21 - Adversarial AI Attacks, Mitigations, and Defense Strategies - John Sotiropoulos - 4.9 out of 5 (17 reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: Practical Cybersecurity Architecture
+Author(s): Diana Kelley, Ed Moyle
+---
+ISBN-10: 1837630283 - ISBN-13: 9781837630288 - ASIN: 1837637164
+Published Date: 2023-11-10
+---
+HB Blurb: Key FeaturesUnderstand the role of the architect in successfully creating complex security structuresLearn methodologies for creating architecture documentation, engaging stakeholders, and implementing designsUnderstand how to refine and improve architecture methodologies to meet business challengesPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for new as well as seasoned cybersecurity architects looking to explore and polish their cybersecurity architecture skills. Additionally, anyone involved in the process of implementing, planning, operating, or maintaining cybersecurity in an organization can benefit from this book. If you are a security practitioner, systems auditor, and (to a lesser extent) software developer invested in keeping your organization secure, this book will act as a reference guide.
+--------------------------------------------------
+
+Book 02:
+Title: Enhancing Your Cloud Security with a CNAPP Solution
+Author(s): Yuri Diogenes
+---
+ISBN-10: 1836204868 - ISBN-13: 9781836204862 - ASIN: 1836204876
+Published Date: 2024-10-31
+---
+HB Blurb: Key FeaturesMaster the CNAPP lifecycle from planning to operationalization using real-world practical scenarios. Dive deep into the features of Microsoft's Defender for Cloud to elevate your organization’s security posture. Explore hands-on examples and implementation techniques from a leading expert in the cybersecurity industryWho this book is forThis book is aimed at Cloud Security Professionals that work with Cloud Security, Posture Management, or Workload Protection. DevOps Engineers that need to have a better understanding of Cloud Security Tools and SOC Analysts that need to understand how CNAPP can enhance their threat hunting capabilities can also benefit from this book. Basic knowledge of Cloud Computing, including Cloud Providers such as Azure, AWS, and GCP is assumed.
+--------------------------------------------------
+
+Book 03:
+Title: Automating Security Detection Engineering
+Author(s): Dennis Chow, David Bruskin
+---
+ISBN-10: 1837631425 - ISBN-13: 9781837631421 - ASIN: 1837636419
+Published Date: 2024-06-28
+---
+HB Blurb: Key FeaturesCreate automated CI/CD pipelines for testing and implementing threat detection use casesApply implementation strategies to optimize the adoption of automated work streamsUse a variety of enterprise-grade tools and APIs to bolster your detection programPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for security engineers and analysts responsible for the day-to-day tasks of developing and implementing new detections at scale. If you’re working with existing programs focused on threat detection, you’ll also find this book helpful. Prior knowledge of DevSecOps, hands-on experience with any programming or scripting languages, and familiarity with common security practices and tools are recommended for an optimal learning experience.
+--------------------------------------------------
+
+Book 04:
+Title: AWS Certified Security - Specialty (SCS-C02) Exam Guide
+Author(s): Adam Book, Stuart Scott
+---
+ISBN-10: 1837635927 - ISBN-13: 9781837635924 - ASIN: 1837633983
+Published Date: 2024-04-16
+---
+HB Blurb: Key FeaturesStay updated with the most current SCS-C02 exam syllabusGain modern cloud security skills to build robust security solutionsAccess online exam prep resources like mock exams, flashcards, and exam tips to help with preparationPurchase of this book unlocks access to web-based exam prep resources such as mock exams and flashcardsWho this book is forThis book is for system administrators or security professionals looking to gain AWS security certification. Prior experience in securing cloud environments is necessary to get the most out of this book.
+--------------------------------------------------
+
+Book 05:
+Title: Pentesting Active Directory and Windows-based Infrastructure
+Author(s): Denis Isakov
+---
+ISBN-10: 1804618276 - ISBN-13: 9781804618271 - ASIN: B0C85Y85RB
+Published Date: 2023-11-17
+---
+HB Blurb: Key FeaturesFind out how to attack real-life Microsoft infrastructureDiscover how to detect adversary activities and remediate your environmentApply the knowledge you’ve gained by working on hands-on exercisesPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for pentesters and red teamers, security and IT engineers, as well as blue teamers and incident responders interested in Windows infrastructure security. The book is packed with practical examples, tooling, and attack-defense guidelines to help you assess and improve the security of your real-life environments. To get the most out of this book, you should have basic knowledge of Windows services and Active Directory.
+--------------------------------------------------
+
+Book 06:
+Title: Ghidra Software Reverse-Engineering for Beginners
+Author(s): David Álvarez Pérez, Ravikant Tiwari
+---
+ISBN-10: 9781835889824 - ISBN-13: 1835889824 - ASIN: B0DJGQ91R5
+Published Date: 2025
+---
+HB Blurb: Key FeaturesMake the most of Ghidra on different platforms such as Linux, Windows, and macOSUnlock the potential of plug-ins and extensions for disassembly, assembly, decompilation, and scriptingLearn advanced concepts like binary diffing, debugging, unpacking real-world malware samples, and reverse engineering ransomwarePurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for software engineers, security researchers, and professionals working in software development and testing who want to deepen their expertise in reverse engineering and cybersecurity. Aspiring malware analysts and vulnerability researchers will also benefit greatly. Prior experience with Java or Python and a foundational understanding of programming is recommended.
+--------------------------------------------------
+
+Book 07:
+Title: Resilient Cybersecurity
+Author(s): Mark Dunkerley
+---
+ISBN-10: 9781835462515 - ISBN-13: 1835462510 - ASIN: B0D9W6XTWT
+Published Date: 2024-09-27
+---
+HB Blurb: Key FeaturesGain a deep understanding of the current state of cybersecurity, including insights into the latest threats such as Ransomware and AILay the foundation of your cybersecurity program with a comprehensive approach allowing for continuous maturityEquip yourself with the strategies needed to build and manage an effective cybersecurity programWho this book is forThis book is geared towards the top leaders within an organization, C-level, CISO/CSO, directors, and program managers who build the strategy and execute the program. Cybersecurity managers, architects, engineers, administrators, analysts, and project managers who work in Cybersecurity would also benefit from this book. In addition, those who are still determining what they would like to do within cybersecurity can also benefit from this book by gaining an understanding of everything involved within a cybersecurity program. Basic knowledge of cybersecurity and its concepts will be helpful.
+--------------------------------------------------
+
+Book 08:
+Title: Incident Response for Windows
+Author(s): Anatoly Tykushin, Svetlana Ostrovskaya, Dmitry Volkov
+---
+ISBN-10: 1804618012 - ISBN-13: 9781804618011 - ASIN: B0D95ZKNT3
+Published Date: 2024-08-23
+---
+HB Blurb: Key FeaturesExplore contemporary sophisticated cyber threats, focusing on their tactics, techniques, and proceduresCraft the most robust enterprise-wide cybersecurity incident response methodology, scalable to any magnitudeMaster the development of efficient incident remediation and prevention strategiesPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for IT professionals, Windows IT administrators, cybersecurity practitioners, and incident response teams, including SOC teams, responsible for managing cybersecurity incidents in Windows-based environments. Specifically, system administrators, security analysts, and network engineers tasked with maintaining the security of Windows systems and networks will find this book indispensable. Basic understanding of Windows systems and cybersecurity concepts is needed to grasp the concepts in this book.
+--------------------------------------------------
+
+Book 09:
+Title: Zero Trust Overview and Playbook Introduction
+Author(s): Mark Simos, Nikhil Kumar, Ann Johnson
+---
+ISBN-10: 1800561466 - ISBN-13: 9781800561465 - ASIN: 1800568665
+Published Date: 2023-10-30
+---
+HB Blurb: Key FeaturesGet simple, clear, and practical advice for everyone from CEOs to security operationsOrganize your Zero Trust journey into role-by-role execution stagesIntegrate real-world implementation experience with global Zero Trust standardsPurchase of the print or Kindle book includes a free eBook in the PDF formatWho this book is forWhether you’re a business leader, security practitioner, or technology executive, this comprehensive guide to Zero Trust has something for you. This book provides practical guidance for implementing and managing a Zero Trust strategy and its impact on every role (including yours!). This is the go-to guide for everyone including board members, CEOs, CIOs, CISOs, architects, engineers, IT admins, security analysts, program managers, product owners, developers, and managers. Don't miss out on this essential resource for securing your organization against cyber threats.
+--------------------------------------------------
+
+Book 10:
+Title: The OSINT Handbook
+Author(s): Dale Meredith, Greg Shields
+---
+ISBN-10: 1837635285 - ISBN-13: 9781837635283 - ASIN: B0CSSZ1JCL
+Published Date: 2024-03-29
+---
+HB Blurb: Key FeaturesFamiliarize yourself with the best open-source intelligence tools such as Maltego, Shodan, and Aircrack-ng Develop an OSINT-driven threat intelligence program to mitigate cyber risksLeverage the power of information through OSINT with real-world case studiesPurchase of the print or Kindle book includes a free PDF eBook Who this book is forThis book is for ethical hackers and security professionals who want to expand their cybersecurity toolbox and stay one step ahead of online threats by gaining comprehensive insights into OSINT tools and techniques. Basic knowledge of cybersecurity concepts is required.
+--------------------------------------------------
+
+Book 11:
+Title: Microsoft Defender for Identity in Depth
+Author(s): Pierre Thoor, Matthew Zorich
+---
+ISBN-10: 1835884490 - ISBN-13: 9781835884492 - ASIN: B0DK1HW2KX
+Published Date: 2024-12-20
+---
+HB Blurb: Key FeaturesOptimize configurations for peak security performance by tailoring detection thresholdsLeverage real-world insights and case studies to improve threat detection and response strategiesEstablish a strong ITDR defense with Microsoft Defender for IdentityPurchase of the print or Kindle book includes a free PDF eBookWho this book is forIf you’re an IT or security professional looking to enhance your cybersecurity skills, especially in identity protection and threat management with Microsoft Defender for Identity (MDI), then this book is for you. It's perfect for system administrators, cybersecurity analysts, and cloud engineers who want to strengthen their expertise in MDI. A basic understanding of cybersecurity principles, as well as familiarity with Microsoft environments and Active Directory are recommended prerequisites for maximizing your learning experience.
+--------------------------------------------------
+
+Book 12:
+Title: PowerShell Automation and Scripting for Cybersecurity
+Author(s): Miriam C. Wiesner, Tanya Janca
+---
+ISBN-10: 1800569262 - ISBN-13: 9781800569263 - ASIN: 1800566379
+Published Date: 2023-08-16
+---
+HB Blurb: Key FeaturesMaster PowerShell for security by configuring, auditing, monitoring, exploiting, and bypassing defensesResearch and develop methods to bypass security features and use stealthy tradecraftExplore essential security features in PowerShell and protect your environment against exploits and bypassesWho this book is forThis book is for security professionals, penetration testers, system administrators, and red and blue teams looking to learn how to leverage PowerShell for security operations. A basic understanding of PowerShell, cybersecurity fundamentals, and scripting is a must. For some parts a basic understanding of active directory, C++/C#, and assembly can be beneficial.
+--------------------------------------------------
+
+Book 13:
+Title: Mastering Microsoft 365 Defender
+Author(s): Ru Campbell, Viktor Hedberg, Heike Ritter
+---
+ISBN-10: 1803240741 - ISBN-13: 9781803240749 - ASIN: B0BYZLJFCR
+Published Date: 2023-07-28
+---
+HB Blurb: Key FeaturesHelp in understanding Microsoft 365 Defender and how it is crucial for security operationsImplementation of the proactive security defense capabilities of Microsoft Defender for Endpoint, Identity, Office 365, and Cloud Apps so that attacks can be stopped before they startA guide to hunting and responding to threats using M365D’s extended detection and response capabilitiesWho this book is forYou’re a security engineer, incident responder, blue teamer, or an IT security professional who wants to deploy and manage Microsoft 365 Defender services and successfully investigate and respond tocyber threatsYou have a basic understanding of networking, vulnerabilities, operating systems, email, Active Directory, and cloud apps
+--------------------------------------------------
+
+Book 14:
+Title: Effective Threat Investigation for SOC Analysts
+Author(s): Mostafa Yahia
+---
+ISBN-10: 1837638756 - ISBN-13: 9781837638758 - ASIN: B0BYZHL9RZ
+Published Date: 2023-08-25
+---
+HB Blurb: Key FeaturesUnderstand and analyze various modern cyber threats and attackers' techniquesGain in-depth knowledge of email security, Windows, firewall, proxy, WAF, and security solution logsExplore popular cyber threat intelligence platforms to investigate suspicious artifactsWho this book is forThis book is for Security Operation Center (SOC) analysts, security professionals, cybersecurity incident investigators, incident handlers, incident responders, or anyone looking to explore attacker techniques and delve deeper into detecting and investigating attacks. If you want to efficiently detect and investigate cyberattacks by analyzing logs generated from different log sources, then this is the book for you. Basic knowledge of cybersecurity and networking domains and entry-level security concepts are necessary to get the most out of this book.
+--------------------------------------------------
+
+Book 15:
+Title: Python for Security and Networking
+Author(s): José Manuel Ortega
+---
+ISBN-10: 1839216212 - ISBN-13: 9781839216213 - ASIN: B0BPY295S5
+Published Date: 2021-01-04
+---
+HB Blurb: Key FeaturesDiscover security techniques to protect your network and systems using PythonCreate scripts in Python to automate security and pentesting tasksAnalyze traffic in a network and extract information using PythonWho this book is forThis Python book is for network engineers, system administrators, and other security professionals looking to overcome common networking and security issues using Python. You will also find this book useful if you're an experienced programmer looking to explore Python’s full range of capabilities. A basic understanding of general programming structures as well as familiarity with the Python programming language is a prerequisite.
+--------------------------------------------------
+
+Book 16:
+Title: Security Monitoring with Wazuh
+Author(s): Rajneesh Gupta, Santiago Bassett
+---
+ISBN-10: 1837633436 - ISBN-13: 9781837633432 - ASIN: 1837632154
+Published Date: 2024-04-12
+---
+HB Blurb: Key FeaturesGet a thorough overview of Wazuh’s features and learn how to make the most of themDetect network and host-based intrusion, monitor for known vulnerabilities and exploits, and detect anomalous behaviorBuild a monitoring system for security compliance that adheres to frameworks such as MITRE ATT&CK, PCI DSS, and GDPRPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book is for SOC analysts, security architects, and security engineers who want to set up open-source SOC with critical capabilities such as file integrity monitoring, security monitoring, threat intelligence automation, and cloud security monitoring. Managed service providers aiming to build a scalable security monitoring system for their clients will also find valuable insights in this book. Familiarity with basic IT, cybersecurity, cloud, and Linux concepts is necessary to get started.
+--------------------------------------------------
+
+Book 17:
+Title: Cryptography Algorithms
+Author(s): Massimo Bertaccini
+---
+ISBN-10: 1789618576 - ISBN-13: 9781789618570 - ASIN: B0BDVJ15JN
+Published Date: 2022-03-03
+---
+HB Blurb: Key FeaturesExplore the basic principles and history of cryptographyIdentify key vulnerabilities and evaluate how cryptographic algorithms defend against attacksBecome a forward-thinking cryptographer by learning the new protocols in zero knowledge, homomorphic encryption and quantum cryptographyWho this book is forThis book is for beginners who are IT professionals, students, cybersecurity enthusiasts, and anyone who wants to develop skills in modern cryptography and build a successful cybersecurity career. The book systematically addresses mathematical issues related to the algorithms that may arise. However, a prior knowledge of university-level mathematics, algebra, its main operators, modular mathematics, and finite fields theory is required. Some knowledge of elliptic curves and quantum computing, especially matrices and plotting curves would also be beneficial to get the most out of this book.
+--------------------------------------------------
+
+Book 18:
+Title: Hack the Cybersecurity Interview
+Author(s): Christophe Foulon, Ken Underhill, Tia Hopkins
+---
+ISBN-10: 1801812691 - ISBN-13: 9781801812696 - ASIN: 1835461298
+Published Date: 2022-07-27
+---
+HB Blurb: Key FeaturesConfidently handle technical  and soft skill questions across various cybersecurity rolesPrepare for Cybersecurity Engineer, penetration tester, malware analyst, digital forensics analyst, CISO, and more rolesUnlock secrets to acing interviews across various cybersecurity rolesWho this book is forThis book is a must-have for college students, aspiring cybersecurity professionals, computer and software engineers, and anyone preparing for a cybersecurity job interview. It's equally valuable for those new to the field and experienced professionals aiming for career advancement.
+--------------------------------------------------
+
+Book 19:
+Title: The Ultimate Kali Linux Book
+Author(s): Glen D. Singh
+---
+ISBN-10: 1801819017 - ISBN-13: 9781801819015 - ASIN: B09NC59WS4
+Published Date: 2022-02-24
+---
+HB Blurb: Key FeaturesLearn to think like an adversary to strengthen your cyber defencesExecute sophisticated real-life penetration tests, uncovering vulnerabilities in enterprise networks that go beyond the surface levelSecurely manipulate environments using Kali Linux, ensuring you're fully equipped to safeguard your systems against real-world threatsWho this book is forThis pentesting book is for students, trainers, cybersecurity professionals, cyber enthusiasts, network security professionals, ethical hackers, penetration testers, and security engineers. If you do not have any prior knowledge and are looking to become an expert in penetration testing using the Kali Linux, then this book is for you.
+--------------------------------------------------
+
+Book 20:
+Title: CISA - Certified Information Systems Auditor Study Guide
+Author(s): Hemang Doshi, Javen Khoo Ai Wee
+---
+ISBN-10: 1835882870 - ISBN-13: 9781835882870 - ASIN: 1838989587
+Published Date: 2024-10-31
+---
+HB Blurb: Key FeaturesLearn from a qualified CISA and bestselling instructor, Hemang DoshiAligned with the latest CISA exam objectives from the 28th edition of the Official Review ManualAssess your exam readiness with over 1000 targeted practice test questionsWho this book is forThis CISA study guide is for anyone with a non-technical background aspiring to achieve the CISA certification. It caters to those currently working in or seeking employment in IT audit and security management roles.
+--------------------------------------------------
+
+Book 21:
+Title: Adversarial AI Attacks, Mitigations, and Defense Strategies
+Author(s): John Sotiropoulos
+---
+ISBN-10: 1835088678 - ISBN-13: 9781835088678 - ASIN: B0D6RB24H8
+Published Date: 2024-07-26
+---
+HB Blurb: Key FeaturesUnderstand the connection between AI and security by learning about adversarial AI attacksDiscover the latest security challenges in adversarial AI by examining GenAI, deepfakes, and LLMsImplement secure-by-design methods and threat modeling, using standards and MLSecOps to safeguard AI systemsPurchase of the print or Kindle book includes a free PDF eBookWho this book is forThis book tackles AI security from both angles - offense and defense. AI builders (developers and engineers) will learn how to create secure systems, while cybersecurity professionals, such as security architects, analysts, engineers, ethical hackers, penetration testers, and incident responders will discover methods to combat threats and mitigate risks posed by attackers. The book also provides a secure-by-design approach for leaders to build AI with security in mind. To get the most out of this book, you’ll need a basic understanding of security, ML concepts, and Python.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Practical Cybersecurity Architecture
+https://www.amazon.com/Practical-Cybersecurity-Architecture-implementing-cybersecurity/dp/1837637164
+https://www.amazon.co.uk/Practical-Cybersecurity-Architecture-implementing-cybersecurity/dp/1837637164
+http://books.google.co.uk/books?id=DqrdEAAAQBAJ&printsec=frontcover&dq=intitle:Practical+Cybersecurity+Architecture%2Binauthor:Diana+Kelley,+Ed+Moyle&hl=&cd=1&source=gbs_api
+
+Book 02 - Enhancing Your Cloud Security with a CNAPP Solution
+https://www.amazon.com/Enhancing-Cloud-Security-CNAPP-Solution/dp/1836204876
+https://www.amazon.co.uk/Enhancing-Cloud-Security-CNAPP-Solution/dp/1836204876
+http://books.google.co.uk/books?id=fFAsEQAAQBAJ&printsec=frontcover&dq=intitle:Enhancing+Your+Cloud+Security+with+a+CNAPP+Solution%2Binauthor:Yuri+Diogenes&hl=&cd=1&source=gbs_api
+
+Book 03 - Automating Security Detection Engineering
+https://www.amazon.com/Automating-Security-Detection-Engineering-hands/dp/1837636419
+https://www.amazon.co.uk/Automating-Security-Detection-Engineering-hands/dp/1837636419
+http://books.google.co.uk/books?id=J_wJEQAAQBAJ&printsec=frontcover&dq=intitle:Automating+Security+Detection+Engineering%2Binauthor:Dennis+Chow,+David+Bruskin&hl=&cd=1&source=gbs_api
+
+Book 04 - AWS Certified Security - Specialty (SCS-C02) Exam Guide
+https://www.amazon.com/AWS-Certified-Security-Specialty-guidance/dp/1837633983
+https://www.amazon.co.uk/AWS-Certified-Security-Specialty-guidance/dp/1837633983
+http://books.google.co.uk/books?id=YbICEQAAQBAJ&printsec=frontcover&dq=intitle:AWS+Certified+Security+-+Specialty+(SCS-C02)+Exam+Guide%2Binauthor:Adam+Book,+Stuart+Scott&hl=&cd=1&source=gbs_api
+
+Book 05 - Pentesting Active Directory and Windows-based Infrastructure
+https://www.amazon.com/Pentesting-Active-Directory-Windows-based-Infrastructure-ebook/dp/B0C85Y85RB
+https://www.amazon.co.uk/Pentesting-Active-Directory-Windows-based-Infrastructure-ebook/dp/B0C85Y85RB
+http://books.google.co.uk/books?id=z9ffEAAAQBAJ&printsec=frontcover&dq=intitle:Pentesting+Active+Directory+and+Windows-based+Infrastructure%2Binauthor:Denis+Isakov&hl=&cd=1&source=gbs_api
+
+Book 06 - Ghidra Software Reverse-Engineering for Beginners
+https://www.amazon.com/Ghidra-Software-Reverse-Engineering-Beginners-understanding/dp/B0DJGQ91R5
+https://www.amazon.co.uk/Ghidra-Software-Reverse-Engineering-Beginners-understanding-ebook/dp/B0DHZQVDXJ
+http://books.google.co.uk/books?id=ql_50AEACAAJ&dq=intitle:Ghidra+Software+Reverse-Engineering+for+Beginners%2Binauthor:David+%C3%81lvarez+P%C3%A9rez,+Ravikant+Tiwari&hl=&cd=1&source=gbs_api
+
+Book 07 - Resilient Cybersecurity
+https://www.amazon.com/Resilient-Cybersecurity-Reconstruct-strategy-evolving-ebook/dp/B0D9W6XTWT
+https://www.amazon.co.uk/Resilient-Cybersecurity-Reconstruct-strategy-evolving/dp/1835462510
+http://books.google.co.uk/books?id=u_za0AEACAAJ&dq=intitle:Resilient+Cybersecurity%2Binauthor:Mark+Dunkerley&hl=&cd=1&source=gbs_api
+
+Book 08 - Incident Response for Windows
+https://www.amazon.com/Incident-Response-Windows-sophisticated-cyberattacks-ebook/dp/B0D95ZKNT3
+https://www.amazon.co.uk/Incident-Response-Windows-sophisticated-cyberattacks-ebook/dp/B0D95ZKNT3
+http://books.google.co.uk/books?id=574WEQAAQBAJ&pg=PP1&dq=intitle:Incident+Response+for+Windows%2Binauthor:Anatoly+Tykushin,+Svetlana+Ostrovskaya,+Dmitry+Volkov&hl=&cd=1&source=gbs_api
+
+Book 09 - Zero Trust Overview and Playbook Introduction
+https://www.amazon.com/Zero-Trust-Overview-Playbook-Introduction/dp/1800568665
+https://www.amazon.co.uk/Zero-Trust-Overview-Playbook-Introduction/dp/1800568665
+http://books.google.co.uk/books?id=zYjhEAAAQBAJ&pg=PP1&dq=intitle:Zero+Trust+Overview+and+Playbook+Introduction%2Binauthor:Mark+Simos,+Nikhil+Kumar,+Ann+Johnson&hl=&cd=1&source=gbs_api
+
+Book 10 - The OSINT Handbook
+https://www.amazon.com/OSINT-Handbook-practical-gathering-information-ebook/dp/B0CSSZ1JCL
+https://www.amazon.co.uk/OSINT-Handbook-practical-gathering-information-ebook/dp/B0CSSZ1JCL
+http://books.google.co.uk/books?id=Sxz7EAAAQBAJ&pg=PR4&dq=intitle:The+OSINT+Handbook%2Binauthor:Dale+Meredith,+Greg+Shields&hl=&cd=1&source=gbs_api
+
+Book 11 - Microsoft Defender for Identity in Depth
+https://www.amazon.com/Microsoft-Defender-Identity-Depth-cyberattack/dp/B0DK1HW2KX
+https://www.amazon.co.uk/Microsoft-Defender-Identity-Depth-cyberattack/dp/B0DK1HW2KX
+http://books.google.co.uk/books?id=lCU0EQAAQBAJ&printsec=frontcover&dq=intitle:Microsoft+Defender+for+Identity+in+Depth%2Binauthor:Pierre+Thoor,+Matthew+Zorich&hl=&cd=1&source=gbs_api
+
+Book 12 - PowerShell Automation and Scripting for Cybersecurity
+https://www.amazon.com/PowerShell-Automation-Scripting-Cybersecurity-Hacking/dp/1800566379
+https://www.amazon.co.uk/PowerShell-Automation-Scripting-Cybersecurity-Hacking-ebook/dp/B0BWKZCNK9
+http://books.google.co.uk/books?id=JhfQEAAAQBAJ&pg=PP1&dq=intitle:PowerShell+Automation+and+Scripting+for+Cybersecurity%2Binauthor:Miriam+C.+Wiesner,+Tanya+Janca&hl=&cd=1&source=gbs_api
+
+Book 13 - Mastering Microsoft 365 Defender
+https://www.amazon.com/Mastering-Microsoft-365-Defender-Implement-ebook/dp/B0BYZLJFCR
+https://www.amazon.co.uk/Mastering-Microsoft-365-Defender-Implement-ebook/dp/B0BYZLJFCR
+http://books.google.co.uk/books?id=DJrKEAAAQBAJ&printsec=frontcover&dq=intitle:Mastering+Microsoft+365+Defender%2Binauthor:Ru+Campbell,+Viktor+Hedberg,+Heike+Ritter&hl=&cd=1&source=gbs_api
+
+Book 14 - Effective Threat Investigation for SOC Analysts
+https://www.amazon.com/Effective-Threat-Investigation-SOC-Analysts-ebook/dp/B0BYZHL9RZ
+https://www.amazon.co.uk/Effective-Threat-Investigation-SOC-Analysts/dp/1837634785
+http://books.google.co.uk/books?id=5_TOEAAAQBAJ&printsec=frontcover&dq=intitle:Effective+Threat+Investigation+for+SOC+Analysts%2Binauthor:Mostafa+Yahia&hl=&cd=1&source=gbs_api
+
+Book 15 - Python for Security and Networking
+https://www.amazon.com/Python-Security-Networking-Leverage-applications-ebook/dp/B0BPY295S5
+https://www.amazon.co.uk/Python-Security-Networking-Leverage-applications-ebook/dp/B0BPY295S5
+http://books.google.co.uk/books?id=pGYNEAAAQBAJ&printsec=frontcover&dq=intitle:Python+for+Security+and+Networking%2Binauthor:Jos%C3%A9+Manuel+Ortega&hl=&cd=1&source=gbs_api
+
+Book 16 - Security Monitoring with Wazuh
+https://www.amazon.com/Security-Monitoring-Wazuh-hands-enterprise/dp/1837632154
+https://www.amazon.co.uk/Security-Monitoring-Wazuh-hands-enterprise-ebook/dp/B0CTXL5G49
+http://books.google.co.uk/books?id=hMH7EAAAQBAJ&pg=PP1&dq=intitle:Security+Monitoring+with+Wazuh%2Binauthor:Rajneesh+Gupta,+Santiago+Bassett&hl=&cd=1&source=gbs_api
+
+Book 17 - Cryptography Algorithms
+https://www.amazon.com/Cryptography-Algorithms-cryptography-zero-knowledge-homomorphic-ebook/dp/B0BDVJ15JN
+https://www.amazon.co.uk/Cryptography-Algorithms-cryptography-zero-knowledge-homomorphic-ebook/dp/B0BDVJ15JN
+http://books.google.co.uk/books?id=t1taEAAAQBAJ&printsec=frontcover&dq=intitle:Cryptography+Algorithms%2Binauthor:Massimo+Bertaccini&hl=&cd=1&source=gbs_api
+
+Book 18 - Hack the Cybersecurity Interview
+https://www.amazon.com/Hack-Cybersecurity-Interview-Interviews-Entry-level/dp/1835461298
+https://www.amazon.co.uk/Hack-Cybersecurity-Interview-Interviews-Entry-level/dp/1835461298
+http://books.google.co.uk/books?id=pHF5EAAAQBAJ&printsec=frontcover&dq=intitle:Hack+the+Cybersecurity+Interview%2Binauthor:Christophe+Foulon,+Ken+Underhill,+Tia+Hopkins&hl=&cd=1&source=gbs_api
+
+Book 19 - The Ultimate Kali Linux Book
+No Amazon.com URL found
+https://www.amazon.co.uk/Ultimate-Kali-Linux-Book-penetration-ebook/dp/B09NC59WS4
+http://books.google.co.uk/books?id=0zFYEAAAQBAJ&printsec=frontcover&dq=intitle:The+Ultimate+Kali+Linux+Book%2Binauthor:Glen+D.+Singh&hl=&cd=1&source=gbs_api
+
+Book 20 - CISA - Certified Information Systems Auditor Study Guide
+https://www.amazon.com/CISA-Certified-Information-Systems-information/dp/1838989587
+https://www.amazon.co.uk/CISA-Certified-Information-Systems-information/dp/1838989587
+http://books.google.co.uk/books?id=tPYuEQAAQBAJ&printsec=frontcover&dq=intitle:CISA+-+Certified+Information+Systems+Auditor+Study+Guide%2Binauthor:Hemang+Doshi,+Javen+Khoo+Ai+Wee&hl=&cd=1&source=gbs_api
+
+Book 21 - Adversarial AI Attacks, Mitigations, and Defense Strategies
+https://www.amazon.com/Adversarial-Attacks-Mitigations-Defense-Strategies-ebook/dp/B0D6RB24H8
+https://www.amazon.co.uk/Adversarial-Attacks-Mitigations-Defense-Strategies/dp/1835087981
+http://books.google.co.uk/books?id=ziYUEQAAQBAJ&printsec=frontcover&dq=intitle:Adversarial+AI+Attacks,+Mitigations,+and+Defense+Strategies%2Binauthor:John+Sotiropoulos&hl=&cd=1&source=gbs_api
+
