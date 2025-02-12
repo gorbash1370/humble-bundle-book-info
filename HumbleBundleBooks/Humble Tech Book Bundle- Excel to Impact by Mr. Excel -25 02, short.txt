@@ -1,0 +1,348 @@
+Humble Tech Book Bundle- Excel to Impact by Mr. Excel - Packt
+Processing date: 2025-02-12
+Data retrieved from: https://www.humblebundle.com/books/excel-to-impact-mr-excel-books
+
+Book 01 - Microsoft 365 Excel: The Only App That Matters - MrExcel's Holy Macro! Books, Mike Girvin - None found out of 5 (None found reviews)
+Book 02 - Master Your Data with Power Query in Excel and Power BI - MrExcel's Holy Macro! Books, Miguel Escobar, Ken Puls - 4.7 out of 5 (193 reviews)
+Book 03 - Power Pivot and Power BI - MrExcel's Holy Macro! Books, Rob Collie, Avichal Singh - 4.5 out of 5 (993 reviews)
+Book 04 - MrExcel 2024 - MrExcel's Holy Macro! Books, Bill Jelen - None found out of 5 (None found reviews)
+Book 05 - Power BI for the Excel Analyst - MrExcel's Holy Macro! Books, Wyn Hopkins - 4.4 out of 5 (38 reviews)
+Book 06 - Guerrilla Data Analysis Using Microsoft Excel - MrExcel's Holy Macro! Books, Oz du Soleil, Bill Jelen - None found out of 5 (None found reviews)
+Book 07 - Excel Insights - MrExcel's Holy Macro! Books, 24 Excel MVPs - 4.6 out of 5 (24 reviews)
+Book 08 - Continuing Financial Modelling - MrExcel's Holy Macro! Books, Liam Bastick - 4.7 out of 5 (7 reviews)
+Book 09 - Excel Power Moves - MrExcel's Holy Macro! Books, Bob Umlas - None found out of 5 (None found reviews)
+Book 10 - The Absolute Guide to Dashboarding and Reporting with Power BI - MrExcel's Holy Macro! Books, Kasper de Jonge - 3.6 out of 5 (16 reviews)
+Book 11 - Transformative Magic of M Code in Power Query Excel & Power BI - MrExcel's Holy Macro! Books, Mike Girvin - None found out of 5 (None found reviews)
+Book 12 - Financial Modelling using Dynamic Arrays - MrExcel's Holy Macro! Books, Liam Bastick - None found out of 5 (None found reviews)
+Book 13 - Power Excel with MrExcel - MrExcel's Holy Macro! Books, Bill Jelen - None found out of 5 (None found reviews)
+Book 14 - Supercharge Power BI - MrExcel's Holy Macro! Books, Matt Allington - 4.4 out of 5 (261 reviews)
+Book 15 - Cleaning Excel Data With Power Query Straight to the Point - MrExcel's Holy Macro! Books, Oz du Soleil - None found out of 5 (None found reviews)
+Book 16 - Excel Data Cleansing Straight to the Point - MrExcel's Holy Macro! Books, Oz du Soleil - 3.6 out of 5 (3 reviews)
+Book 17 - Introduction To Financial Modelling - MrExcel's Holy Macro! Books, Liam Bastick - None found out of 5 (None found reviews)
+Book 18 - Your Excel Survival Kit - MrExcel's Holy Macro! Books, Anne Walsh - 5 out of 5 (5 reviews)
+Book 19 - Supercharge Excel - MrExcel's Holy Macro! Books, Matt Allington - 4.6 out of 5 (51 reviews)
+Book 20 - Excel Custom Functions - MrExcel's Holy Macro! Books, Suat M Ozgur - None found out of 5 (None found reviews)
+Book 21 - Excel and the World Wide Web Straight to the Point - MrExcel's Holy Macro! Books, Eduardo N Sanchez - None found out of 5 (None found reviews)
+
+--------------------------------------------------
+Book Details (Short)
+-------------------------
+
+Book 01:
+Title: Microsoft 365 Excel: The Only App That Matters
+Author(s): MrExcel's Holy Macro! Books, Mike Girvin
+---
+ISBN-10: 183664552X - ISBN-13: 9781836645528 - ASIN: B0B4T694MN
+Published Date: 2024-09-26
+---
+HB Blurb: Key FeaturesComprehensive coverage from Excel basics to advanced functionsPractical examples for real-world applicationStep-by-step guidance on data analysis and automation.Who this book is forThe ideal audience for this book includes professionals, data analysts, financial analysts, and students who are familiar with basic Excel functions but want to advance their skills. A basic understanding of Excel is recommended.
+--------------------------------------------------
+
+Book 02:
+Title: Master Your Data with Power Query in Excel and Power BI
+Author(s): MrExcel's Holy Macro! Books, Miguel Escobar, Ken Puls
+---
+ISBN-10: 183664664X - ISBN-13: 9781836646648 - ASIN: 1615470581
+Published Date: 2024-09-26
+---
+HB Blurb: Key FeaturesComprehensive coverage of Power Query from basics to advanced techniquesSeamless integration and movement of queries between Excel and Power BIHands-on practice with real-world data scenarios to build your confidenceWho this book is forIdeal for data analysts, Excel users, and Power BI enthusiasts looking to streamline data processing. Readers should have a basic understanding of Excel and data handling concepts. No prior knowledge of Power Query is required.
+--------------------------------------------------
+
+Book 03:
+Title: Power Pivot and Power BI
+Author(s): MrExcel's Holy Macro! Books, Rob Collie, Avichal Singh
+---
+ISBN-10: 1836644728 - ISBN-13: 9781836644729 - ASIN: 1615470395
+Published Date: 2024-09-26
+---
+HB Blurb: Key FeaturesStep-by-step guide to mastering Power Pivot and Power BIPractical examples and real-world applicationsFoundational to advanced techniques for effective data analysisWho this book is forIdeal for data professionals, Excel users, and business analysts, this book assumes a basic understanding of Excel but no prior knowledge of Power Pivot or Power BI. It is suitable for anyone looking to enhance their data analysis and reporting skills using these tools.
+--------------------------------------------------
+
+Book 04:
+Title: MrExcel 2024
+Author(s): MrExcel's Holy Macro! Books, Bill Jelen
+---
+ISBN-10: 1836647662 - ISBN-13: 9781836647669 - ASIN: B0D9QY1QD6
+Published Date: 2024-09-26
+---
+HB Blurb: Key FeaturesComprehensive coverage of Excel's new 2024 featuresPractical examples and step-by-step instructionsAdvanced tips for automation and data visualizationWho this book is forThis book is ideal for Excel users of all levels, from beginners to advanced. No prior experience with the latest Excel version is needed, but basic familiarity with Excel is recommended. This course is suitable for professionals in data analysis, finance, administration, and students.
+--------------------------------------------------
+
+Book 05:
+Title: Power BI for the Excel Analyst
+Author(s): MrExcel's Holy Macro! Books, Wyn Hopkins
+---
+ISBN-10: 1836642326 - ISBN-13: 9781836642329 - ASIN: 161547076X
+Published Date: 2024-09-26
+---
+HB Blurb: Key FeaturesPractical guide for transitioning from Excel to Power BIStep-by-step tutorials for Power BI DesktopAdvanced data modeling and report creation using DAXWho this book is forThe ideal audience includes Excel analysts, data professionals, and business intelligence enthusiasts who are familiar with Excel and want to expand their capabilities using Power BI. A basic understanding of Excel functions and formulas is recommended.
+--------------------------------------------------
+
+Book 06:
+Title: Guerrilla Data Analysis Using Microsoft Excel
+Author(s): MrExcel's Holy Macro! Books, Oz du Soleil, Bill Jelen
+---
+ISBN-10: 1836644027 - ISBN-13: 9781836644026 - ASIN: 1615470743
+Published Date: 2024-09-26
+---
+HB Blurb: Key FeaturesHands-on techniques for efficient Excel data analysisAdvanced functions and best practices for real-world scenariosStep-by-step guidance on complex tasks like data validation and dynamic arraysWho this book is forThis book is ideal for data analysts, business professionals, and Excel users who need to enhance their data analysis skills. Readers should have a basic understanding of Excel and be familiar with its interface. No advanced Excel knowledge is required, but a willingness to learn and apply new techniques is essential.
+--------------------------------------------------
+
+Book 07:
+Title: Excel Insights
+Author(s): MrExcel's Holy Macro! Books, 24 Excel MVPs
+---
+ISBN-10: 1836642687 - ISBN-13: 9781836642688 - ASIN: B083JWFQZB
+Published Date: 2024-10-01
+---
+HB Blurb: Key FeaturesAdvanced Excel features, from custom formatting to dynamic arraysData analysis and visualization with Power Query and chartsDetailed explanation of VBA for task automation and efficiencyWho this book is forIdeal for intermediate to advanced Excel users, data analysts, and financial modelers. Readers should have a basic understanding of Excel. Prior experience with Excel formulas, charts, and data management is recommended.
+--------------------------------------------------
+
+Book 08:
+Title: Continuing Financial Modelling
+Author(s): MrExcel's Holy Macro! Books, Liam Bastick
+---
+ISBN-10: 1837027188 - ISBN-13: 9781837027187 - ASIN: B08GGB8VNJ
+Published Date: 2024-12-17
+---
+HB Blurb: Key FeaturesAdvanced concepts and techniques in financial modellingPractical scenarios demonstrating real-world applicationsFuture-focused strategies for forecasting and valuationWho this book is forThe book is ideal for finance professionals, analysts, and students in advanced finance courses. A working knowledge of basic financial modeling principles and familiarity with Excel is required. Readers are recommended to have an understanding of accounting and finance concepts to maximize learning.
+--------------------------------------------------
+
+Book 09:
+Title: Excel Power Moves
+Author(s): MrExcel's Holy Macro! Books, Bob Umlas
+---
+ISBN-10: 1837022542 - ISBN-13: 9781837022540 - ASIN: 
+Published Date: 2024-12-12
+---
+HB Blurb: Key FeaturesCreative hacks for dynamic arrays and VBA shortcutsUnique Excel features like Camera Tool and Home/Fill/JustifyHands-on techniques for automation and formattingWho this book is forAdvanced Excel users, data analysts, VBA programmers, and productivity enthusiasts with a basic understanding of formulas and Excel's interface. No extensive coding experience is required.
+--------------------------------------------------
+
+Book 10:
+Title: The Absolute Guide to Dashboarding and Reporting with Power BI
+Author(s): MrExcel's Holy Macro! Books, Kasper de Jonge
+---
+ISBN-10: 1837027021 - ISBN-13: 9781837027026 - ASIN: 1615470573
+Published Date: 2024-12-19
+---
+HB Blurb: Key FeaturesStep-by-step methods for creating impactful dashboards and reportsClear techniques for preparing and structuring data for reportingPractical guidance for sharing dashboards effectively within organizationsWho this book is forBusiness professionals, data analysts, and Power BI beginners will find this book helpful. Basic knowledge of data handling and reporting will be helpful but isn't required.
+--------------------------------------------------
+
+Book 11:
+Title: Transformative Magic of M Code in Power Query Excel & Power BI
+Author(s): MrExcel's Holy Macro! Books, Mike Girvin
+---
+ISBN-10: 1837022844 - ISBN-13: 9781837022847 - ASIN: 1615470832
+Published Date: 2024-12-17
+---
+HB Blurb: Key FeaturesEmphasis on foundational M Code and advanced techniquesInclusion of practical projects for real-world learningIn-depth exploration of privacy and security concerns related to dataWho this book is forData analysts, business intelligence professionals, Excel and Power BI users, & advanced Excel users transitioning to Power BI will find this book really helpful. A working knowledge of Excel and a basic understanding of Power BI are recommended.
+--------------------------------------------------
+
+Book 12:
+Title: Financial Modelling using Dynamic Arrays
+Author(s): MrExcel's Holy Macro! Books, Liam Bastick
+---
+ISBN-10: 1837023182 - ISBN-13: 9781837023189 - ASIN: 1615470875
+Published Date: 2024-12-17
+---
+HB Blurb: Key FeaturesA comprehensive exploration of dynamic arrays transforming modern financial modelling.Practical insights into integrating LET and LAMBDA for scalable formula optimization.Detailed examples showcasing advanced functions and innovative Excel 365 methodologies.Who this book is forThis book is ideal for financial analysts, accountants, and Excel enthusiasts aiming to enhance their modelling skills. Designed for professionals managing complex data models, it requires basic Excel familiarity but no advanced expertise, making it accessible to both intermediate and seasoned users seeking innovative tools.
+--------------------------------------------------
+
+Book 13:
+Title: Power Excel with MrExcel
+Author(s): MrExcel's Holy Macro! Books, Bill Jelen
+---
+ISBN-10: 1836648189 - ISBN-13: 9781836648185 - ASIN: 1615470387
+Published Date: 2024-09-26
+---
+HB Blurb: Key FeaturesUpdated version for Excel 2019 & Office 365Enhanced course with reader suggestionsA combination of alternate strategies and common pitfallsWho this book is forThe ideal audience includes Excel users from beginners to advanced professionals looking to improve their efficiency in Excel 2019 and Office 365. A basic understanding of Excel is recommended to get the most out of this book.
+--------------------------------------------------
+
+Book 14:
+Title: Supercharge Power BI
+Author(s): MrExcel's Holy Macro! Books, Matt Allington
+---
+ISBN-10: 1836643020 - ISBN-13: 9781836643029 - ASIN: 1615470522
+Published Date: 2024-09-26
+---
+HB Blurb: Key FeaturesComprehensive coverage of DAX functionsStep-by-step progression from basics to advanced topicsPractical examples to reinforce learningWho this book is forThis book is ideal for data analysts, business intelligence professionals, and Power BI users looking to deepen their understanding of DAX and data modeling. A basic understanding of Power BI and familiarity with data analysis concepts are recommended.
+--------------------------------------------------
+
+Book 15:
+Title: Cleaning Excel Data With Power Query Straight to the Point
+Author(s): MrExcel's Holy Macro! Books, Oz du Soleil
+---
+ISBN-10: 1837026181 - ISBN-13: 9781837026180 - ASIN: 
+Published Date: 2024-12-12
+---
+HB Blurb: Key FeaturesA clear guide to Power Query tools and techniquesPractical examples of common data tasksA complete coverage of advanced transformations and joinsWho this book is forThis book is ideal for data analysts, business professionals, and Excel users looking to simplify data cleaning and transformation tasks. Readers are recommended to have a basic understanding of Excel. Familiarity with formulas and tables is helpful but not required.
+--------------------------------------------------
+
+Book 16:
+Title: Excel Data Cleansing Straight to the Point
+Author(s): MrExcel's Holy Macro! Books, Oz du Soleil
+---
+ISBN-10: 1837026289 - ISBN-13: 9781837026289 - ASIN: B07VPS7999
+Published Date: 2024-12-17
+---
+HB Blurb: Key FeaturesCore Excel functions for preparing and cleansing dataMethods for managing duplicates and inconsistent datasetsStrategic insights for streamlining data workflowsWho this book is forProfessionals working with Excel, including data analysts, project managers, and administrative staff will find this book helpful. It is ideal for readers with a basic understanding of Excel, seeking practical skills in data management and cleansing.
+--------------------------------------------------
+
+Book 17:
+Title: Introduction To Financial Modelling
+Author(s): MrExcel's Holy Macro! Books, Liam Bastick
+---
+ISBN-10: 1837027986 - ISBN-13: 9781837027989 - ASIN: 1615470662
+Published Date: 2024-12-18
+---
+HB Blurb: Key FeaturesEssential Excel functions and tools tailored for financial modeling applicationsMethodologies for layout design, error prevention, and model transparency practicesInsights into ratio analysis, self-review processes, and ensuring model accuracyWho this book is forThis book is ideal for finance professionals, analysts, students, and business managers. A basic understanding of Excel is required, while knowledge of financial principles is recommended but not mandatory.
+--------------------------------------------------
+
+Book 18:
+Title: Your Excel Survival Kit
+Author(s): MrExcel's Holy Macro! Books, Anne Walsh
+---
+ISBN-10: 183702216X - ISBN-13: 9781837022168 - ASIN: 1615470654
+Published Date: 2024-12-17
+---
+HB Blurb: Key FeaturesClear guidance on Excel tools, from basics to Power Query and Power Pivot.Modern Excel features like XLOOKUP, dynamic arrays, and threaded comments.Practical scenarios showing real-world problem-solving and reporting.Who this book is forThis book is perfect for office workers, data analysts, and anyone looking to improve Excel skills. It is suitable for beginners with basic computer knowledge, though familiarity with Excel basics will be helpful.
+--------------------------------------------------
+
+Book 19:
+Title: Supercharge Excel
+Author(s): MrExcel's Holy Macro! Books, Matt Allington
+---
+ISBN-10: 1836646747 - ISBN-13: 9781836646747 - ASIN: B07D51GSMG
+Published Date: 2024-09-26
+---
+HB Blurb: Key FeaturesComprehensive coverage of foundational to advanced DAX functionsStep-by-step approach with practical examplesAdequate bridge between Excel skills to Power BI proficiencyWho this book is forIdeal for data analysts, Excel users, and business intelligence professionals looking to deepen their data modeling and DAX skills. Basic knowledge of Excel is recommended, but no prior experience with DAX or Power BI is required.
+--------------------------------------------------
+
+Book 20:
+Title: Excel Custom Functions
+Author(s): MrExcel's Holy Macro! Books, Suat M Ozgur
+---
+ISBN-10: 1837023263 - ISBN-13: 9781837023264 - ASIN: B07VGNRD92
+Published Date: 2024-12-12
+---
+HB Blurb: Key FeaturesTools and setup required for building custom Excel functions.Integration of web services for real-time data processing.Techniques for debugging and optimizing Excel add-ins.Who this book is forDevelopers with basic JavaScript knowledge looking to expand Excel functionality, data analysts seeking automation, and Office Add-in enthusiasts will find this book helpful. Familiarity with Excel and JavaScript basics is recommended.
+--------------------------------------------------
+
+Book 21:
+Title: Excel and the World Wide Web Straight to the Point
+Author(s): MrExcel's Holy Macro! Books, Eduardo N Sanchez
+---
+ISBN-10: 1837023107 - ISBN-13: 9781837023103 - ASIN: B08V21B6NF
+Published Date: 2024-12-17
+---
+HB Blurb: Key FeaturesPractical techniques for web-to-Excel integration using VBA, Selenium, and Power QueryClear solutions for handling modern web challenges, including browser limitations and JSON dataComprehensive coverage of static queries, dynamic queries, and advanced browser automationWho this book is forThis book is designed for data analysts, Excel enthusiasts, and developers who need to integrate web data with spreadsheets. A basic understanding of Excel and VBA is required, while prior experience with Power Query or Selenium is helpful but not mandatory.
+--------------------------------------------------
+
+URLs Collection
+-------------------------
+
+Book 01 - Microsoft 365 Excel: The Only App That Matters
+No Amazon.com URL found
+https://www.amazon.co.uk/Microsoft-365-Excel-Calculations-Analytics-ebook/dp/B0B4T694MN
+http://books.google.co.uk/books?id=nvckEQAAQBAJ&printsec=frontcover&dq=intitle:Microsoft+365+Excel:+The+Only+App+That+Matters%2Binauthor:MrExcel%27s+Holy+Macro!+Books,+Mike+Girvin&hl=&cd=1&source=gbs_api
+
+Book 02 - Master Your Data with Power Query in Excel and Power BI
+https://www.amazon.com/Master-Your-Data-Excel-Power/dp/1615470581
+https://www.amazon.co.uk/Master-Your-Data-Excel-Power/dp/1615470581
+http://books.google.co.uk/books?id=RvUkEQAAQBAJ&printsec=frontcover&dq=intitle:Master+Your+Data+with+Power+Query+in+Excel+and+Power+BI%2Binauthor:MrExcel%27s+Holy+Macro!+Books,+Miguel+Escobar,+Ken+Puls&hl=&cd=1&source=gbs_api
+
+Book 03 - Power Pivot and Power BI
+https://www.amazon.com/Power-Pivot-BI-Excel-2010-2016/dp/1615470395
+https://www.amazon.co.uk/Power-Pivot-BI-Excel-2010-2016/dp/1615470751
+http://books.google.co.uk/books?id=hvckEQAAQBAJ&printsec=frontcover&dq=intitle:Power+Pivot+and+Power+BI%2Binauthor:MrExcel%27s+Holy+Macro!+Books,+Rob+Collie,+Avichal+Singh&hl=&cd=1&source=gbs_api
+
+Book 04 - MrExcel 2024
+https://www.amazon.com/MrExcel-2024-Igniting-Bill-Jelen-ebook/dp/B0D9QY1QD6
+https://www.amazon.co.uk/MrExcel-2024-Igniting-Bill-Jelen-ebook/dp/B0D9QY1QD6
+http://books.google.co.uk/books?id=0vYkEQAAQBAJ&pg=PA107&dq=intitle:MrExcel+2024%2Binauthor:MrExcel%27s+Holy+Macro!+Books,+Bill+Jelen&hl=&cd=1&source=gbs_api
+
+Book 05 - Power BI for the Excel Analyst
+https://www.amazon.com/Power-BI-Excel-Analyst-essential/dp/161547076X
+https://www.amazon.co.uk/Power-BI-Excel-Analyst-essential/dp/161547076X
+http://books.google.co.uk/books?id=avckEQAAQBAJ&printsec=frontcover&dq=intitle:Power+BI+for+the+Excel+Analyst%2Binauthor:MrExcel%27s+Holy+Macro!+Books,+Wyn+Hopkins&hl=&cd=1&source=gbs_api
+
+Book 06 - Guerrilla Data Analysis Using Microsoft Excel
+No Amazon.com URL found
+https://www.amazon.co.uk/Guerrilla-Analysis-Using-Microsoft-Excel/dp/1615470743
+http://books.google.co.uk/books?id=WvckEQAAQBAJ&printsec=frontcover&dq=intitle:Guerrilla+Data+Analysis+Using+Microsoft+Excel%2Binauthor:MrExcel%27s+Holy+Macro!+Books,+Oz+du+Soleil,+Bill+Jelen&hl=&cd=1&source=gbs_api
+
+Book 07 - Excel Insights
+https://www.amazon.com/Excel-Insights-Microsoft-guide-parts-ebook/dp/B083JWFQZB
+https://www.amazon.co.uk/Excel-Insights-Microsoft-guide-parts-ebook/dp/B083JWFQZB
+http://books.google.co.uk/books?id=2Q8nEQAAQBAJ&printsec=frontcover&dq=intitle:Excel+Insights%2Binauthor:MrExcel%27s+Holy+Macro!+Books,+24+Excel+MVPs&hl=&cd=1&source=gbs_api
+
+Book 08 - Continuing Financial Modelling
+https://www.amazon.com/Continuing-Financial-Modelling-Working-Industry-ebook/dp/B08GGB8VNJ
+https://www.amazon.co.uk/Continuing-Financial-Modelling-Working-Industry-ebook/dp/B08GGB8VNJ
+http://books.google.co.uk/books?id=Lt44EQAAQBAJ&printsec=frontcover&dq=intitle:Continuing+Financial+Modelling%2Binauthor:MrExcel%27s+Holy+Macro!+Books,+Liam+Bastick&hl=&cd=1&source=gbs_api
+
+Book 09 - Excel Power Moves
+No Amazon.com URL found
+No Amazon.co.uk URL found
+http://books.google.co.uk/books?id=w9A3EQAAQBAJ&printsec=frontcover&dq=intitle:Excel+Power+Moves%2Binauthor:MrExcel%27s+Holy+Macro!+Books,+Bob+Umlas&hl=&cd=1&source=gbs_api
+
+Book 10 - The Absolute Guide to Dashboarding and Reporting with Power BI
+https://www.amazon.com/Dashboarding-Reporting-Power-Financial-Dashboard/dp/1615470573
+No Amazon.co.uk URL found
+http://books.google.co.uk/books?id=gj85EQAAQBAJ&printsec=frontcover&dq=intitle:The+Absolute+Guide+to+Dashboarding+and+Reporting+with+Power+BI%2Binauthor:MrExcel%27s+Holy+Macro!+Books,+Kasper+de+Jonge&hl=&cd=1&source=gbs_api
+
+Book 11 - Transformative Magic of M Code in Power Query Excel & Power BI
+No Amazon.com URL found
+https://www.amazon.co.uk/Transformative-Magic-Power-Query-Excel/dp/1615470832
+http://books.google.co.uk/books?id=Kt44EQAAQBAJ&printsec=frontcover&dq=intitle:Transformative+Magic+of+M+Code+in+Power+Query+Excel+%26+Power+BI%2Binauthor:MrExcel%27s+Holy+Macro!+Books,+Mike+Girvin&hl=&cd=1&source=gbs_api
+
+Book 12 - Financial Modelling using Dynamic Arrays
+https://www.amazon.com/Financial-Modelling-using-Dynamic-Arrays/dp/1615470875
+https://www.amazon.co.uk/Financial-Modelling-using-Dynamic-Arrays/dp/1615470875
+http://books.google.co.uk/books?id=Pt44EQAAQBAJ&printsec=frontcover&dq=intitle:Financial+Modelling+using+Dynamic+Arrays%2Binauthor:MrExcel%27s+Holy+Macro!+Books,+Liam+Bastick&hl=&cd=1&source=gbs_api
+
+Book 13 - Power Excel with MrExcel
+No Amazon.com URL found
+https://www.amazon.co.uk/Power-Excel-MrExcel-Bill-Jelen/dp/1615470387
+http://books.google.co.uk/books?id=JvgkEQAAQBAJ&printsec=frontcover&dq=intitle:Power+Excel+with+MrExcel%2Binauthor:MrExcel%27s+Holy+Macro!+Books,+Bill+Jelen&hl=&cd=1&source=gbs_api
+
+Book 14 - Supercharge Power BI
+https://www.amazon.com/Supercharge-Power-BI-Better-Learn/dp/1615470522
+https://www.amazon.co.uk/Supercharge-Power-BI-Matt-Allington/dp/1615470522
+http://books.google.co.uk/books?id=pPQkEQAAQBAJ&pg=PA85&dq=intitle:Supercharge+Power+BI%2Binauthor:MrExcel%27s+Holy+Macro!+Books,+Matt+Allington&hl=&cd=1&source=gbs_api
+
+Book 15 - Cleaning Excel Data With Power Query Straight to the Point
+No Amazon.com URL found
+No Amazon.co.uk URL found
+http://books.google.co.uk/books?id=49A3EQAAQBAJ&printsec=frontcover&dq=intitle:Cleaning+Excel+Data+With+Power+Query+Straight+to+the+Point%2Binauthor:MrExcel%27s+Holy+Macro!+Books,+Oz+du+Soleil&hl=&cd=1&source=gbs_api
+
+Book 16 - Excel Data Cleansing Straight to the Point
+https://www.amazon.com/Excel-Data-Cleansing-Straight-Point-ebook/dp/B07VPS7999
+https://www.amazon.co.uk/Excel-Data-Cleansing-Straight-Point-ebook/dp/B07VPS7999
+http://books.google.co.uk/books?id=ht44EQAAQBAJ&printsec=frontcover&dq=intitle:Excel+Data+Cleansing+Straight+to+the+Point%2Binauthor:MrExcel%27s+Holy+Macro!+Books,+Oz+du+Soleil&hl=&cd=1&source=gbs_api
+
+Book 17 - Introduction To Financial Modelling
+No Amazon.com URL found
+https://www.amazon.co.uk/Introduction-Financial-Modelling-Efficient-Modeller/dp/1615470662
+http://books.google.co.uk/books?id=UD85EQAAQBAJ&printsec=frontcover&dq=intitle:Introduction+To+Financial+Modelling%2Binauthor:MrExcel%27s+Holy+Macro!+Books,+Liam+Bastick&hl=&cd=1&source=gbs_api
+
+Book 18 - Your Excel Survival Kit
+https://www.amazon.com/Your-Excel-Survival-Kit-2nd/dp/1615470654
+https://www.amazon.co.uk/Your-Excel-Survival-Kit-2nd/dp/1615470654
+http://books.google.co.uk/books?id=3t04EQAAQBAJ&printsec=frontcover&dq=intitle:Your+Excel+Survival+Kit%2Binauthor:MrExcel%27s+Holy+Macro!+Books,+Anne+Walsh&hl=&cd=1&source=gbs_api
+
+Book 19 - Supercharge Excel
+https://www.amazon.com/Super-Charge-Excel-learn-Write-ebook/dp/B07D51GSMG
+https://www.amazon.co.uk/Supercharge-Excel-Matt-Allington/dp/1615470530
+http://books.google.co.uk/books?id=Q_QkEQAAQBAJ&printsec=frontcover&dq=intitle:Supercharge+Excel%2Binauthor:MrExcel%27s+Holy+Macro!+Books,+Matt+Allington&hl=&cd=1&source=gbs_api
+
+Book 20 - Excel Custom Functions
+No Amazon.com URL found
+https://www.amazon.co.uk/Excel-Custom-Functions-Straight-Point-ebook/dp/B07VGNRD92
+http://books.google.co.uk/books?id=59A3EQAAQBAJ&printsec=frontcover&dq=intitle:Excel+Custom+Functions%2Binauthor:MrExcel%27s+Holy+Macro!+Books,+Suat+M+Ozgur&hl=&cd=1&source=gbs_api
+
+Book 21 - Excel and the World Wide Web Straight to the Point
+No Amazon.com URL found
+https://www.amazon.co.uk/Excel-World-Wide-Straight-Point-ebook/dp/B08V21B6NF
+http://books.google.co.uk/books?id=ct44EQAAQBAJ&pg=PA1&dq=intitle:Excel+and+the+World+Wide+Web+Straight+to+the+Point%2Binauthor:MrExcel%27s+Holy+Macro!+Books,+Eduardo+N+Sanchez&hl=&cd=1&source=gbs_api
+
